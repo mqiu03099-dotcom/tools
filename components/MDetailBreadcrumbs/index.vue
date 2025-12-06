@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-center w-full">
-    <MA href="/">{{ webName }}</MA>
+    <MA href="/">{{ useWebName() }}</MA>
     <MFromIcon class="size-5 mx-1 shrink-0" />
     <MA
       :href="`/detail/${name}`"

@@ -1,5 +1,3 @@
-export const webName: string = "tools";
-
 export const defaultDescription: string =
   "Stop searching around! With the tools, every problem is solved thoroughly—save time and boost efficiency!";
 

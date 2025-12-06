@@ -8,7 +8,7 @@ export default defineNuxtConfig({
     "nitro:init": async (nitro) => {
       nitro.hooks.hook("prerender:done", async () => {
         console.log("开始生成sitemap.xml文件");
-        const baseUrl = "https://tools.mqiu03099.workers.dev";
+        const baseUrl = `https://${process.env.NUXT_PUBLIC_SITENAME}`;
         const sitemapUrls = await readPublicSubFolders();
         const sitemaps = sitemapUrls.map((uri: string) => {
           const uriObj = {
@@ -75,6 +75,7 @@ export default defineNuxtConfig({
     public: {
       env: process.env.NUXT_PUBLIC_ENV,
       siteName: process.env.NUXT_PUBLIC_SITENAME,
+      webName: process.env.NUXT_PUBLIC_TITLE,
     },
   },
   app: {
@@ -84,7 +85,7 @@ export default defineNuxtConfig({
         translate: "no",
         "data-theme": "dark",
       },
-      title: "tools",
+      title: process.env.NUXT_PUBLIC_TITLE,
       link: [
         {
           rel: "icon",
@@ -96,7 +97,7 @@ export default defineNuxtConfig({
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         {
           name: "google-adsense-account",
-          content: "ca-pub-6584635184413581",
+          content: process.env.NUXT_PUBLIC_ADS,
         },
         {
           name: "msvalidate.01",
@@ -116,7 +117,7 @@ export default defineNuxtConfig({
         process.env.NODE_ENV === "development"
           ? {}
           : {
-              src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6584635184413581",
+              src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NUXT_PUBLIC_ADS}`,
               crossorigin: "anonymous",
               async: true,
               tagPriority: "critical",
@@ -130,7 +131,7 @@ export default defineNuxtConfig({
                     c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
                     t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
                     y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-                })(window, document, "clarity", "script", "uh9pi3oif4");`,
+                })(window, document, "clarity", "script", "${process.env.NUXT_PUBLIC_CLARITY}");`,
               tagPriority: "critical",
               tagPosition: "head",
               async: true,

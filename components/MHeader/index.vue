@@ -26,6 +26,7 @@
 
 <script lang="ts" setup>
 const { path } = useRoute();
+const webName = useWebName();
 
 /** 二级标题 */
 const sencondText = computed(() => {
