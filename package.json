@@ -1,0 +1,30 @@
+{
+  "name": "all-in-one-toolbox",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "buildPro": "nuxt build --dotenv .env.production",
+    "buildDev": "nuxt build --dotenv .env.development",
+    "dev": "nuxt dev --dotenv .env.development",
+    "pro": "nuxt dev --dotenv .env.production",
+    "publishDev": "echo 🔄🔄🔄开始打包构建 && pnpm buildDev && echo 🔄🔄🔄开始pm2启动 && pnpm pm2Dev && echo ✅✅✅访问链接: http://localhost:3001",
+    "publishPro": "echo 🔄🔄🔄开始打包构建 && pnpm buildPro && echo 🔄🔄🔄开始pm2启动 && pnpm pm2Pro && echo ✅✅✅访问链接: http://localhost:3000",
+    "publishDevR": "pnpm stoppm2 && pnpm publishDev",
+    "publishProR": "pnpm stoppm2 && pnpm publishPro",
+    "pm2Dev": "pm2 start ./ecosystem.config.cjs --env dev",
+    "pm2Pro": "pm2 start ./ecosystem.config.cjs",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.1.17",
+    "@types/node": "24.10.1",
+    "nuxt": "3.17.5",
+    "tailwindcss": "4.1.17",
+    "vue": "3.5.18",
+    "vue-router": "4.5.1",
+    "daisyui": "5.5.5"
+  },
+  "packageManager": "pnpm@8.15.0"
+}
+
