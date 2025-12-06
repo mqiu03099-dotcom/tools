@@ -6,3 +6,5 @@ export const defaultDescription: string =
 export const toolContainer: string = "toolContainer";
 
 export const getStarted: string = "Get Started";
+
+export const toolbox: string = "toolbox";
