@@ -4,3 +4,5 @@ Allow: /ads.txt
 
 User-agent: adbeat_bot
 Disallow: /
+
+Sitemap: https://www.crawlstop.com/sitemap.xml
