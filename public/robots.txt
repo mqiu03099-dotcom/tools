@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+Allow: /ads.txt
+
+User-agent: adbeat_bot
+Disallow: /
+
+Sitemap: https://tools.mqiu03099.workers.dev/sitemap.xml
