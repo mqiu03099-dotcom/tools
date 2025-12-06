@@ -8,7 +8,7 @@ export default defineNuxtConfig({
     "nitro:init": async (nitro) => {
       nitro.hooks.hook("prerender:done", async () => {
         console.log("开始生成sitemap.xml文件");
-        const baseUrl = "https://konw-it-all.mqiu03099.workers.dev";
+        const baseUrl = "https://all-in-one-toolbox.mqiu03099.workers.dev";
         const sitemapUrls = await readPublicSubFolders();
         const sitemaps = sitemapUrls.map((uri: string) => {
           const uriObj = {
