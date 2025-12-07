@@ -1,7 +1,7 @@
 <template>
   <div
     :key="index"
-    v-for="({ name, description }, index) in data || []"
+    v-for="({ name, description, updateTime }, index) in data || []"
     class="w-full h-full hover:scale-98 transition-all overflow-hidden rounded-[var(--radius-box)]"
   >
     <div class="card bg-base-100 h-full image-full card-sm w-full shadow-sm">
@@ -21,7 +21,8 @@
         >
           {{ description }}
         </div>
-        <div class="card-actions justify-end">
+        <div class="card-actions justify-between items-center">
+          <div class="text-[10px] font-bold">{{ updateTime }}</div>
           <MA :href="`/detail/${name}`">
             <button
               class="btn btn-primary btn-sm"

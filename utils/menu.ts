@@ -1699,6 +1699,668 @@ export const menu: Menu[] = [
       },
     ],
   },
+  {
+    name: "global-productivity-essentials",
+    nameStr: "productivity",
+    isHomeData: true,
+    children: [
+      {
+        name: "todoist-task-planner",
+        nameStr: "todoist",
+        iframeUrl: "https://todoist.com/",
+        description:
+          "Todoist is a cross-platform task manager with natural language scheduling, productivity tracking, and shared projects for teams and individuals.",
+        tags: ["todoist", "tasks", "planner", "productivity", "webapp"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "trello-kanban-boards",
+        nameStr: "trello",
+        iframeUrl: "https://trello.com/",
+        description:
+          "Trello delivers kanban boards, automation, and Power-Up integrations that keep marketing, product, and ops teams organized in one collaborative space.",
+        tags: ["trello", "kanban", "boards", "collaboration", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "asana-work-manager",
+        nameStr: "asana",
+        iframeUrl: "https://asana.com/",
+        description:
+          "Asana centralizes work requests, timelines, and goals so distributed teams can plan launches, automate handoffs, and measure progress.",
+        tags: ["asana", "work", "management", "automation", "platform"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "clickup-productivity-platform",
+        nameStr: "clickup",
+        iframeUrl: "https://clickup.com/",
+        description:
+          "ClickUp combines docs, tasks, whiteboards, and dashboards in an all-in-one productivity platform with deep customization.",
+        tags: ["clickup", "workspace", "tasks", "docs", "platform"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "monday-work-operating-system",
+        nameStr: "monday",
+        iframeUrl: "https://monday.com/",
+        description:
+          "Monday.com Work OS adapts to any workflow with visual boards, automations, dashboards, and 200+ integrations.",
+        tags: ["monday", "work", "os", "automation", "boards"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "airtable-flexible-database",
+        nameStr: "airtable",
+        iframeUrl: "https://airtable.com/",
+        description:
+          "Airtable blends spreadsheets with database power, supporting views, automations, and synced data for modern ops teams.",
+        tags: ["airtable", "database", "spreadsheet", "automation", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "notion-connected-workspace",
+        nameStr: "notion-workspace",
+        iframeUrl: "https://www.notion.so/",
+        description:
+          "Notion is a connected workspace where docs, wikis, tasks, and AI-powered notes live together for fast knowledge sharing.",
+        tags: ["notion", "workspace", "docs", "wiki", "productivity"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "linear-issue-tracker",
+        nameStr: "linear",
+        iframeUrl: "https://linear.app/",
+        description:
+          "Linear is a lightning-fast issue tracker for product teams with cycle planning, roadmaps, and Git integrations.",
+        tags: ["linear", "issues", "roadmap", "product", "agile"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "jira-cloud-work-management",
+        nameStr: "jira",
+        iframeUrl: "https://www.atlassian.com/software/jira",
+        description:
+          "Jira Cloud powers agile planning, backlog grooming, and release tracking with robust permissions and reporting.",
+        tags: ["jira", "agile", "issues", "planning", "software"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "slack-team-messaging",
+        nameStr: "slack",
+        iframeUrl: "https://slack.com/",
+        description:
+          "Slack connects teams with channels, clips, workflows, and app integrations so information stays searchable.",
+        tags: ["slack", "chat", "team", "messaging", "collaboration"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "discord-community-hubs",
+        nameStr: "discord",
+        iframeUrl: "https://discord.com/",
+        description:
+          "Discord hosts communities and product user groups with voice, video, forums, and automation bots.",
+        tags: ["discord", "community", "chat", "voice", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "zoom-video-meetings",
+        nameStr: "zoom",
+        iframeUrl: "https://zoom.us/",
+        description:
+          "Zoom delivers HD meetings, phone, webinars, and Rooms hardware so distributed teams can collaborate in real time.",
+        tags: ["zoom", "meetings", "video", "collaboration", "platform"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "loom-video-messaging",
+        nameStr: "loom",
+        iframeUrl: "https://www.loom.com/",
+        description:
+          "Loom records async video messages, screen walkthroughs, and quick demos with transcripts and engagement insights.",
+        tags: ["loom", "video", "async", "messaging", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "figma-product-design-platform",
+        nameStr: "figma",
+        iframeUrl: "https://www.figma.com/",
+        description:
+          "Figma is a collaborative interface design platform with multiplayer editing, Dev Mode, and extensible plugins.",
+        tags: ["figma", "design", "ui", "collaboration", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "miro-collaboration-whiteboard",
+        nameStr: "miro",
+        iframeUrl: "https://miro.com/",
+        description:
+          "Miro provides infinite canvases for brainstorming, agile ceremonies, workshops, and diagramming with 500+ templates.",
+        tags: ["miro", "whiteboard", "collaboration", "brainstorm", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "whimsical-flowchart-studio",
+        nameStr: "whimsical",
+        iframeUrl: "https://whimsical.com/",
+        description:
+          "Whimsical combines flowcharts, wireframes, and mind maps with keyboard-first shortcuts for fast ideation.",
+        tags: ["whimsical", "flowchart", "wireframe", "mindmap", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "drawio-diagram-maker",
+        nameStr: "drawio",
+        iframeUrl: "https://app.diagrams.net/",
+        description:
+          "draw.io (diagrams.net) is a free diagramming tool with offline support, Atlassian integrations, and custom libraries.",
+        tags: ["drawio", "diagrams", "uml", "charts", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "grammarly-writing-assistant",
+        nameStr: "grammarly",
+        iframeUrl: "https://www.grammarly.com/",
+        description:
+          "Grammarly improves grammar, tone, and clarity with AI suggestions across email, docs, and browsers.",
+        tags: ["grammarly", "writing", "assistant", "ai", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "quillbot-rephrase-suite",
+        nameStr: "quillbot",
+        iframeUrl: "https://quillbot.com/",
+        description:
+          "QuillBot paraphrases, summarizes, and cites content with customizable modes for academic and marketing teams.",
+        tags: ["quillbot", "paraphrase", "summarize", "writing", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "deepl-language-translation",
+        nameStr: "deepl",
+        iframeUrl: "https://www.deepl.com/translator",
+        description:
+          "DeepL Translator offers context-aware translations, glossaries, and document uploads for 30+ languages.",
+        tags: ["deepl", "translation", "language", "ai", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "otter-ai-transcription-notes",
+        nameStr: "otter",
+        iframeUrl: "https://otter.ai/",
+        description:
+          "Otter.ai transcribes meetings in real time, generates summaries, and pushes action items to calendars.",
+        tags: ["otter", "transcription", "meetings", "notes", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "typeform-interactive-forms",
+        nameStr: "typeform",
+        iframeUrl: "https://www.typeform.com/",
+        description:
+          "Typeform delivers conversational forms, quizzes, and surveys that feed results directly into CRMs.",
+        tags: ["typeform", "forms", "survey", "interactive", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "jotform-form-builder",
+        nameStr: "jotform",
+        iframeUrl: "https://www.jotform.com/",
+        description:
+          "Jotform provides drag-and-drop forms, approval flows, and PDF builders with HIPAA and e-sign support.",
+        tags: ["jotform", "forms", "builder", "automation", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "surveymonkey-research-platform",
+        nameStr: "surveymonkey",
+        iframeUrl: "https://www.surveymonkey.com/",
+        description:
+          "SurveyMonkey powers research with expert templates, logic, benchmarks, and panel respondents.",
+        tags: ["surveymonkey", "research", "feedback", "insights", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "mailchimp-email-marketing",
+        nameStr: "mailchimp",
+        iframeUrl: "https://mailchimp.com/",
+        description:
+          "Mailchimp is an email and automation suite with journeys, audience CRM, and e-commerce reporting.",
+        tags: ["mailchimp", "email", "automation", "marketing", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "convertkit-creator-email",
+        nameStr: "convertkit",
+        iframeUrl: "https://convertkit.com/",
+        description:
+          "ConvertKit helps creators grow newsletters with visual automations, commerce, and subscriber tagging.",
+        tags: ["convertkit", "newsletter", "automation", "creator", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "beehiiv-newsletter-studio",
+        nameStr: "beehiiv",
+        iframeUrl: "https://www.beehiiv.com/",
+        description:
+          "Beehiiv is a newsletter growth stack with referral programs, monetization, and advanced segmentation.",
+        tags: ["beehiiv", "newsletter", "growth", "monetization", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "buffer-social-scheduler",
+        nameStr: "buffer",
+        iframeUrl: "https://buffer.com/",
+        description:
+          "Buffer schedules content, collaborates on approvals, and shows channel analytics for social teams.",
+        tags: ["buffer", "social", "scheduler", "analytics", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "hootsuite-social-dashboard",
+        nameStr: "hootsuite",
+        iframeUrl: "https://www.hootsuite.com/",
+        description:
+          "Hootsuite unifies publishing, streams, engagement, and listening for enterprise social media.",
+        tags: ["hootsuite", "social", "management", "monitoring", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "later-social-calendar",
+        nameStr: "later",
+        iframeUrl: "https://later.com/",
+        description:
+          "Later provides a visual calendar for Instagram, TikTok, and Pinterest scheduling with link-in-bio tools.",
+        tags: ["later", "social", "scheduler", "calendar", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "semrush-keyword-platform",
+        nameStr: "semrush",
+        iframeUrl: "https://www.semrush.com/",
+        description:
+          "Semrush offers keyword research, site audits, competitor monitoring, and AI writing for SEO teams.",
+        tags: ["semrush", "seo", "keywords", "audit", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "ahrefs-site-auditor",
+        nameStr: "ahrefs",
+        iframeUrl: "https://ahrefs.com/",
+        description:
+          "Ahrefs provides backlink analysis, keyword tracking, site audits, and content gap insights.",
+        tags: ["ahrefs", "backlinks", "seo", "audit", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "moz-pro-seo-suite",
+        nameStr: "moz",
+        iframeUrl: "https://moz.com/products/pro",
+        description:
+          "Moz Pro packages rank tracking, keyword explorer, link data, and page optimization guidance.",
+        tags: ["moz", "seo", "rank", "links", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "ubersuggest-keyword-tool",
+        nameStr: "ubersuggest",
+        iframeUrl: "https://neilpatel.com/ubersuggest/",
+        description:
+          "Ubersuggest uncovers keyword ideas, content suggestions, and domain SEO metrics for marketers.",
+        tags: ["ubersuggest", "keywords", "seo", "content", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "answerthepublic-question-miner",
+        nameStr: "answerthepublic",
+        iframeUrl: "https://answerthepublic.com/",
+        description:
+          "AnswerThePublic visualizes search questions and comparisons to inspire content briefs.",
+        tags: ["answerthepublic", "keywords", "questions", "seo", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "canirank-seo-insights",
+        nameStr: "canirank",
+        iframeUrl: "https://www.canirank.com/",
+        description:
+          "CanIRank delivers AI-driven SEO recommendations, opportunity scores, and competitor tracking.",
+        tags: ["canirank", "seo", "ai", "insights", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "hotjar-experience-analytics",
+        nameStr: "hotjar",
+        iframeUrl: "https://www.hotjar.com/",
+        description:
+          "Hotjar combines heatmaps, recordings, and feedback widgets to visualize product experience.",
+        tags: ["hotjar", "heatmap", "analytics", "ux", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "crazyegg-heatmaps",
+        nameStr: "crazyegg",
+        iframeUrl: "https://www.crazyegg.com/",
+        description:
+          "Crazy Egg offers scroll maps, snapshots, and A/B testing to optimize landing pages.",
+        tags: ["crazyegg", "heatmap", "testing", "ux", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "fullstory-digital-insights",
+        nameStr: "fullstory",
+        iframeUrl: "https://www.fullstory.com/",
+        description:
+          "FullStory captures session replays, funnels, and alerts so product teams can spot friction quickly.",
+        tags: ["fullstory", "replay", "analytics", "ux", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "pingdom-website-monitoring",
+        nameStr: "pingdom",
+        iframeUrl: "https://www.pingdom.com/",
+        description:
+          "Pingdom monitors uptime, page speed, and user experience from 100+ locations worldwide.",
+        tags: ["pingdom", "uptime", "monitoring", "performance", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "uptimerobot-status-monitor",
+        nameStr: "uptimerobot",
+        iframeUrl: "https://uptimerobot.com/",
+        description:
+          "UptimeRobot offers free and paid monitors for HTTP, ping, keyword, and port checks with instant alerts.",
+        tags: ["uptimerobot", "monitor", "status", "alerts", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "statuscake-uptime-checks",
+        nameStr: "statuscake",
+        iframeUrl: "https://www.statuscake.com/",
+        description:
+          "StatusCake runs uptime, SSL, and domain monitoring with granular alert policies and reporting.",
+        tags: ["statuscake", "uptime", "monitoring", "alerts", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "gtmetrix-performance-tester",
+        nameStr: "gtmetrix",
+        iframeUrl: "https://gtmetrix.com/",
+        description:
+          "GTmetrix analyzes Core Web Vitals, waterfalls, and video captures to diagnose performance issues.",
+        tags: ["gtmetrix", "performance", "web", "vitals", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "webpagetest-lab-insights",
+        nameStr: "webpagetest",
+        iframeUrl: "https://www.webpagetest.org/",
+        description:
+          "WebPageTest reveals real browser performance with filmstrips, scripting, and Lighthouse data.",
+        tags: ["webpagetest", "performance", "testing", "web", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "pagespeed-web-vitals",
+        nameStr: "pagespeed",
+        iframeUrl: "https://pagespeed.web.dev/",
+        description:
+          "PageSpeed Insights scores mobile and desktop experiences with guidance on improving Core Web Vitals.",
+        tags: ["pagespeed", "insights", "core", "web", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "ilovepdf-converter-suite",
+        nameStr: "ilovepdf",
+        iframeUrl: "https://www.ilovepdf.com/",
+        description:
+          "iLovePDF merges, splits, compresses, and edits PDFs in the browser with batch processing.",
+        tags: ["ilovepdf", "pdf", "converter", "compress", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "smallpdf-online-pdf",
+        nameStr: "smallpdf",
+        iframeUrl: "https://smallpdf.com/",
+        description:
+          "Smallpdf offers 20+ PDF tools plus e-sign, OCR, and cloud storage integrations.",
+        tags: ["smallpdf", "pdf", "tools", "esign", "utility"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "pdfcandy-document-toolkit",
+        nameStr: "pdfcandy",
+        iframeUrl: "https://pdfcandy.com/",
+        description:
+          "PDF Candy is a browser-based PDF toolkit with conversions, editing, rearranging, and protection options.",
+        tags: ["pdfcandy", "pdf", "convert", "edit", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "removebg-background-editor",
+        nameStr: "removebg",
+        iframeUrl: "https://www.remove.bg/",
+        description:
+          "Remove.bg deletes image backgrounds with AI, exports transparent PNGs, and offers bulk API access.",
+        tags: ["removebg", "image", "background", "ai", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "kapwing-creative-studio",
+        nameStr: "kapwing",
+        iframeUrl: "https://www.kapwing.com/",
+        description:
+          "Kapwing is an online creative studio for video editing, meme templates, subtitles, and AI generation.",
+        tags: ["kapwing", "video", "editing", "creative", "tool"],
+        updateTime: "2025-12-07",
+      },
+    ],
+  },
+  {
+    name: "ai-creation-suite",
+    nameStr: "ai-suite",
+    isHomeData: true,
+    children: [
+      {
+        name: "runway-gen2-video-lab",
+        nameStr: "runway",
+        iframeUrl: "https://runwayml.com/gen-2/",
+        description:
+          "Runway Gen-2 lets creators generate and edit cinematic video clips from text prompts, reference images, or uploaded footage entirely in the browser.",
+        tags: ["runway", "gen2", "video", "generation", "ai"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "heygen-avatar-studio",
+        nameStr: "heygen",
+        iframeUrl: "https://www.heygen.com/",
+        description:
+          "HeyGen produces multilingual talking avatars, voice cloning, and script-to-video explainers with instant previews for marketing, support, and training teams.",
+        tags: ["heygen", "avatar", "video", "ai", "studio"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "pika-labs-video-studio",
+        nameStr: "pika",
+        iframeUrl: "https://pika.art/",
+        description:
+          "Pika Labs turns prompts or storyboards into stylized motion graphics and anime-grade clips with frame-by-frame refinement tools.",
+        tags: ["pika", "video", "generation", "ai", "animation"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "synthesia-ai-avatars",
+        nameStr: "synthesia",
+        iframeUrl: "https://www.synthesia.io/",
+        description:
+          "Synthesia creates studio-quality presenter videos with lifelike avatars, brand templates, and 120+ languages without cameras or actors.",
+        tags: ["synthesia", "avatar", "video", "ai", "presenter"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "fliki-ai-video-maker",
+        nameStr: "fliki",
+        iframeUrl: "https://fliki.ai/",
+        description:
+          "Fliki converts blog posts or scripts into narrated videos using AI voices, subtitles, and stock libraries optimized for shorts and reels.",
+        tags: ["fliki", "video", "voice", "ai", "creator"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "opusclip-video-repurposer",
+        nameStr: "opusclip",
+        iframeUrl: "https://www.opus.pro/",
+        description:
+          "OpusClip repurposes long-form podcasts or webinars into viral-ready short clips with AI highlights, captions, and virality scoring.",
+        tags: ["opusclip", "video", "repurpose", "shorts", "ai"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "descript-ai-editor",
+        nameStr: "descript",
+        iframeUrl: "https://www.descript.com/",
+        description:
+          "Descript edits podcasts and videos via text transcripts, offering AI-powered filler word removal, overdub, and instant publishing.",
+        tags: ["descript", "podcast", "editor", "ai", "video"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "podcastle-ai-studio",
+        nameStr: "podcastle",
+        iframeUrl: "https://podcastle.ai/",
+        description:
+          "Podcastle is a browser studio for remote interviews, AI cleanup, and text-to-speech narration with automated mastering.",
+        tags: ["podcastle", "podcast", "studio", "ai", "audio"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "elevenlabs-voice-ai",
+        nameStr: "elevenlabs",
+        iframeUrl: "https://elevenlabs.io/",
+        description:
+          "ElevenLabs clones voices, generates lifelike speech, and offers multilingual dubbing pipelines for games, films, and narrators.",
+        tags: ["elevenlabs", "voice", "cloning", "ai", "audio"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "playht-ai-voice",
+        nameStr: "playht",
+        iframeUrl: "https://play.ht/",
+        description:
+          "Play.ht produces ultra-realistic speech, voice avatars, and streaming TTS APIs with commercial usage rights and fine-tuning.",
+        tags: ["playht", "tts", "voice", "ai", "audio"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "leonardo-ai-art-studio",
+        nameStr: "leonardo",
+        iframeUrl: "https://leonardo.ai/",
+        description:
+          "Leonardo AI offers fine-tuned diffusion models, texture generators, and asset upscalers for game and concept artists.",
+        tags: ["leonardo", "art", "ai", "design", "generator"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "ideogram-ai-typography",
+        nameStr: "ideogram",
+        iframeUrl: "https://ideogram.ai/",
+        description:
+          "Ideogram excels at typography-aware image generation, crafting posters, merch, and social visuals with readable text.",
+        tags: ["ideogram", "image", "generator", "typography", "ai"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "recraft-ai-design-lab",
+        nameStr: "recraft",
+        iframeUrl: "https://www.recraft.ai/",
+        description:
+          "Recraft AI outputs vector logos, patterns, and illustrations with reusable styles and brand-safe palettes.",
+        tags: ["recraft", "design", "vector", "ai", "illustration"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "writesonic-ai-writer",
+        nameStr: "writesonic",
+        iframeUrl: "https://writesonic.com/",
+        description:
+          "Writesonic drafts blog posts, ads, product descriptions, and localized landing pages with SEO briefs and fact-checking.",
+        tags: ["writesonic", "copywriting", "ai", "content", "marketing"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "jasper-ai-marketing-studio",
+        nameStr: "jasper",
+        iframeUrl: "https://www.jasper.ai/",
+        description:
+          "Jasper AI powers brand voice-aligned marketing copy, campaign briefs, and AI workflows for enterprise teams.",
+        tags: ["jasper", "marketing", "copy", "ai", "assistant"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "copyai-marketing-assistant",
+        nameStr: "copyai",
+        iframeUrl: "https://www.copy.ai/",
+        description:
+          "Copy.ai automates outreach, product messaging, and sales enablement assets with collaborative workspaces.",
+        tags: ["copyai", "copywriting", "automation", "ai", "sales"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "rytr-ai-writer",
+        nameStr: "rytr",
+        iframeUrl: "https://rytr.me/",
+        description:
+          "Rytr creates emails, summaries, and ad copy in 30+ languages with tone controls and plagiarism checks.",
+        tags: ["rytr", "writer", "ai", "copy", "tool"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "anyword-ai-copy",
+        nameStr: "anyword",
+        iframeUrl: "https://anyword.com/",
+        description:
+          "Anyword predicts conversion uplift for marketing copy and generates channel-ready variations with scoring.",
+        tags: ["anyword", "copywriting", "ai", "optimization", "marketing"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "tome-ai-presentation-maker",
+        nameStr: "tome",
+        iframeUrl: "https://tome.app/",
+        description:
+          "Tome turns prompts into interactive presentations with smart layouts, animations, and embeddable prototypes.",
+        tags: ["tome", "presentation", "ai", "slides", "story"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "gamma-ai-slide-studio",
+        nameStr: "gamma",
+        iframeUrl: "https://gamma.app/",
+        description:
+          "Gamma generates decks, documents, and webpages using AI-created outlines, rich layouts, and live analytics.",
+        tags: ["gamma", "slides", "ai", "documents", "builder"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "character-ai-chat-lab",
+        nameStr: "character",
+        iframeUrl: "https://beta.character.ai/",
+        description:
+          "Character.AI lets anyone build and converse with custom AI personalities for entertainment, tutoring, and role-play.",
+        tags: ["character", "chatbot", "ai", "personas", "assistant"],
+        updateTime: "2025-12-07",
+      },
+      {
+        name: "playground-ai-image-lab",
+        nameStr: "playground",
+        iframeUrl: "https://playground.com/",
+        description:
+          "Playground AI offers fast image generation, editing masks, and template libraries for mood boards and campaigns.",
+        tags: ["playground", "image", "generator", "ai", "creative"],
+        updateTime: "2025-12-07",
+      },
+    ],
+  },
 ];
 
 export const headerMenu: Menu[] = [

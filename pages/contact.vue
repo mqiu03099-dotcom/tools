@@ -21,7 +21,7 @@ const content = ref<string>(`<h1><strong>Contact Us for tools</strong></h1>
 
 usePageSeo({
   canonicalPath: "/contact/",
-  title: `Contact ${webName}`,
+  title: `contact ${webName}`,
   description: `Reach the ${webName} team for submissions, partnership requests, or updates to our curated tool listings.`,
   keywords: ["contact", "support", webName],
 });
