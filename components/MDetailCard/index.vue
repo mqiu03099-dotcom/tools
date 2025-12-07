@@ -1,8 +1,16 @@
 <template>
   <div
-    class="hero py-8 min-h-[400px] sm:min-h-[450px] md:min-h-[500px] rounded-[var(--radius-box)] overflow-hidden"
+    class="hero min-h-[400px] sm:min-h-[450px] md:min-h-[500px] rounded-[var(--radius-box)] relative overflow-hidden"
   >
-    <div class="hero-overlay bg-transparent!"></div>
+    <div class="absolute left-0 top-0 w-full h-full">
+      <img
+        v-if="bgImg"
+        :src="bgImg"
+        :alt="bgImg"
+        class="absolute left-0 top-0 w-full h-full object-cover blur-sm"
+      />
+      <div class="bg-base-100 opacity-70 absolute left-0 top-0 w-full h-full"></div>
+    </div>
     <div class="hero-content p-0! text-neutral-content text-center">
       <div class="max-w-[1000px]">
         <h1 class="mb-5 text-3xl capitalize font-bold text-base-content">{{ name }}</h1>
@@ -16,9 +24,10 @@
 </template>
 
 <script setup lang="ts">
-const { name, description } = defineProps<{
+const { name, description, bgImg } = defineProps<{
   name: string;
   description: string;
+  bgImg: string;
 }>();
 </script>
 

@@ -7,6 +7,7 @@ export type Menu = Partial<{
   description: string;
   updateTime: string;
   isHomeData: boolean;
+  bgImg: string;
   children: Menu[];
 }>;
 

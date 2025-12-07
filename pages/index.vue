@@ -13,7 +13,7 @@
         <MFromIcon />
       </MA>
       <MGrid>
-        <MCard :data="children.slice(0, 8)" />
+        <MCard :data="children.slice(0, 20)" />
       </MGrid>
     </div>
   </div>

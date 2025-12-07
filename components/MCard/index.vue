@@ -1,12 +1,18 @@
 <template>
   <div
     :key="index"
-    v-for="({ name, description, updateTime }, index) in data || []"
+    v-for="({ name, description, updateTime, bgImg }, index) in data || []"
     class="w-full h-full hover:scale-98 transition-all overflow-hidden rounded-[var(--radius-box)]"
   >
     <div class="card bg-base-100 h-full image-full card-sm w-full shadow-sm">
       <figure :class="['relative', changeTheme(index)]">
-        <div class="bg-[#00000050] absolute left-0 top-0 w-full h-full"></div>
+        <img
+          v-if="bgImg"
+          :src="bgImg"
+          :alt="bgImg"
+          class="absolute left-0 top-0 w-full h-full object-cover blur-sm"
+        />
+        <div class="bg-[#00000090] absolute left-0 top-0 w-full h-full"></div>
       </figure>
       <div class="card-body">
         <h2

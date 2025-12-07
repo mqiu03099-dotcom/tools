@@ -5,6 +5,7 @@
     <MDetailCard
       :name="name"
       :description="description"
+      :bgImg="bgImg"
     />
     <MDescription
       :tags="tags"
@@ -23,7 +24,7 @@ import { slugToTitle } from "@/utils";
 
 const { toolId } = useRoute().params;
 const toolDetail = getToolDetail(String(toolId)) || {};
-const { name = "", description = "", tags = [], updateTime } = toolDetail;
+const { name = "", description = "", tags = [], updateTime, bgImg = "" } = toolDetail;
 const { data: moreTools } = await useFetch<Menu[]>("/api/getRandomTools", {
   method: "POST",
   body: {
