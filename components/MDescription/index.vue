@@ -2,7 +2,7 @@
   <div class="flex flex-col gap-3 rounded-[var(--radius-box)] bg-base-100 p-3">
     <h2 class="font-bold capitalize">{{ name }}</h2>
     <div class="flex flex-wrap gap-3">
-      <a
+      <MA
         :href="`/tag/${label}`"
         v-for="{ label, value } in tagsCount || []"
         :title="label"
@@ -14,7 +14,7 @@
           {{ label }}
           <div class="badge badge-sm badge-secondary">{{ value }}</div>
         </button>
-      </a>
+      </MA>
     </div>
   </div>
 </template>

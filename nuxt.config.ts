@@ -1,6 +1,7 @@
 import tailwindcss from "@tailwindcss/vite";
 import { existsSync, mkdirSync, writeFileSync } from "fs";
 import { readPublicSubFolders } from "./utils/fun"; // 确保路径正确
+import { normalizeInternalHref } from "./utils/url";
 import { join } from "path";
 
 export default defineNuxtConfig({
@@ -26,7 +27,7 @@ export default defineNuxtConfig({
           };
           const priority = uriObj[uri.split("/")[1] as keyof typeof uriObj] || 0.5;
           return {
-            loc: `${baseUrl}${uri}`,
+            loc: `${baseUrl}${normalizeInternalHref(uri)}`,
             lastmod: new Date().toISOString(),
             changefreq: "weekly",
             priority,
