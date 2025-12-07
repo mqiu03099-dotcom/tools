@@ -83,11 +83,12 @@ const descriptionText = computed(() => {
 });
 
 useHead({
-  title: menuName,
+  title: menuName.value,
   meta: [
     {
       name: "description",
-      content: descriptionText,
+      content: descriptionText.value,
+      tagPriority: "critical",
     },
   ],
 });

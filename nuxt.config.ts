@@ -55,6 +55,9 @@ export default defineNuxtConfig({
     },
   },
   ssr: true,
+  experimental: {
+    inlineSSRStyles: false,
+  },
   compatibilityDate: "2025-05-15",
   devtools: {
     enabled: true,
@@ -111,6 +114,7 @@ export default defineNuxtConfig({
               const theme = localStorage.getItem("theme") || "dark";
               document.documentElement.setAttribute("data-theme", theme);
             })();`,
+          type: "text/javascript",
           tagPriority: "critical", // 最高优先级加载
           tagPosition: "head", // 插入到head标签内
         },
@@ -122,6 +126,7 @@ export default defineNuxtConfig({
               async: true,
               tagPriority: "critical",
               tagPosition: "head",
+              type: "text/javascript",
             },
         process.env.NODE_ENV === "development"
           ? {}
@@ -135,6 +140,7 @@ export default defineNuxtConfig({
               tagPriority: "critical",
               tagPosition: "head",
               async: true,
+              type: "text/javascript",
             },
       ],
     },
@@ -164,6 +170,6 @@ export default defineNuxtConfig({
       },
     },
   },
-  css: ["@/public/css/daisyui.css", "@/public/css/index.css"],
+  css: ["@/assets/css/daisyui.css", "@/assets/css/index.css"],
 });
 
