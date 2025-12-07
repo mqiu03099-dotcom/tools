@@ -73,25 +73,6 @@ const sencondText = computed(() => {
 const menuName = computed(() => {
   return sencondText.value ? `${webName}-${sencondText.value}` : webName;
 });
-
-/** 对应工具的描述 */
-const descriptionText = computed(() => {
-  const name = path.split("/")?.[2];
-  const toolDetail = getToolDetail(name);
-  const { description = defaultDescription } = toolDetail || {};
-  return description;
-});
-
-useHead({
-  title: menuName.value,
-  meta: [
-    {
-      name: "description",
-      content: descriptionText.value,
-      tagPriority: "critical",
-    },
-  ],
-});
 </script>
 
 <style scoped></style>

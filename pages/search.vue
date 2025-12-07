@@ -36,6 +36,14 @@
 <script setup lang="ts">
 const search = ref<string>("");
 const tools = ref<Menu[]>();
+const { webName } = useRuntimeConfig().public;
+
+usePageSeo({
+  canonicalPath: "/search/",
+  title: `search across ${webName}`,
+  description: `Instantly search ${webName} for AI products, productivity suites, and marketing resources.`,
+  keywords: ["tool search", "ai search", "productivity lookup", webName],
+});
 
 const handleToSearch = (payload: KeyboardEvent) => {
   const { key } = payload;

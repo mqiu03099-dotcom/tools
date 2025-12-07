@@ -33,6 +33,18 @@
 </template>
 
 <script setup lang="ts">
+import { themes } from "@/utils";
+
+const { webName } = useRuntimeConfig().public;
+const themeCount = Array.isArray(themes) ? themes.length : 0;
+
+usePageSeo({
+  canonicalPath: "/theme/",
+  title: `${webName} theme gallery`,
+  description: `Preview ${themeCount} ready-to-use color palettes and apply them instantly across ${webName}.`,
+  keywords: ["theme switcher", "daisyui themes", webName],
+});
+
 /**
  * 设置主题
  * @param theme 主题名字

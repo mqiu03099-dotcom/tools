@@ -19,10 +19,11 @@
 </template>
 
 <script setup lang="ts">
+import { slugToTitle } from "@/utils";
+
 const { toolId } = useRoute().params;
 const toolDetail = getToolDetail(String(toolId)) || {};
-const { name = "", description = "", tags = [] } = toolDetail;
-
+const { name = "", description = "", tags = [], updateTime } = toolDetail;
 const { data: moreTools } = await useFetch<Menu[]>("/api/getRandomTools", {
   method: "POST",
   body: {
@@ -30,6 +31,24 @@ const { data: moreTools } = await useFetch<Menu[]>("/api/getRandomTools", {
     count: 12,
   },
 });
+const { webName } = useRuntimeConfig().public;
+const readableName = slugToTitle(name || String(toolId)) || String(toolId);
+const parsedDate = updateTime ? new Date(updateTime) : undefined;
+const isoDate =
+  parsedDate && !Number.isNaN(parsedDate.valueOf()) ? parsedDate.toISOString() : undefined;
+
+usePageSeo({
+  canonicalPath: `/detail/${toolId}/`,
+  title: `${readableName} overview and alternatives from ${webName}`,
+  description:
+    description ||
+    `Explore ${readableName} features, use cases, and trusted alternatives on ${webName}.`,
+  type: "article",
+  publishedTime: isoDate,
+  modifiedTime: isoDate,
+  keywords: Array.from(new Set([readableName, ...(tags || [])].filter(Boolean))),
+});
 </script>
 
 <style></style>
+

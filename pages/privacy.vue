@@ -8,13 +8,14 @@
 <script setup lang="ts">
 import { ref } from "vue";
 
-const content = ref<string>(`<h1><strong>Privacy Policy for Know-It-All Toolbox</strong></h1>
+const { webName } = useRuntimeConfig().public;
+const content = ref<string>(`<h1><strong>Privacy Policy for tools</strong></h1>
 
 <p>Last Updated: November 29, 2025</p>
 
 <h2>1. Introduction</h2>
 
-<p>Welcome to Know-It-All Toolbox (&quot;we&quot;, &quot;our&quot;, or &quot;the Service&quot;). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services (collectively, the &quot;Service&quot;).</p>
+<p>Welcome to tools (&quot;we&quot;, &quot;our&quot;, or &quot;the Service&quot;). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services (collectively, the &quot;Service&quot;).</p>
 
 <p>By accessing or using the Service, you acknowledge that you have read, understood, and agree to the terms of this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Service.</p>
 
@@ -105,6 +106,13 @@ const content = ref<string>(`<h1><strong>Privacy Policy for Know-It-All Toolbox<
 
 <p>We may update this Privacy Policy from time to time. When we do, we will revise the &quot;Last Updated&quot; date at the top of this page. We encourage you to review this Privacy Policy periodically. Your continued use of the Service after the updated Privacy Policy is posted constitutes your acceptance of the changes.</p>
 `);
+
+usePageSeo({
+  canonicalPath: "/privacy/",
+  title: `${webName} privacy policy`,
+  description: `Learn how ${webName} collects analytics data, handles outbound links, and keeps users informed.`,
+  keywords: ["privacy policy", "data usage", webName],
+});
 </script>
 
 <style scoped>

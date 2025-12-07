@@ -40,9 +40,20 @@
 </template>
 
 <script setup lang="ts">
+import { slugToTitle } from "@/utils";
+
 const { toolId } = useRoute().params;
 const toolDetail = getToolDetail(String(toolId)) || {};
 const { iframeUrl, name } = toolDetail;
+const { webName } = useRuntimeConfig().public;
+const readableName = slugToTitle(name || String(toolId)) || String(toolId);
+
+usePageSeo({
+  canonicalPath: `/tool/${toolId}/`,
+  title: `${readableName} live preview on ${webName}`,
+  description: `Launch or embed ${readableName} instantly from ${webName}. Test features before visiting the official site.`,
+  keywords: [readableName, `${readableName} online`, `${readableName} demo`],
+});
 </script>
 
-<style></style>
+<style scoped></style>

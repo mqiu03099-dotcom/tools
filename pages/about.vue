@@ -8,10 +8,11 @@
 <script setup lang="ts">
 import { ref } from "vue";
 
+const { webName } = useRuntimeConfig().public;
 const content = ref<string>(`
-<h1>About Us: Know-It-All Toolbox</h1>
+<h1>About Us: tools</h1>
 
-<p>Know-It-All Toolbox is a one-stop resource hub dedicated to curating and connecting users with high-quality, practical tools from across the web. Our core mission is to simplify the process of finding reliable tools, making efficiency and productivity accessible to everyone—whether you’re navigating work tasks, academic pursuits, creative projects, or daily life needs.</p>
+<p>tools is a one-stop resource hub dedicated to curating and connecting users with high-quality, practical tools from across the web. Our core mission is to simplify the process of finding reliable tools, making efficiency and productivity accessible to everyone—whether you’re navigating work tasks, academic pursuits, creative projects, or daily life needs.</p>
 
 <p>We recognize that in today’s digital landscape, discovering tools that truly deliver on their promises can be time-consuming and overwhelming. Countless options exist, but separating the useful from the unnecessary often requires endless research and trial. That’s where we step in: our team meticulously vets and handpicks tools across a diverse range of categories, ensuring each recommended resource meets our standards for functionality, usability, and value.</p>
 
@@ -31,8 +32,15 @@ const content = ref<string>(`
 
 <p>Our commitment is to keep our toolbox dynamic and up-to-date. We regularly review and refresh our curated collection to remove outdated tools, add emerging gems, and ensure that every link leads to a resource that delivers real value. We believe that the right tool can transform how you work, learn, and live—and we’re here to make that discovery process seamless.</p>
 
-<p>At Know-It-All Toolbox, we’re passionate about empowering users through access to quality tools. Whether you’re a professional seeking to optimize workflows, a student looking to enhance learning, or someone simply wanting to make daily tasks easier, our curated collection has something for you. Explore, discover, and unlock new levels of efficiency—one tool at a time.</p>
+<p>At tools, we’re passionate about empowering users through access to quality tools. Whether you’re a professional seeking to optimize workflows, a student looking to enhance learning, or someone simply wanting to make daily tasks easier, our curated collection has something for you. Explore, discover, and unlock new levels of efficiency—one tool at a time.</p>
 `);
+
+usePageSeo({
+  canonicalPath: "/about/",
+  title: `About ${webName}`,
+  description: `${webName} curates trusted tools, explains our review process, and shares how we keep recommendations fresh.`,
+  keywords: ["about", "tool curator", webName],
+});
 </script>
 
 <style scoped>

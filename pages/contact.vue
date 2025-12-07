@@ -8,7 +8,8 @@
 <script setup lang="ts">
 import { ref } from "vue";
 
-const content = ref<string>(`<h1><strong>Contact Us for Know-It-All Toolbox</strong></h1>
+const { siteName, webName } = useRuntimeConfig().public;
+const content = ref<string>(`<h1><strong>Contact Us for tools</strong></h1>
 
 <p>Last Updated: November 29, 2025</p>
 
@@ -16,7 +17,14 @@ const content = ref<string>(`<h1><strong>Contact Us for Know-It-All Toolbox</str
 
 <p>If you have any questions, please contact us at:</p>
 
-<p><strong>Email:</strong> knowItAll@knowitalltoolbox.com</p>`);
+<p><strong>Email:</strong> ${webName}@${siteName}.com</p>`);
+
+usePageSeo({
+  canonicalPath: "/contact/",
+  title: `Contact ${webName}`,
+  description: `Reach the ${webName} team for submissions, partnership requests, or updates to our curated tool listings.`,
+  keywords: ["contact", "support", webName],
+});
 </script>
 
 <style scoped>
@@ -24,3 +32,4 @@ const content = ref<string>(`<h1><strong>Contact Us for Know-It-All Toolbox</str
   all: revert;
 }
 </style>
+

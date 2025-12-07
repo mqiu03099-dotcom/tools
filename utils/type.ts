@@ -15,3 +15,14 @@ export type LabelValue = {
   value: string | number;
 };
 
+export type UsePageSeoOptions = {
+  title: string;
+  description: string;
+  canonicalPath: string;
+  type?: "website" | "article";
+  image?: string;
+  publishedTime?: string;
+  modifiedTime?: string;
+  keywords?: string[];
+};
+

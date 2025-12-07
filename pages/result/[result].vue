@@ -9,8 +9,12 @@
 </template>
 
 <script lang="ts" setup>
+import { listPreview, slugToTitle } from "@/utils";
+
 const { result } = useRoute().params;
-const blockResult = String(result).toLowerCase();
+const { webName } = useRuntimeConfig().public;
+const rawQuery = String(result);
+const blockResult = rawQuery.toLowerCase();
 const tools =
   flattenMenu(menu).filter((item) => {
     const { name = "", description = "", updateTime = "", iframeUrl = "" } = item;
@@ -25,6 +29,19 @@ const tools =
       blockIframeUrl.includes(blockResult)
     );
   }) || [];
+const readableQuery = slugToTitle(rawQuery) || rawQuery.replace(/-/g, " ");
+
+usePageSeo({
+  canonicalPath: `/result/${rawQuery}/`,
+  title: `results for ${readableQuery} on ${webName}`,
+  description: tools.length
+    ? `Found ${tools.length} matches for "${readableQuery}" including ${listPreview(
+        tools.map((tool) => slugToTitle(tool.name) || tool.name || ""),
+      )}.`
+    : `No direct matches for "${readableQuery}". Try searching other tool categories on ${webName}.`,
+  keywords: [readableQuery, `${readableQuery} tools`, "tool search"],
+});
 </script>
 
 <style scoped></style>
+
