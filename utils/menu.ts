@@ -348,7 +348,8 @@ export const menu: Menu[] = [
         name: "microsoft-excel-data-analysis",
         nameStr: "microsoft",
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/excel",
-        bgImg: "",
+        bgImg:
+          "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440623-Hero-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=770&qlt=100&fmt=png-alpha&fit=constrain",
         description:
           "Microsoft Excel is leading spreadsheet software for organizing data, calculating with formulas, visualizing insights, and enabling real-time collaboration for businesses and individuals.",
         tags: ["microsoft", "excel", "data", "analysis", "tool"],
@@ -358,7 +359,8 @@ export const menu: Menu[] = [
         name: "microsoft-word-document-editor",
         nameStr: "microsoft-word",
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/word",
-        bgImg: "",
+        bgImg:
+          "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440250_M365-hero-1680x628-opiton1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=725&qlt=100&fmt=png-alpha&fit=constrain",
         description:
           "Microsoft Word is the industry-standard word processor for formatting documents, checking grammar, and supporting real-time co-authoring for professional and academic use.",
         tags: ["microsoft", "word", "document", "editor", "tool"],
@@ -368,7 +370,8 @@ export const menu: Menu[] = [
         name: "microsoft-powerpoint-presentation",
         nameStr: "microsoft-powerpoint",
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/powerpoint",
-        bgImg: "",
+        bgImg:
+          "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440700-M365-Hero-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=750&qlt=100&fmt=png-alpha&fit=constrain",
         description:
           "Microsoft PowerPoint is a professional presentation tool for creating dynamic slides, adding animations, and enabling collaborative design for meetings, lectures, and events.",
         tags: ["microsoft", "powerpoint", "presentation", "tool", "platform"],
@@ -379,6 +382,8 @@ export const menu: Menu[] = [
         nameStr: "microsoft-outlook",
         iframeUrl:
           "https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
+        bgImg:
+          "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/M365_FY26_Evergreen_ProductPage_Outlook_Header_Pedestal_Desktop_1600x632?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=770&qlt=100&fit=constrain",
         description:
           "Microsoft Outlook is an all-in-one email and calendar tool for managing messages, scheduling meetings, and syncing contacts seamlessly across devices.",
         tags: ["microsoft", "outlook", "email", "calendar", "tool"],
@@ -388,7 +393,8 @@ export const menu: Menu[] = [
         name: "microsoft-onenote-digital-notes",
         nameStr: "microsoft-onenote",
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/onenote/digital-note-taking-app",
-        bgImg: "",
+        bgImg:
+          "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/h1rz79f6-1-hero-photo-568x520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1360&hei=765&qlt=100&fit=constrain",
         description:
           "Microsoft OneNote is a digital note-taking tool for organizing ideas, syncing across devices, and supporting collaborative editing for personal and team use.",
         tags: ["microsoft", "onenote", "digital", "notes", "tool"],
@@ -399,10 +405,570 @@ export const menu: Menu[] = [
         nameStr: "microsoft-project",
         iframeUrl:
           "https://www.microsoft.com/zh-cn/microsoft-365/project/project-management-software",
+        bgImg:
+          "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-microsoft-planner-hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=4000&hei=1975&qlt=85&fmt=png-alpha&fit=constrain",
         description:
           "Microsoft Project is a project management tool for planning tasks, tracking progress, and collaborating with team members efficiently for business projects.",
         tags: ["microsoft", "project", "enterprise", "planning", "tool"],
         updateTime: "2025-10-05",
+      },
+    ],
+  },
+  {
+    name: "kpop-demon-hunters",
+    nameStr: "kpop",
+    isHomeData: true,
+    children: [
+      {
+        name: "kpop-demon-hunters-wikipedia",
+        nameStr: "kpop-wiki",
+        iframeUrl: "https://en.wikipedia.org/wiki/K-Pop:_Demon_Hunters",
+        bgImg: "",
+        description:
+          "Wikipedia documents the K-Pop: Demon Hunters production timeline, confirmed creative team, voice cast, and plot synopsis straight from Disney Animation announcements.",
+        tags: ["kpop", "demon", "hunters", "disney", "wiki"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "variety-kpop-demon-hunters",
+        nameStr: "kpop-variety",
+        iframeUrl: "https://variety.com/2021/film/news/k-pop-demon-hunters-1234985118/",
+        bgImg: "",
+        description:
+          "Variety’s Annecy coverage recaps interviews with directors Chris and Jennifer Lee, concept art reveals, and why Disney is leaning on K-pop choreography for the film.",
+        tags: ["kpop", "variety", "annecy", "disney", "film"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "animation-magazine-kpop-demon-hunters",
+        nameStr: "kpop-animationmag",
+        iframeUrl:
+          "https://www.animationmagazine.net/2021/06/disney-announces-k-pop-demon-hunters-and-steam-bentley/",
+        bgImg: "",
+        description:
+          "Animation Magazine’s announcement story highlights the producing team behind K-Pop: Demon Hunters and links to related Disney Animation pipeline updates.",
+        tags: ["kpop", "animation", "disney", "announcement", "film"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "grol-license-prep",
+    nameStr: "grol",
+    isHomeData: true,
+    children: [
+      {
+        name: "fcc-grol-overview",
+        nameStr: "fcc-grol",
+        iframeUrl: "https://www.fcc.gov/commercial-radio-operator-license-program",
+        bgImg: "",
+        description:
+          "The FCC’s commercial operator portal lists General Radiotelephone Operator License eligibility, Element 1/3/8 requirements, and all application forms you need to file.",
+        tags: ["grol", "fcc", "license", "element", "guide"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "qrz-grol-practice",
+        nameStr: "qrz-grol",
+        iframeUrl: "https://www.qrz.com/hamtest/grol",
+        bgImg: "",
+        description:
+          "QRZ’s browser-based simulator lets you drill the entire question pool for GROL Elements 1, 3, and 8 with instant grading and answer explanations.",
+        tags: ["grol", "practice", "exam", "qrz", "radio"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "coastguardexams-grol-guide",
+        nameStr: "grol-guide",
+        iframeUrl: "https://www.coastguardexams.com/grol-license.html",
+        bgImg: "",
+        description:
+          "Coast Guard Exams outlines study schedules, recommended texts, and in-person test center logistics for mariners earning the FCC GROL credential.",
+        tags: ["grol", "study", "guide", "maritime", "license"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "nintendo-switch-2",
+    nameStr: "switch2",
+    isHomeData: true,
+    children: [
+      {
+        name: "tomsguide-nintendo-switch-2",
+        nameStr: "tomsguide-switch2",
+        iframeUrl: "https://www.tomsguide.com/news/nintendo-switch-2",
+        bgImg: "",
+        description:
+          "Tom’s Guide tracks every Switch 2 leak, from rumored release windows to Nvidia silicon chatter and developer kits spotted in certification filings.",
+        tags: ["nintendo", "switch2", "rumors", "tomsguide", "console"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "vgc-nintendo-switch-2",
+        nameStr: "vgc-switch2",
+        iframeUrl: "https://www.videogameschronicle.com/features/nintendo-switch-2/",
+        bgImg: "",
+        description:
+          "Video Games Chronicle’s hub aggregates insider reporting on Switch successor specs, backwards compatibility, and partner studios already building launch titles.",
+        tags: ["nintendo", "switch2", "vgc", "hardware", "leaks"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "gamesradar-nintendo-switch-2",
+        nameStr: "gamesradar-switch2",
+        iframeUrl: "https://www.gamesradar.com/nintendo-switch-2/",
+        bgImg: "",
+        description:
+          "GamesRadar keeps a running FAQ covering Switch 2 design patents, Joy-Con revamps, dev comments, and how it stacks up against Steam Deck and ROG Ally.",
+        tags: ["nintendo", "switch2", "gamesradar", "specs", "news"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "wicked-for-good",
+    nameStr: "for-good",
+    isHomeData: true,
+    children: [
+      {
+        name: "wicked-official-site",
+        nameStr: "wicked-site",
+        iframeUrl: "https://wickedthemusical.com/",
+        bgImg: "",
+        description:
+          "The official Wicked site posts touring schedules, behind-the-scenes clips, and performance notes for “For Good” ahead of the two-part film release.",
+        tags: ["wicked", "for-good", "musical", "broadway", "official"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "for-good-wikipedia",
+        nameStr: "for-good-wiki",
+        iframeUrl: "https://en.wikipedia.org/wiki/For_Good",
+        bgImg: "",
+        description:
+          "Wikipedia’s “For Good” entry outlines the song’s context in Act II, lyrical themes, and key recordings by Idina Menzel and Kristin Chenoweth.",
+        tags: ["wicked", "for-good", "wiki", "lyrics", "history"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "for-good-genius-lyrics",
+        nameStr: "for-good-genius",
+        iframeUrl: "https://genius.com/Idina-menzel-and-kristin-chenoweth-for-good-lyrics",
+        bgImg: "",
+        description:
+          "Genius provides annotated “For Good” lyrics with community notes on harmonies, chord progressions, and how the duet has evolved in concerts.",
+        tags: ["wicked", "for-good", "lyrics", "genius", "music"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "welcome-to-derry",
+    nameStr: "derry",
+    isHomeData: true,
+    children: [
+      {
+        name: "welcome-to-derry-wikipedia",
+        nameStr: "derry-wiki",
+        iframeUrl: "https://en.wikipedia.org/wiki/Welcome_to_Derry",
+        bgImg: "",
+        description:
+          "Wikipedia covers the IT prequel’s showrunners, returning cast members, production timeline, and how the Max series ties into Andy Muschietti’s films.",
+        tags: ["welcome", "derry", "wiki", "it", "series"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "hollywood-reporter-welcome-to-derry",
+        nameStr: "derry-thr",
+        iframeUrl:
+          "https://www.hollywoodreporter.com/tv/tv-news/it-prequel-welcome-to-derry-1235436560/",
+        bgImg: "",
+        description:
+          "The Hollywood Reporter’s exclusive dives into HBO’s episode order, Pennywise flashbacks, and quotes from the producing team about practical effects.",
+        tags: ["welcome", "derry", "thr", "hbo", "news"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "stephenking-fandom-welcome-to-derry",
+        nameStr: "derry-fandom",
+        iframeUrl: "https://stephenking.fandom.com/wiki/Welcome_to_Derry",
+        bgImg: "",
+        description:
+          "The Stephen King Wiki catalogues canon references, known episode titles, and lore connections fans expect the series to cover.",
+        tags: ["welcome", "derry", "fandom", "stephen-king", "lore"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "zootopia-2",
+    nameStr: "zootopia2",
+    isHomeData: true,
+    children: [
+      {
+        name: "zootopia-2-wikipedia",
+        nameStr: "zootopia2-wiki",
+        iframeUrl: "https://en.wikipedia.org/wiki/Zootopia_2",
+        bgImg: "",
+        description:
+          "Wikipedia keeps a running list of Zootopia 2 writers, release plans, and any public comments from Disney Animation or cast members.",
+        tags: ["zootopia2", "wiki", "disney", "film", "sequel"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "whatsondisneyplus-zootopia-2",
+        nameStr: "zootopia2-wodp",
+        iframeUrl: "https://whatsondisneyplus.com/tag/zootopia-2/",
+        bgImg: "",
+        description:
+          "What’s On Disney Plus aggregates every official mention of Zootopia 2, from investor-day slides to cast interviews and teaser footage.",
+        tags: ["zootopia2", "disneyplus", "news", "streaming", "animation"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "screenrant-zootopia-2",
+        nameStr: "zootopia2-screenrant",
+        iframeUrl: "https://screenrant.com/tag/zootopia-2/",
+        bgImg: "",
+        description:
+          "Screen Rant’s topic page rounds up speculation on storylines, new districts in Zootopia, and returning voice talent.",
+        tags: ["zootopia2", "screenrant", "rumors", "movie", "news"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "stranger-things-season5",
+    nameStr: "stranger-things",
+    isHomeData: true,
+    children: [
+      {
+        name: "stranger-things-season5-wikipedia",
+        nameStr: "st5-wiki",
+        iframeUrl: "https://en.wikipedia.org/wiki/Stranger_Things_(season_5)",
+        bgImg: "",
+        description:
+          "Wikipedia details the final season’s episode list, filming schedule, and confirmed directors, keeping tabs on production pauses.",
+        tags: ["stranger-things", "season5", "wiki", "netflix", "tv"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "netflix-tudum-stranger-things",
+        nameStr: "st5-tudum",
+        iframeUrl: "https://www.netflix.com/tudum/articles/stranger-things-season-5-guide",
+        bgImg: "",
+        description:
+          "Netflix Tudum’s guide posts official teasers, table-read photos, and quotes from the Duffer Brothers about how the finale is structured.",
+        tags: ["stranger-things", "season5", "netflix", "tudum", "insights"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "gamesradar-stranger-things-season5",
+        nameStr: "st5-gamesradar",
+        iframeUrl: "https://www.gamesradar.com/stranger-things-season-5/",
+        bgImg: "",
+        description:
+          "GamesRadar aggregates spoiler-free set reports, casting scoops, and timeline predictions for the Stranger Things finale.",
+        tags: ["stranger-things", "season5", "gamesradar", "news", "tv"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "lane-kiffin",
+    nameStr: "kiffin",
+    isHomeData: true,
+    children: [
+      {
+        name: "lane-kiffin-wikipedia",
+        nameStr: "kiffin-wiki",
+        iframeUrl: "https://en.wikipedia.org/wiki/Lane_Kiffin",
+        bgImg: "",
+        description:
+          "Lane Kiffin’s Wikipedia profile covers every stop on his coaching tree, head-coaching record, and notable scheme changes.",
+        tags: ["lane-kiffin", "wiki", "coach", "college", "football"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "olemiss-staff-lane-kiffin",
+        nameStr: "kiffin-olemiss",
+        iframeUrl: "https://olemisssports.com/staff-directory/lane-kiffin/3386",
+        bgImg: "",
+        description:
+          "Ole Miss Athletics lists Kiffin’s current responsibilities, contract milestones, and contact details inside the university directory.",
+        tags: ["lane-kiffin", "ole-miss", "staff", "sec", "profile"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "sports-reference-lane-kiffin",
+        nameStr: "kiffin-stats",
+        iframeUrl: "https://www.sports-reference.com/cfb/coaches/lane-kiffin-1.html",
+        bgImg: "",
+        description:
+          "Sports Reference breaks down Kiffin’s year-by-year records, bowl appearances, and offensive rankings across his head-coaching tenure.",
+        tags: ["lane-kiffin", "stats", "cfb", "records", "history"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "tiempo-de-manana",
+    nameStr: "tiempo",
+    isHomeData: true,
+    children: [
+      {
+        name: "accuweather-espanol",
+        nameStr: "accuweather-es",
+        iframeUrl: "https://www.accuweather.com/es",
+        bgImg: "",
+        description:
+          "AccuWeather en Español ofrece pronósticos por hora y alertas de lluvia para mañana con radar interactivo configurable por ciudad.",
+        tags: ["tiempo", "manana", "accuweather", "pronostico", "clima"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "eltiempo-es",
+        nameStr: "eltiempo",
+        iframeUrl: "https://www.eltiempo.es/",
+        bgImg: "",
+        description:
+          "ElTiempo.es muestra mapas europeos, índices UV y previsiones de mañana con widgets personalizables para cualquier municipio.",
+        tags: ["tiempo", "pronostico", "espana", "manana", "clima"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "meteored-global",
+        nameStr: "meteored",
+        iframeUrl: "https://www.meteored.com/",
+        bgImg: "",
+        description:
+          "Meteored (Tiempo.com) ofrece radar en tiempo real, modelos ECMWF/GFS y alertas push para planificar el clima de mañana en LATAM y España.",
+        tags: ["tiempo", "meteored", "manana", "clima", "alertas"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "tvapp",
+    nameStr: "tvapp",
+    isHomeData: true,
+    children: [
+      {
+        name: "apple-tv-app",
+        nameStr: "apple-tv",
+        iframeUrl: "https://tv.apple.com/",
+        bgImg: "",
+        description:
+          "Apple’s TV app centralizes Apple TV+, MLS Season Pass, and channel add-ons with profiles, Up Next queues, and device syncing.",
+        tags: ["tvapp", "apple", "streaming", "tv", "app"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "youtube-tvapp",
+        nameStr: "youtube-tv",
+        iframeUrl: "https://tv.youtube.com/welcome/",
+        bgImg: "",
+        description:
+          "YouTube TV’s welcome hub outlines channel lineups, multiview, 4K add-ons, and how to run the TV app on smart TVs or Chromecasts.",
+        tags: ["tvapp", "youtube", "live-tv", "cloud-dvr", "streaming"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "plex-tvapp",
+        nameStr: "plex-tv",
+        iframeUrl: "https://www.plex.tv/watch-free-tv/",
+        bgImg: "",
+        description:
+          "Plex’s TV app streams free ad-supported live channels plus on-demand movies, and it can merge with your personal media server.",
+        tags: ["tvapp", "plex", "fast", "streaming", "live-tv"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "ai-detection-tools",
+    nameStr: "ai-detector",
+    isHomeData: true,
+    children: [
+      {
+        name: "gptzero-ai-detector",
+        nameStr: "gptzero",
+        iframeUrl: "https://gptzero.me/",
+        bgImg: "",
+        description:
+          "GPTZero analyzes burstiness and perplexity to label AI-generated essays, offering batch uploads and LMS integrations.",
+        tags: ["ai-detector", "gptzero", "plagiarism", "education", "tool"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "zerogpt-ai-checker",
+        nameStr: "zerogpt",
+        iframeUrl: "https://www.zerogpt.com/",
+        bgImg: "",
+        description:
+          "ZeroGPT supports 50+ languages, highlighting suspicious sentences and exporting reports useful for compliance teams.",
+        tags: ["ai-checker", "zerogpt", "content", "compliance", "tool"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "content-at-scale-ai-detector",
+        nameStr: "contentatscale",
+        iframeUrl: "https://contentatscale.ai/ai-content-detector/",
+        bgImg: "",
+        description:
+          "Content at Scale’s detector scores text against multiple LLM fingerprints and provides rewrite suggestions to improve human tone.",
+        tags: ["ai-detector", "content", "scale", "rewrites", "tool"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "eagles-vs-cowboys",
+    nameStr: "eagles-cowboys",
+    isHomeData: true,
+    children: [
+      {
+        name: "statmuse-eagles-cowboys-record",
+        nameStr: "statmuse-rivalry",
+        iframeUrl: "https://www.statmuse.com/nfl/ask?q=eagles+vs+cowboys+record",
+        bgImg: "",
+        description:
+          "Statmuse generates instant head-to-head charts, margins, and season splits for every Eagles vs. Cowboys meeting.",
+        tags: ["eagles", "cowboys", "statmuse", "record", "rivalry"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "pfr-eagles-cowboys-history",
+        nameStr: "pfr-rivalry",
+        iframeUrl:
+          "https://www.pro-football-reference.com/boxscores/game_query.cgi?tm1=dal&tm2=phi&yr=all",
+        bgImg: "",
+        description:
+          "Pro Football Reference lists every box score between Dallas and Philadelphia with filters for playoffs, primetime, or location.",
+        tags: ["eagles", "cowboys", "pfr", "history", "stats"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "nfl-eagles-cowboys-highlights",
+        nameStr: "nfl-highlights",
+        iframeUrl: "https://www.nfl.com/videos/eagles-vs-cowboys-highlights",
+        bgImg: "",
+        description:
+          "NFL.com’s highlight hub hosts condensed games, Mic’d Up clips, and analysis packages from the rivalry’s most recent matchups.",
+        tags: ["eagles", "cowboys", "nfl", "highlights", "video"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "google-doc",
+    nameStr: "google-doc",
+    isHomeData: true,
+    children: [
+      {
+        name: "google-docs-product",
+        nameStr: "docs-product",
+        iframeUrl: "https://workspace.google.com/products/docs/",
+        bgImg: "",
+        description:
+          "Google Workspace’s Docs page explains templates, smart chips, and collaboration controls for enterprise rollouts.",
+        tags: ["google-docs", "workspace", "product", "collaboration", "suite"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "google-docs-support",
+        nameStr: "docs-support",
+        iframeUrl: "https://support.google.com/docs/",
+        bgImg: "",
+        description:
+          "The Docs Help Center provides troubleshooting guides, keyboard shortcuts, and rollout notes for new editor features.",
+        tags: ["google-docs", "support", "help", "guides", "faq"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "google-docs-api",
+        nameStr: "docs-api",
+        iframeUrl: "https://developers.google.com/docs/api",
+        bgImg: "",
+        description:
+          "Developers.google.com documents REST endpoints for generating, editing, and merging Docs programmatically with OAuth scopes.",
+        tags: ["google-docs", "api", "developers", "automation", "cloud"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "notre-dame-football",
+    nameStr: "notre-dame",
+    isHomeData: true,
+    children: [
+      {
+        name: "fighting-irish-football",
+        nameStr: "fightingirish",
+        iframeUrl: "https://fightingirish.com/sports/football/",
+        bgImg: "",
+        description:
+          "Notre Dame’s official site posts schedules, Marcus Freeman pressers, depth charts, and NBC broadcast links.",
+        tags: ["notre-dame", "football", "official", "schedule", "news"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "espn-notre-dame-team",
+        nameStr: "notre-dame-espn",
+        iframeUrl: "https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish",
+        bgImg: "",
+        description:
+          "ESPN’s team hub features statistics, game-by-game recaps, and FPI projections for the Fighting Irish.",
+        tags: ["notre-dame", "espn", "stats", "schedule", "cfb"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "247sports-notre-dame",
+        nameStr: "notre-dame-247",
+        iframeUrl: "https://247sports.com/college/notre-dame/",
+        bgImg: "",
+        description:
+          "247Sports blends recruiting intel, transfer portal trackers, and premium analysis for Notre Dame football fans.",
+        tags: ["notre-dame", "247sports", "recruiting", "analysis", "cfb"],
+        updateTime: "2025-12-08",
+      },
+    ],
+  },
+  {
+    name: "ohio-state-football",
+    nameStr: "ohio-state",
+    isHomeData: true,
+    children: [
+      {
+        name: "buckeyes-official-football",
+        nameStr: "buckeyes-official",
+        iframeUrl: "https://ohiostatebuckeyes.com/sports/m-footbl/",
+        bgImg: "",
+        description:
+          "Ohio State’s athletics site features Ryan Day press conferences, roster bios, and Scarlet & Gray ticket info.",
+        tags: ["ohio-state", "football", "official", "schedule", "news"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "espn-ohio-state-team",
+        nameStr: "ohio-state-espn",
+        iframeUrl: "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+        bgImg: "",
+        description:
+          "ESPN’s Buckeyes page tracks standings, injury reports, and live win probabilities for every matchup.",
+        tags: ["ohio-state", "espn", "stats", "schedule", "cfb"],
+        updateTime: "2025-12-08",
+      },
+      {
+        name: "elevenwarriors-ohio-state",
+        nameStr: "elevenwarriors",
+        iframeUrl: "https://www.elevenwarriors.com/",
+        bgImg: "",
+        description:
+          "Eleven Warriors provides daily Ohio State analysis, film rooms, recruiting scoops, and rapid game reactions.",
+        tags: ["ohio-state", "blog", "analysis", "recruiting", "fans"],
+        updateTime: "2025-12-08",
       },
     ],
   },

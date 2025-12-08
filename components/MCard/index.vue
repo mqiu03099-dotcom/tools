@@ -10,7 +10,7 @@
           v-if="bgImg"
           :src="bgImg"
           :alt="bgImg"
-          class="absolute left-0 top-0 w-full h-full object-cover blur-sm"
+          class="absolute left-0 top-0 w-full h-full object-cover blur-xs"
         />
         <div class="bg-[#00000090] absolute left-0 top-0 w-full h-full"></div>
       </figure>

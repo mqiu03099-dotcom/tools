@@ -4,67 +4,41 @@
       v-for="({ name, path }, index) in headerMenu"
       :key="index"
     >
-      <MA :href="getHref({ path, name })">
+      <MA
+        :href="getHref({ path, name })"
+        class="font-bold"
+      >
         {{ name }}
       </MA>
     </li>
     <li
-      v-for="(menu1, index1) in menu"
+      v-for="({ name: name1, path: path1, children: children1 }, index1) in menu"
       :key="index1"
     >
       <MA
-        v-if="!menu1.children"
-        :href="getHref({ path: menu1.path, name: menu1.name })"
+        v-if="!children1"
+        :href="getHref({ path: path1, name: name1 })"
       >
-        {{ menu1.name }}
+        {{ name1 }}
       </MA>
       <details
         open
         v-else
       >
         <summary>
-          {{ menu1.name }}
+          <div class="flex items-center justify-start gap-3">
+            <div class="font-bold">{{ name1 }}</div>
+            <div class="badge badge-secondary badge-outline">{{ children1.length || 0 }}</div>
+          </div>
         </summary>
         <ul>
           <li
-            v-for="(menu2, index2) in menu1.children"
+            v-for="({ name: name2, path: path2 }, index2) in children1"
             :key="index2"
           >
-            <MA
-              v-if="!menu2.children"
-              :href="getHref({ path: menu2.path, name: menu2.name })"
-            >
-              {{ menu2.name }}
+            <MA :href="getHref({ path: path2, name: name2 })">
+              {{ name2 }}
             </MA>
-            <details
-              open
-              v-else
-            >
-              <summary>
-                {{ menu2.name }}
-              </summary>
-              <ul>
-                <li
-                  v-for="(menu3, index3) in menu2.children"
-                  :key="index3"
-                >
-                  <MA
-                    v-if="!menu3.children"
-                    :href="getHref({ path: menu3.path, name: menu3.name })"
-                  >
-                    {{ menu3.name }}
-                  </MA>
-                  <details
-                    open
-                    v-else
-                  >
-                    <summary>
-                      {{ menu3.name }}
-                    </summary>
-                  </details>
-                </li>
-              </ul>
-            </details>
           </li>
         </ul>
       </details>
@@ -73,7 +47,10 @@
       v-for="({ name, path }, index) in footerMenu"
       :key="index"
     >
-      <MA :href="getHref({ path, name })">
+      <MA
+        :href="getHref({ path, name })"
+        class="font-bold"
+      >
         {{ name }}
       </MA>
     </li>

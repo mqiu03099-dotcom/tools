@@ -29,4 +29,7 @@
 
 - node 版本：20.19.4
 - pnpm 版本：8.10.2
+- 帮我继续找[kpop demon hunters,deepseek,grol,nintendo switch 2,wicked for good,welcome to derry,zootopia 2,gemini ai,stranger things,chatgpt,gemini,lane kiffin,tiempo de
+  manana,stranger things season 5,tvapp,ai detector,ai checker,eagles vs cowboys,google doc,notre dame football,ohio state]这些分类填入 menu.ts 中，如果有重复的分类，则直接合
+  并，要找的是和这个分类有关的网站，但是注意 bgImg 字段要为空，由我自己手动填写，尽量找质量高的网站，能在 iframe 中加载出来的网站，加载速度快的网站
 

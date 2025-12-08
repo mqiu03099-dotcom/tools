@@ -94,7 +94,7 @@ export default defineNuxtConfig({
         {
           rel: "icon",
           type: "image/png",
-          href: "/img/logo.png",
+          href: "/logo.png",
         },
       ],
       meta: [

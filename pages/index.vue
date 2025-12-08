@@ -5,15 +5,21 @@
       v-for="({ name, children = [] }, titleIndex) in homeDataSource"
       :key="titleIndex"
     >
-      <MA
-        :href="`/category/${name}`"
-        class="flex justify-between items-center"
-      >
-        <h1 class="line-clamp-1 break-all font-bold">{{ name }}</h1>
-        <MFromIcon />
-      </MA>
+      <div class="flex items-center justify-between gap-3 w-full">
+        <MA :href="`/category/${name}`">
+          <button class="btn btn-primary">
+            <div class="line-clamp-1 break-all">{{ name }}</div>
+          </button>
+        </MA>
+        <MA
+          :href="`/category/${name}`"
+          class="flex justify-between items-center"
+        >
+          <MFromIcon />
+        </MA>
+      </div>
       <MGrid>
-        <MCard :data="children.slice(0, 20)" />
+        <MCard :data="children.slice(0, 10)" />
       </MGrid>
     </div>
   </div>
