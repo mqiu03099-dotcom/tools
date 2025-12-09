@@ -7,9 +7,16 @@ const { webName } = useRuntimeConfig().public;
 
 usePageSeo({
   canonicalPath: "/menu/",
-  title: `${webName} category explorer`,
-  description: `Jump into every category curated on ${webName}, from AI productivity boosters to niche utilities.`,
-  keywords: ["tool categories", "directory", webName],
+  title: `Tools Category Explorer: Browse 37+ AI, Productivity & Utility Tool Categories`,
+  description: `Jump into 37+ curated tool categories on our hub, from AI productivity boosters to niche utility tools – explore trusted resources by category.`,
+  keywords: [
+    "tool categories",
+    "AI tool categories",
+    "productivity tool directory",
+    "utility tools",
+    "curated tools",
+    webName,
+  ],
 });
 </script>
 

@@ -27,7 +27,7 @@ const categoryKeywords = [
 
 usePageSeo({
   canonicalPath: `/category/${categorySlug}/`,
-  title: `${readableCategory} picks from ${webName}`,
+  title: `${readableCategory}: ${children?.length || 0} Vetted & Updated Recommendations`,
   description: children.length
     ? `Browse ${
         children.length

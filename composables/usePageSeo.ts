@@ -1,8 +1,16 @@
 import type { UsePageSeoOptions } from "@/utils";
 
 export const usePageSeo = (values: UsePageSeoOptions) => {
-  const { title, description, type, canonicalPath, image, publishedTime, modifiedTime, keywords } =
-    values;
+  const {
+    title,
+    description,
+    type = "website",
+    canonicalPath,
+    image = "/logo.png",
+    publishedTime,
+    modifiedTime,
+    keywords,
+  } = values;
   const { siteName } = useRuntimeConfig().public;
   const siteBase = `https://${siteName}`;
   const canonicalUrl = new URL(canonicalPath, siteBase).toString();

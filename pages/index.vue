@@ -28,13 +28,11 @@
 <script setup lang="ts">
 const homeDataSource = menu.filter((item) => item.isHomeData);
 const { webName } = useRuntimeConfig().public;
-const categoryCount = homeDataSource.length;
-const toolCount = homeDataSource.reduce((sum, current) => sum + (current.children?.length || 0), 0);
 
 usePageSeo({
   canonicalPath: "/",
-  title: `${webName} curated resource hub`,
-  description: `Discover ${toolCount}+ reliable tools across ${categoryCount} categories on ${webName}. Updated daily with trusted AI, productivity, and utility resources.`,
+  title: `Tools Curated Resource Hub: 290+ AI & Productivity Tools`,
+  description: `Discover 290+ reliable tools across 37 categories on tools. Updated daily with trusted AI, productivity, and utility resources.`,
   keywords: ["online tools", "ai tools", "productivity resources", "utility directory", webName],
 });
 </script>

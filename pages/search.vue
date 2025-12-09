@@ -40,9 +40,18 @@ const { webName } = useRuntimeConfig().public;
 
 usePageSeo({
   canonicalPath: "/search/",
-  title: `search across ${webName}`,
-  description: `Instantly search ${webName} for AI products, productivity suites, and marketing resources.`,
-  keywords: ["tool search", "ai search", "productivity lookup", webName],
+  title: `Tool Search: Instantly Find AI, Productivity & Marketing Tools`,
+  description: `Instantly search our curated library of tools – find AI products, productivity suites, and marketing resources to match your exact needs.`,
+  keywords: [
+    "tool search",
+    "ai search",
+    "ai tool search",
+    "productivity lookup",
+    "productivity tool lookup",
+    "marketing tool search",
+    "curated tool directory search",
+    webName,
+  ],
 });
 
 const handleToSearch = (payload: KeyboardEvent) => {

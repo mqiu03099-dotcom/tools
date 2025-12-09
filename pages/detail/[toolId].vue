@@ -32,7 +32,6 @@ const { data: moreTools } = await useFetch<Menu[]>("/api/getRandomTools", {
     count: 12,
   },
 });
-const { webName } = useRuntimeConfig().public;
 const readableName = slugToTitle(name || String(toolId)) || String(toolId);
 const parsedDate = updateTime ? new Date(updateTime) : undefined;
 const isoDate =
@@ -40,10 +39,10 @@ const isoDate =
 
 usePageSeo({
   canonicalPath: `/detail/${toolId}/`,
-  title: `${readableName} overview and alternatives from ${webName}`,
+  title: `${readableName} overview and alternatives from Tools`,
   description:
     description ||
-    `Explore ${readableName} features, use cases, and trusted alternatives on ${webName}.`,
+    `Explore ${readableName} features, use cases, and trusted alternatives on Tools.`,
   type: "article",
   publishedTime: isoDate,
   modifiedTime: isoDate,
