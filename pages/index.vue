@@ -32,7 +32,7 @@ const { webName } = useRuntimeConfig().public;
 usePageSeo({
   canonicalPath: "/",
   title: `Tools Curated Resource Hub: 290+ AI & Productivity Tools`,
-  description: `Discover 290+ reliable tools across 37 categories on tools. Updated daily with trusted AI, productivity, and utility resources.`,
+  setDescription: `Discover 290+ reliable tools across 37 categories on tools. Updated daily with trusted AI, productivity, and utility resources.`,
   keywords: ["online tools", "ai tools", "productivity resources", "utility directory", webName],
 });
 </script>

@@ -37,8 +37,8 @@ const content = ref<string>(`
 
 usePageSeo({
   canonicalPath: "/about/",
-  title: `about ${webName}`,
-  description: `${webName} curates trusted tools, explains our review process, and shares how we keep recommendations fresh.`,
+  title: `About Tools`,
+  setDescription: `Tools curates trusted tools, explains our review process, and shares how we keep recommendations fresh.`,
   keywords: ["about", "tool curator", webName],
 });
 </script>

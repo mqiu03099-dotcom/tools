@@ -109,8 +109,8 @@ const content = ref<string>(`<h1><strong>Privacy Policy for tools</strong></h1>
 
 usePageSeo({
   canonicalPath: "/privacy/",
-  title: `${webName} privacy policy`,
-  description: `Learn how ${webName} collects analytics data, handles outbound links, and keeps users informed.`,
+  title: `Tools Privacy Policy`,
+  setDescription: `Learn how tools collects analytics data, handles outbound links, and keeps users informed.`,
   keywords: ["privacy policy", "data usage", webName],
 });
 </script>

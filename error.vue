@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-screen flex-center flex-col gap-3 font-semibold">
+  <div class="w-full h-screen flex justify-center items-center flex-col gap-3 font-semibold">
     <div>404 NOT FOUND</div>
     <MA href="/">
       <button class="btn btn-primary">BACK</button>

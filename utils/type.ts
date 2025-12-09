@@ -1,10 +1,12 @@
-export type Menu = Partial<{
+﻿export type Menu = Partial<{
   name: string;
-  nameStr: string;
+  nameShort: string;
   tags: string[];
   path: string;
   iframeUrl: string;
-  description: string;
+  seoTitle: string;
+  setDescription: string;
+  seoKeywords: string[];
   updateTime: string;
   isHomeData: boolean;
   bgImg: string;
@@ -18,7 +20,7 @@ export type LabelValue = {
 
 export type UsePageSeoOptions = {
   title: string;
-  description: string;
+  setDescription: string;
   canonicalPath: string;
   type?: "website" | "article";
   image?: string;

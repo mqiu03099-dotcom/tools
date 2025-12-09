@@ -41,7 +41,7 @@ const { webName } = useRuntimeConfig().public;
 usePageSeo({
   canonicalPath: "/search/",
   title: `Tool Search: Instantly Find AI, Productivity & Marketing Tools`,
-  description: `Instantly search our curated library of tools – find AI products, productivity suites, and marketing resources to match your exact needs.`,
+  setDescription: `Instantly search our curated library of tools – find AI products, productivity suites, and marketing resources to match your exact needs.`,
   keywords: [
     "tool search",
     "ai search",
@@ -60,14 +60,14 @@ const handleToSearch = (payload: KeyboardEvent) => {
   const blockSearch = search.value.trim().toLowerCase();
   tools.value =
     flattenMenu(menu).filter((item) => {
-      const { name = "", description = "", updateTime = "", iframeUrl = "" } = item;
+      const { name = "", setDescription = "", updateTime = "", iframeUrl = "" } = item;
       const blokName = name.toLowerCase();
-      const blockDescription = description.toLowerCase();
+      const blockSeoDescription = setDescription.toLowerCase();
       const blockUpdateTime = updateTime.toLowerCase();
       const blockIframeUrl = iframeUrl.toLowerCase();
       return (
         blokName.includes(blockSearch) ||
-        blockDescription.includes(blockSearch) ||
+        blockSeoDescription.includes(blockSearch) ||
         blockUpdateTime.includes(blockSearch) ||
         blockIframeUrl.includes(blockSearch)
       );

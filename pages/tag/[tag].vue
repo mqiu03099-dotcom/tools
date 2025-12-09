@@ -19,18 +19,17 @@ const { data: tools } = await useFetch<Menu[]>("/api/getToolsByTag", {
     tags: [tagSlug],
   },
 });
-const { webName } = useRuntimeConfig().public;
 const readableTag = slugToTitle(tagSlug) || tagSlug.replace(/-/g, " ");
 const toolList = tools.value || [];
 
 usePageSeo({
   canonicalPath: `/tag/${tagSlug}/`,
-  title: `${readableTag} tag highlights on ${webName}`,
-  description: toolList.length
+  title: `${readableTag} Tag Highlights On Tools.`,
+  setDescription: toolList.length
     ? `See ${toolList.length} ${readableTag.toLowerCase()} tools such as ${listPreview(
         toolList.map((tool) => slugToTitle(tool.name) || tool.name || ""),
       )}.`
-    : `Browse ${readableTag.toLowerCase()} resources curated by ${webName}.`,
+    : `Browse ${readableTag.toLowerCase()} resources curated by Tools.`,
   keywords: Array.from(
     new Set([readableTag, `${readableTag} tools`, ...toolList.flatMap((item) => item.tags || [])]),
   ),

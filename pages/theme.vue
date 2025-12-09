@@ -41,7 +41,7 @@ const themeCount = Array.isArray(themes) ? themes.length : 0;
 usePageSeo({
   canonicalPath: "/theme/",
   title: `Tools Theme Gallery: 35 Ready-to-Use Color Palettes & DaisyUI Themes`,
-  description: `Preview 35 ready-to-use color palettes and DaisyUI themes, then apply them instantly to customize your tool experience across our platform.`,
+  setDescription: `Preview 35 ready-to-use color palettes and DaisyUI themes, then apply them instantly to customize your tool experience across our platform.`,
   keywords: [
     "theme switcher",
     "daisyui themes",

@@ -3,13 +3,13 @@
     <div class="divider divider-primary m-0! text-[12px]!">All Tools</div>
     <div class="flex flex-wrap gap-3">
       <MA
-        v-for="({ nameStr, name }, index) in blockTools"
+        v-for="({ nameShort, name }, index) in blockTools"
         :key="index"
         :title="name"
         :href="`/detail/${name}`"
       >
         <button :class="['btn btn-sm capitalize', changeTheme(index)]">
-          {{ nameStr }}
+          {{ nameShort }}
         </button>
       </MA>
     </div>

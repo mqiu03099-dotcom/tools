@@ -2,13 +2,3 @@
 @plugin "daisyui" {
   themes: all;
 }
-
-@layer utilities {
-  .flex-center {
-    @apply flex justify-center items-center;
-  }
-
-  .max-w-1000 {
-    @apply max-w-[1000px] mx-auto w-full;
-  }
-}
