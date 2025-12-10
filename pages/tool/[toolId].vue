@@ -20,7 +20,7 @@
       <span>
         If the page fails to load, you can click the button on the right.&nbsp;
         <a
-          :title="name"
+          :title="seoTitle"
           :href="iframeUrl"
           target="_blank"
           class="link link-primary"
@@ -31,7 +31,7 @@
     </div>
     <iframe
       :id="toolContainer"
-      :title="name"
+      :title="seoTitle"
       class="w-full h-full flex-1"
       :src="iframeUrl"
       frameborder="0"
@@ -40,18 +40,20 @@
 </template>
 
 <script setup lang="ts">
-import { slugToTitle } from "@/utils";
-
-const { toolId } = useRoute().params;
-const toolDetail = getToolDetail(String(toolId)) || {};
-const { iframeUrl, name } = toolDetail;
-const readableName = slugToTitle(name || String(toolId)) || String(toolId);
+const { toolId } = useRoute().params as any;
+const {
+  iframeUrl,
+  seoTitle,
+  seoDescription,
+  tags = [],
+  seoKeywords = [],
+} = getToolDetail(toolId) || {};
 
 usePageSeo({
   canonicalPath: `/tool/${toolId}/`,
-  title: `${readableName} Live Preview On Tools.`,
-  setDescription: `Launch or embed ${readableName} instantly from tools. Test features before visiting the official site.`,
-  keywords: [readableName, `${readableName} online`, `${readableName} demo`],
+  title: `${seoTitle} Live Preview On Tools.`,
+  seoDescription: `Launch Or Embed ${seoDescription} Instantly From Tools. Test Features Before Visiting The Official Site.`,
+  keywords: [`${seoTitle}`, `${seoTitle} online`, `${seoTitle} demo`, ...tags, ...seoKeywords],
 });
 </script>
 

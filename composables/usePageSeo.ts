@@ -3,7 +3,7 @@ import type { UsePageSeoOptions } from "@/utils";
 export const usePageSeo = (values: UsePageSeoOptions) => {
   const {
     title,
-    setDescription,
+    seoDescription,
     type = "website",
     canonicalPath,
     image = "/logo.png",
@@ -18,15 +18,15 @@ export const usePageSeo = (values: UsePageSeoOptions) => {
 
   useSeoMeta({
     title,
-    description: setDescription,
+    description: seoDescription,
     ogTitle: title,
-    ogDescription: setDescription,
+    ogDescription: seoDescription,
     ogType: type,
     ogUrl: canonicalUrl,
     ogImage: image,
     twitterCard: "summary_large_image",
     twitterTitle: title,
-    twitterDescription: setDescription,
+    twitterDescription: seoDescription,
     twitterImage: image,
     robots: "index, follow",
     articlePublishedTime: type === "article" ? publishedTime : undefined,

@@ -11,27 +11,23 @@
 <script setup lang="ts">
 import { listPreview, slugToTitle } from "@/utils";
 
-const { tag } = useRoute().params;
-const tagSlug = String(tag);
+const { tag } = useRoute().params as any;
 const { data: tools } = await useFetch<Menu[]>("/api/getToolsByTag", {
   method: "POST",
   body: {
-    tags: [tagSlug],
+    tags: [tag],
   },
 });
-const readableTag = slugToTitle(tagSlug) || tagSlug.replace(/-/g, " ");
-const toolList = tools.value || [];
+const toolList = tools?.value || [];
 
 usePageSeo({
-  canonicalPath: `/tag/${tagSlug}/`,
-  title: `${readableTag} Tag Highlights On Tools.`,
-  setDescription: toolList.length
-    ? `See ${toolList.length} ${readableTag.toLowerCase()} tools such as ${listPreview(
-        toolList.map((tool) => slugToTitle(tool.name) || tool.name || ""),
-      )}.`
-    : `Browse ${readableTag.toLowerCase()} resources curated by Tools.`,
+  canonicalPath: `/tag/${tag}/`,
+  title: `${tag} Tag Highlights On Tools.`,
+  seoDescription: `See ${toolList.length} ${tag} Tools Such As ${listPreview(
+    toolList.map((tool) => slugToTitle(tool.name) || tool.name || ""),
+  )}.`,
   keywords: Array.from(
-    new Set([readableTag, `${readableTag} tools`, ...toolList.flatMap((item) => item.tags || [])]),
+    new Set([tag, `${tag} tools`, ...toolList.flatMap((item) => item.tags || [])]),
   ),
 });
 </script>

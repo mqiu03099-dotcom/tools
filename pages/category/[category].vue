@@ -9,15 +9,16 @@ const { category } = useRoute().params as any;
 const {
   children = [],
   seoTitle = "",
-  setDescription = "",
+  seoDescription = "",
   seoKeywords = [],
+  tags = [],
 } = getToolsByCategory(category) || {};
 
 usePageSeo({
   canonicalPath: `/category/${category}/`,
   title: `${seoTitle}: ${children?.length || 0} Vetted & Updated Recommendations`,
-  setDescription,
-  keywords: seoKeywords,
+  seoDescription,
+  keywords: [...tags, ...seoKeywords],
 });
 </script>
 

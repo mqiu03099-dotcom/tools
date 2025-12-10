@@ -22,7 +22,7 @@ const content = ref<string>(`<h1><strong>Contact Us for tools</strong></h1>
 usePageSeo({
   canonicalPath: "/contact/",
   title: `Contact Tools`,
-  setDescription: `Reach the Tools team for submissions, partnership requests, or updates to our curated tool listings.`,
+  seoDescription: `Reach the Tools Team For Submissions, Partnership Requests, Or Updates To Our Curated Tool Listings.`,
   keywords: ["contact", "support", webName],
 });
 </script>

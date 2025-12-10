@@ -5,7 +5,7 @@
   path: string;
   iframeUrl: string;
   seoTitle: string;
-  setDescription: string;
+  seoDescription: string;
   seoKeywords: string[];
   updateTime: string;
   isHomeData: boolean;
@@ -20,7 +20,7 @@ export type LabelValue = {
 
 export type UsePageSeoOptions = {
   title: string;
-  setDescription: string;
+  seoDescription: string;
   canonicalPath: string;
   type?: "website" | "article";
   image?: string;

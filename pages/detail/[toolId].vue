@@ -4,7 +4,7 @@
     <MDetailBreadcrumbs :name="name" />
     <MDetailCard
       :name="name"
-      :setDescription="setDescription"
+      :seoDescription="seoDescription"
       :bgImg="bgImg"
     />
     <MDescription
@@ -20,36 +20,33 @@
 </template>
 
 <script setup lang="ts">
-const { toolId } = useRoute().params;
-const toolDetail = getToolDetail(String(toolId)) || {};
+const { toolId } = useRoute().params as any;
+const toolDetail = getToolDetail(toolId) || {};
 const {
   name = "",
   tags = [],
-  updateTime,
+  updateTime = "",
   bgImg = "",
   seoTitle = "",
-  setDescription = "",
+  seoDescription = "",
   seoKeywords = [],
 } = toolDetail;
 const { data: moreTools } = await useFetch<Menu[]>("/api/getRandomTools", {
   method: "POST",
   body: {
     menu: flattenMenu(menu),
-    count: 12,
+    count: 20,
   },
 });
-const parsedDate = updateTime ? new Date(updateTime) : undefined;
-const isoDate =
-  parsedDate && !Number.isNaN(parsedDate.valueOf()) ? parsedDate.toISOString() : undefined;
 
 usePageSeo({
   canonicalPath: `/detail/${toolId}/`,
-  title: `${seoTitle} overview and alternatives from Tools`,
-  setDescription,
+  title: `${seoTitle} Overview And Alternatives From Tools`,
+  seoDescription,
   type: "article",
-  publishedTime: isoDate,
-  modifiedTime: isoDate,
-  keywords: seoKeywords,
+  publishedTime: new Date(updateTime).toISOString(),
+  modifiedTime: new Date(updateTime).toISOString(),
+  keywords: [...seoKeywords, ...tags],
 });
 </script>
 

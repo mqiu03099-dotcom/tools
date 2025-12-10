@@ -14,7 +14,7 @@
     <div class="hero-content p-0! text-neutral-content text-center">
       <div class="max-w-[1000px]">
         <h1 class="mb-5 px-3 text-3xl capitalize font-bold text-base-content">{{ name }}</h1>
-        <p class="mb-5 px-3 font-bold text-base-content">{{ setDescription }}</p>
+        <p class="mb-5 px-3 font-bold text-base-content">{{ seoDescription }}</p>
         <MA :href="`/tool/${name}`">
           <button class="btn btn-primary">{{ getStarted }}</button>
         </MA>
@@ -24,9 +24,9 @@
 </template>
 
 <script setup lang="ts">
-const { name, setDescription, bgImg } = defineProps<{
+const { name, seoDescription, bgImg } = defineProps<{
   name: string;
-  setDescription: string;
+  seoDescription: string;
   bgImg: string;
 }>();
 </script>

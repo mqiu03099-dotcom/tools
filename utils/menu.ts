@@ -5,8 +5,8 @@ export const menu: Menu[] = [
     name: "top-ai-productivity-tools",
     nameShort: "top",
     isHomeData: true,
-    seoTitle: "Top featuring Doubao, GitHub, ChatGPT",
-    setDescription: "Top directory featuring Doubao, GitHub, ChatGPT, DeepSeek and more.",
+    seoTitle: "Top Featuring Doubao, GitHub, ChatGPT",
+    seoDescription: "Top Directory Featuring Doubao, GitHub, ChatGPT, DeepSeek And More.",
     seoKeywords: [
       "top",
       "productivity",
@@ -25,9 +25,9 @@ export const menu: Menu[] = [
       {
         name: "doubao-ai-productivity-assistant",
         nameShort: "doubao",
-        seoTitle: "Doubao is an intelligent AI assistant developed by ByteDance",
-        setDescription:
-          "Doubao is an intelligent AI assistant developed by ByteDance, offering conversational interaction, content creation, problem-solving, and productivity",
+        seoTitle: "Doubao Is An Intelligent AI Assistant Developed By ByteDance",
+        seoDescription:
+          "Doubao Is An Intelligent AI Assistant Developed By ByteDance, Offering Conversational Interaction, Content Creation, Problem-solving, And Productivity",
         seoKeywords: [
           "doubao",
           "productivity",
@@ -44,15 +44,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.doubao.com",
         bgImg: "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png",
-        tags: ["doubao", "ai", "productivity", "assistant", "tool"],
+        tags: ["Doubao", "Ai", "Productivity", "Assistant", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "github-copilot-code-autocomplete",
         nameShort: "github",
-        seoTitle: "GitHub Copilot is an AI pair programmer from GitHub and OpenAI",
-        setDescription:
-          "GitHub Copilot is an AI pair programmer from GitHub and OpenAI that autocompletes multi-line code, writes tests, and converts natural language prompts",
+        seoTitle: "GitHub Copilot Is An AI Pair Programmer From GitHub And OpenAI",
+        seoDescription:
+          "GitHub Copilot Is An AI Pair Programmer From GitHub And OpenAI That Autocompletes Multi-line Code, Writes Tests, And Converts Natural Language Prompts",
         seoKeywords: [
           "github",
           "copilot",
@@ -69,15 +69,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://github.com/features/copilot",
         bgImg: "",
-        tags: ["github", "copilot", "code", "autocomplete", "tool"],
+        tags: ["Github", "Copilot", "Code", "Autocomplete", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "chatgpt-openai-writing-coding",
         nameShort: "chatgpt",
-        seoTitle: "ChatGPT is an AI-powered chatbot by OpenAI, generating",
-        setDescription:
-          "ChatGPT is an AI-powered chatbot by OpenAI, generating human-like responses, writing essays, coding, and answering complex questions using advanced",
+        seoTitle: "ChatGPT Is An AI-Powered Chatbot By OpenAI, Generating",
+        seoDescription:
+          "ChatGPT Is An AI-powered Chatbot By OpenAI, Generating Human-like Responses, Writing Essays, Coding, And Answering Complex Questions Using Advanced",
         seoKeywords: [
           "chatgpt",
           "openai",
@@ -94,15 +94,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://openai.com/chatgpt",
         bgImg: "",
-        tags: ["chatgpt", "openai", "writing", "coding", "tool"],
+        tags: ["Chatgpt", "Openai", "Writing", "Coding", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "deepseek-open-source-reasoning",
         nameShort: "deepseek",
-        seoTitle: "DeepSeek is a high-performance open-source AI model and",
-        setDescription:
-          "DeepSeek is a high-performance open-source AI model and assistant specializing in code generation, mathematical reasoning, and multi-language support",
+        seoTitle: "DeepSeek Is A High-Performance Open-Source AI Model And",
+        seoDescription:
+          "DeepSeek Is A High-performance Open-source AI Model And Assistant Specializing In Code Generation, Mathematical Reasoning, And Multi-language Support",
         seoKeywords: [
           "deepseek",
           "open",
@@ -119,15 +119,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.deepseek.com",
         bgImg: "",
-        tags: ["deepseek", "open", "source", "reasoning", "tool"],
+        tags: ["Deepseek", "Open", "Source", "Reasoning", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "baidu-wenxin-chinese-ai",
         nameShort: "baidu",
-        seoTitle: "Baidu Wenxin Yiyan is a generative AI developed by Baidu",
-        setDescription:
-          "Baidu Wenxin Yiyan is a generative AI developed by Baidu, integrating large language models with Chinese cultural understanding for content creation",
+        seoTitle: "Baidu Wenxin Yiyan Is A Generative AI Developed By Baidu",
+        seoDescription:
+          "Baidu Wenxin Yiyan Is A Generative AI Developed By Baidu, Integrating Large Language Models With Chinese Cultural Understanding For Content Creation",
         seoKeywords: [
           "baidu",
           "wenxin",
@@ -144,15 +144,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://yiyan.baidu.com",
         bgImg: "",
-        tags: ["baidu", "wenxin", "chinese", "ai", "tool"],
+        tags: ["Baidu", "Wenxin", "Chinese", "Ai", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "baidu-ernie-enterprise-assistant",
         nameShort: "baidu-ernie",
-        seoTitle: "Baidu ERNIE Bot is an enhanced AI assistant based on Baidu's",
-        setDescription:
-          "Baidu ERNIE Bot is an enhanced AI assistant based on Baidu's ERNIE large model, providing professional knowledge, creative content generation, and",
+        seoTitle: "Baidu ERNIE Bot Is An Enhanced AI Assistant Based On Baidu'S",
+        seoDescription:
+          "Baidu ERNIE Bot Is An Enhanced AI Assistant Based On Baidu's ERNIE Large Model, Providing Professional Knowledge, Creative Content Generation, And",
         seoKeywords: [
           "baidu ernie",
           "baidu",
@@ -169,15 +169,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ernie-bot.chat",
         bgImg: "",
-        tags: ["baidu", "ernie", "enterprise", "assistant", "tool"],
+        tags: ["Baidu", "Ernie", "Enterprise", "Assistant", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "claude-anthropic-safe-ai",
         nameShort: "claude",
-        seoTitle: "Claude is an AI assistant by Anthropic focused on safety and",
-        setDescription:
-          "Claude is an AI assistant by Anthropic focused on safety and transparency, handling long documents, generating accurate responses, and integrating",
+        seoTitle: "Claude Is An AI Assistant By Anthropic Focused On Safety And",
+        seoDescription:
+          "Claude Is An AI Assistant By Anthropic Focused On Safety And Transparency, Handling Long Documents, Generating Accurate Responses, And Integrating",
         seoKeywords: [
           "claude",
           "anthropic",
@@ -194,15 +194,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.anthropic.com/index/claude",
         bgImg: "",
-        tags: ["claude", "anthropic", "safe", "ai", "tool"],
+        tags: ["Claude", "Anthropic", "Safe", "Ai", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "google-gemini-multimodal-ai",
         nameShort: "google",
-        seoTitle: "Google Gemini is a multimodal AI model supporting text, image",
-        setDescription:
-          "Google Gemini is a multimodal AI model supporting text, image, audio, and video interactions, designed for seamless integration with Google services",
+        seoTitle: "Google Gemini Is A Multimodal AI Model Supporting Text, Image",
+        seoDescription:
+          "Google Gemini Is A Multimodal AI Model Supporting Text, Image, Audio, And Video Interactions, Designed For Seamless Integration With Google Services",
         seoKeywords: [
           "google",
           "gemini",
@@ -219,15 +219,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://gemini.google.com",
         bgImg: "",
-        tags: ["google", "gemini", "multimodal", "ai", "tool"],
+        tags: ["Google", "Gemini", "Multimodal", "Ai", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "dalle3-openai-image-generator",
         nameShort: "dalle3",
-        seoTitle: "DALL-E 3 DALL·E is an AI image generation tool by OpenAI that",
-        setDescription:
-          "DALL-E 3 - DALL·E is an AI image generation tool by OpenAI that transforms natural language prompts into high-quality creative images with style",
+        seoTitle: "DALL-E 3 DALL·E Is An AI Image Generation Tool By OpenAI That",
+        seoDescription:
+          "DALL-E 3 - DALL·E Is An AI Image Generation Tool By OpenAI That Transforms Natural Language Prompts Into High-quality Creative Images With Style",
         seoKeywords: [
           "dall-e 3",
           "dalle3",
@@ -245,15 +245,15 @@ export const menu: Menu[] = [
         iframeUrl: "https://openai.com/dall-e-3",
         bgImg:
           "https://images.ctfassets.net/kftzwdyauwt9/5JZsznv2kZBJhcntpSLEL9/fbe72de7edaceb8a44176170312ccf2a/picnic-cherry-tree.jpeg?w=1920&q=90&fm=webp",
-        tags: ["dalle3", "openai", "image", "generator", "tool"],
+        tags: ["Dalle3", "Openai", "Image", "Generator", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "midjourney-ai-art-generator",
         nameShort: "midjourney",
-        seoTitle: "MidJourney is an AI image generation platform specializing in",
-        setDescription:
-          "MidJourney is an AI image generation platform specializing in artistic and creative visuals, generating high-resolution images from text prompts with",
+        seoTitle: "MidJourney Is An AI Image Generation Platform Specializing In",
+        seoDescription:
+          "MidJourney Is An AI Image Generation Platform Specializing In Artistic And Creative Visuals, Generating High-resolution Images From Text Prompts With",
         seoKeywords: [
           "midjourney",
           "art",
@@ -270,15 +270,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.midjourney.com",
         bgImg: "",
-        tags: ["midjourney", "ai", "art", "generator", "tool"],
+        tags: ["Midjourney", "Ai", "Art", "Generator", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "zhihu-chart-data-assistant",
         nameShort: "zhihu",
-        seoTitle: "Zhihu Chart AI is Zhihu's AI assistant for data visualization",
-        setDescription:
-          "Zhihu Chart AI is Zhihu's AI assistant for data visualization and content analysis, helping users create charts, analyze data, and generate insights",
+        seoTitle: "Zhihu Chart AI Is Zhihu'S AI Assistant For Data Visualization",
+        seoDescription:
+          "Zhihu Chart AI Is Zhihu's AI Assistant For Data Visualization And Content Analysis, Helping Users Create Charts, Analyze Data, And Generate Insights",
         seoKeywords: [
           "zhihu",
           "chart",
@@ -295,15 +295,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.zhihu.com/chart-ai",
         bgImg: "",
-        tags: ["zhihu", "chart", "data", "assistant", "tool"],
+        tags: ["Zhihu", "Chart", "Data", "Assistant", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "iflytek-speech-nlp-platform",
         nameShort: "iflytek",
-        seoTitle: "iFlytek AI is a comprehensive platform offering speech",
-        setDescription:
-          "iFlytek AI is a comprehensive platform offering speech recognition, natural language processing, computer vision, and intelligent hardware solutions",
+        seoTitle: "IFlytek AI Is A Comprehensive Platform Offering Speech",
+        seoDescription:
+          "IFlytek AI Is A Comprehensive Platform Offering Speech Recognition, Natural Language Processing, Computer Vision, And Intelligent Hardware Solutions",
         seoKeywords: [
           "iflytek",
           "speech",
@@ -320,15 +320,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.iflytek.com/",
         bgImg: "",
-        tags: ["iflytek", "speech", "nlp", "platform", "tool"],
+        tags: ["Iflytek", "Speech", "Nlp", "Platform", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "tongyi-qianwen-enterprise-ai",
         nameShort: "tongyi",
-        seoTitle: "Tongyi Alibaba Tongyi Qianwen is a generative AI integrating",
-        setDescription:
-          "Alibaba Tongyi Qianwen is a generative AI integrating large language models with e-commerce, cloud services, and enterprise applications, supporting",
+        seoTitle: "Tongyi Alibaba Tongyi Qianwen Is A Generative AI Integrating",
+        seoDescription:
+          "Alibaba Tongyi Qianwen Is A Generative AI Integrating Large Language Models With E-commerce, Cloud Services, And Enterprise Applications, Supporting",
         seoKeywords: [
           "tongyi",
           "qianwen",
@@ -345,15 +345,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tongyi.aliyun.com/",
         bgImg: "",
-        tags: ["tongyi", "qianwen", "enterprise", "ai", "tool"],
+        tags: ["Tongyi", "Qianwen", "Enterprise", "Ai", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "adobe-firefly-creative-suite",
         nameShort: "adobe",
-        seoTitle: "Adobe Firefly is an AI creative tool designed for ethical",
-        setDescription:
-          "Adobe Firefly is an AI creative tool designed for ethical content generation, including images, text effects, and vector graphics, seamlessly",
+        seoTitle: "Adobe Firefly Is An AI Creative Tool Designed For Ethical",
+        seoDescription:
+          "Adobe Firefly Is An AI Creative Tool Designed For Ethical Content Generation, Including Images, Text Effects, And Vector Graphics, Seamlessly",
         seoKeywords: [
           "adobe",
           "firefly",
@@ -370,15 +370,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.adobe.com/uk/products/firefly.html",
         bgImg: "",
-        tags: ["adobe", "firefly", "creative", "suite", "tool"],
+        tags: ["Adobe", "Firefly", "Creative", "Suite", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "bing-ai-search-copilot",
         nameShort: "bing",
-        seoTitle: "Bing AI is Microsoft's AI-powered search assistant combining",
-        setDescription:
-          "Bing AI is Microsoft's AI-powered search assistant combining search capabilities with conversational interaction, content generation, and real-time",
+        seoTitle: "Bing AI Is Microsoft'S AI-Powered Search Assistant Combining",
+        seoDescription:
+          "Bing AI Is Microsoft's AI-powered Search Assistant Combining Search Capabilities With Conversational Interaction, Content Generation, And Real-time",
         seoKeywords: [
           "bing",
           "search",
@@ -395,15 +395,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.bing.com/new",
         bgImg: "",
-        tags: ["bing", "ai", "search", "copilot", "tool"],
+        tags: ["Bing", "Ai", "Search", "Copilot", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "cohere-enterprise-nlp-platform",
         nameShort: "cohere",
-        seoTitle: "Cohere is an AI platform specializing in natural language",
-        setDescription:
-          "Cohere is an AI platform specializing in natural language processing, offering models for text classification, summarization, translation, and",
+        seoTitle: "Cohere Is An AI Platform Specializing In Natural Language",
+        seoDescription:
+          "Cohere Is An AI Platform Specializing In Natural Language Processing, Offering Models For Text Classification, Summarization, Translation, And",
         seoKeywords: [
           "cohere",
           "enterprise",
@@ -420,15 +420,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://cohere.com",
         bgImg: "",
-        tags: ["cohere", "enterprise", "nlp", "platform", "tool"],
+        tags: ["Cohere", "Enterprise", "Nlp", "Platform", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "perplexity-ai-search-assistant",
         nameShort: "perplexity",
-        seoTitle: "Perplexity AI is an AI search and knowledge assistant providing",
-        setDescription:
-          "Perplexity AI is an AI search and knowledge assistant providing accurate, cited answers to complex questions, integrating real-time data and deep",
+        seoTitle: "Perplexity AI Is An AI Search And Knowledge Assistant Providing",
+        seoDescription:
+          "Perplexity AI Is An AI Search And Knowledge Assistant Providing Accurate, Cited Answers To Complex Questions, Integrating Real-time Data And Deep",
         seoKeywords: [
           "perplexity",
           "search",
@@ -445,15 +445,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.perplexity.ai",
         bgImg: "",
-        tags: ["perplexity", "ai", "search", "assistant", "tool"],
+        tags: ["Perplexity", "Ai", "Search", "Assistant", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "notion-ai-workspace-automation",
         nameShort: "notion",
-        seoTitle: "Notion AI is an AI assistant integrated into Notion, enhancing",
-        setDescription:
-          "Notion AI is an AI assistant integrated into Notion, enhancing productivity with text generation, summarization, editing, and task automation within",
+        seoTitle: "Notion AI Is An AI Assistant Integrated Into Notion, Enhancing",
+        seoDescription:
+          "Notion AI Is An AI Assistant Integrated Into Notion, Enhancing Productivity With Text Generation, Summarization, Editing, And Task Automation Within",
         seoKeywords: [
           "notion",
           "workspace",
@@ -470,15 +470,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.notion.so/product/ai",
         bgImg: "",
-        tags: ["notion", "ai", "workspace", "automation", "tool"],
+        tags: ["Notion", "Ai", "Workspace", "Automation", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "stable-diffusion-image-model",
         nameShort: "stable",
-        seoTitle: "Stable Diffusion is an open-source AI image generation model",
-        setDescription:
-          "Stable Diffusion is an open-source AI image generation model, allowing users to generate custom images from text prompts, with extensive",
+        seoTitle: "Stable Diffusion Is An Open-Source AI Image Generation Model",
+        seoDescription:
+          "Stable Diffusion Is An Open-source AI Image Generation Model, Allowing Users To Generate Custom Images From Text Prompts, With Extensive",
         seoKeywords: [
           "stable",
           "diffusion",
@@ -495,15 +495,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://stability.ai/stable-diffusion",
         bgImg: "",
-        tags: ["stable", "diffusion", "image", "model", "tool"],
+        tags: ["Stable", "Diffusion", "Image", "Model", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "meta-llama-language-model",
         nameShort: "meta",
-        seoTitle: "Meta Llama is an open-source large language model by Meta",
-        setDescription:
-          "Meta Llama is an open-source large language model by Meta, designed for research and commercial use, supporting customization, fine-tuning, and",
+        seoTitle: "Meta Llama Is An Open-Source Large Language Model By Meta",
+        seoDescription:
+          "Meta Llama Is An Open-source Large Language Model By Meta, Designed For Research And Commercial Use, Supporting Customization, Fine-tuning, And",
         seoKeywords: [
           "meta",
           "llama",
@@ -520,15 +520,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ai.meta.com/llama/",
         bgImg: "",
-        tags: ["meta", "llama", "language", "model", "tool"],
+        tags: ["Meta", "Llama", "Language", "Model", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "cursor-ide-ai-editor",
         nameShort: "cursor",
-        seoTitle: "Cursor IDE is an AI-native editor that lets you chat with your",
-        setDescription:
-          "Cursor IDE is an AI-native editor that lets you chat with your repo, refactor entire files, and review diff previews using Claude 3",
+        seoTitle: "Cursor IDE Is An AI-Native Editor That Lets You Chat With Your",
+        seoDescription:
+          "Cursor IDE Is An AI-native Editor That Lets You Chat With Your Repo, Refactor Entire Files, And Review Diff Previews Using Claude 3",
         seoKeywords: [
           "cursor",
           "ide",
@@ -545,15 +545,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://cursor.com/cn",
         bgImg: "",
-        tags: ["cursor", "ide", "ai", "editor", "tool"],
+        tags: ["Cursor", "Ide", "Ai", "Editor", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "amazon-q-developer-copilot",
         nameShort: "amazon",
-        seoTitle: "Amazon Q Developer is AWS’s coding copilot that drafts",
-        setDescription:
-          "Amazon Q Developer is AWS’s coding copilot that drafts infrastructure as code, fixes vulnerabilities, and can run commands directly in CloudShell and",
+        seoTitle: "Amazon Q Developer Is AWS’S Coding Copilot That Drafts",
+        seoDescription:
+          "Amazon Q Developer Is AWS’s Coding Copilot That Drafts Infrastructure As Code, Fixes Vulnerabilities, And Can Run Commands Directly In CloudShell And",
         seoKeywords: [
           "amazon",
           "developer",
@@ -570,15 +570,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://aws.amazon.com/q/developer/",
         bgImg: "",
-        tags: ["amazon", "q", "developer", "copilot", "tool"],
+        tags: ["Amazon", "Q", "Developer", "Copilot", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "sourcegraph-cody-code-assistant",
         nameShort: "sourcegraph",
-        seoTitle: "Sourcegraph Cody is a deep-code AI assistant with",
-        setDescription:
-          "Sourcegraph Cody is a deep-code AI assistant with repository-aware context, structural search, and precise answers grounded in Sourcegraph’s code",
+        seoTitle: "Sourcegraph Cody Is A Deep-Code AI Assistant With",
+        seoDescription:
+          "Sourcegraph Cody Is A Deep-code AI Assistant With Repository-aware Context, Structural Search, And Precise Answers Grounded In Sourcegraph’s Code",
         seoKeywords: [
           "sourcegraph",
           "cody",
@@ -595,15 +595,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://sourcegraph.com/cody",
         bgImg: "",
-        tags: ["sourcegraph", "cody", "code", "assistant", "tool"],
+        tags: ["Sourcegraph", "Cody", "Code", "Assistant", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "codeium-free-coding-toolkit",
         nameShort: "codeium",
-        seoTitle: "Codeium is a free-for-dev AI toolkit from Exafunction that",
-        setDescription:
-          "Codeium is a free-for-dev AI toolkit from Exafunction that offers autocomplete, chat, and refactor actions for 70+ languages across JetBrains, VS",
+        seoTitle: "Codeium Is A Free-For-Dev AI Toolkit From Exafunction That",
+        seoDescription:
+          "Codeium Is A Free-for-dev AI Toolkit From Exafunction That Offers Autocomplete, Chat, And Refactor Actions For 70+ Languages Across JetBrains, VS",
         seoKeywords: [
           "codeium",
           "free",
@@ -620,15 +620,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://codeium.com/",
         bgImg: "",
-        tags: ["codeium", "free", "coding", "toolkit", "tool"],
+        tags: ["Codeium", "Free", "Coding", "Toolkit", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "gitlab-duo-pair-programmer",
         nameShort: "gitlab",
-        seoTitle: "GitLab Duo is GitLab’s native AI pair programmer that comments",
-        setDescription:
-          "GitLab Duo is GitLab’s native AI pair programmer that comments on merge requests, generates secure code in the Web IDE, and triages CI issues with",
+        seoTitle: "GitLab Duo Is GitLab’S Native AI Pair Programmer That Comments",
+        seoDescription:
+          "GitLab Duo Is GitLab’s Native AI Pair Programmer That Comments On Merge Requests, Generates Secure Code In The Web IDE, And Triages CI Issues With",
         seoKeywords: [
           "gitlab",
           "duo",
@@ -645,15 +645,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://about.gitlab.com/gitlab-duo/",
         bgImg: "",
-        tags: ["gitlab", "duo", "pair", "programmer", "tool"],
+        tags: ["Gitlab", "Duo", "Pair", "Programmer", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "replit-ghostwriter-ai-teammate",
         nameShort: "replit",
-        seoTitle: "Replit Ghostwriter is an AI teammate inside Replit that",
-        setDescription:
-          "Replit Ghostwriter is an AI teammate inside Replit that completes functions, explains runtime errors, and can edit whole files through conversational",
+        seoTitle: "Replit Ghostwriter Is An AI Teammate Inside Replit That",
+        seoDescription:
+          "Replit Ghostwriter Is An AI Teammate Inside Replit That Completes Functions, Explains Runtime Errors, And Can Edit Whole Files Through Conversational",
         seoKeywords: [
           "replit",
           "ghostwriter",
@@ -670,15 +670,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://replit.com/site/ghostwriter",
         bgImg: "",
-        tags: ["replit", "ghostwriter", "ai", "teammate", "tool"],
+        tags: ["Replit", "Ghostwriter", "Ai", "Teammate", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "gemini-code-assist-copilot",
         nameShort: "gemini",
-        seoTitle: "Gemini Code Assist is Google Cloud’s Gemini-based coding partner",
-        setDescription:
-          "Gemini Code Assist is Google Cloud’s Gemini-based coding partner that understands multi-file context, fixes IaC policies, and can run remediation",
+        seoTitle: "Gemini Code Assist Is Google Cloud’S Gemini-Based Coding Partner",
+        seoDescription:
+          "Gemini Code Assist Is Google Cloud’s Gemini-based Coding Partner That Understands Multi-file Context, Fixes IaC Policies, And Can Run Remediation",
         seoKeywords: [
           "gemini",
           "code",
@@ -695,15 +695,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://cloud.google.com/gemini/docs/code-assist",
         bgImg: "",
-        tags: ["gemini", "code", "assist", "copilot", "tool"],
+        tags: ["Gemini", "Code", "Assist", "Copilot", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "tabnine-secure-code-completion",
         nameShort: "tabnine",
-        seoTitle: "Tabnine is an enterprise-grade AI completion engine that can run",
-        setDescription:
-          "Tabnine is an enterprise-grade AI completion engine that can run fully on-prem, trains on your private repositories, and plugs into JetBrains, VS",
+        seoTitle: "Tabnine Is An Enterprise-Grade AI Completion Engine That Can Run",
+        seoDescription:
+          "Tabnine Is An Enterprise-grade AI Completion Engine That Can Run Fully On-prem, Trains On Your Private Repositories, And Plugs Into JetBrains, VS",
         seoKeywords: [
           "tabnine",
           "secure",
@@ -720,26 +720,26 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.tabnine.com/",
         bgImg: "",
-        tags: ["tabnine", "secure", "code", "completion", "tool"],
+        tags: ["Tabnine", "Secure", "Code", "Completion", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "grok-ai-chatbot",
         nameShort: "grok",
-        seoTitle: "Grok is X",
-        setDescription: "Grok is X",
+        seoTitle: "Grok Is X",
+        seoDescription: "Grok Is X",
         seoKeywords: ["grok", "chatbot", "ai", "tool", "platform"],
         iframeUrl: "https://x.ai/",
         bgImg: "",
-        tags: ["grok", "ai", "chatbot", "tool", "platform"],
+        tags: ["Grok", "Ai", "Chatbot", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "mistral-large-language-model",
         nameShort: "mistral",
-        seoTitle: "Mistral AI ships high-performance large language models like",
-        setDescription:
-          "Mistral AI ships high-performance large language models like Mixtral and Le Chat, optimized for multilingual reasoning, coding help, and",
+        seoTitle: "Mistral AI Ships High-Performance Large Language Models Like",
+        seoDescription:
+          "Mistral AI Ships High-performance Large Language Models Like Mixtral And Le Chat, Optimized For Multilingual Reasoning, Coding Help, And",
         seoKeywords: [
           "mistral",
           "large",
@@ -756,15 +756,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://mistral.ai/",
         bgImg: "",
-        tags: ["mistral", "large", "language", "model", "tool"],
+        tags: ["Mistral", "Large", "Language", "Model", "Tool"],
         updateTime: "2025-12-03",
       },
       {
         name: "suno-ai-music-generator",
         nameShort: "suno",
-        seoTitle: "Suno AI turns plain text prompts into full songs with vocals",
-        setDescription:
-          "Suno AI turns plain text prompts into full songs with vocals, styles, and downloadable stems, making rapid music prototyping accessible to",
+        seoTitle: "Suno AI Turns Plain Text Prompts Into Full Songs With Vocals",
+        seoDescription:
+          "Suno AI Turns Plain Text Prompts Into Full Songs With Vocals, Styles, And Downloadable Stems, Making Rapid Music Prototyping Accessible To",
         seoKeywords: [
           "suno",
           "music",
@@ -781,15 +781,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://suno.com/",
         bgImg: "",
-        tags: ["suno", "ai", "music", "generator", "tool"],
+        tags: ["Suno", "Ai", "Music", "Generator", "Tool"],
         updateTime: "2025-12-03",
       },
       {
         name: "blackbox-ai-code-assistant",
         nameShort: "blackbox",
-        seoTitle: "Blackbox AI is a coding copilot for browser and IDE workflows",
-        setDescription:
-          "Blackbox AI is a coding copilot for browser and IDE workflows, supporting repo-aware chat, code search, and autocomplete for 200+ languages",
+        seoTitle: "Blackbox AI Is A Coding Copilot For Browser And IDE Workflows",
+        seoDescription:
+          "Blackbox AI Is A Coding Copilot For Browser And IDE Workflows, Supporting Repo-aware Chat, Code Search, And Autocomplete For 200+ Languages",
         seoKeywords: [
           "blackbox",
           "code",
@@ -806,15 +806,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.blackbox.ai/",
         bgImg: "",
-        tags: ["blackbox", "ai", "code", "assistant", "tool"],
+        tags: ["Blackbox", "Ai", "Code", "Assistant", "Tool"],
         updateTime: "2025-12-03",
       },
       {
         name: "phind-ai-coding-search",
         nameShort: "phind",
-        seoTitle: "Phind is an AI search engine for developers that pairs fast web",
-        setDescription:
-          "Phind is an AI search engine for developers that pairs fast web answers with Claude and GPT reasoning to debug, explain, and scaffold code",
+        seoTitle: "Phind Is An AI Search Engine For Developers That Pairs Fast Web",
+        seoDescription:
+          "Phind Is An AI Search Engine For Developers That Pairs Fast Web Answers With Claude And GPT Reasoning To Debug, Explain, And Scaffold Code",
         seoKeywords: [
           "phind",
           "coding",
@@ -831,7 +831,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.phind.com/",
         bgImg: "",
-        tags: ["phind", "ai", "coding", "search", "tool"],
+        tags: ["Phind", "Ai", "Coding", "Search", "Tool"],
         updateTime: "2025-12-03",
       },
     ],
@@ -840,9 +840,9 @@ export const menu: Menu[] = [
     name: "essential-office-productivity-tools",
     nameShort: "essential",
     isHomeData: true,
-    seoTitle: "Essential featuring Microsoft, Microsoft Word, Microsoft",
-    setDescription:
-      "Essential directory featuring Microsoft, Microsoft Word, Microsoft Powerpoint, Microsoft Outlook and more.",
+    seoTitle: "Essential Featuring Microsoft, Microsoft Word, Microsoft",
+    seoDescription:
+      "Essential Directory Featuring Microsoft, Microsoft Word, Microsoft Powerpoint, Microsoft Outlook And More.",
     seoKeywords: [
       "essential",
       "office",
@@ -861,9 +861,9 @@ export const menu: Menu[] = [
       {
         name: "microsoft-excel-data-analysis",
         nameShort: "microsoft",
-        seoTitle: "Microsoft Excel is leading spreadsheet software for organizing",
-        setDescription:
-          "Microsoft Excel is leading spreadsheet software for organizing data, calculating with formulas, visualizing insights, and enabling real-time",
+        seoTitle: "Microsoft Excel Is Leading Spreadsheet Software For Organizing",
+        seoDescription:
+          "Microsoft Excel Is Leading Spreadsheet Software For Organizing Data, Calculating With Formulas, Visualizing Insights, And Enabling Real-time",
         seoKeywords: [
           "microsoft",
           "excel",
@@ -881,15 +881,15 @@ export const menu: Menu[] = [
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/excel",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440623-Hero-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=770&qlt=100&fmt=png-alpha&fit=constrain",
-        tags: ["microsoft", "excel", "data", "analysis", "tool"],
+        tags: ["Microsoft", "Excel", "Data", "Analysis", "Tool"],
         updateTime: "2025-10-30",
       },
       {
         name: "microsoft-word-document-editor",
         nameShort: "microsoft-word",
-        seoTitle: "Microsoft Word is the industry-standard word processor for",
-        setDescription:
-          "Microsoft Word is the industry-standard word processor for formatting documents, checking grammar, and supporting real-time co-authoring for",
+        seoTitle: "Microsoft Word Is The Industry-Standard Word Processor For",
+        seoDescription:
+          "Microsoft Word Is The Industry-standard Word Processor For Formatting Documents, Checking Grammar, And Supporting Real-time Co-authoring For",
         seoKeywords: [
           "microsoft word",
           "microsoft",
@@ -907,15 +907,15 @@ export const menu: Menu[] = [
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/word",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440250_M365-hero-1680x628-opiton1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=725&qlt=100&fmt=png-alpha&fit=constrain",
-        tags: ["microsoft", "word", "document", "editor", "tool"],
+        tags: ["Microsoft", "Word", "Document", "Editor", "Tool"],
         updateTime: "2025-10-28",
       },
       {
         name: "microsoft-powerpoint-presentation",
         nameShort: "microsoft-powerpoint",
-        seoTitle: "Microsoft PowerPoint is a professional presentation tool for",
-        setDescription:
-          "Microsoft PowerPoint is a professional presentation tool for creating dynamic slides, adding animations, and enabling collaborative design for",
+        seoTitle: "Microsoft PowerPoint Is A Professional Presentation Tool For",
+        seoDescription:
+          "Microsoft PowerPoint Is A Professional Presentation Tool For Creating Dynamic Slides, Adding Animations, And Enabling Collaborative Design For",
         seoKeywords: [
           "microsoft powerpoint",
           "microsoft",
@@ -933,15 +933,15 @@ export const menu: Menu[] = [
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/powerpoint",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440700-M365-Hero-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=750&qlt=100&fmt=png-alpha&fit=constrain",
-        tags: ["microsoft", "powerpoint", "presentation", "tool", "platform"],
+        tags: ["Microsoft", "Powerpoint", "Presentation", "Tool", "Platform"],
         updateTime: "2025-10-25",
       },
       {
         name: "microsoft-outlook-email-calendar",
         nameShort: "microsoft-outlook",
-        seoTitle: "Microsoft Outlook is an all-in-one email and calendar tool for",
-        setDescription:
-          "Microsoft Outlook is an all-in-one email and calendar tool for managing messages, scheduling meetings, and syncing contacts seamlessly across devices",
+        seoTitle: "Microsoft Outlook Is An All-In-One Email And Calendar Tool For",
+        seoDescription:
+          "Microsoft Outlook Is An All-in-one Email And Calendar Tool For Managing Messages, Scheduling Meetings, And Syncing Contacts Seamlessly Across Devices",
         seoKeywords: [
           "microsoft outlook",
           "microsoft",
@@ -960,15 +960,15 @@ export const menu: Menu[] = [
           "https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/M365_FY26_Evergreen_ProductPage_Outlook_Header_Pedestal_Desktop_1600x632?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=770&qlt=100&fit=constrain",
-        tags: ["microsoft", "outlook", "email", "calendar", "tool"],
+        tags: ["Microsoft", "Outlook", "Email", "Calendar", "Tool"],
         updateTime: "2025-10-22",
       },
       {
         name: "microsoft-onenote-digital-notes",
         nameShort: "microsoft-onenote",
-        seoTitle: "Microsoft OneNote is a digital note-taking tool for organizing",
-        setDescription:
-          "Microsoft OneNote is a digital note-taking tool for organizing ideas, syncing across devices, and supporting collaborative editing for personal and",
+        seoTitle: "Microsoft OneNote Is A Digital Note-Taking Tool For Organizing",
+        seoDescription:
+          "Microsoft OneNote Is A Digital Note-taking Tool For Organizing Ideas, Syncing Across Devices, And Supporting Collaborative Editing For Personal And",
         seoKeywords: [
           "microsoft onenote",
           "microsoft",
@@ -986,15 +986,15 @@ export const menu: Menu[] = [
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/onenote/digital-note-taking-app",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/h1rz79f6-1-hero-photo-568x520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1360&hei=765&qlt=100&fit=constrain",
-        tags: ["microsoft", "onenote", "digital", "notes", "tool"],
+        tags: ["Microsoft", "Onenote", "Digital", "Notes", "Tool"],
         updateTime: "2025-10-18",
       },
       {
         name: "microsoft-project-enterprise-planning",
         nameShort: "microsoft-project",
-        seoTitle: "Microsoft Project is a project management tool for planning",
-        setDescription:
-          "Microsoft Project is a project management tool for planning tasks, tracking progress, and collaborating with team members efficiently for business",
+        seoTitle: "Microsoft Project Is A Project Management Tool For Planning",
+        seoDescription:
+          "Microsoft Project Is A Project Management Tool For Planning Tasks, Tracking Progress, And Collaborating With Team Members Efficiently For Business",
         seoKeywords: [
           "microsoft project",
           "microsoft",
@@ -1013,7 +1013,7 @@ export const menu: Menu[] = [
           "https://www.microsoft.com/zh-cn/microsoft-365/project/project-management-software",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-microsoft-planner-hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=4000&hei=1975&qlt=85&fmt=png-alpha&fit=constrain",
-        tags: ["microsoft", "project", "enterprise", "planning", "tool"],
+        tags: ["Microsoft", "Project", "Enterprise", "Planning", "Tool"],
         updateTime: "2025-10-05",
       },
     ],
@@ -1022,16 +1022,16 @@ export const menu: Menu[] = [
     name: "kpop-demon-hunters",
     nameShort: "kpop",
     isHomeData: true,
-    seoTitle: "Kpop featuring Kpop Wiki, Kpop Variety, Kpop Animationmag",
-    setDescription: "Kpop directory featuring Kpop Wiki, Kpop Variety, Kpop Animationmag and more.",
+    seoTitle: "Kpop Featuring Kpop Wiki, Kpop Variety, Kpop Animationmag",
+    seoDescription: "Kpop Directory Featuring Kpop Wiki, Kpop Variety, Kpop Animationmag And More.",
     seoKeywords: ["kpop", "demon", "hunters", "wikipedia", "variety", "animation", "magazine"],
     children: [
       {
         name: "kpop-demon-hunters-wikipedia",
         nameShort: "kpop-wiki",
-        seoTitle: "Kpop Wiki Wikipedia documents the K-Pop: Demon Hunters",
-        setDescription:
-          "Kpop Wiki - Wikipedia documents the K-Pop: Demon Hunters production timeline, confirmed creative team, voice cast, and plot synopsis straight from",
+        seoTitle: "Kpop Wiki Wikipedia Documents The K-Pop: Demon Hunters",
+        seoDescription:
+          "Kpop Wiki - Wikipedia Documents The K-Pop: Demon Hunters Production Timeline, Confirmed Creative Team, Voice Cast, And Plot Synopsis Straight From",
         seoKeywords: [
           "kpop wiki",
           "kpop",
@@ -1048,15 +1048,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/K-Pop:_Demon_Hunters",
         bgImg: "",
-        tags: ["kpop", "demon", "hunters", "disney", "wiki"],
+        tags: ["Kpop", "Demon", "Hunters", "Disney", "Wiki"],
         updateTime: "2025-12-08",
       },
       {
         name: "variety-kpop-demon-hunters",
         nameShort: "kpop-variety",
-        seoTitle: "Kpop Variety Variety’s Annecy coverage recaps interviews with",
-        setDescription:
-          "Kpop Variety - Variety’s Annecy coverage recaps interviews with directors Chris and Jennifer Lee, concept art reveals, and why Disney is leaning on",
+        seoTitle: "Kpop Variety Variety’S Annecy Coverage Recaps Interviews With",
+        seoDescription:
+          "Kpop Variety - Variety’s Annecy Coverage Recaps Interviews With Directors Chris And Jennifer Lee, Concept Art Reveals, And Why Disney Is Leaning On",
         seoKeywords: [
           "kpop variety",
           "variety",
@@ -1073,15 +1073,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://variety.com/2021/film/news/k-pop-demon-hunters-1234985118/",
         bgImg: "",
-        tags: ["kpop", "variety", "annecy", "disney", "film"],
+        tags: ["Kpop", "Variety", "Annecy", "Disney", "Film"],
         updateTime: "2025-12-08",
       },
       {
         name: "animation-magazine-kpop-demon-hunters",
         nameShort: "kpop-animationmag",
-        seoTitle: "Kpop Animationmag Animation Magazine’s announcement story",
-        setDescription:
-          "Kpop Animationmag - Animation Magazine’s announcement story highlights the producing team behind K-Pop: Demon Hunters and links to related Disney",
+        seoTitle: "Kpop Animationmag Animation Magazine’S Announcement Story",
+        seoDescription:
+          "Kpop Animationmag - Animation Magazine’s Announcement Story Highlights The Producing Team Behind K-Pop: Demon Hunters And Links To Related Disney",
         seoKeywords: [
           "kpop animationmag",
           "animation",
@@ -1099,7 +1099,7 @@ export const menu: Menu[] = [
         iframeUrl:
           "https://www.animationmagazine.net/2021/06/disney-announces-k-pop-demon-hunters-and-steam-bentley/",
         bgImg: "",
-        tags: ["kpop", "animation", "disney", "announcement", "film"],
+        tags: ["Kpop", "Animation", "Disney", "Announcement", "Film"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1108,8 +1108,8 @@ export const menu: Menu[] = [
     name: "grol-license-prep",
     nameShort: "grol",
     isHomeData: true,
-    seoTitle: "Grol featuring Fcc Grol, Qrz Grol, Grol Guide",
-    setDescription: "Grol directory featuring Fcc Grol, Qrz Grol, Grol Guide and more.",
+    seoTitle: "Grol Featuring Fcc Grol, Qrz Grol, Grol Guide",
+    seoDescription: "Grol Directory Featuring Fcc Grol, Qrz Grol, Grol Guide And More.",
     seoKeywords: [
       "grol",
       "license",
@@ -1125,9 +1125,9 @@ export const menu: Menu[] = [
       {
         name: "fcc-grol-overview",
         nameShort: "fcc-grol",
-        seoTitle: "Fcc Grol The FCC’s commercial operator portal lists General",
-        setDescription:
-          "Fcc Grol - The FCC’s commercial operator portal lists General Radiotelephone Operator License eligibility, Element 1/3/8 requirements, and all",
+        seoTitle: "Fcc Grol The FCC’S Commercial Operator Portal Lists General",
+        seoDescription:
+          "Fcc Grol - The FCC’s Commercial Operator Portal Lists General Radiotelephone Operator License Eligibility, Element 1/3/8 Requirements, And All",
         seoKeywords: [
           "fcc grol",
           "fcc",
@@ -1144,15 +1144,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.fcc.gov/commercial-radio-operator-license-program",
         bgImg: "",
-        tags: ["grol", "fcc", "license", "element", "guide"],
+        tags: ["Grol", "Fcc", "License", "Element", "Guide"],
         updateTime: "2025-12-08",
       },
       {
         name: "qrz-grol-practice",
         nameShort: "qrz-grol",
-        seoTitle: "QRZ’s browser-based simulator lets you drill the entire question",
-        setDescription:
-          "Qrz Grol - QRZ’s browser-based simulator lets you drill the entire question pool for GROL Elements 1, 3, and 8 with instant grading and answer",
+        seoTitle: "QRZ’S Browser-Based Simulator Lets You Drill The Entire Question",
+        seoDescription:
+          "Qrz Grol - QRZ’s Browser-based Simulator Lets You Drill The Entire Question Pool For GROL Elements 1, 3, And 8 With Instant Grading And Answer",
         seoKeywords: [
           "qrz grol",
           "qrz",
@@ -1169,15 +1169,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.qrz.com/hamtest/grol",
         bgImg: "",
-        tags: ["grol", "practice", "exam", "qrz", "radio"],
+        tags: ["Grol", "Practice", "Exam", "Qrz", "Radio"],
         updateTime: "2025-12-08",
       },
       {
         name: "coastguardexams-grol-guide",
         nameShort: "grol-guide",
-        seoTitle: "Grol Guide Coast Guard Exams outlines study schedules",
-        setDescription:
-          "Grol Guide - Coast Guard Exams outlines study schedules, recommended texts, and in-person test center logistics for mariners earning the FCC GROL",
+        seoTitle: "Grol Guide Coast Guard Exams Outlines Study Schedules",
+        seoDescription:
+          "Grol Guide - Coast Guard Exams Outlines Study Schedules, Recommended Texts, And In-person Test Center Logistics For Mariners Earning The FCC GROL",
         seoKeywords: [
           "grol guide",
           "coastguardexams",
@@ -1194,7 +1194,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.coastguardexams.com/grol-license.html",
         bgImg: "",
-        tags: ["grol", "study", "guide", "maritime", "license"],
+        tags: ["Grol", "Study", "Guide", "Maritime", "License"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1203,17 +1203,17 @@ export const menu: Menu[] = [
     name: "nintendo-switch-2",
     nameShort: "switch2",
     isHomeData: true,
-    seoTitle: "Switch2 featuring Tomsguide Switch2, Vgc Switch2, Gamesradar",
-    setDescription:
-      "Switch2 directory featuring Tomsguide Switch2, Vgc Switch2, Gamesradar Switch2 and more.",
+    seoTitle: "Switch2 Featuring Tomsguide Switch2, Vgc Switch2, Gamesradar",
+    seoDescription:
+      "Switch2 Directory Featuring Tomsguide Switch2, Vgc Switch2, Gamesradar Switch2 And More.",
     seoKeywords: ["switch2", "nintendo", "switch", "tomsguide", "vgc", "gamesradar"],
     children: [
       {
         name: "tomsguide-nintendo-switch-2",
         nameShort: "tomsguide-switch2",
-        seoTitle: "Tomsguide Switch2 Tom’s Guide tracks every Switch 2 leak, from",
-        setDescription:
-          "Tomsguide Switch2 - Tom’s Guide tracks every Switch 2 leak, from rumored release windows to Nvidia silicon chatter and developer kits spotted in",
+        seoTitle: "Tomsguide Switch2 Tom’S Guide Tracks Every Switch 2 Leak, From",
+        seoDescription:
+          "Tomsguide Switch2 - Tom’s Guide Tracks Every Switch 2 Leak, From Rumored Release Windows To Nvidia Silicon Chatter And Developer Kits Spotted In",
         seoKeywords: [
           "tomsguide switch2",
           "tomsguide",
@@ -1230,15 +1230,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.tomsguide.com/news/nintendo-switch-2",
         bgImg: "",
-        tags: ["nintendo", "switch2", "rumors", "tomsguide", "console"],
+        tags: ["Nintendo", "Switch2", "Rumors", "Tomsguide", "Console"],
         updateTime: "2025-12-08",
       },
       {
         name: "vgc-nintendo-switch-2",
         nameShort: "vgc-switch2",
-        seoTitle: "Vgc Switch2 Video Games Chronicle’s hub aggregates insider",
-        setDescription:
-          "Vgc Switch2 - Video Games Chronicle’s hub aggregates insider reporting on Switch successor specs, backwards compatibility, and partner studios already",
+        seoTitle: "Vgc Switch2 Video Games Chronicle’S Hub Aggregates Insider",
+        seoDescription:
+          "Vgc Switch2 - Video Games Chronicle’s Hub Aggregates Insider Reporting On Switch Successor Specs, Backwards Compatibility, And Partner Studios Already",
         seoKeywords: [
           "vgc switch2",
           "vgc",
@@ -1255,15 +1255,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.videogameschronicle.com/features/nintendo-switch-2/",
         bgImg: "",
-        tags: ["nintendo", "switch2", "vgc", "hardware", "leaks"],
+        tags: ["Nintendo", "Switch2", "Vgc", "Hardware", "Leaks"],
         updateTime: "2025-12-08",
       },
       {
         name: "gamesradar-nintendo-switch-2",
         nameShort: "gamesradar-switch2",
-        seoTitle: "GamesRadar keeps a running FAQ covering Switch 2 design patents",
-        setDescription:
-          "Gamesradar Switch2 - GamesRadar keeps a running FAQ covering Switch 2 design patents, Joy-Con revamps, dev comments, and how it stacks up against",
+        seoTitle: "GamesRadar Keeps A Running FAQ Covering Switch 2 Design Patents",
+        seoDescription:
+          "Gamesradar Switch2 - GamesRadar Keeps A Running FAQ Covering Switch 2 Design Patents, Joy-Con Revamps, Dev Comments, And How It Stacks Up Against",
         seoKeywords: [
           "gamesradar switch2",
           "gamesradar",
@@ -1280,7 +1280,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gamesradar.com/nintendo-switch-2/",
         bgImg: "",
-        tags: ["nintendo", "switch2", "gamesradar", "specs", "news"],
+        tags: ["Nintendo", "Switch2", "Gamesradar", "Specs", "News"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1289,9 +1289,9 @@ export const menu: Menu[] = [
     name: "wicked-for-good",
     nameShort: "for-good",
     isHomeData: true,
-    seoTitle: "For Good featuring Wicked Site, For Good Wiki, For Good Genius",
-    setDescription:
-      "For Good directory featuring Wicked Site, For Good Wiki, For Good Genius and more.",
+    seoTitle: "For Good Featuring Wicked Site, For Good Wiki, For Good Genius",
+    seoDescription:
+      "For Good Directory Featuring Wicked Site, For Good Wiki, For Good Genius And More.",
     seoKeywords: [
       "for good",
       "wicked",
@@ -1306,9 +1306,9 @@ export const menu: Menu[] = [
       {
         name: "wicked-official-site",
         nameShort: "wicked-site",
-        seoTitle: "Wicked Site The official Wicked site posts touring schedules",
-        setDescription:
-          "The official Wicked site posts touring schedules, behind-the-scenes clips, and performance notes for “For Good�?ahead of the two-part film release",
+        seoTitle: "Wicked Site The Official Wicked Site Posts Touring Schedules",
+        seoDescription:
+          "The Official Wicked Site Posts Touring Schedules, Behind-the-scenes Clips, And Performance Notes For “For Good�?ahead Of The Two-part Film Release",
         seoKeywords: [
           "wicked site",
           "wicked",
@@ -1325,15 +1325,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://wickedthemusical.com/",
         bgImg: "",
-        tags: ["wicked", "for-good", "musical", "broadway", "official"],
+        tags: ["Wicked", "For-good", "Musical", "Broadway", "Official"],
         updateTime: "2025-12-08",
       },
       {
         name: "for-good-wikipedia",
         nameShort: "for-good-wiki",
-        seoTitle: "For Good Wiki Wikipedia’s “For Good�?entry outlines the song’s",
-        setDescription:
-          "For Good Wiki - Wikipedia’s “For Good�?entry outlines the song’s context in Act II, lyrical themes, and key recordings by Idina Menzel and Kristin",
+        seoTitle: "For Good Wiki Wikipedia’S “For Good�?Entry Outlines The Song’S",
+        seoDescription:
+          "For Good Wiki - Wikipedia’s “For Good�?entry Outlines The Song’s Context In Act II, Lyrical Themes, And Key Recordings By Idina Menzel And Kristin",
         seoKeywords: [
           "for good wiki",
           "good",
@@ -1350,15 +1350,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/For_Good",
         bgImg: "",
-        tags: ["wicked", "for-good", "wiki", "lyrics", "history"],
+        tags: ["Wicked", "For-good", "Wiki", "Lyrics", "History"],
         updateTime: "2025-12-08",
       },
       {
         name: "for-good-genius-lyrics",
         nameShort: "for-good-genius",
-        seoTitle: "For Good Genius Genius provides annotated “For Good�?lyrics with",
-        setDescription:
-          "For Good Genius - Genius provides annotated “For Good�?lyrics with community notes on harmonies, chord progressions, and how the duet has evolved in",
+        seoTitle: "For Good Genius Genius Provides Annotated “For Good�?Lyrics With",
+        seoDescription:
+          "For Good Genius - Genius Provides Annotated “For Good�?lyrics With Community Notes On Harmonies, Chord Progressions, And How The Duet Has Evolved In",
         seoKeywords: [
           "for good genius",
           "good",
@@ -1375,7 +1375,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://genius.com/Idina-menzel-and-kristin-chenoweth-for-good-lyrics",
         bgImg: "",
-        tags: ["wicked", "for-good", "lyrics", "genius", "music"],
+        tags: ["Wicked", "For-good", "Lyrics", "Genius", "Music"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1384,8 +1384,8 @@ export const menu: Menu[] = [
     name: "welcome-to-derry",
     nameShort: "derry",
     isHomeData: true,
-    seoTitle: "Derry featuring Derry Wiki, Derry Thr, Derry Fandom",
-    setDescription: "Derry directory featuring Derry Wiki, Derry Thr, Derry Fandom and more.",
+    seoTitle: "Derry Featuring Derry Wiki, Derry Thr, Derry Fandom",
+    seoDescription: "Derry Directory Featuring Derry Wiki, Derry Thr, Derry Fandom And More.",
     seoKeywords: [
       "derry",
       "welcome",
@@ -1399,9 +1399,9 @@ export const menu: Menu[] = [
       {
         name: "welcome-to-derry-wikipedia",
         nameShort: "derry-wiki",
-        seoTitle: "Derry Wiki Wikipedia covers the IT prequel’s showrunners",
-        setDescription:
-          "Derry Wiki - Wikipedia covers the IT prequel’s showrunners, returning cast members, production timeline, and how the Max series ties into Andy",
+        seoTitle: "Derry Wiki Wikipedia Covers The IT Prequel’S Showrunners",
+        seoDescription:
+          "Derry Wiki - Wikipedia Covers The IT Prequel’s Showrunners, Returning Cast Members, Production Timeline, And How The Max Series Ties Into Andy",
         seoKeywords: [
           "derry wiki",
           "welcome",
@@ -1418,15 +1418,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/Welcome_to_Derry",
         bgImg: "",
-        tags: ["welcome", "derry", "wiki", "it", "series"],
+        tags: ["Welcome", "Derry", "Wiki", "It", "Series"],
         updateTime: "2025-12-08",
       },
       {
         name: "hollywood-reporter-welcome-to-derry",
         nameShort: "derry-thr",
-        seoTitle: "Derry Thr The Hollywood Reporter’s exclusive dives into HBO’s",
-        setDescription:
-          "Derry Thr - The Hollywood Reporter’s exclusive dives into HBO’s episode order, Pennywise flashbacks, and quotes from the producing team about",
+        seoTitle: "Derry Thr The Hollywood Reporter’S Exclusive Dives Into HBO’S",
+        seoDescription:
+          "Derry Thr - The Hollywood Reporter’s Exclusive Dives Into HBO’s Episode Order, Pennywise Flashbacks, And Quotes From The Producing Team About",
         seoKeywords: [
           "derry thr",
           "hollywood",
@@ -1444,15 +1444,15 @@ export const menu: Menu[] = [
         iframeUrl:
           "https://www.hollywoodreporter.com/tv/tv-news/it-prequel-welcome-to-derry-1235436560/",
         bgImg: "",
-        tags: ["welcome", "derry", "thr", "hbo", "news"],
+        tags: ["Welcome", "Derry", "Thr", "Hbo", "News"],
         updateTime: "2025-12-08",
       },
       {
         name: "stephenking-fandom-welcome-to-derry",
         nameShort: "derry-fandom",
-        seoTitle: "Derry Fandom The Stephen King Wiki catalogues canon references",
-        setDescription:
-          "Derry Fandom - The Stephen King Wiki catalogues canon references, known episode titles, and lore connections fans expect the series to cover",
+        seoTitle: "Derry Fandom The Stephen King Wiki Catalogues Canon References",
+        seoDescription:
+          "Derry Fandom - The Stephen King Wiki Catalogues Canon References, Known Episode Titles, And Lore Connections Fans Expect The Series To Cover",
         seoKeywords: [
           "derry fandom",
           "stephenking",
@@ -1469,7 +1469,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://stephenking.fandom.com/wiki/Welcome_to_Derry",
         bgImg: "",
-        tags: ["welcome", "derry", "fandom", "stephen-king", "lore"],
+        tags: ["Welcome", "Derry", "Fandom", "Stephen-king", "Lore"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1478,17 +1478,17 @@ export const menu: Menu[] = [
     name: "zootopia-2",
     nameShort: "zootopia2",
     isHomeData: true,
-    seoTitle: "Zootopia2 featuring Zootopia2 Wiki, Zootopia2 Wodp, Zootopia2",
-    setDescription:
-      "Zootopia2 directory featuring Zootopia2 Wiki, Zootopia2 Wodp, Zootopia2 Screenrant and more.",
+    seoTitle: "Zootopia2 Featuring Zootopia2 Wiki, Zootopia2 Wodp, Zootopia2",
+    seoDescription:
+      "Zootopia2 Directory Featuring Zootopia2 Wiki, Zootopia2 Wodp, Zootopia2 Screenrant And More.",
     seoKeywords: ["zootopia2", "zootopia", "wikipedia", "whatsondisneyplus", "screenrant"],
     children: [
       {
         name: "zootopia-2-wikipedia",
         nameShort: "zootopia2-wiki",
-        seoTitle: "Zootopia2 Wiki Wikipedia keeps a running list of Zootopia 2",
-        setDescription:
-          "Zootopia2 Wiki - Wikipedia keeps a running list of Zootopia 2 writers, release plans, and any public comments from Disney Animation or cast members",
+        seoTitle: "Zootopia2 Wiki Wikipedia Keeps A Running List Of Zootopia 2",
+        seoDescription:
+          "Zootopia2 Wiki - Wikipedia Keeps A Running List Of Zootopia 2 Writers, Release Plans, And Any Public Comments From Disney Animation Or Cast Members",
         seoKeywords: [
           "zootopia2 wiki",
           "zootopia",
@@ -1505,15 +1505,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/Zootopia_2",
         bgImg: "",
-        tags: ["zootopia2", "wiki", "disney", "film", "sequel"],
+        tags: ["Zootopia2", "Wiki", "Disney", "Film", "Sequel"],
         updateTime: "2025-12-08",
       },
       {
         name: "whatsondisneyplus-zootopia-2",
         nameShort: "zootopia2-wodp",
-        seoTitle: "Zootopia2 Wodp What’s On Disney Plus aggregates every official",
-        setDescription:
-          "Zootopia2 Wodp - What’s On Disney Plus aggregates every official mention of Zootopia 2, from investor-day slides to cast interviews and teaser footage",
+        seoTitle: "Zootopia2 Wodp What’S On Disney Plus Aggregates Every Official",
+        seoDescription:
+          "Zootopia2 Wodp - What’s On Disney Plus Aggregates Every Official Mention Of Zootopia 2, From Investor-day Slides To Cast Interviews And Teaser Footage",
         seoKeywords: [
           "zootopia2 wodp",
           "whatsondisneyplus",
@@ -1530,15 +1530,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://whatsondisneyplus.com/tag/zootopia-2/",
         bgImg: "",
-        tags: ["zootopia2", "disneyplus", "news", "streaming", "animation"],
+        tags: ["Zootopia2", "Disneyplus", "News", "Streaming", "Animation"],
         updateTime: "2025-12-08",
       },
       {
         name: "screenrant-zootopia-2",
         nameShort: "zootopia2-screenrant",
-        seoTitle: "Zootopia2 Screenrant Screen Rant’s topic page rounds up",
-        setDescription:
-          "Zootopia2 Screenrant - Screen Rant’s topic page rounds up speculation on storylines, new districts in Zootopia, and returning voice talent",
+        seoTitle: "Zootopia2 Screenrant Screen Rant’S Topic Page Rounds Up",
+        seoDescription:
+          "Zootopia2 Screenrant - Screen Rant’s Topic Page Rounds Up Speculation On Storylines, New Districts In Zootopia, And Returning Voice Talent",
         seoKeywords: [
           "zootopia2 screenrant",
           "screenrant",
@@ -1555,7 +1555,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://screenrant.com/tag/zootopia-2/",
         bgImg: "",
-        tags: ["zootopia2", "screenrant", "rumors", "movie", "news"],
+        tags: ["Zootopia2", "Screenrant", "Rumors", "Movie", "News"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1564,9 +1564,9 @@ export const menu: Menu[] = [
     name: "stranger-things-season5",
     nameShort: "stranger-things",
     isHomeData: true,
-    seoTitle: "Stranger Things featuring St5 Wiki, St5 Tudum, St5 Gamesradar",
-    setDescription:
-      "Stranger Things directory featuring St5 Wiki, St5 Tudum, St5 Gamesradar and more.",
+    seoTitle: "Stranger Things Featuring St5 Wiki, St5 Tudum, St5 Gamesradar",
+    seoDescription:
+      "Stranger Things Directory Featuring St5 Wiki, St5 Tudum, St5 Gamesradar And More.",
     seoKeywords: [
       "stranger things",
       "stranger",
@@ -1581,9 +1581,9 @@ export const menu: Menu[] = [
       {
         name: "stranger-things-season5-wikipedia",
         nameShort: "st5-wiki",
-        seoTitle: "St5 Wiki Wikipedia details the final season’s episode list",
-        setDescription:
-          "St5 Wiki - Wikipedia details the final season’s episode list, filming schedule, and confirmed directors, keeping tabs on production pauses",
+        seoTitle: "St5 Wiki Wikipedia Details The Final Season’S Episode List",
+        seoDescription:
+          "St5 Wiki - Wikipedia Details The Final Season’s Episode List, Filming Schedule, And Confirmed Directors, Keeping Tabs On Production Pauses",
         seoKeywords: [
           "st5 wiki",
           "stranger",
@@ -1600,15 +1600,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/Stranger_Things_(season_5)",
         bgImg: "",
-        tags: ["stranger-things", "season5", "wiki", "netflix", "tv"],
+        tags: ["Stranger-things", "Season5", "Wiki", "Netflix", "Tv"],
         updateTime: "2025-12-08",
       },
       {
         name: "netflix-tudum-stranger-things",
         nameShort: "st5-tudum",
-        seoTitle: "St5 Tudum Netflix Tudum’s guide posts official teasers",
-        setDescription:
-          "St5 Tudum - Netflix Tudum’s guide posts official teasers, table-read photos, and quotes from the Duffer Brothers about how the finale is structured",
+        seoTitle: "St5 Tudum Netflix Tudum’S Guide Posts Official Teasers",
+        seoDescription:
+          "St5 Tudum - Netflix Tudum’s Guide Posts Official Teasers, Table-read Photos, And Quotes From The Duffer Brothers About How The Finale Is Structured",
         seoKeywords: [
           "st5 tudum",
           "netflix",
@@ -1625,15 +1625,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.netflix.com/tudum/articles/stranger-things-season-5-guide",
         bgImg: "",
-        tags: ["stranger-things", "season5", "netflix", "tudum", "insights"],
+        tags: ["Stranger-things", "Season5", "Netflix", "Tudum", "Insights"],
         updateTime: "2025-12-08",
       },
       {
         name: "gamesradar-stranger-things-season5",
         nameShort: "st5-gamesradar",
-        seoTitle: "St5 Gamesradar GamesRadar aggregates spoiler-free set reports",
-        setDescription:
-          "St5 Gamesradar - GamesRadar aggregates spoiler-free set reports, casting scoops, and timeline predictions for the Stranger Things finale",
+        seoTitle: "St5 Gamesradar GamesRadar Aggregates Spoiler-Free Set Reports",
+        seoDescription:
+          "St5 Gamesradar - GamesRadar Aggregates Spoiler-free Set Reports, Casting Scoops, And Timeline Predictions For The Stranger Things Finale",
         seoKeywords: [
           "st5 gamesradar",
           "gamesradar",
@@ -1650,7 +1650,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gamesradar.com/stranger-things-season-5/",
         bgImg: "",
-        tags: ["stranger-things", "season5", "gamesradar", "news", "tv"],
+        tags: ["Stranger-things", "Season5", "Gamesradar", "News", "Tv"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1659,17 +1659,17 @@ export const menu: Menu[] = [
     name: "lane-kiffin",
     nameShort: "kiffin",
     isHomeData: true,
-    seoTitle: "Kiffin featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats",
-    setDescription:
-      "Kiffin directory featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats and more.",
+    seoTitle: "Kiffin Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats",
+    seoDescription:
+      "Kiffin Directory Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats And More.",
     seoKeywords: ["kiffin", "lane", "wikipedia", "olemiss", "staff", "sports", "reference"],
     children: [
       {
         name: "lane-kiffin-wikipedia",
         nameShort: "kiffin-wiki",
-        seoTitle: "Kiffin Wiki Lane Kiffin’s Wikipedia profile covers every stop on",
-        setDescription:
-          "Kiffin Wiki - Lane Kiffin’s Wikipedia profile covers every stop on his coaching tree, head-coaching record, and notable scheme changes",
+        seoTitle: "Kiffin Wiki Lane Kiffin’S Wikipedia Profile Covers Every Stop On",
+        seoDescription:
+          "Kiffin Wiki - Lane Kiffin’s Wikipedia Profile Covers Every Stop On His Coaching Tree, Head-coaching Record, And Notable Scheme Changes",
         seoKeywords: [
           "kiffin wiki",
           "lane",
@@ -1686,15 +1686,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/Lane_Kiffin",
         bgImg: "",
-        tags: ["lane-kiffin", "wiki", "coach", "college", "football"],
+        tags: ["Lane-kiffin", "Wiki", "Coach", "College", "Football"],
         updateTime: "2025-12-08",
       },
       {
         name: "olemiss-staff-lane-kiffin",
         nameShort: "kiffin-olemiss",
-        seoTitle: "Kiffin Olemiss Ole Miss Athletics lists Kiffin’s current",
-        setDescription:
-          "Kiffin Olemiss - Ole Miss Athletics lists Kiffin’s current responsibilities, contract milestones, and contact details inside the university directory",
+        seoTitle: "Kiffin Olemiss Ole Miss Athletics Lists Kiffin’S Current",
+        seoDescription:
+          "Kiffin Olemiss - Ole Miss Athletics Lists Kiffin’s Current Responsibilities, Contract Milestones, And Contact Details Inside The University Directory",
         seoKeywords: [
           "kiffin olemiss",
           "olemiss",
@@ -1711,15 +1711,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://olemisssports.com/staff-directory/lane-kiffin/3386",
         bgImg: "",
-        tags: ["lane-kiffin", "ole-miss", "staff", "sec", "profile"],
+        tags: ["Lane-kiffin", "Ole-miss", "Staff", "Sec", "Profile"],
         updateTime: "2025-12-08",
       },
       {
         name: "sports-reference-lane-kiffin",
         nameShort: "kiffin-stats",
-        seoTitle: "Kiffin Stats Sports Reference breaks down Kiffin’s year-by-year",
-        setDescription:
-          "Kiffin Stats - Sports Reference breaks down Kiffin’s year-by-year records, bowl appearances, and offensive rankings across his head-coaching tenure",
+        seoTitle: "Kiffin Stats Sports Reference Breaks Down Kiffin’S Year-By-Year",
+        seoDescription:
+          "Kiffin Stats - Sports Reference Breaks Down Kiffin’s Year-by-year Records, Bowl Appearances, And Offensive Rankings Across His Head-coaching Tenure",
         seoKeywords: [
           "kiffin stats",
           "sports",
@@ -1736,7 +1736,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.sports-reference.com/cfb/coaches/lane-kiffin-1.html",
         bgImg: "",
-        tags: ["lane-kiffin", "stats", "cfb", "records", "history"],
+        tags: ["Lane-kiffin", "Stats", "Cfb", "Records", "History"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1745,16 +1745,16 @@ export const menu: Menu[] = [
     name: "tiempo-de-manana",
     nameShort: "tiempo",
     isHomeData: true,
-    seoTitle: "Tiempo featuring Accuweather Es, Eltiempo, Meteored",
-    setDescription: "Tiempo directory featuring Accuweather Es, Eltiempo, Meteored and more.",
+    seoTitle: "Tiempo Featuring Accuweather Es, Eltiempo, Meteored",
+    seoDescription: "Tiempo Directory Featuring Accuweather Es, Eltiempo, Meteored And More.",
     seoKeywords: ["tiempo", "manana", "accuweather", "espanol", "eltiempo", "meteored", "global"],
     children: [
       {
         name: "accuweather-espanol",
         nameShort: "accuweather-es",
-        seoTitle: "AccuWeather en Español ofrece pronósticos por hora y alertas de",
-        setDescription:
-          "Accuweather Es - AccuWeather en Español ofrece pronósticos por hora y alertas de lluvia para mañana con radar interactivo configurable por ciudad",
+        seoTitle: "AccuWeather En EspañOl Ofrece PronóSticos Por Hora Y Alertas De",
+        seoDescription:
+          "Accuweather Es - AccuWeather En Español Ofrece Pronósticos Por Hora Y Alertas De Lluvia Para Mañana Con Radar Interactivo Configurable Por Ciudad",
         seoKeywords: [
           "accuweather es",
           "accuweather",
@@ -1771,29 +1771,29 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.accuweather.com/es",
         bgImg: "",
-        tags: ["tiempo", "manana", "accuweather", "pronostico", "clima"],
+        tags: ["Tiempo", "Manana", "Accuweather", "Pronostico", "Clima"],
         updateTime: "2025-12-08",
       },
       {
         name: "eltiempo-es",
         nameShort: "eltiempo",
         seoTitle: "ElTiempo",
-        setDescription: "ElTiempo",
+        seoDescription: "ElTiempo",
         seoKeywords: ["eltiempo", "tiempo", "pronostico", "espana", "manana", "clima"],
         iframeUrl: "https://www.eltiempo.es/",
         bgImg: "",
-        tags: ["tiempo", "pronostico", "espana", "manana", "clima"],
+        tags: ["Tiempo", "Pronostico", "Espana", "Manana", "Clima"],
         updateTime: "2025-12-08",
       },
       {
         name: "meteored-global",
         nameShort: "meteored",
         seoTitle: "Meteored (Tiempo",
-        setDescription: "Meteored (Tiempo",
+        seoDescription: "Meteored (Tiempo",
         seoKeywords: ["meteored", "global", "tiempo", "manana", "clima", "alertas"],
         iframeUrl: "https://www.meteored.com/",
         bgImg: "",
-        tags: ["tiempo", "meteored", "manana", "clima", "alertas"],
+        tags: ["Tiempo", "Meteored", "Manana", "Clima", "Alertas"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1802,16 +1802,16 @@ export const menu: Menu[] = [
     name: "tvapp",
     nameShort: "tvapp",
     isHomeData: true,
-    seoTitle: "Tvapp featuring Apple Tv, Youtube Tv, Plex Tv",
-    setDescription: "Tvapp directory featuring Apple Tv, Youtube Tv, Plex Tv and more.",
+    seoTitle: "Tvapp Featuring Apple Tv, Youtube Tv, Plex Tv",
+    seoDescription: "Tvapp Directory Featuring Apple Tv, Youtube Tv, Plex Tv And More.",
     seoKeywords: ["tvapp", "apple", "youtube", "plex"],
     children: [
       {
         name: "apple-tv-app",
         nameShort: "apple-tv",
-        seoTitle: "Apple’s TV app centralizes Apple TV+, MLS Season Pass, and",
-        setDescription:
-          "Apple’s TV app centralizes Apple TV+, MLS Season Pass, and channel add-ons with profiles, Up Next queues, and device syncing",
+        seoTitle: "Apple’S TV App Centralizes Apple TV+, MLS Season Pass, And",
+        seoDescription:
+          "Apple’s TV App Centralizes Apple TV+, MLS Season Pass, And Channel Add-ons With Profiles, Up Next Queues, And Device Syncing",
         seoKeywords: [
           "apple tv",
           "apple",
@@ -1828,15 +1828,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tv.apple.com/",
         bgImg: "",
-        tags: ["tvapp", "apple", "streaming", "tv", "app"],
+        tags: ["Tvapp", "Apple", "Streaming", "Tv", "App"],
         updateTime: "2025-12-08",
       },
       {
         name: "youtube-tvapp",
         nameShort: "youtube-tv",
-        seoTitle: "YouTube TV’s welcome hub outlines channel lineups, multiview, 4K",
-        setDescription:
-          "YouTube TV’s welcome hub outlines channel lineups, multiview, 4K add-ons, and how to run the TV app on smart TVs or Chromecasts",
+        seoTitle: "YouTube TV’S Welcome Hub Outlines Channel Lineups, Multiview, 4K",
+        seoDescription:
+          "YouTube TV’s Welcome Hub Outlines Channel Lineups, Multiview, 4K Add-ons, And How To Run The TV App On Smart TVs Or Chromecasts",
         seoKeywords: [
           "youtube tv",
           "youtube",
@@ -1853,15 +1853,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tv.youtube.com/welcome/",
         bgImg: "",
-        tags: ["tvapp", "youtube", "live-tv", "cloud-dvr", "streaming"],
+        tags: ["Tvapp", "Youtube", "Live-tv", "Cloud-dvr", "Streaming"],
         updateTime: "2025-12-08",
       },
       {
         name: "plex-tvapp",
         nameShort: "plex-tv",
-        seoTitle: "Plex’s TV app streams free ad-supported live channels plus",
-        setDescription:
-          "Plex Tv - Plex’s TV app streams free ad-supported live channels plus on-demand movies, and it can merge with your personal media server",
+        seoTitle: "Plex’S TV App Streams Free Ad-Supported Live Channels Plus",
+        seoDescription:
+          "Plex Tv - Plex’s TV App Streams Free Ad-supported Live Channels Plus On-demand Movies, And It Can Merge With Your Personal Media Server",
         seoKeywords: [
           "plex tv",
           "plex",
@@ -1878,7 +1878,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.plex.tv/watch-free-tv/",
         bgImg: "",
-        tags: ["tvapp", "plex", "fast", "streaming", "live-tv"],
+        tags: ["Tvapp", "Plex", "Fast", "Streaming", "Live-tv"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1887,8 +1887,8 @@ export const menu: Menu[] = [
     name: "ai-detection-tools",
     nameShort: "ai-detector",
     isHomeData: true,
-    seoTitle: "AI Detector featuring Gptzero, Zerogpt, Contentatscale",
-    setDescription: "AI Detector directory featuring Gptzero, Zerogpt, Contentatscale and more.",
+    seoTitle: "AI Detector Featuring Gptzero, Zerogpt, Contentatscale",
+    seoDescription: "AI Detector Directory Featuring Gptzero, Zerogpt, Contentatscale And More.",
     seoKeywords: [
       "ai detector",
       "detection",
@@ -1903,9 +1903,9 @@ export const menu: Menu[] = [
       {
         name: "gptzero-ai-detector",
         nameShort: "gptzero",
-        seoTitle: "GPTZero analyzes burstiness and perplexity to label AI-generated",
-        setDescription:
-          "GPTZero analyzes burstiness and perplexity to label AI-generated essays, offering batch uploads and LMS integrations",
+        seoTitle: "GPTZero Analyzes Burstiness And Perplexity To Label AI-Generated",
+        seoDescription:
+          "GPTZero Analyzes Burstiness And Perplexity To Label AI-generated Essays, Offering Batch Uploads And LMS Integrations",
         seoKeywords: [
           "gptzero",
           "detector",
@@ -1922,15 +1922,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://gptzero.me/",
         bgImg: "",
-        tags: ["ai-detector", "gptzero", "plagiarism", "education", "tool"],
+        tags: ["Ai-detector", "Gptzero", "Plagiarism", "Education", "Tool"],
         updateTime: "2025-12-08",
       },
       {
         name: "zerogpt-ai-checker",
         nameShort: "zerogpt",
-        seoTitle: "ZeroGPT supports 50+ languages, highlighting suspicious",
-        setDescription:
-          "ZeroGPT supports 50+ languages, highlighting suspicious sentences and exporting reports useful for compliance teams",
+        seoTitle: "ZeroGPT Supports 50+ Languages, Highlighting Suspicious",
+        seoDescription:
+          "ZeroGPT Supports 50+ Languages, Highlighting Suspicious Sentences And Exporting Reports Useful For Compliance Teams",
         seoKeywords: [
           "zerogpt",
           "checker",
@@ -1947,15 +1947,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.zerogpt.com/",
         bgImg: "",
-        tags: ["ai-checker", "zerogpt", "content", "compliance", "tool"],
+        tags: ["Ai-checker", "Zerogpt", "Content", "Compliance", "Tool"],
         updateTime: "2025-12-08",
       },
       {
         name: "content-at-scale-ai-detector",
         nameShort: "contentatscale",
-        seoTitle: "Contentatscale Content at Scale’s detector scores text against",
-        setDescription:
-          "Contentatscale - Content at Scale’s detector scores text against multiple LLM fingerprints and provides rewrite suggestions to improve human tone",
+        seoTitle: "Contentatscale Content At Scale’S Detector Scores Text Against",
+        seoDescription:
+          "Contentatscale - Content At Scale’s Detector Scores Text Against Multiple LLM Fingerprints And Provides Rewrite Suggestions To Improve Human Tone",
         seoKeywords: [
           "contentatscale",
           "content",
@@ -1972,7 +1972,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://contentatscale.ai/ai-content-detector/",
         bgImg: "",
-        tags: ["ai-detector", "content", "scale", "rewrites", "tool"],
+        tags: ["Ai-detector", "Content", "Scale", "Rewrites", "Tool"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1981,9 +1981,9 @@ export const menu: Menu[] = [
     name: "eagles-vs-cowboys",
     nameShort: "eagles-cowboys",
     isHomeData: true,
-    seoTitle: "Eagles Cowboys featuring Statmuse Rivalry, Pfr Rivalry, Nfl",
-    setDescription:
-      "Eagles Cowboys directory featuring Statmuse Rivalry, Pfr Rivalry, Nfl Highlights and more.",
+    seoTitle: "Eagles Cowboys Featuring Statmuse Rivalry, Pfr Rivalry, Nfl",
+    seoDescription:
+      "Eagles Cowboys Directory Featuring Statmuse Rivalry, Pfr Rivalry, Nfl Highlights And More.",
     seoKeywords: [
       "eagles cowboys",
       "eagles",
@@ -1999,9 +1999,9 @@ export const menu: Menu[] = [
       {
         name: "statmuse-eagles-cowboys-record",
         nameShort: "statmuse-rivalry",
-        seoTitle: "Statmuse generates instant head-to-head charts, margins, and",
-        setDescription:
-          "Statmuse Rivalry - Statmuse generates instant head-to-head charts, margins, and season splits for every Eagles vs",
+        seoTitle: "Statmuse Generates Instant Head-To-Head Charts, Margins, And",
+        seoDescription:
+          "Statmuse Rivalry - Statmuse Generates Instant Head-to-head Charts, Margins, And Season Splits For Every Eagles Vs",
         seoKeywords: [
           "statmuse rivalry",
           "statmuse",
@@ -2018,15 +2018,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.statmuse.com/nfl/ask?q=eagles+vs+cowboys+record",
         bgImg: "",
-        tags: ["eagles", "cowboys", "statmuse", "record", "rivalry"],
+        tags: ["Eagles", "Cowboys", "Statmuse", "Record", "Rivalry"],
         updateTime: "2025-12-08",
       },
       {
         name: "pfr-eagles-cowboys-history",
         nameShort: "pfr-rivalry",
-        seoTitle: "Pfr Rivalry Pro Football Reference lists every box score between",
-        setDescription:
-          "Pfr Rivalry - Pro Football Reference lists every box score between Dallas and Philadelphia with filters for playoffs, primetime, or location",
+        seoTitle: "Pfr Rivalry Pro Football Reference Lists Every Box Score Between",
+        seoDescription:
+          "Pfr Rivalry - Pro Football Reference Lists Every Box Score Between Dallas And Philadelphia With Filters For Playoffs, Primetime, Or Location",
         seoKeywords: [
           "pfr rivalry",
           "pfr",
@@ -2044,18 +2044,18 @@ export const menu: Menu[] = [
         iframeUrl:
           "https://www.pro-football-reference.com/boxscores/game_query.cgi?tm1=dal&tm2=phi&yr=all",
         bgImg: "",
-        tags: ["eagles", "cowboys", "pfr", "history", "stats"],
+        tags: ["Eagles", "Cowboys", "Pfr", "History", "Stats"],
         updateTime: "2025-12-08",
       },
       {
         name: "nfl-eagles-cowboys-highlights",
         nameShort: "nfl-highlights",
         seoTitle: "NFL",
-        setDescription: "Nfl Highlights - NFL",
+        seoDescription: "Nfl Highlights - NFL",
         seoKeywords: ["nfl highlights", "nfl", "eagles", "cowboys", "highlights", "video"],
         iframeUrl: "https://www.nfl.com/videos/eagles-vs-cowboys-highlights",
         bgImg: "",
-        tags: ["eagles", "cowboys", "nfl", "highlights", "video"],
+        tags: ["Eagles", "Cowboys", "Nfl", "Highlights", "Video"],
         updateTime: "2025-12-08",
       },
     ],
@@ -2064,16 +2064,16 @@ export const menu: Menu[] = [
     name: "google-doc",
     nameShort: "google-doc",
     isHomeData: true,
-    seoTitle: "Google Doc featuring Docs Product, Docs Support, Docs API",
-    setDescription: "Google Doc directory featuring Docs Product, Docs Support, Docs API and more.",
+    seoTitle: "Google Doc Featuring Docs Product, Docs Support, Docs API",
+    seoDescription: "Google Doc Directory Featuring Docs Product, Docs Support, Docs API And More.",
     seoKeywords: ["google doc", "google", "doc", "docs", "product", "support", "api"],
     children: [
       {
         name: "google-docs-product",
         nameShort: "docs-product",
-        seoTitle: "Docs Product Google Workspace’s Docs page explains templates",
-        setDescription:
-          "Docs Product - Google Workspace’s Docs page explains templates, smart chips, and collaboration controls for enterprise rollouts",
+        seoTitle: "Docs Product Google Workspace’S Docs Page Explains Templates",
+        seoDescription:
+          "Docs Product - Google Workspace’s Docs Page Explains Templates, Smart Chips, And Collaboration Controls For Enterprise Rollouts",
         seoKeywords: [
           "docs product",
           "google",
@@ -2090,15 +2090,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://workspace.google.com/products/docs/",
         bgImg: "",
-        tags: ["google-docs", "workspace", "product", "collaboration", "suite"],
+        tags: ["Google-docs", "Workspace", "Product", "Collaboration", "Suite"],
         updateTime: "2025-12-08",
       },
       {
         name: "google-docs-support",
         nameShort: "docs-support",
-        seoTitle: "Docs Support The Docs Help Center provides troubleshooting",
-        setDescription:
-          "Docs Support - The Docs Help Center provides troubleshooting guides, keyboard shortcuts, and rollout notes for new editor features",
+        seoTitle: "Docs Support The Docs Help Center Provides Troubleshooting",
+        seoDescription:
+          "Docs Support - The Docs Help Center Provides Troubleshooting Guides, Keyboard Shortcuts, And Rollout Notes For New Editor Features",
         seoKeywords: [
           "docs support",
           "google",
@@ -2115,14 +2115,14 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://support.google.com/docs/",
         bgImg: "",
-        tags: ["google-docs", "support", "help", "guides", "faq"],
+        tags: ["Google-docs", "Support", "Help", "Guides", "Faq"],
         updateTime: "2025-12-08",
       },
       {
         name: "google-docs-api",
         nameShort: "docs-api",
         seoTitle: "Docs API Developers",
-        setDescription: "Docs API - Developers",
+        seoDescription: "Docs API - Developers",
         seoKeywords: [
           "docs api",
           "google",
@@ -2135,7 +2135,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://developers.google.com/docs/api",
         bgImg: "",
-        tags: ["google-docs", "api", "developers", "automation", "cloud"],
+        tags: ["Google-docs", "Api", "Developers", "Automation", "Cloud"],
         updateTime: "2025-12-08",
       },
     ],
@@ -2144,9 +2144,9 @@ export const menu: Menu[] = [
     name: "notre-dame-football",
     nameShort: "notre-dame",
     isHomeData: true,
-    seoTitle: "Notre Dame featuring Fightingirish, Notre Dame Espn, Notre Dame",
-    setDescription:
-      "Notre Dame directory featuring Fightingirish, Notre Dame Espn, Notre Dame 247 and more.",
+    seoTitle: "Notre Dame Featuring Fightingirish, Notre Dame Espn, Notre Dame",
+    seoDescription:
+      "Notre Dame Directory Featuring Fightingirish, Notre Dame Espn, Notre Dame 247 And More.",
     seoKeywords: [
       "notre dame",
       "notre",
@@ -2162,9 +2162,9 @@ export const menu: Menu[] = [
       {
         name: "fighting-irish-football",
         nameShort: "fightingirish",
-        seoTitle: "Fightingirish Notre Dame’s official site posts schedules, Marcus",
-        setDescription:
-          "Fightingirish - Notre Dame’s official site posts schedules, Marcus Freeman pressers, depth charts, and NBC broadcast links",
+        seoTitle: "Fightingirish Notre Dame’S Official Site Posts Schedules, Marcus",
+        seoDescription:
+          "Fightingirish - Notre Dame’s Official Site Posts Schedules, Marcus Freeman Pressers, Depth Charts, And NBC Broadcast Links",
         seoKeywords: [
           "fightingirish",
           "fighting",
@@ -2181,15 +2181,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://fightingirish.com/sports/football/",
         bgImg: "",
-        tags: ["notre-dame", "football", "official", "schedule", "news"],
+        tags: ["Notre-dame", "Football", "Official", "Schedule", "News"],
         updateTime: "2025-12-08",
       },
       {
         name: "espn-notre-dame-team",
         nameShort: "notre-dame-espn",
-        seoTitle: "Notre Dame Espn ESPN’s team hub features statistics",
-        setDescription:
-          "Notre Dame Espn - ESPN’s team hub features statistics, game-by-game recaps, and FPI projections for the Fighting Irish",
+        seoTitle: "Notre Dame Espn ESPN’S Team Hub Features Statistics",
+        seoDescription:
+          "Notre Dame Espn - ESPN’s Team Hub Features Statistics, Game-by-game Recaps, And FPI Projections For The Fighting Irish",
         seoKeywords: [
           "notre dame espn",
           "espn",
@@ -2206,15 +2206,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish",
         bgImg: "",
-        tags: ["notre-dame", "espn", "stats", "schedule", "cfb"],
+        tags: ["Notre-dame", "Espn", "Stats", "Schedule", "Cfb"],
         updateTime: "2025-12-08",
       },
       {
         name: "247sports-notre-dame",
         nameShort: "notre-dame-247",
-        seoTitle: "Notre Dame 247 247Sports blends recruiting intel, transfer",
-        setDescription:
-          "Notre Dame 247 - 247Sports blends recruiting intel, transfer portal trackers, and premium analysis for Notre Dame football fans",
+        seoTitle: "Notre Dame 247 247Sports Blends Recruiting Intel, Transfer",
+        seoDescription:
+          "Notre Dame 247 - 247Sports Blends Recruiting Intel, Transfer Portal Trackers, And Premium Analysis For Notre Dame Football Fans",
         seoKeywords: [
           "notre dame 247",
           "247sports",
@@ -2231,7 +2231,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://247sports.com/college/notre-dame/",
         bgImg: "",
-        tags: ["notre-dame", "247sports", "recruiting", "analysis", "cfb"],
+        tags: ["Notre-dame", "247sports", "Recruiting", "Analysis", "Cfb"],
         updateTime: "2025-12-08",
       },
     ],
@@ -2240,9 +2240,9 @@ export const menu: Menu[] = [
     name: "ohio-state-football",
     nameShort: "ohio-state",
     isHomeData: true,
-    seoTitle: "Ohio State featuring Buckeyes Official, Ohio State Espn",
-    setDescription:
-      "Ohio State directory featuring Buckeyes Official, Ohio State Espn, Elevenwarriors and more.",
+    seoTitle: "Ohio State Featuring Buckeyes Official, Ohio State Espn",
+    seoDescription:
+      "Ohio State Directory Featuring Buckeyes Official, Ohio State Espn, Elevenwarriors And More.",
     seoKeywords: [
       "ohio state",
       "ohio",
@@ -2258,9 +2258,9 @@ export const menu: Menu[] = [
       {
         name: "buckeyes-official-football",
         nameShort: "buckeyes-official",
-        seoTitle: "Buckeyes Official Ohio State’s athletics site features Ryan Day",
-        setDescription:
-          "Buckeyes Official - Ohio State’s athletics site features Ryan Day press conferences, roster bios, and Scarlet & Gray ticket info",
+        seoTitle: "Buckeyes Official Ohio State’S Athletics Site Features Ryan Day",
+        seoDescription:
+          "Buckeyes Official - Ohio State’s Athletics Site Features Ryan Day Press Conferences, Roster Bios, And Scarlet & Gray Ticket Info",
         seoKeywords: [
           "buckeyes official",
           "buckeyes",
@@ -2277,15 +2277,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ohiostatebuckeyes.com/sports/m-footbl/",
         bgImg: "",
-        tags: ["ohio-state", "football", "official", "schedule", "news"],
+        tags: ["Ohio-state", "Football", "Official", "Schedule", "News"],
         updateTime: "2025-12-08",
       },
       {
         name: "espn-ohio-state-team",
         nameShort: "ohio-state-espn",
-        seoTitle: "Ohio State Espn ESPN’s Buckeyes page tracks standings, injury",
-        setDescription:
-          "Ohio State Espn - ESPN’s Buckeyes page tracks standings, injury reports, and live win probabilities for every matchup",
+        seoTitle: "Ohio State Espn ESPN’S Buckeyes Page Tracks Standings, Injury",
+        seoDescription:
+          "Ohio State Espn - ESPN’s Buckeyes Page Tracks Standings, Injury Reports, And Live Win Probabilities For Every Matchup",
         seoKeywords: [
           "ohio state espn",
           "espn",
@@ -2302,15 +2302,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
         bgImg: "",
-        tags: ["ohio-state", "espn", "stats", "schedule", "cfb"],
+        tags: ["Ohio-state", "Espn", "Stats", "Schedule", "Cfb"],
         updateTime: "2025-12-08",
       },
       {
         name: "elevenwarriors-ohio-state",
         nameShort: "elevenwarriors",
-        seoTitle: "Elevenwarriors Eleven Warriors provides daily Ohio State",
-        setDescription:
-          "Elevenwarriors - Eleven Warriors provides daily Ohio State analysis, film rooms, recruiting scoops, and rapid game reactions",
+        seoTitle: "Elevenwarriors Eleven Warriors Provides Daily Ohio State",
+        seoDescription:
+          "Elevenwarriors - Eleven Warriors Provides Daily Ohio State Analysis, Film Rooms, Recruiting Scoops, And Rapid Game Reactions",
         seoKeywords: [
           "elevenwarriors",
           "ohio",
@@ -2327,7 +2327,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.elevenwarriors.com/",
         bgImg: "",
-        tags: ["ohio-state", "blog", "analysis", "recruiting", "fans"],
+        tags: ["Ohio-state", "Blog", "Analysis", "Recruiting", "Fans"],
         updateTime: "2025-12-08",
       },
     ],
@@ -2336,8 +2336,8 @@ export const menu: Menu[] = [
     name: "leading-frontend-frameworks",
     nameShort: "leading",
     isHomeData: true,
-    seoTitle: "Leading featuring Vue, React, Angular",
-    setDescription: "Leading directory featuring Vue, React, Angular, Svelte and more.",
+    seoTitle: "Leading Featuring Vue, React, Angular",
+    seoDescription: "Leading Directory Featuring Vue, React, Angular, Svelte And More.",
     seoKeywords: [
       "leading",
       "frontend",
@@ -2357,19 +2357,19 @@ export const menu: Menu[] = [
         name: "vue-progressive-js-framework",
         nameShort: "vue",
         seoTitle: "Vue",
-        setDescription: "Vue",
+        seoDescription: "Vue",
         seoKeywords: ["vue", "progressive", "framework", "js", "tool"],
         iframeUrl: "https://vuejs.org/",
         bgImg: "",
-        tags: ["vue", "progressive", "js", "framework", "tool"],
+        tags: ["Vue", "Progressive", "Js", "Framework", "Tool"],
         updateTime: "2025-09-15",
       },
       {
         name: "react-ui-component-library",
         nameShort: "react",
-        seoTitle: "React is Meta’s declarative library for building",
-        setDescription:
-          "React is Meta’s declarative library for building component-driven UIs with hooks, concurrent rendering, and a vast community ecosystem",
+        seoTitle: "React Is Meta’S Declarative Library For Building",
+        seoDescription:
+          "React Is Meta’s Declarative Library For Building Component-driven UIs With Hooks, Concurrent Rendering, And A Vast Community Ecosystem",
         seoKeywords: [
           "react",
           "component",
@@ -2386,15 +2386,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://react.dev/",
         bgImg: "",
-        tags: ["react", "ui", "component", "library", "tool"],
+        tags: ["React", "Ui", "Component", "Library", "Tool"],
         updateTime: "2025-09-12",
       },
       {
         name: "angular-typescript-web-framework",
         nameShort: "angular",
-        seoTitle: "Angular is Google’s full-featured framework with",
-        setDescription:
-          "Angular is Google’s full-featured framework with TypeScript-first tooling, RxJS-powered reactivity, and enterprise-ready CLI workflows",
+        seoTitle: "Angular Is Google’S Full-Featured Framework With",
+        seoDescription:
+          "Angular Is Google’s Full-featured Framework With TypeScript-first Tooling, RxJS-powered Reactivity, And Enterprise-ready CLI Workflows",
         seoKeywords: [
           "angular",
           "typescript",
@@ -2411,15 +2411,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://angular.io/",
         bgImg: "",
-        tags: ["angular", "typescript", "web", "framework", "tool"],
+        tags: ["Angular", "Typescript", "Web", "Framework", "Tool"],
         updateTime: "2025-09-10",
       },
       {
         name: "svelte-compiler-first-framework",
         nameShort: "svelte",
-        seoTitle: "Svelte is a compiler-driven framework that turns declarative",
-        setDescription:
-          "Svelte is a compiler-driven framework that turns declarative components into tiny vanilla JS bundles with zero runtime overhead",
+        seoTitle: "Svelte Is A Compiler-Driven Framework That Turns Declarative",
+        seoDescription:
+          "Svelte Is A Compiler-driven Framework That Turns Declarative Components Into Tiny Vanilla JS Bundles With Zero Runtime Overhead",
         seoKeywords: [
           "svelte",
           "compiler",
@@ -2436,18 +2436,18 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://svelte.dev/",
         bgImg: "",
-        tags: ["svelte", "compiler", "first", "framework", "tool"],
+        tags: ["Svelte", "Compiler", "First", "Framework", "Tool"],
         updateTime: "2025-09-08",
       },
       {
         name: "nextjs-production-react-framework",
         nameShort: "nextjs",
         seoTitle: "Nextjs Next",
-        setDescription: "Nextjs - Next",
+        seoDescription: "Nextjs - Next",
         seoKeywords: ["nextjs", "production", "react", "framework", "tool", "next"],
         iframeUrl: "https://nextjs.org/",
         bgImg: "",
-        tags: ["nextjs", "production", "react", "framework", "tool"],
+        tags: ["Nextjs", "Production", "React", "Framework", "Tool"],
         updateTime: "2025-09-05",
       },
     ],
@@ -2456,8 +2456,8 @@ export const menu: Menu[] = [
     name: "best-backend-api-frameworks",
     nameShort: "best",
     isHomeData: true,
-    seoTitle: "Best featuring Spring, Laravel, Fastapi",
-    setDescription: "Best directory featuring Spring, Laravel, Fastapi, Nestjs and more.",
+    seoTitle: "Best Featuring Spring, Laravel, Fastapi",
+    seoDescription: "Best Directory Featuring Spring, Laravel, Fastapi, Nestjs And More.",
     seoKeywords: [
       "best",
       "backend",
@@ -2476,9 +2476,9 @@ export const menu: Menu[] = [
       {
         name: "spring-initializr-boot-generator",
         nameShort: "spring",
-        seoTitle: "Spring Initializr is the official Spring Boot project generator",
-        setDescription:
-          "Spring Initializr is the official Spring Boot project generator that scaffolds Maven or Gradle services with the right starters, metadata, and",
+        seoTitle: "Spring Initializr Is The Official Spring Boot Project Generator",
+        seoDescription:
+          "Spring Initializr Is The Official Spring Boot Project Generator That Scaffolds Maven Or Gradle Services With The Right Starters, Metadata, And",
         seoKeywords: [
           "spring",
           "initializr",
@@ -2495,15 +2495,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://start.spring.io/",
         bgImg: "",
-        tags: ["spring", "initializr", "boot", "generator", "tool"],
+        tags: ["Spring", "Initializr", "Boot", "Generator", "Tool"],
         updateTime: "2025-11-30",
       },
       {
         name: "laravel-elegant-php-framework",
         nameShort: "laravel",
-        seoTitle: "Laravel is an elegant PHP framework featuring Blade, Eloquent",
-        setDescription:
-          "Laravel is an elegant PHP framework featuring Blade, Eloquent, queues, and Octane-ready tooling for modern backend and SaaS workloads",
+        seoTitle: "Laravel Is An Elegant PHP Framework Featuring Blade, Eloquent",
+        seoDescription:
+          "Laravel Is An Elegant PHP Framework Featuring Blade, Eloquent, Queues, And Octane-ready Tooling For Modern Backend And SaaS Workloads",
         seoKeywords: [
           "laravel",
           "elegant",
@@ -2520,15 +2520,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://laravel.com/",
         bgImg: "",
-        tags: ["laravel", "elegant", "php", "framework", "tool"],
+        tags: ["Laravel", "Elegant", "Php", "Framework", "Tool"],
         updateTime: "2025-11-27",
       },
       {
         name: "fastapi-python-api-framework",
         nameShort: "fastapi",
-        seoTitle: "FastAPI is an async-first Python framework powered by type",
-        setDescription:
-          "FastAPI is an async-first Python framework powered by type hints, automatic OpenAPI docs, and blazing performance on Uvicorn or Hypercorn",
+        seoTitle: "FastAPI Is An Async-First Python Framework Powered By Type",
+        seoDescription:
+          "FastAPI Is An Async-first Python Framework Powered By Type Hints, Automatic OpenAPI Docs, And Blazing Performance On Uvicorn Or Hypercorn",
         seoKeywords: [
           "fastapi",
           "python",
@@ -2545,29 +2545,29 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://fastapi.tiangolo.com/",
         bgImg: "",
-        tags: ["fastapi", "python", "api", "framework", "tool"],
+        tags: ["Fastapi", "Python", "Api", "Framework", "Tool"],
         updateTime: "2025-11-26",
       },
       {
         name: "nestjs-typescript-backend-framework",
         nameShort: "nestjs",
-        seoTitle: "NestJS is a TypeScript-first Node",
-        setDescription: "NestJS is a TypeScript-first Node",
+        seoTitle: "NestJS Is A TypeScript-First Node",
+        seoDescription: "NestJS Is A TypeScript-first Node",
         seoKeywords: ["nestjs", "typescript", "backend", "framework", "tool", "first", "node"],
         iframeUrl: "https://nestjs.com/",
         bgImg: "",
-        tags: ["nestjs", "typescript", "backend", "framework", "tool"],
+        tags: ["Nestjs", "Typescript", "Backend", "Framework", "Tool"],
         updateTime: "2025-11-25",
       },
       {
         name: "expressjs-node-api-framework",
         nameShort: "expressjs",
         seoTitle: "Expressjs Express",
-        setDescription: "Expressjs - Express",
+        seoDescription: "Expressjs - Express",
         seoKeywords: ["expressjs", "node", "api", "framework", "tool", "express"],
         iframeUrl: "https://expressjs.com/",
         bgImg: "",
-        tags: ["expressjs", "node", "api", "framework", "tool"],
+        tags: ["Expressjs", "Node", "Api", "Framework", "Tool"],
         updateTime: "2025-11-24",
       },
     ],
@@ -2576,8 +2576,8 @@ export const menu: Menu[] = [
     name: "top-ev-new-energy-brands",
     nameShort: "top-ev",
     isHomeData: true,
-    seoTitle: "Top Ev featuring Zeekr, Neta, Voyah",
-    setDescription: "Top Ev directory featuring Zeekr, Neta, Voyah, Gwm and more.",
+    seoTitle: "Top Ev Featuring Zeekr, Neta, Voyah",
+    seoDescription: "Top Ev Directory Featuring Zeekr, Neta, Voyah, Gwm And More.",
     seoKeywords: [
       "top ev",
       "top",
@@ -2596,9 +2596,9 @@ export const menu: Menu[] = [
       {
         name: "zeekr-premium-electric-vehicles",
         nameShort: "zeekr",
-        seoTitle: "Zeekr is Geely’s premium EV marque that builds SEA-platform",
-        setDescription:
-          "Zeekr is Geely’s premium EV marque that builds SEA-platform fastbacks and SUVs, shipping OTA software globally from Ningbo",
+        seoTitle: "Zeekr Is Geely’S Premium EV Marque That Builds SEA-Platform",
+        seoDescription:
+          "Zeekr Is Geely’s Premium EV Marque That Builds SEA-platform Fastbacks And SUVs, Shipping OTA Software Globally From Ningbo",
         seoKeywords: [
           "zeekr",
           "premium",
@@ -2615,15 +2615,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.zeekr.com/",
         bgImg: "",
-        tags: ["zeekr", "premium", "electric", "vehicles", "tool"],
+        tags: ["Zeekr", "Premium", "Electric", "Vehicles", "Tool"],
         updateTime: "2025-11-24",
       },
       {
         name: "neta-auto-new-energy-vehicles",
         nameShort: "neta",
-        seoTitle: "Neta Auto is Hozon’s EV brand covering A0 to B-class crossovers",
-        setDescription:
-          "Neta Auto is Hozon’s EV brand covering A0 to B-class crossovers with in-house chips and assisted driving technology",
+        seoTitle: "Neta Auto Is Hozon’S EV Brand Covering A0 To B-Class Crossovers",
+        seoDescription:
+          "Neta Auto Is Hozon’s EV Brand Covering A0 To B-class Crossovers With In-house Chips And Assisted Driving Technology",
         seoKeywords: [
           "neta",
           "auto",
@@ -2640,15 +2640,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.hozonauto.com/",
         bgImg: "",
-        tags: ["neta", "auto", "new", "energy", "vehicles"],
+        tags: ["Neta", "Auto", "New", "Energy", "Vehicles"],
         updateTime: "2025-11-23",
       },
       {
         name: "voyah-luxury-electric-brand",
         nameShort: "voyah",
-        seoTitle: "VOYAH is Dongfeng’s luxury EV sub-brand delivering the Free SUV",
-        setDescription:
-          "VOYAH is Dongfeng’s luxury EV sub-brand delivering the Free SUV and Dreamer MPV with ESSA architecture and battery swap technology",
+        seoTitle: "VOYAH Is Dongfeng’S Luxury EV Sub-Brand Delivering The Free SUV",
+        seoDescription:
+          "VOYAH Is Dongfeng’s Luxury EV Sub-brand Delivering The Free SUV And Dreamer MPV With ESSA Architecture And Battery Swap Technology",
         seoKeywords: [
           "voyah",
           "luxury",
@@ -2665,15 +2665,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.voyah.com/",
         bgImg: "",
-        tags: ["voyah", "luxury", "electric", "brand", "tool"],
+        tags: ["Voyah", "Luxury", "Electric", "Brand", "Tool"],
         updateTime: "2025-11-22",
       },
       {
         name: "gwm-electric-vehicle-lineup",
         nameShort: "gwm",
-        seoTitle: "GWM New Energy is Great Wall Motor’s NEV portfolio spanning ORA",
-        setDescription:
-          "GWM New Energy is Great Wall Motor’s NEV portfolio spanning ORA city cars to Wey hybrids, backed by Coffee OS and L2+ driving stacks",
+        seoTitle: "GWM New Energy Is Great Wall Motor’S NEV Portfolio Spanning ORA",
+        seoDescription:
+          "GWM New Energy Is Great Wall Motor’s NEV Portfolio Spanning ORA City Cars To Wey Hybrids, Backed By Coffee OS And L2+ Driving Stacks",
         seoKeywords: [
           "gwm",
           "electric",
@@ -2690,15 +2690,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gwm.com.cn/",
         bgImg: "",
-        tags: ["gwm", "electric", "vehicle", "lineup", "tool"],
+        tags: ["Gwm", "Electric", "Vehicle", "Lineup", "Tool"],
         updateTime: "2025-11-21",
       },
       {
         name: "seres-auto-huawei-evs",
         nameShort: "seres",
-        seoTitle: "Seres Auto is a Chongqing-based brand building AITO co-branded",
-        setDescription:
-          "Seres Auto is a Chongqing-based brand building AITO co-branded range extenders with Huawei’s HarmonyOS cockpit and ADS 2",
+        seoTitle: "Seres Auto Is A Chongqing-Based Brand Building AITO Co-Branded",
+        seoDescription:
+          "Seres Auto Is A Chongqing-based Brand Building AITO Co-branded Range Extenders With Huawei’s HarmonyOS Cockpit And ADS 2",
         seoKeywords: [
           "seres",
           "auto",
@@ -2715,7 +2715,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.seres.cn/",
         bgImg: "",
-        tags: ["seres", "auto", "huawei", "evs", "tool"],
+        tags: ["Seres", "Auto", "Huawei", "Evs", "Tool"],
         updateTime: "2025-11-20",
       },
     ],
@@ -2724,8 +2724,8 @@ export const menu: Menu[] = [
     name: "fortune-global-500-leaders",
     nameShort: "fortune",
     isHomeData: true,
-    seoTitle: "Fortune featuring Walmart, Saudi, Amazon Ecommerce",
-    setDescription: "Fortune directory featuring Walmart, Saudi, Amazon Ecommerce, Apple and more.",
+    seoTitle: "Fortune Featuring Walmart, Saudi, Amazon Ecommerce",
+    seoDescription: "Fortune Directory Featuring Walmart, Saudi, Amazon Ecommerce, Apple And More.",
     seoKeywords: [
       "fortune",
       "global",
@@ -2744,9 +2744,9 @@ export const menu: Menu[] = [
       {
         name: "walmart-global-retail-leader",
         nameShort: "walmart",
-        seoTitle: "Walmart is the Fortune #1 retailer with global supply chains",
-        setDescription:
-          "Walmart is the Fortune #1 retailer with global supply chains, automation pilots, and $600B+ in annual revenue",
+        seoTitle: "Walmart Is The Fortune #1 Retailer With Global Supply Chains",
+        seoDescription:
+          "Walmart Is The Fortune #1 Retailer With Global Supply Chains, Automation Pilots, And $600B+ In Annual Revenue",
         seoKeywords: [
           "walmart",
           "global",
@@ -2763,15 +2763,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://companiesmarketcap.com/walmart/marketcap/",
         bgImg: "",
-        tags: ["walmart", "global", "retail", "leader", "tool"],
+        tags: ["Walmart", "Global", "Retail", "Leader", "Tool"],
         updateTime: "2025-11-19",
       },
       {
         name: "saudi-aramco-energy-giant",
         nameShort: "saudi",
-        seoTitle: "Saudi Aramco is an energy giant overseeing upstream and",
-        setDescription:
-          "Saudi Aramco is an energy giant overseeing upstream and downstream oil, gas, and chemicals with giga-scale capital programs",
+        seoTitle: "Saudi Aramco Is An Energy Giant Overseeing Upstream And",
+        seoDescription:
+          "Saudi Aramco Is An Energy Giant Overseeing Upstream And Downstream Oil, Gas, And Chemicals With Giga-scale Capital Programs",
         seoKeywords: [
           "saudi",
           "aramco",
@@ -2788,15 +2788,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://companiesmarketcap.com/saudi-aramco/marketcap/",
         bgImg: "",
-        tags: ["saudi", "aramco", "energy", "giant", "tool"],
+        tags: ["Saudi", "Aramco", "Energy", "Giant", "Tool"],
         updateTime: "2025-11-18",
       },
       {
         name: "amazon-ecommerce-cloud-powerhouse",
         nameShort: "amazon-ecommerce",
-        seoTitle: "Amazon is an e-commerce and cloud conglomerate spanning AWS",
-        setDescription:
-          "Amazon Ecommerce - Amazon is an e-commerce and cloud conglomerate spanning AWS, Prime, logistics robotics, and global digital advertising",
+        seoTitle: "Amazon Is An E-Commerce And Cloud Conglomerate Spanning AWS",
+        seoDescription:
+          "Amazon Ecommerce - Amazon Is An E-commerce And Cloud Conglomerate Spanning AWS, Prime, Logistics Robotics, And Global Digital Advertising",
         seoKeywords: [
           "amazon ecommerce",
           "amazon",
@@ -2813,15 +2813,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://companiesmarketcap.com/amazon/marketcap/",
         bgImg: "",
-        tags: ["amazon", "ecommerce", "cloud", "powerhouse", "tool"],
+        tags: ["Amazon", "Ecommerce", "Cloud", "Powerhouse", "Tool"],
         updateTime: "2025-11-16",
       },
       {
         name: "apple-consumer-electronics-leader",
         nameShort: "apple",
-        seoTitle: "Apple is a consumer electronics leader whose services, silicon",
-        setDescription:
-          "Apple is a consumer electronics leader whose services, silicon, and devices keep it atop the profitability charts",
+        seoTitle: "Apple Is A Consumer Electronics Leader Whose Services, Silicon",
+        seoDescription:
+          "Apple Is A Consumer Electronics Leader Whose Services, Silicon, And Devices Keep It Atop The Profitability Charts",
         seoKeywords: [
           "apple",
           "consumer",
@@ -2838,15 +2838,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://companiesmarketcap.com/apple/marketcap/",
         bgImg: "",
-        tags: ["apple", "consumer", "electronics", "leader", "tool"],
+        tags: ["Apple", "Consumer", "Electronics", "Leader", "Tool"],
         updateTime: "2025-11-15",
       },
       {
         name: "exxonmobil-integrated-energy-major",
         nameShort: "exxonmobil",
-        seoTitle: "Exxonmobil Exxon Mobil is an integrated oil major accelerating",
-        setDescription:
-          "Exxonmobil - Exxon Mobil is an integrated oil major accelerating low-carbon ventures while running one of the world’s largest downstream networks",
+        seoTitle: "Exxonmobil Exxon Mobil Is An Integrated Oil Major Accelerating",
+        seoDescription:
+          "Exxonmobil - Exxon Mobil Is An Integrated Oil Major Accelerating Low-carbon Ventures While Running One Of The World’s Largest Downstream Networks",
         seoKeywords: [
           "exxonmobil",
           "integrated",
@@ -2863,7 +2863,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://companiesmarketcap.com/exxon-mobil/marketcap/",
         bgImg: "",
-        tags: ["exxonmobil", "integrated", "energy", "major", "tool"],
+        tags: ["Exxonmobil", "Integrated", "Energy", "Major", "Tool"],
         updateTime: "2025-11-14",
       },
     ],
@@ -2872,9 +2872,9 @@ export const menu: Menu[] = [
     name: "free-online-file-converters",
     nameShort: "free",
     isHomeData: true,
-    seoTitle: "Free featuring Aconvert, Freefileconvert, Filesconversion",
-    setDescription:
-      "Free directory featuring Aconvert, Freefileconvert, Filesconversion, Docspal and more.",
+    seoTitle: "Free Featuring Aconvert, Freefileconvert, Filesconversion",
+    seoDescription:
+      "Free Directory Featuring Aconvert, Freefileconvert, Filesconversion, Docspal And More.",
     seoKeywords: [
       "free",
       "online",
@@ -2893,9 +2893,9 @@ export const menu: Menu[] = [
       {
         name: "aconvert-multi-format-converter",
         nameShort: "aconvert",
-        seoTitle: "Aconvert is a utility hub for converting documents, ebooks",
-        setDescription:
-          "Aconvert is a utility hub for converting documents, ebooks, audio, archives, and media with queue-based processing",
+        seoTitle: "Aconvert Is A Utility Hub For Converting Documents, Ebooks",
+        seoDescription:
+          "Aconvert Is A Utility Hub For Converting Documents, Ebooks, Audio, Archives, And Media With Queue-based Processing",
         seoKeywords: [
           "aconvert",
           "multi",
@@ -2912,15 +2912,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.aconvert.com/",
         bgImg: "",
-        tags: ["aconvert", "multi", "format", "converter", "tool"],
+        tags: ["Aconvert", "Multi", "Format", "Converter", "Tool"],
         updateTime: "2025-11-14",
       },
       {
         name: "freefileconvert-online-converter",
         nameShort: "freefileconvert",
-        seoTitle: "Freefileconvert Free File Convert handles 8,000+ format",
-        setDescription:
-          "Freefileconvert - Free File Convert handles 8,000+ format combinations with asynchronous jobs and email reminders for finished tasks",
+        seoTitle: "Freefileconvert Free File Convert Handles 8,000+ Format",
+        seoDescription:
+          "Freefileconvert - Free File Convert Handles 8,000+ Format Combinations With Asynchronous Jobs And Email Reminders For Finished Tasks",
         seoKeywords: [
           "freefileconvert",
           "online",
@@ -2937,15 +2937,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.freefileconvert.com/",
         bgImg: "",
-        tags: ["freefileconvert", "online", "converter", "tool", "platform"],
+        tags: ["Freefileconvert", "Online", "Converter", "Tool", "Platform"],
         updateTime: "2025-11-13",
       },
       {
         name: "filesconversion-simple-format-tool",
         nameShort: "filesconversion",
-        seoTitle: "Filesconversion Files-Conversion is a simple converter that",
-        setDescription:
-          "Filesconversion - Files-Conversion is a simple converter that turns videos, audio, images, and documents into popular targets without size-locked",
+        seoTitle: "Filesconversion Files-Conversion Is A Simple Converter That",
+        seoDescription:
+          "Filesconversion - Files-Conversion Is A Simple Converter That Turns Videos, Audio, Images, And Documents Into Popular Targets Without Size-locked",
         seoKeywords: [
           "filesconversion",
           "simple",
@@ -2962,15 +2962,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.files-conversion.com/",
         bgImg: "",
-        tags: ["filesconversion", "simple", "format", "tool", "platform"],
+        tags: ["Filesconversion", "Simple", "Format", "Tool", "Platform"],
         updateTime: "2025-11-12",
       },
       {
         name: "docspal-legacy-modern-converter",
         nameShort: "docspal",
-        seoTitle: "DocsPal is a legacy-friendly converter that keeps old office",
-        setDescription:
-          "DocsPal is a legacy-friendly converter that keeps old office, ebook, and archive formats alive with preview and share links",
+        seoTitle: "DocsPal Is A Legacy-Friendly Converter That Keeps Old Office",
+        seoDescription:
+          "DocsPal Is A Legacy-friendly Converter That Keeps Old Office, Ebook, And Archive Formats Alive With Preview And Share Links",
         seoKeywords: [
           "docspal",
           "legacy",
@@ -2987,15 +2987,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.docspal.com/",
         bgImg: "",
-        tags: ["docspal", "legacy", "modern", "converter", "tool"],
+        tags: ["Docspal", "Legacy", "Modern", "Converter", "Tool"],
         updateTime: "2025-11-11",
       },
       {
         name: "online-utility-file-toolkit",
         nameShort: "online",
-        seoTitle: "Online Utility is a lightweight toolkit converting office files",
-        setDescription:
-          "Online Utility is a lightweight toolkit converting office files to PDF/HTML/Text and offering checksum plus compression helpers",
+        seoTitle: "Online Utility Is A Lightweight Toolkit Converting Office Files",
+        seoDescription:
+          "Online Utility Is A Lightweight Toolkit Converting Office Files To PDF/HTML/Text And Offering Checksum Plus Compression Helpers",
         seoKeywords: [
           "online",
           "utility",
@@ -3012,7 +3012,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.online-utility.org/file/converter.jsp",
         bgImg: "",
-        tags: ["online", "utility", "file", "toolkit", "tool"],
+        tags: ["Online", "Utility", "File", "Toolkit", "Tool"],
         updateTime: "2025-11-10",
       },
     ],
@@ -3021,9 +3021,9 @@ export const menu: Menu[] = [
     name: "online-image-conversion-tools",
     nameShort: "online-image",
     isHomeData: true,
-    seoTitle: "Online Image featuring Iloveimg, Imagetopdf, Photopea",
-    setDescription:
-      "Online Image directory featuring Iloveimg, Imagetopdf, Photopea, Convert and more.",
+    seoTitle: "Online Image Featuring Iloveimg, Imagetopdf, Photopea",
+    seoDescription:
+      "Online Image Directory Featuring Iloveimg, Imagetopdf, Photopea, Convert And More.",
     seoKeywords: [
       "online image",
       "online",
@@ -3042,9 +3042,9 @@ export const menu: Menu[] = [
       {
         name: "iloveimg-bulk-image-editor",
         nameShort: "iloveimg",
-        seoTitle: "iLoveIMG is a simple online suite for converting, resizing, and",
-        setDescription:
-          "iLoveIMG is a simple online suite for converting, resizing, and compressing images in bulk with queue-based downloads",
+        seoTitle: "ILoveIMG Is A Simple Online Suite For Converting, Resizing, And",
+        seoDescription:
+          "ILoveIMG Is A Simple Online Suite For Converting, Resizing, And Compressing Images In Bulk With Queue-based Downloads",
         seoKeywords: [
           "iloveimg",
           "bulk",
@@ -3061,15 +3061,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.iloveimg.com/",
         bgImg: "",
-        tags: ["iloveimg", "bulk", "image", "editor", "tool"],
+        tags: ["Iloveimg", "Bulk", "Image", "Editor", "Tool"],
         updateTime: "2025-11-09",
       },
       {
         name: "imagetopdf-image-pdf-converter",
         nameShort: "imagetopdf",
-        seoTitle: "ImageToPDF is a micro tool that stitches JPG, PNG, and HEIC",
-        setDescription:
-          "ImageToPDF is a micro tool that stitches JPG, PNG, and HEIC assets into a PDF with adjustable page margins and orientation",
+        seoTitle: "ImageToPDF Is A Micro Tool That Stitches JPG, PNG, And HEIC",
+        seoDescription:
+          "ImageToPDF Is A Micro Tool That Stitches JPG, PNG, And HEIC Assets Into A PDF With Adjustable Page Margins And Orientation",
         seoKeywords: [
           "imagetopdf",
           "image",
@@ -3086,15 +3086,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://imagetopdf.com/",
         bgImg: "",
-        tags: ["imagetopdf", "image", "pdf", "converter", "tool"],
+        tags: ["Imagetopdf", "Image", "Pdf", "Converter", "Tool"],
         updateTime: "2025-11-08",
       },
       {
         name: "photopea-browser-image-editor",
         nameShort: "photopea",
-        seoTitle: "Photopea is a browser-based editor that opens PSD, XD, Sketch",
-        setDescription:
-          "Photopea is a browser-based editor that opens PSD, XD, Sketch, and RAW files for quick format conversions or exports",
+        seoTitle: "Photopea Is A Browser-Based Editor That Opens PSD, XD, Sketch",
+        seoDescription:
+          "Photopea Is A Browser-based Editor That Opens PSD, XD, Sketch, And RAW Files For Quick Format Conversions Or Exports",
         seoKeywords: [
           "photopea",
           "browser",
@@ -3111,15 +3111,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.photopea.com/",
         bgImg: "",
-        tags: ["photopea", "browser", "image", "editor", "tool"],
+        tags: ["Photopea", "Browser", "Image", "Editor", "Tool"],
         updateTime: "2025-11-07",
       },
       {
         name: "convert-town-png-jpg",
         nameShort: "convert",
-        seoTitle: "Convert Town is a single-purpose converter that flips PNG",
-        setDescription:
-          "Convert Town is a single-purpose converter that flips PNG transparency to JPG or vice versa with adjustable quality sliders",
+        seoTitle: "Convert Town Is A Single-Purpose Converter That Flips PNG",
+        seoDescription:
+          "Convert Town Is A Single-purpose Converter That Flips PNG Transparency To JPG Or Vice Versa With Adjustable Quality Sliders",
         seoKeywords: [
           "convert",
           "town",
@@ -3136,15 +3136,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://convert.town/png-to-jpg",
         bgImg: "",
-        tags: ["convert", "town", "png", "jpg", "tool"],
+        tags: ["Convert", "Town", "Png", "Jpg", "Tool"],
         updateTime: "2025-11-06",
       },
       {
         name: "online-image-tool-converter",
         nameShort: "online-image-tool",
-        seoTitle: "Online Image Tool is a collection of converters for WEBP, AVIF",
-        setDescription:
-          "Online Image Tool is a collection of converters for WEBP, AVIF, ICO, and sprite sheets with batch resizing and compression presets",
+        seoTitle: "Online Image Tool Is A Collection Of Converters For WEBP, AVIF",
+        seoDescription:
+          "Online Image Tool Is A Collection Of Converters For WEBP, AVIF, ICO, And Sprite Sheets With Batch Resizing And Compression Presets",
         seoKeywords: [
           "online image tool",
           "online",
@@ -3161,7 +3161,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.onlineimagetool.com/",
         bgImg: "",
-        tags: ["online", "image", "tool", "converter", "platform"],
+        tags: ["Online", "Image", "Tool", "Converter", "Platform"],
         updateTime: "2025-11-05",
       },
     ],
@@ -3170,8 +3170,8 @@ export const menu: Menu[] = [
     name: "fortune-china-500-top50",
     nameShort: "fortune-china",
     isHomeData: true,
-    seoTitle: "Fortune China featuring Sinopec, State, Petrochina",
-    setDescription: "Fortune China directory featuring Sinopec, State, Petrochina, Cscec and more.",
+    seoTitle: "Fortune China Featuring Sinopec, State, Petrochina",
+    seoDescription: "Fortune China Directory Featuring Sinopec, State, Petrochina, Cscec And More.",
     seoKeywords: [
       "fortune china",
       "fortune",
@@ -3190,9 +3190,9 @@ export const menu: Menu[] = [
       {
         name: "sinopec-group-energy-giant",
         nameShort: "sinopec",
-        seoTitle: "Sinopec is China's largest integrated energy and chemical",
-        setDescription:
-          "Sinopec is China's largest integrated energy and chemical conglomerate, spanning exploration, refining, fuel retail, and hydrogen projects",
+        seoTitle: "Sinopec Is China'S Largest Integrated Energy And Chemical",
+        seoDescription:
+          "Sinopec Is China's Largest Integrated Energy And Chemical Conglomerate, Spanning Exploration, Refining, Fuel Retail, And Hydrogen Projects",
         seoKeywords: [
           "sinopec",
           "group",
@@ -3209,15 +3209,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.sinopecgroup.com/",
         bgImg: "",
-        tags: ["sinopec", "group", "energy", "giant", "tool"],
+        tags: ["Sinopec", "Group", "Energy", "Giant", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "state-grid-power-backbone",
         nameShort: "state",
-        seoTitle: "State Grid operates 26 provincial power markets, managing",
-        setDescription:
-          "State Grid operates 26 provincial power markets, managing ultra-high-volnameShorte transmission and smart distribution networks as China's energy",
+        seoTitle: "State Grid Operates 26 Provincial Power Markets, Managing",
+        seoDescription:
+          "State Grid Operates 26 Provincial Power Markets, Managing Ultra-high-volnameShorte Transmission And Smart Distribution Networks As China's Energy",
         seoKeywords: [
           "state",
           "grid",
@@ -3234,15 +3234,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.sgcc.com.cn/",
         bgImg: "",
-        tags: ["state", "grid", "power", "backbone", "tool"],
+        tags: ["State", "Grid", "Power", "Backbone", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "petrochina-upstream-downstream",
         nameShort: "petrochina",
-        seoTitle: "PetroChina leverages domestic fields and overseas assets to run",
-        setDescription:
-          "PetroChina leverages domestic fields and overseas assets to run an integrated system covering upstream exploration, pipelines, petrochemicals, and new",
+        seoTitle: "PetroChina Leverages Domestic Fields And Overseas Assets To Run",
+        seoDescription:
+          "PetroChina Leverages Domestic Fields And Overseas Assets To Run An Integrated System Covering Upstream Exploration, Pipelines, Petrochemicals, And New",
         seoKeywords: [
           "petrochina",
           "upstream",
@@ -3259,15 +3259,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.petrochina.com.cn/",
         bgImg: "",
-        tags: ["petrochina", "upstream", "downstream", "tool", "platform"],
+        tags: ["Petrochina", "Upstream", "Downstream", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "cscec-global-engineering",
         nameShort: "cscec",
-        seoTitle: "Cscec China State Construction builds supertall towers, transit",
-        setDescription:
-          "Cscec - China State Construction builds supertall towers, transit systems, and housing worldwide with EPC contracting plus financing capabilities",
+        seoTitle: "Cscec China State Construction Builds Supertall Towers, Transit",
+        seoDescription:
+          "Cscec - China State Construction Builds Supertall Towers, Transit Systems, And Housing Worldwide With EPC Contracting Plus Financing Capabilities",
         seoKeywords: [
           "cscec",
           "global",
@@ -3284,15 +3284,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cscec.com/",
         bgImg: "",
-        tags: ["cscec", "global", "engineering", "tool", "platform"],
+        tags: ["Cscec", "Global", "Engineering", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "icbc-leading-commercial-bank",
         nameShort: "icbc",
-        seoTitle: "ICBC ranks among the world's biggest banks by assets, offering",
-        setDescription:
-          "ICBC ranks among the world's biggest banks by assets, offering corporate banking, retail banking, markets, and cross-border services",
+        seoTitle: "ICBC Ranks Among The World'S Biggest Banks By Assets, Offering",
+        seoDescription:
+          "ICBC Ranks Among The World's Biggest Banks By Assets, Offering Corporate Banking, Retail Banking, Markets, And Cross-border Services",
         seoKeywords: [
           "icbc",
           "leading",
@@ -3309,15 +3309,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.icbc.com.cn/",
         bgImg: "",
-        tags: ["icbc", "leading", "commercial", "bank", "tool"],
+        tags: ["Icbc", "Leading", "Commercial", "Bank", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "ccb-housing-finance-leader",
         nameShort: "ccb",
-        seoTitle: "Ccb China Construction Bank uses fintech and housing finance",
-        setDescription:
-          "Ccb - China Construction Bank uses fintech and housing finance strengths to serve infrastructure, inclusive finance, and small-business clients",
+        seoTitle: "Ccb China Construction Bank Uses Fintech And Housing Finance",
+        seoDescription:
+          "Ccb - China Construction Bank Uses Fintech And Housing Finance Strengths To Serve Infrastructure, Inclusive Finance, And Small-business Clients",
         seoKeywords: [
           "ccb",
           "housing",
@@ -3334,15 +3334,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.ccb.com/",
         bgImg: "",
-        tags: ["ccb", "housing", "finance", "leader", "tool"],
+        tags: ["Ccb", "Housing", "Finance", "Leader", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "abc-rural-finance-anchor",
         nameShort: "abc",
-        seoTitle: "Abc Agricultural Bank of China focuses on rural revitalization",
-        setDescription:
-          "Abc - Agricultural Bank of China focuses on rural revitalization, county economies, and urban residents while investing in digital and green finance",
+        seoTitle: "Abc Agricultural Bank Of China Focuses On Rural Revitalization",
+        seoDescription:
+          "Abc - Agricultural Bank Of China Focuses On Rural Revitalization, County Economies, And Urban Residents While Investing In Digital And Green Finance",
         seoKeywords: [
           "abc",
           "rural",
@@ -3359,15 +3359,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.abchina.com/",
         bgImg: "",
-        tags: ["abc", "rural", "finance", "anchor", "tool"],
+        tags: ["Abc", "Rural", "Finance", "Anchor", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "boc-global-clearing-bank",
         nameShort: "boc",
-        seoTitle: "Boc Bank of China is the country's oldest lender with global",
-        setDescription:
-          "Boc - Bank of China is the country's oldest lender with global branches and multi-currency clearing expertise",
+        seoTitle: "Boc Bank Of China Is The Country'S Oldest Lender With Global",
+        seoDescription:
+          "Boc - Bank Of China Is The Country's Oldest Lender With Global Branches And Multi-currency Clearing Expertise",
         seoKeywords: [
           "boc",
           "global",
@@ -3384,15 +3384,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.boc.cn/",
         bgImg: "",
-        tags: ["boc", "global", "clearing", "bank", "tool"],
+        tags: ["Boc", "Global", "Clearing", "Bank", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "pingan-finance-ecosystem",
         nameShort: "pingan",
-        seoTitle: "Pingan Ping An combines insurance, banking, and health tech to",
-        setDescription:
-          "Pingan - Ping An combines insurance, banking, and health tech to deliver a Financial+Ecosystem model for comprehensive services",
+        seoTitle: "Pingan Ping An Combines Insurance, Banking, And Health Tech To",
+        seoDescription:
+          "Pingan - Ping An Combines Insurance, Banking, And Health Tech To Deliver A Financial+Ecosystem Model For Comprehensive Services",
         seoKeywords: [
           "pingan",
           "finance",
@@ -3409,15 +3409,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.pingan.cn/",
         bgImg: "",
-        tags: ["pingan", "finance", "ecosystem", "tool", "platform"],
+        tags: ["Pingan", "Finance", "Ecosystem", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "crec-railway-contractor",
         nameShort: "crec",
-        seoTitle: "Crec China Railway Group builds railways, highways, and",
-        setDescription:
-          "Crec - China Railway Group builds railways, highways, and underground projects with full-chain construction and equipment capabilities",
+        seoTitle: "Crec China Railway Group Builds Railways, Highways, And",
+        seoDescription:
+          "Crec - China Railway Group Builds Railways, Highways, And Underground Projects With Full-chain Construction And Equipment Capabilities",
         seoKeywords: [
           "crec",
           "railway",
@@ -3434,15 +3434,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.crecg.com/",
         bgImg: "",
-        tags: ["crec", "railway", "contractor", "tool", "platform"],
+        tags: ["Crec", "Railway", "Contractor", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "crcc-infrastructure-builder",
         nameShort: "crcc",
-        seoTitle: "Crcc China Railway Construction Corporation drives engineering",
-        setDescription:
-          "Crcc - China Railway Construction Corporation drives engineering, transport investment, and equipment manufacturing across Asia, Africa, and Latin",
+        seoTitle: "Crcc China Railway Construction Corporation Drives Engineering",
+        seoDescription:
+          "Crcc - China Railway Construction Corporation Drives Engineering, Transport Investment, And Equipment Manufacturing Across Asia, Africa, And Latin",
         seoKeywords: [
           "crcc",
           "infrastructure",
@@ -3459,15 +3459,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.crcc.cn/",
         bgImg: "",
-        tags: ["crcc", "infrastructure", "builder", "tool", "platform"],
+        tags: ["Crcc", "Infrastructure", "Builder", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "cnooc-offshore-energy",
         nameShort: "cnooc",
-        seoTitle: "CNOOC manages deepwater oil and gas, LNG terminals, and offshore",
-        setDescription:
-          "CNOOC manages deepwater oil and gas, LNG terminals, and offshore wind assets across multiple energy scenarios",
+        seoTitle: "CNOOC Manages Deepwater Oil And Gas, LNG Terminals, And Offshore",
+        seoDescription:
+          "CNOOC Manages Deepwater Oil And Gas, LNG Terminals, And Offshore Wind Assets Across Multiple Energy Scenarios",
         seoKeywords: [
           "cnooc",
           "offshore",
@@ -3484,15 +3484,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cnooc.com.cn/",
         bgImg: "",
-        tags: ["cnooc", "offshore", "energy", "tool", "platform"],
+        tags: ["Cnooc", "Offshore", "Energy", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "china-mobile-5g-leader",
         nameShort: "china",
-        seoTitle: "China Mobile leads in 5G, compute-network convergence, and",
-        setDescription:
-          "China Mobile leads in 5G, compute-network convergence, and enterprise services while serving the world's largest subscriber base",
+        seoTitle: "China Mobile Leads In 5G, Compute-Network Convergence, And",
+        seoDescription:
+          "China Mobile Leads In 5G, Compute-network Convergence, And Enterprise Services While Serving The World's Largest Subscriber Base",
         seoKeywords: [
           "china",
           "mobile",
@@ -3509,15 +3509,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.10086.cn/",
         bgImg: "",
-        tags: ["china", "mobile", "leader", "tool", "platform"],
+        tags: ["China", "Mobile", "Leader", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "saicmotor-auto-innovation",
         nameShort: "saicmotor",
-        seoTitle: "Saicmotor SAIC Motor runs Roewe, MG, and joint ventures with VW",
-        setDescription:
-          "Saicmotor - SAIC Motor runs Roewe, MG, and joint ventures with VW and GM while accelerating new energy and autonomous driving",
+        seoTitle: "Saicmotor SAIC Motor Runs Roewe, MG, And Joint Ventures With VW",
+        seoDescription:
+          "Saicmotor - SAIC Motor Runs Roewe, MG, And Joint Ventures With VW And GM While Accelerating New Energy And Autonomous Driving",
         seoKeywords: [
           "saicmotor",
           "auto",
@@ -3534,15 +3534,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.saicmotor.com/",
         bgImg: "",
-        tags: ["saicmotor", "auto", "innovation", "tool", "platform"],
+        tags: ["Saicmotor", "Auto", "Innovation", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "baowu-steel-green-transition",
         nameShort: "baowu",
-        seoTitle: "Baowu China Baowu is the world's largest crude steel producer",
-        setDescription:
-          "China Baowu is the world's largest crude steel producer, advancing low-carbon metallurgy and smart green factories",
+        seoTitle: "Baowu China Baowu Is The World'S Largest Crude Steel Producer",
+        seoDescription:
+          "China Baowu Is The World's Largest Crude Steel Producer, Advancing Low-carbon Metallurgy And Smart Green Factories",
         seoKeywords: [
           "baowu",
           "steel",
@@ -3559,15 +3559,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.baowugroup.com/",
         bgImg: "",
-        tags: ["baowu", "steel", "green", "transition", "tool"],
+        tags: ["Baowu", "Steel", "Green", "Transition", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "china-life-insurance-network",
         nameShort: "china-life",
-        seoTitle: "China Life specializes in life, annuity, and health management",
-        setDescription:
-          "China Life specializes in life, annuity, and health management with a nationwide insurance network",
+        seoTitle: "China Life Specializes In Life, Annuity, And Health Management",
+        seoDescription:
+          "China Life Specializes In Life, Annuity, And Health Management With A Nationwide Insurance Network",
         seoKeywords: [
           "china life",
           "china",
@@ -3583,15 +3583,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.chinalife.com.cn/",
         bgImg: "",
-        tags: ["china", "life", "insurance", "network", "tool"],
+        tags: ["China", "Life", "Insurance", "Network", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "china-resources-diversified",
         nameShort: "china-resources",
-        seoTitle: "China Resources spans consumer goods, energy, power, pharma, and",
-        setDescription:
-          "China Resources spans consumer goods, energy, power, pharma, and urban development as a diversified state-owned platform",
+        seoTitle: "China Resources Spans Consumer Goods, Energy, Power, Pharma, And",
+        seoDescription:
+          "China Resources Spans Consumer Goods, Energy, Power, Pharma, And Urban Development As A Diversified State-owned Platform",
         seoKeywords: [
           "china resources",
           "china",
@@ -3608,26 +3608,26 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.crc.com.hk/",
         bgImg: "",
-        tags: ["china", "resources", "diversified", "tool", "platform"],
+        tags: ["China", "Resources", "Diversified", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "jd-supply-chain-technology",
         nameShort: "jd",
         seoTitle: "JD",
-        setDescription: "JD",
+        seoDescription: "JD",
         seoKeywords: ["jd", "supply", "chain", "technology", "tool"],
         iframeUrl: "https://corporate.jd.com/",
         bgImg: "",
-        tags: ["jd", "supply", "chain", "technology", "tool"],
+        tags: ["Jd", "Supply", "Chain", "Technology", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "cmb-wealth-management",
         nameShort: "cmb",
-        seoTitle: "Cmb China Merchants Bank is known for retail finance, wealth",
-        setDescription:
-          "Cmb - China Merchants Bank is known for retail finance, wealth management, and fintech, earning the title of the retail banking benchmark",
+        seoTitle: "Cmb China Merchants Bank Is Known For Retail Finance, Wealth",
+        seoDescription:
+          "Cmb - China Merchants Bank Is Known For Retail Finance, Wealth Management, And Fintech, Earning The Title Of The Retail Banking Benchmark",
         seoKeywords: [
           "cmb",
           "wealth",
@@ -3644,15 +3644,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cmbchina.com/",
         bgImg: "",
-        tags: ["cmb", "wealth", "management", "tool", "platform"],
+        tags: ["Cmb", "Wealth", "Management", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "china-telecom-cloud-network",
         nameShort: "china-telecom",
-        seoTitle: "China Telecom advances cloud-network convergence and satellite",
-        setDescription:
-          "China Telecom advances cloud-network convergence and satellite communications to build secure digital infrastructure",
+        seoTitle: "China Telecom Advances Cloud-Network Convergence And Satellite",
+        seoDescription:
+          "China Telecom Advances Cloud-network Convergence And Satellite Communications To Build Secure Digital Infrastructure",
         seoKeywords: [
           "china telecom",
           "china",
@@ -3669,15 +3669,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.chinatelecom.com.cn/",
         bgImg: "",
-        tags: ["china", "telecom", "cloud", "network", "tool"],
+        tags: ["China", "Telecom", "Cloud", "Network", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "alibaba-digital-commerce",
         nameShort: "alibaba",
-        seoTitle: "Alibaba builds a digital business operating system covering",
-        setDescription:
-          "Alibaba builds a digital business operating system covering e-commerce, cloud computing, local services, and global ventures",
+        seoTitle: "Alibaba Builds A Digital Business Operating System Covering",
+        seoDescription:
+          "Alibaba Builds A Digital Business Operating System Covering E-commerce, Cloud Computing, Local Services, And Global Ventures",
         seoKeywords: [
           "alibaba",
           "digital",
@@ -3694,15 +3694,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.alibabagroup.com/",
         bgImg: "",
-        tags: ["alibaba", "digital", "commerce", "tool", "platform"],
+        tags: ["Alibaba", "Digital", "Commerce", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "china-minmetals-resource",
         nameShort: "china-minmetals",
-        seoTitle: "China Minmetals integrates resource development, metals trading",
-        setDescription:
-          "China Minmetals integrates resource development, metals trading, and new materials manufacturing to secure critical minerals",
+        seoTitle: "China Minmetals Integrates Resource Development, Metals Trading",
+        seoDescription:
+          "China Minmetals Integrates Resource Development, Metals Trading, And New Materials Manufacturing To Secure Critical Minerals",
         seoKeywords: [
           "china minmetals",
           "china",
@@ -3719,15 +3719,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.minmetals.com.cn/",
         bgImg: "",
-        tags: ["china", "minmetals", "resource", "tool", "platform"],
+        tags: ["China", "Minmetals", "Resource", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "cccc-transport-infrastructure",
         nameShort: "cccc",
-        seoTitle: "CCCC delivers global transport infrastructure, dredging, and",
-        setDescription:
-          "CCCC delivers global transport infrastructure, dredging, and equipment projects with end-to-end capabilities",
+        seoTitle: "CCCC Delivers Global Transport Infrastructure, Dredging, And",
+        seoDescription:
+          "CCCC Delivers Global Transport Infrastructure, Dredging, And Equipment Projects With End-to-end Capabilities",
         seoKeywords: [
           "cccc",
           "transport",
@@ -3744,15 +3744,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.ccccltd.cn/",
         bgImg: "",
-        tags: ["cccc", "transport", "infrastructure", "tool", "platform"],
+        tags: ["Cccc", "Transport", "Infrastructure", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "citic-diversified-holding",
         nameShort: "citic",
-        seoTitle: "CITIC spans finance, advanced manufacturing, resources, and",
-        setDescription:
-          "CITIC spans finance, advanced manufacturing, resources, and consumption while driving industrial upgrades and synergies",
+        seoTitle: "CITIC Spans Finance, Advanced Manufacturing, Resources, And",
+        seoDescription:
+          "CITIC Spans Finance, Advanced Manufacturing, Resources, And Consumption While Driving Industrial Upgrades And Synergies",
         seoKeywords: [
           "citic",
           "diversified",
@@ -3769,15 +3769,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.citic.com/",
         bgImg: "",
-        tags: ["citic", "diversified", "holding", "tool", "platform"],
+        tags: ["Citic", "Diversified", "Holding", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "china-unicom-digital-infra",
         nameShort: "china-unicom",
-        seoTitle: "China Unicom focuses on digital infrastructure and the",
-        setDescription:
-          "China Unicom focuses on digital infrastructure and the industrial internet to deliver an integrated computing-network service",
+        seoTitle: "China Unicom Focuses On Digital Infrastructure And The",
+        seoDescription:
+          "China Unicom Focuses On Digital Infrastructure And The Industrial Internet To Deliver An Integrated Computing-network Service",
         seoKeywords: [
           "china unicom",
           "china",
@@ -3794,15 +3794,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.chinaunicom.com/",
         bgImg: "",
-        tags: ["china", "unicom", "digital", "infra", "tool"],
+        tags: ["China", "Unicom", "Digital", "Infra", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "china-post-group-services",
         nameShort: "china-post",
-        seoTitle: "China Post provides nationwide postal, logistics, and financial",
-        setDescription:
-          "China Post provides nationwide postal, logistics, and financial services, fulfilling universal service and government delivery",
+        seoTitle: "China Post Provides Nationwide Postal, Logistics, And Financial",
+        seoDescription:
+          "China Post Provides Nationwide Postal, Logistics, And Financial Services, Fulfilling Universal Service And Government Delivery",
         seoKeywords: [
           "china post",
           "china",
@@ -3819,15 +3819,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.chinapost.com.cn/",
         bgImg: "",
-        tags: ["china", "post", "group", "services", "tool"],
+        tags: ["China", "Post", "Group", "Services", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "cofco-global-grain",
         nameShort: "cofco",
-        seoTitle: "COFCO manages global grain procurement, processing, and food",
-        setDescription:
-          "COFCO manages global grain procurement, processing, and food manufacturing to protect national food security",
+        seoTitle: "COFCO Manages Global Grain Procurement, Processing, And Food",
+        seoDescription:
+          "COFCO Manages Global Grain Procurement, Processing, And Food Manufacturing To Protect National Food Security",
         seoKeywords: [
           "cofco",
           "global",
@@ -3844,15 +3844,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cofco.com/",
         bgImg: "",
-        tags: ["cofco", "global", "grain", "tool", "platform"],
+        tags: ["Cofco", "Global", "Grain", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "everbright-financial-holding",
         nameShort: "everbright",
-        seoTitle: "Everbright China Everbright builds a Large Wealth, Large Assets",
-        setDescription:
-          "China Everbright builds a Large Wealth, Large Assets, and Large Environment platform linking banking, securities, and trusts",
+        seoTitle: "Everbright China Everbright Builds A Large Wealth, Large Assets",
+        seoDescription:
+          "China Everbright Builds A Large Wealth, Large Assets, And Large Environment Platform Linking Banking, Securities, And Trusts",
         seoKeywords: [
           "everbright",
           "financial",
@@ -3869,15 +3869,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cegroup.com.cn/",
         bgImg: "",
-        tags: ["everbright", "financial", "holding", "tool", "platform"],
+        tags: ["Everbright", "Financial", "Holding", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "csg-power-grid",
         nameShort: "csg",
-        seoTitle: "Csg China Southern Power Grid operates electricity markets",
-        setDescription:
-          "Csg - China Southern Power Grid operates electricity markets across five southern provinces, enabling cross-border links and renewable integration",
+        seoTitle: "Csg China Southern Power Grid Operates Electricity Markets",
+        seoDescription:
+          "Csg - China Southern Power Grid Operates Electricity Markets Across Five Southern Provinces, Enabling Cross-border Links And Renewable Integration",
         seoKeywords: [
           "csg",
           "power",
@@ -3894,15 +3894,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.csg.cn/",
         bgImg: "",
-        tags: ["csg", "power", "grid", "tool", "platform"],
+        tags: ["Csg", "Power", "Grid", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "cnbm-new-materials",
         nameShort: "cnbm",
-        seoTitle: "CNBM leads in new building materials, engineering services, and",
-        setDescription:
-          "CNBM leads in new building materials, engineering services, and aggregates while pushing greener materials",
+        seoTitle: "CNBM Leads In New Building Materials, Engineering Services, And",
+        seoDescription:
+          "CNBM Leads In New Building Materials, Engineering Services, And Aggregates While Pushing Greener Materials",
         seoKeywords: [
           "cnbm",
           "new",
@@ -3919,15 +3919,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cnbm.com.cn/",
         bgImg: "",
-        tags: ["cnbm", "new", "materials", "tool", "platform"],
+        tags: ["Cnbm", "New", "Materials", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "powerchina-engineering-group",
         nameShort: "powerchina",
-        seoTitle: "PowerChina combines power, water, rail, and new energy",
-        setDescription:
-          "PowerChina combines power, water, rail, and new energy engineering surveys, design, and construction under one roof",
+        seoTitle: "PowerChina Combines Power, Water, Rail, And New Energy",
+        seoDescription:
+          "PowerChina Combines Power, Water, Rail, And New Energy Engineering Surveys, Design, And Construction Under One Roof",
         seoKeywords: [
           "powerchina",
           "engineering",
@@ -3944,15 +3944,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.powerchina.cn/",
         bgImg: "",
-        tags: ["powerchina", "engineering", "group", "tool", "platform"],
+        tags: ["Powerchina", "Engineering", "Group", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "ceec-energy-engineering",
         nameShort: "ceec",
-        seoTitle: "Ceec Energy China covers energy planning, construction, and",
-        setDescription:
-          "Ceec - Energy China covers energy planning, construction, and operations while developing storage and hydrogen projects",
+        seoTitle: "Ceec Energy China Covers Energy Planning, Construction, And",
+        seoDescription:
+          "Ceec - Energy China Covers Energy Planning, Construction, And Operations While Developing Storage And Hydrogen Projects",
         seoKeywords: [
           "ceec",
           "energy",
@@ -3969,15 +3969,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.ceec.net.cn/",
         bgImg: "",
-        tags: ["ceec", "energy", "engineering", "tool", "platform"],
+        tags: ["Ceec", "Energy", "Engineering", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "cnnc-nuclear-industry",
         nameShort: "cnnc",
-        seoTitle: "CNNC controls the full value chain for nuclear fuel, plant",
-        setDescription:
-          "CNNC controls the full value chain for nuclear fuel, plant construction, and back-end processing",
+        seoTitle: "CNNC Controls The Full Value Chain For Nuclear Fuel, Plant",
+        seoDescription:
+          "CNNC Controls The Full Value Chain For Nuclear Fuel, Plant Construction, And Back-end Processing",
         seoKeywords: [
           "cnnc",
           "nuclear",
@@ -3994,15 +3994,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cnnc.com.cn/",
         bgImg: "",
-        tags: ["cnnc", "nuclear", "industry", "tool", "platform"],
+        tags: ["Cnnc", "Nuclear", "Industry", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "cgn-clean-energy",
         nameShort: "cgn",
-        seoTitle: "CGN expands in nuclear power, fuel, renewable energy, and",
-        setDescription:
-          "CGN expands in nuclear power, fuel, renewable energy, and nuclear technology applications",
+        seoTitle: "CGN Expands In Nuclear Power, Fuel, Renewable Energy, And",
+        seoDescription:
+          "CGN Expands In Nuclear Power, Fuel, Renewable Energy, And Nuclear Technology Applications",
         seoKeywords: [
           "cgn",
           "clean",
@@ -4019,15 +4019,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cgnpc.com.cn/",
         bgImg: "",
-        tags: ["cgn", "clean", "energy", "tool", "platform"],
+        tags: ["Cgn", "Clean", "Energy", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "avic-aviation-manufacturer",
         nameShort: "avic",
-        seoTitle: "AVIC develops and manufactures military and civil aircraft while",
-        setDescription:
-          "AVIC develops and manufactures military and civil aircraft while investing in general aviation services",
+        seoTitle: "AVIC Develops And Manufactures Military And Civil Aircraft While",
+        seoDescription:
+          "AVIC Develops And Manufactures Military And Civil Aircraft While Investing In General Aviation Services",
         seoKeywords: [
           "avic",
           "aviation",
@@ -4044,15 +4044,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.avic.com/",
         bgImg: "",
-        tags: ["avic", "aviation", "manufacturer", "tool", "platform"],
+        tags: ["Avic", "Aviation", "Manufacturer", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "china-eastern-airlines",
         nameShort: "china-eastern",
-        seoTitle: "China Eastern Airlines is one of three state carriers, running a",
-        setDescription:
-          "China Eastern Airlines is one of three state carriers, running a Shanghai hub with a global route network",
+        seoTitle: "China Eastern Airlines Is One Of Three State Carriers, Running A",
+        seoDescription:
+          "China Eastern Airlines Is One Of Three State Carriers, Running A Shanghai Hub With A Global Route Network",
         seoKeywords: [
           "china eastern",
           "china",
@@ -4069,15 +4069,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.ceair.com/",
         bgImg: "",
-        tags: ["china", "eastern", "airlines", "tool", "platform"],
+        tags: ["China", "Eastern", "Airlines", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "china-southern-airlines",
         nameShort: "china-southern",
-        seoTitle: "China Southern Airlines fields one of Asia's largest fleets",
-        setDescription:
-          "China Southern Airlines fields one of Asia's largest fleets, strengthening the Guangzhou-Shenzhen dual hub and international routes",
+        seoTitle: "China Southern Airlines Fields One Of Asia'S Largest Fleets",
+        seoDescription:
+          "China Southern Airlines Fields One Of Asia's Largest Fleets, Strengthening The Guangzhou-Shenzhen Dual Hub And International Routes",
         seoKeywords: [
           "china southern",
           "china",
@@ -4094,15 +4094,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.csair.com/",
         bgImg: "",
-        tags: ["china", "southern", "airlines", "tool", "platform"],
+        tags: ["China", "Southern", "Airlines", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "air-china-flag-carrier",
         nameShort: "air",
-        seoTitle: "Air China operates the national flag carrier, handling state",
-        setDescription:
-          "Air China operates the national flag carrier, handling state missions and flagship international flights",
+        seoTitle: "Air China Operates The National Flag Carrier, Handling State",
+        seoDescription:
+          "Air China Operates The National Flag Carrier, Handling State Missions And Flagship International Flights",
         seoKeywords: [
           "air",
           "china",
@@ -4119,15 +4119,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.airchina.com.cn/",
         bgImg: "",
-        tags: ["air", "china", "flag", "carrier", "tool"],
+        tags: ["Air", "China", "Flag", "Carrier", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "industrial-bank-green-finance",
         nameShort: "industrial",
-        seoTitle: "Industrial Bank excels in green finance, interbank services, and",
-        setDescription:
-          "Industrial Bank excels in green finance, interbank services, and asset management innovation",
+        seoTitle: "Industrial Bank Excels In Green Finance, Interbank Services, And",
+        seoDescription:
+          "Industrial Bank Excels In Green Finance, Interbank Services, And Asset Management Innovation",
         seoKeywords: [
           "industrial",
           "bank",
@@ -4143,15 +4143,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cib.com.cn/",
         bgImg: "",
-        tags: ["industrial", "bank", "green", "finance", "tool"],
+        tags: ["Industrial", "Bank", "Green", "Finance", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "bank-of-communications",
         nameShort: "bank",
-        seoTitle: "Bank of Communications is one of China's earliest nationwide",
-        setDescription:
-          "Bank of Communications is one of China's earliest nationwide banks with business across five continents",
+        seoTitle: "Bank Of Communications Is One Of China'S Earliest Nationwide",
+        seoDescription:
+          "Bank Of Communications Is One Of China's Earliest Nationwide Banks With Business Across Five Continents",
         seoKeywords: [
           "bank",
           "communications",
@@ -4168,15 +4168,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.bankcomm.com/",
         bgImg: "",
-        tags: ["bank", "of", "communications", "tool", "platform"],
+        tags: ["Bank", "Of", "Communications", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "psbc-inclusive-finance",
         nameShort: "psbc",
-        seoTitle: "Psbc Postal Savings Bank of China uses postal outlets to serve",
-        setDescription:
-          "Psbc - Postal Savings Bank of China uses postal outlets to serve counties, inclusive finance, and more than 600 million retail customers",
+        seoTitle: "Psbc Postal Savings Bank Of China Uses Postal Outlets To Serve",
+        seoDescription:
+          "Psbc - Postal Savings Bank Of China Uses Postal Outlets To Serve Counties, Inclusive Finance, And More Than 600 Million Retail Customers",
         seoKeywords: [
           "psbc",
           "inclusive",
@@ -4193,15 +4193,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.psbc.com/",
         bgImg: "",
-        tags: ["psbc", "inclusive", "finance", "tool", "platform"],
+        tags: ["Psbc", "Inclusive", "Finance", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "cpic-insurance-services",
         nameShort: "cpic",
-        seoTitle: "Cpic China Pacific Insurance offers property, life, and health",
-        setDescription:
-          "China Pacific Insurance offers property, life, and health coverage through its signature CPIC Service experience",
+        seoTitle: "Cpic China Pacific Insurance Offers Property, Life, And Health",
+        seoDescription:
+          "China Pacific Insurance Offers Property, Life, And Health Coverage Through Its Signature CPIC Service Experience",
         seoKeywords: [
           "cpic",
           "insurance",
@@ -4218,15 +4218,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cpic.com.cn/",
         bgImg: "",
-        tags: ["cpic", "insurance", "services", "tool", "platform"],
+        tags: ["Cpic", "Insurance", "Services", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "xiaomi-smart-ecosystem",
         nameShort: "xiaomi",
-        seoTitle: "Xiaomi fuses smartphones, IoT, and smart manufacturing to build",
-        setDescription:
-          "Xiaomi fuses smartphones, IoT, and smart manufacturing to build a human-car-home ecosystem",
+        seoTitle: "Xiaomi Fuses Smartphones, IoT, And Smart Manufacturing To Build",
+        seoDescription:
+          "Xiaomi Fuses Smartphones, IoT, And Smart Manufacturing To Build A Human-car-home Ecosystem",
         seoKeywords: [
           "xiaomi",
           "smart",
@@ -4243,15 +4243,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mi.com/",
         bgImg: "",
-        tags: ["xiaomi", "smart", "ecosystem", "tool", "platform"],
+        tags: ["Xiaomi", "Smart", "Ecosystem", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "byd-new-energy",
         nameShort: "byd",
-        seoTitle: "BYD leads in new energy vehicles and batteries, delivering BEVs",
-        setDescription:
-          "BYD leads in new energy vehicles and batteries, delivering BEVs, plug-in hybrids, and global exports",
+        seoTitle: "BYD Leads In New Energy Vehicles And Batteries, Delivering BEVs",
+        seoDescription:
+          "BYD Leads In New Energy Vehicles And Batteries, Delivering BEVs, Plug-in Hybrids, And Global Exports",
         seoKeywords: [
           "byd",
           "new",
@@ -4268,15 +4268,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.byd.com/",
         bgImg: "",
-        tags: ["byd", "new", "energy", "tool", "platform"],
+        tags: ["Byd", "New", "Energy", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "tencent-digital-ecosystem",
         nameShort: "tencent",
-        seoTitle: "Tencent powers digital life and the industrial internet with",
-        setDescription:
-          "Tencent powers digital life and the industrial internet with social platforms, content, fintech, and cloud computing",
+        seoTitle: "Tencent Powers Digital Life And The Industrial Internet With",
+        seoDescription:
+          "Tencent Powers Digital Life And The Industrial Internet With Social Platforms, Content, Fintech, And Cloud Computing",
         seoKeywords: [
           "tencent",
           "digital",
@@ -4293,15 +4293,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.tencent.com/",
         bgImg: "",
-        tags: ["tencent", "digital", "ecosystem", "tool", "platform"],
+        tags: ["Tencent", "Digital", "Ecosystem", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "midea-smart-manufacturing",
         nameShort: "midea",
-        seoTitle: "Midea extends from home appliances into building technologies",
-        setDescription:
-          "Midea extends from home appliances into building technologies, robotics, and industrial automation",
+        seoTitle: "Midea Extends From Home Appliances Into Building Technologies",
+        seoDescription:
+          "Midea Extends From Home Appliances Into Building Technologies, Robotics, And Industrial Automation",
         seoKeywords: [
           "midea",
           "smart",
@@ -4318,15 +4318,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.midea.com/",
         bgImg: "",
-        tags: ["midea", "smart", "manufacturing", "tool", "platform"],
+        tags: ["Midea", "Smart", "Manufacturing", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "gree-intelligent-equipment",
         nameShort: "gree",
-        seoTitle: "Gree leverages air-conditioning expertise while expanding into",
-        setDescription:
-          "Gree leverages air-conditioning expertise while expanding into smart equipment and new energy",
+        seoTitle: "Gree Leverages Air-Conditioning Expertise While Expanding Into",
+        seoDescription:
+          "Gree Leverages Air-conditioning Expertise While Expanding Into Smart Equipment And New Energy",
         seoKeywords: [
           "gree",
           "intelligent",
@@ -4343,15 +4343,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gree.com/",
         bgImg: "",
-        tags: ["gree", "intelligent", "equipment", "tool", "platform"],
+        tags: ["Gree", "Intelligent", "Equipment", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "haier-smart-home",
         nameShort: "haier",
-        seoTitle: "Haier Smart Home created the Three-Winged Bird scenario brand to",
-        setDescription:
-          "Haier Smart Home created the Three-Winged Bird scenario brand to deliver a connected global appliance ecosystem",
+        seoTitle: "Haier Smart Home Created The Three-Winged Bird Scenario Brand To",
+        seoDescription:
+          "Haier Smart Home Created The Three-Winged Bird Scenario Brand To Deliver A Connected Global Appliance Ecosystem",
         seoKeywords: [
           "haier",
           "smart",
@@ -4368,15 +4368,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.haier.com/",
         bgImg: "",
-        tags: ["haier", "smart", "home", "tool", "platform"],
+        tags: ["Haier", "Smart", "Home", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "shougang-urban-renewal",
         nameShort: "shougang",
-        seoTitle: "Shougang invests in steel, urban services, and industrial parks",
-        setDescription:
-          "Shougang invests in steel, urban services, and industrial parks to upgrade Beijing's industries",
+        seoTitle: "Shougang Invests In Steel, Urban Services, And Industrial Parks",
+        seoDescription:
+          "Shougang Invests In Steel, Urban Services, And Industrial Parks To Upgrade Beijing's Industries",
         seoKeywords: [
           "shougang",
           "urban",
@@ -4393,15 +4393,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.shougang.com.cn/",
         bgImg: "",
-        tags: ["shougang", "urban", "renewal", "tool", "platform"],
+        tags: ["Shougang", "Urban", "Renewal", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "yili-dairy-leader",
         nameShort: "yili",
-        seoTitle: "Yili is Asia's dairy leader, covering liquid milk, ice cream",
-        setDescription:
-          "Yili is Asia's dairy leader, covering liquid milk, ice cream, milk powder, and health foods",
+        seoTitle: "Yili Is Asia'S Dairy Leader, Covering Liquid Milk, Ice Cream",
+        seoDescription:
+          "Yili Is Asia's Dairy Leader, Covering Liquid Milk, Ice Cream, Milk Powder, And Health Foods",
         seoKeywords: [
           "yili",
           "dairy",
@@ -4418,7 +4418,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.yili.com/",
         bgImg: "",
-        tags: ["yili", "dairy", "leader", "tool", "platform"],
+        tags: ["Yili", "Dairy", "Leader", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
     ],
@@ -4427,8 +4427,8 @@ export const menu: Menu[] = [
     name: "image-compression-tools",
     nameShort: "image",
     isHomeData: true,
-    seoTitle: "Image featuring Tinypng, Compressjpeg, Squoosh",
-    setDescription: "Image directory featuring Tinypng, Compressjpeg, Squoosh, Kraken and more.",
+    seoTitle: "Image Featuring Tinypng, Compressjpeg, Squoosh",
+    seoDescription: "Image Directory Featuring Tinypng, Compressjpeg, Squoosh, Kraken And More.",
     seoKeywords: [
       "image",
       "compression",
@@ -4447,9 +4447,9 @@ export const menu: Menu[] = [
       {
         name: "tinypng-smart-image-compression",
         nameShort: "tinypng",
-        seoTitle: "TinyPNG compresses PNG and JPG files with smart color",
-        setDescription:
-          "TinyPNG compresses PNG and JPG files with smart color quantization so you can shrink transparent assets in bulk while keeping clarity",
+        seoTitle: "TinyPNG Compresses PNG And JPG Files With Smart Color",
+        seoDescription:
+          "TinyPNG Compresses PNG And JPG Files With Smart Color Quantization So You Can Shrink Transparent Assets In Bulk While Keeping Clarity",
         seoKeywords: [
           "tinypng",
           "smart",
@@ -4466,15 +4466,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tinypng.com/",
         bgImg: "",
-        tags: ["tinypng", "smart", "image", "compression", "tool"],
+        tags: ["Tinypng", "Smart", "Image", "Compression", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "compressjpeg-batch-photo-tool",
         nameShort: "compressjpeg",
-        seoTitle: "CompressJPEG lets you drop 20 images at a time, auto-detects",
-        setDescription:
-          "CompressJPEG lets you drop 20 images at a time, auto-detects JPG/PNG/WEBP formats, and exports zipped downloads with adjustable quality levels",
+        seoTitle: "CompressJPEG Lets You Drop 20 Images At A Time, Auto-Detects",
+        seoDescription:
+          "CompressJPEG Lets You Drop 20 Images At A Time, Auto-detects JPG/PNG/WEBP Formats, And Exports Zipped Downloads With Adjustable Quality Levels",
         seoKeywords: [
           "compressjpeg",
           "batch",
@@ -4491,15 +4491,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://compressjpeg.com/",
         bgImg: "",
-        tags: ["compressjpeg", "batch", "photo", "tool", "platform"],
+        tags: ["Compressjpeg", "Batch", "Photo", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
       {
         name: "squoosh-google-image-optimizer",
         nameShort: "squoosh",
-        seoTitle: "Squoosh is Google’s open-source web app for tweaking AVIF",
-        setDescription:
-          "Squoosh is Google’s open-source web app for tweaking AVIF, MozJPEG, and WebP encoders with live side-by-side previews and granular compression sliders",
+        seoTitle: "Squoosh Is Google’S Open-Source Web App For Tweaking AVIF",
+        seoDescription:
+          "Squoosh Is Google’s Open-source Web App For Tweaking AVIF, MozJPEG, And WebP Encoders With Live Side-by-side Previews And Granular Compression Sliders",
         seoKeywords: [
           "squoosh",
           "google",
@@ -4516,26 +4516,26 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://squoosh.app/",
         bgImg: "",
-        tags: ["squoosh", "google", "image", "optimizer", "tool"],
+        tags: ["Squoosh", "Google", "Image", "Optimizer", "Tool"],
         updateTime: "2025-12-05",
       },
       {
         name: "kraken-io-lossy-image-optimizer",
         nameShort: "kraken",
         seoTitle: "Kraken",
-        setDescription: "Kraken",
+        seoDescription: "Kraken",
         seoKeywords: ["kraken", "lossy", "image", "optimizer", "io"],
         iframeUrl: "https://kraken.io/web-interface",
         bgImg: "",
-        tags: ["kraken", "io", "lossy", "image", "optimizer"],
+        tags: ["Kraken", "Io", "Lossy", "Image", "Optimizer"],
         updateTime: "2025-12-05",
       },
       {
         name: "tinywow-image-compressor",
         nameShort: "tinywow",
-        seoTitle: "TinyWow Image Compressor combines drag-and-drop uploads",
-        setDescription:
-          "TinyWow Image Compressor combines drag-and-drop uploads, clipboard pasting, and cloud cleanup to shrink JPG, PNG, and WEBP files without sign-ups",
+        seoTitle: "TinyWow Image Compressor Combines Drag-And-Drop Uploads",
+        seoDescription:
+          "TinyWow Image Compressor Combines Drag-and-drop Uploads, Clipboard Pasting, And Cloud Cleanup To Shrink JPG, PNG, And WEBP Files Without Sign-ups",
         seoKeywords: [
           "tinywow",
           "image",
@@ -4552,7 +4552,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tinywow.com/tool/image-compressor",
         bgImg: "",
-        tags: ["tinywow", "image", "compressor", "tool", "platform"],
+        tags: ["Tinywow", "Image", "Compressor", "Tool", "Platform"],
         updateTime: "2025-12-05",
       },
     ],
@@ -4561,8 +4561,8 @@ export const menu: Menu[] = [
     name: "youtube-growth-tools",
     nameShort: "youtube",
     isHomeData: true,
-    seoTitle: "Youtube featuring Tubebuddy, Vidiq, Canva",
-    setDescription: "Youtube directory featuring Tubebuddy, Vidiq, Canva, Epidemic and more.",
+    seoTitle: "Youtube Featuring Tubebuddy, Vidiq, Canva",
+    seoDescription: "Youtube Directory Featuring Tubebuddy, Vidiq, Canva, Epidemic And More.",
     seoKeywords: [
       "youtube",
       "growth",
@@ -4581,9 +4581,9 @@ export const menu: Menu[] = [
       {
         name: "tubebuddy-youtube-seo",
         nameShort: "tubebuddy",
-        seoTitle: "TubeBuddy is a certified browser extension that streamlines",
-        setDescription:
-          "TubeBuddy is a certified browser extension that streamlines keyword research, A/B tests, and bulk metadata edits for YouTube channels",
+        seoTitle: "TubeBuddy Is A Certified Browser Extension That Streamlines",
+        seoDescription:
+          "TubeBuddy Is A Certified Browser Extension That Streamlines Keyword Research, A/B Tests, And Bulk Metadata Edits For YouTube Channels",
         seoKeywords: [
           "tubebuddy",
           "youtube",
@@ -4600,15 +4600,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.tubebuddy.com/",
         bgImg: "",
-        tags: ["tubebuddy", "youtube", "seo", "tool", "platform"],
+        tags: ["Tubebuddy", "Youtube", "Seo", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "vidiq-channel-analytics",
         nameShort: "vidiq",
-        seoTitle: "vidIQ surfaces trending topics, SEO scores, and AI idea prompts",
-        setDescription:
-          "vidIQ surfaces trending topics, SEO scores, and AI idea prompts so creators can optimize titles, thumbnails, and upload calendars",
+        seoTitle: "VidIQ Surfaces Trending Topics, SEO Scores, And AI Idea Prompts",
+        seoDescription:
+          "VidIQ Surfaces Trending Topics, SEO Scores, And AI Idea Prompts So Creators Can Optimize Titles, Thumbnails, And Upload Calendars",
         seoKeywords: [
           "vidiq",
           "channel",
@@ -4625,15 +4625,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://vidiq.com/",
         bgImg: "",
-        tags: ["vidiq", "channel", "analytics", "tool", "platform"],
+        tags: ["Vidiq", "Channel", "Analytics", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "canva-youtube-thumbnail-maker",
         nameShort: "canva",
-        seoTitle: "Canva’s YouTube thumbnail maker ships ready-made layouts, brand",
-        setDescription:
-          "Canva’s YouTube thumbnail maker ships ready-made layouts, brand kits, and AI image tools for fast, on-brand cover art",
+        seoTitle: "Canva’S YouTube Thumbnail Maker Ships Ready-Made Layouts, Brand",
+        seoDescription:
+          "Canva’s YouTube Thumbnail Maker Ships Ready-made Layouts, Brand Kits, And AI Image Tools For Fast, On-brand Cover Art",
         seoKeywords: [
           "canva",
           "youtube",
@@ -4650,15 +4650,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.canva.com/create/youtube-thumbnails/",
         bgImg: "",
-        tags: ["canva", "youtube", "thumbnail", "maker", "tool"],
+        tags: ["Canva", "Youtube", "Thumbnail", "Maker", "Tool"],
         updateTime: "2025-12-03",
       },
       {
         name: "epidemic-sound-youtube-music",
         nameShort: "epidemic",
-        seoTitle: "Epidemic Sound licenses royalty-free tracks and sound effects",
-        setDescription:
-          "Epidemic Sound licenses royalty-free tracks and sound effects cleared for monetized YouTube uploads with direct channel linking",
+        seoTitle: "Epidemic Sound Licenses Royalty-Free Tracks And Sound Effects",
+        seoDescription:
+          "Epidemic Sound Licenses Royalty-free Tracks And Sound Effects Cleared For Monetized YouTube Uploads With Direct Channel Linking",
         seoKeywords: [
           "epidemic",
           "sound",
@@ -4675,15 +4675,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.epidemicsound.com/",
         bgImg: "",
-        tags: ["epidemic", "sound", "youtube", "music", "tool"],
+        tags: ["Epidemic", "Sound", "Youtube", "Music", "Tool"],
         updateTime: "2025-12-03",
       },
       {
         name: "socialblade-youtube-stats",
         nameShort: "socialblade",
-        seoTitle: "Socialblade Social Blade tracks subscriber velocity, estimated",
-        setDescription:
-          "Socialblade - Social Blade tracks subscriber velocity, estimated earnings, and competitor benchmarks for any public YouTube channel",
+        seoTitle: "Socialblade Social Blade Tracks Subscriber Velocity, Estimated",
+        seoDescription:
+          "Socialblade - Social Blade Tracks Subscriber Velocity, Estimated Earnings, And Competitor Benchmarks For Any Public YouTube Channel",
         seoKeywords: [
           "socialblade",
           "youtube",
@@ -4700,7 +4700,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://socialblade.com/youtube",
         bgImg: "",
-        tags: ["socialblade", "youtube", "stats", "tool", "platform"],
+        tags: ["Socialblade", "Youtube", "Stats", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -4709,8 +4709,8 @@ export const menu: Menu[] = [
     name: "2025-trend-reports",
     nameShort: "trend",
     isHomeData: true,
-    seoTitle: "Trend featuring Gartner, Mckinsey, Accenture",
-    setDescription: "Trend directory featuring Gartner, Mckinsey, Accenture, Wef and more.",
+    seoTitle: "Trend Featuring Gartner, Mckinsey, Accenture",
+    seoDescription: "Trend Directory Featuring Gartner, Mckinsey, Accenture, Wef And More.",
     seoKeywords: [
       "trend",
       "2025",
@@ -4729,9 +4729,9 @@ export const menu: Menu[] = [
       {
         name: "gartner-2025-tech-trends",
         nameShort: "gartner",
-        seoTitle: "Gartner’s 2025 tech trend briefing highlights AI trust, machine",
-        setDescription:
-          "Gartner’s 2025 tech trend briefing highlights AI trust, machine customers, and platform engineering priorities for CIO roadmaps",
+        seoTitle: "Gartner’S 2025 Tech Trend Briefing Highlights AI Trust, Machine",
+        seoDescription:
+          "Gartner’s 2025 Tech Trend Briefing Highlights AI Trust, Machine Customers, And Platform Engineering Priorities For CIO Roadmaps",
         seoKeywords: [
           "gartner",
           "2025",
@@ -4748,15 +4748,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gartner.com/en/articles/top-strategic-technology-trends-2025",
         bgImg: "",
-        tags: ["gartner", "tech", "trends", "tool", "platform"],
+        tags: ["Gartner", "Tech", "Trends", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "mckinsey-2025-economic-outlook",
         nameShort: "mckinsey",
-        seoTitle: "McKinsey Global Institute publishes 2025 macroeconomic scenarios",
-        setDescription:
-          "McKinsey Global Institute publishes 2025 macroeconomic scenarios covering productivity, energy transitions, and labor shifts",
+        seoTitle: "McKinsey Global Institute Publishes 2025 Macroeconomic Scenarios",
+        seoDescription:
+          "McKinsey Global Institute Publishes 2025 Macroeconomic Scenarios Covering Productivity, Energy Transitions, And Labor Shifts",
         seoKeywords: [
           "mckinsey",
           "2025",
@@ -4773,15 +4773,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mckinsey.com/capabilities/mckinsey-global-institute/our-insights",
         bgImg: "",
-        tags: ["mckinsey", "economic", "outlook", "tool", "platform"],
+        tags: ["Mckinsey", "Economic", "Outlook", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "accenture-2025-tech-vision",
         nameShort: "accenture",
-        seoTitle: "Accenture’s Tech Vision 2025 report explores spatial computing",
-        setDescription:
-          "Accenture’s Tech Vision 2025 report explores spatial computing, AI agents, and cloud continuum bets for enterprise leaders",
+        seoTitle: "Accenture’S Tech Vision 2025 Report Explores Spatial Computing",
+        seoDescription:
+          "Accenture’s Tech Vision 2025 Report Explores Spatial Computing, AI Agents, And Cloud Continuum Bets For Enterprise Leaders",
         seoKeywords: [
           "accenture",
           "2025",
@@ -4798,15 +4798,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.accenture.com/us-en/insights/technology",
         bgImg: "",
-        tags: ["accenture", "tech", "vision", "tool", "platform"],
+        tags: ["Accenture", "Tech", "Vision", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "wef-2025-future-jobs",
         nameShort: "wef",
-        seoTitle: "Wef The World Economic Forum Future of Jobs update details 2025",
-        setDescription:
-          "Wef - The World Economic Forum Future of Jobs update details 2025 skill gaps, automation exposure, and green job creation forecasts",
+        seoTitle: "Wef The World Economic Forum Future Of Jobs Update Details 2025",
+        seoDescription:
+          "Wef - The World Economic Forum Future Of Jobs Update Details 2025 Skill Gaps, Automation Exposure, And Green Job Creation Forecasts",
         seoKeywords: [
           "wef",
           "2025",
@@ -4823,15 +4823,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.weforum.org/reports/",
         bgImg: "",
-        tags: ["wef", "future", "jobs", "tool", "platform"],
+        tags: ["Wef", "Future", "Jobs", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "statista-2025-market-data",
         nameShort: "statista",
-        seoTitle: "Statista aggregates 2025-ready datasets on AI adoption, consumer",
-        setDescription:
-          "Statista aggregates 2025-ready datasets on AI adoption, consumer devices, and digital advertising spends with downloadable charts",
+        seoTitle: "Statista Aggregates 2025-Ready Datasets On AI Adoption, Consumer",
+        seoDescription:
+          "Statista Aggregates 2025-Ready Datasets On AI Adoption, Consumer Devices, And Digital Advertising Spends With Downloadable Charts",
         seoKeywords: [
           "statista",
           "2025",
@@ -4848,7 +4848,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.statista.com/topics/8935/future-of-work/",
         bgImg: "",
-        tags: ["statista", "market", "data", "tool", "platform"],
+        tags: ["Statista", "Market", "Data", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -4857,9 +4857,9 @@ export const menu: Menu[] = [
     name: "deepseek-updates-resources",
     nameShort: "deepseek-updates",
     isHomeData: true,
-    seoTitle: "DeepSeek Updates featuring DeepSeek Official, DeepSeek GitHub",
-    setDescription:
-      "DeepSeek Updates directory featuring DeepSeek Official, DeepSeek GitHub, DeepSeek Huggingface, DeepSeek Research and more.",
+    seoTitle: "DeepSeek Updates Featuring DeepSeek Official, DeepSeek GitHub",
+    seoDescription:
+      "DeepSeek Updates Directory Featuring DeepSeek Official, DeepSeek GitHub, DeepSeek Huggingface, DeepSeek Research And More.",
     seoKeywords: [
       "deepseek updates",
       "deepseek",
@@ -4877,9 +4877,9 @@ export const menu: Menu[] = [
       {
         name: "deepseek-official-updates",
         nameShort: "deepseek-official",
-        seoTitle: "DeepSeek’s official site shares release notes, pricing, and",
-        setDescription:
-          "DeepSeek Official - DeepSeek’s official site shares release notes, pricing, and access to the Grok-inspired DeepSeek-V3 assistant",
+        seoTitle: "DeepSeek’S Official Site Shares Release Notes, Pricing, And",
+        seoDescription:
+          "DeepSeek Official - DeepSeek’s Official Site Shares Release Notes, Pricing, And Access To The Grok-inspired DeepSeek-V3 Assistant",
         seoKeywords: [
           "deepseek official",
           "deepseek",
@@ -4896,15 +4896,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.deepseek.com/",
         bgImg: "",
-        tags: ["deepseek", "official", "updates", "tool", "platform"],
+        tags: ["Deepseek", "Official", "Updates", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "deepseek-github-models",
         nameShort: "deepseek-github",
-        seoTitle: "DeepSeek GitHub The DeepSeek GitHub organization hosts",
-        setDescription:
-          "The DeepSeek GitHub organization hosts Mixtral-based checkpoints, fine-tuning scripts, and inference examples",
+        seoTitle: "DeepSeek GitHub The DeepSeek GitHub Organization Hosts",
+        seoDescription:
+          "The DeepSeek GitHub Organization Hosts Mixtral-based Checkpoints, Fine-tuning Scripts, And Inference Examples",
         seoKeywords: [
           "deepseek github",
           "deepseek",
@@ -4921,15 +4921,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://github.com/deepseek-ai",
         bgImg: "",
-        tags: ["deepseek", "github", "models", "tool", "platform"],
+        tags: ["Deepseek", "Github", "Models", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "deepseek-huggingface-hub",
         nameShort: "deepseek-huggingface",
-        seoTitle: "DeepSeek’s Hugging Face hub provides quantized weights",
-        setDescription:
-          "DeepSeek Huggingface - DeepSeek’s Hugging Face hub provides quantized weights, tokenizer files, and evaluation cards for community downloads",
+        seoTitle: "DeepSeek’S Hugging Face Hub Provides Quantized Weights",
+        seoDescription:
+          "DeepSeek Huggingface - DeepSeek’s Hugging Face Hub Provides Quantized Weights, Tokenizer Files, And Evaluation Cards For Community Downloads",
         seoKeywords: [
           "deepseek huggingface",
           "deepseek",
@@ -4946,15 +4946,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://huggingface.co/deepseek-ai",
         bgImg: "",
-        tags: ["deepseek", "huggingface", "hub", "tool", "platform"],
+        tags: ["Deepseek", "Huggingface", "Hub", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "deepseek-research-papers",
         nameShort: "deepseek-research",
-        seoTitle: "DeepSeek Research The DeepSeek research paper outlines",
-        setDescription:
-          "The DeepSeek research paper outlines architecture innovations, training data, and benchmark results for V2 and beyond",
+        seoTitle: "DeepSeek Research The DeepSeek Research Paper Outlines",
+        seoDescription:
+          "The DeepSeek Research Paper Outlines Architecture Innovations, Training Data, And Benchmark Results For V2 And Beyond",
         seoKeywords: [
           "deepseek research",
           "deepseek",
@@ -4971,7 +4971,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://arxiv.org/abs/2402.03300",
         bgImg: "",
-        tags: ["deepseek", "research", "papers", "tool", "platform"],
+        tags: ["Deepseek", "Research", "Papers", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -4980,9 +4980,9 @@ export const menu: Menu[] = [
     name: "slot-gacor-guides",
     nameShort: "slot",
     isHomeData: true,
-    seoTitle: "Slot featuring Slotcatalog, Askgamblers, Pragmatic",
-    setDescription:
-      "Slot directory featuring Slotcatalog, Askgamblers, Pragmatic, Slottracker and more.",
+    seoTitle: "Slot Featuring Slotcatalog, Askgamblers, Pragmatic",
+    seoDescription:
+      "Slot Directory Featuring Slotcatalog, Askgamblers, Pragmatic, Slottracker And More.",
     seoKeywords: [
       "slot",
       "gacor",
@@ -5001,9 +5001,9 @@ export const menu: Menu[] = [
       {
         name: "slotcatalog-slot-tracker",
         nameShort: "slotcatalog",
-        seoTitle: "SlotCatalog tracks RTP, volatility, and release calendars so",
-        setDescription:
-          "SlotCatalog tracks RTP, volatility, and release calendars so players can compare trending Pragmatic Play and PG Soft titles",
+        seoTitle: "SlotCatalog Tracks RTP, Volatility, And Release Calendars So",
+        seoDescription:
+          "SlotCatalog Tracks RTP, Volatility, And Release Calendars So Players Can Compare Trending Pragmatic Play And PG Soft Titles",
         seoKeywords: [
           "slotcatalog",
           "slot",
@@ -5020,15 +5020,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://slotcatalog.com/",
         bgImg: "",
-        tags: ["slotcatalog", "slot", "tracker", "tool", "platform"],
+        tags: ["Slotcatalog", "Slot", "Tracker", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "askgamblers-slot-reviews",
         nameShort: "askgamblers",
-        seoTitle: "AskGamblers posts audited slot reviews, player ratings, and",
-        setDescription:
-          "AskGamblers posts audited slot reviews, player ratings, and jackpot updates with responsible gaming reminders",
+        seoTitle: "AskGamblers Posts Audited Slot Reviews, Player Ratings, And",
+        seoDescription:
+          "AskGamblers Posts Audited Slot Reviews, Player Ratings, And Jackpot Updates With Responsible Gaming Reminders",
         seoKeywords: [
           "askgamblers",
           "slot",
@@ -5045,15 +5045,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.askgamblers.com/online-slots/",
         bgImg: "",
-        tags: ["askgamblers", "slot", "reviews", "tool", "platform"],
+        tags: ["Askgamblers", "Slot", "Reviews", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "pragmatic-slot-updates",
         nameShort: "pragmatic",
-        seoTitle: "Pragmatic Play’s official slot hub announces new Drop & Wins",
-        setDescription:
-          "Pragmatic Play’s official slot hub announces new Drop & Wins campaigns, paylines, and demo modes",
+        seoTitle: "Pragmatic Play’S Official Slot Hub Announces New Drop & Wins",
+        seoDescription:
+          "Pragmatic Play’s Official Slot Hub Announces New Drop & Wins Campaigns, Paylines, And Demo Modes",
         seoKeywords: [
           "pragmatic",
           "slot",
@@ -5070,15 +5070,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.pragmaticplay.com/en/games/slots/",
         bgImg: "",
-        tags: ["pragmatic", "slot", "updates", "tool", "platform"],
+        tags: ["Pragmatic", "Slot", "Updates", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "slottracker-community-stats",
         nameShort: "slottracker",
-        seoTitle: "SlotTracker crowdsources live RTP stats from thousands of spins",
-        setDescription:
-          "SlotTracker crowdsources live RTP stats from thousands of spins to spotlight daily slot gacor candidates",
+        seoTitle: "SlotTracker Crowdsources Live RTP Stats From Thousands Of Spins",
+        seoDescription:
+          "SlotTracker Crowdsources Live RTP Stats From Thousands Of Spins To Spotlight Daily Slot Gacor Candidates",
         seoKeywords: [
           "slottracker",
           "community",
@@ -5095,15 +5095,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://slottracker.com/",
         bgImg: "",
-        tags: ["slottracker", "community", "stats", "tool", "platform"],
+        tags: ["Slottracker", "Community", "Stats", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "gambleaware-safe-play",
         nameShort: "gambleaware",
-        seoTitle: "Gambleaware BeGambleAware centralizes helplines, budgeting tips",
-        setDescription:
-          "BeGambleAware centralizes helplines, budgeting tips, and exclusion tools to keep slot sessions safe",
+        seoTitle: "Gambleaware BeGambleAware Centralizes Helplines, Budgeting Tips",
+        seoDescription:
+          "BeGambleAware Centralizes Helplines, Budgeting Tips, And Exclusion Tools To Keep Slot Sessions Safe",
         seoKeywords: [
           "gambleaware",
           "safe",
@@ -5120,7 +5120,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.begambleaware.org/",
         bgImg: "",
-        tags: ["gambleaware", "safe", "play", "tool", "platform"],
+        tags: ["Gambleaware", "Safe", "Play", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5129,9 +5129,9 @@ export const menu: Menu[] = [
     name: "iphone17-latest-leaks",
     nameShort: "iphone17",
     isHomeData: true,
-    seoTitle: "Iphone17 featuring Macrumors, 9to5mac, Techradar",
-    setDescription:
-      "Iphone17 directory featuring Macrumors, 9to5mac, Techradar, Gsmarena and more.",
+    seoTitle: "Iphone17 Featuring Macrumors, 9to5mac, Techradar",
+    seoDescription:
+      "Iphone17 Directory Featuring Macrumors, 9To5mac, Techradar, Gsmarena And More.",
     seoKeywords: [
       "iphone17",
       "latest",
@@ -5149,9 +5149,9 @@ export const menu: Menu[] = [
       {
         name: "macrumors-iphone17-hub",
         nameShort: "macrumors",
-        seoTitle: "MacRumors compiles iPhone 17 CAD leaks, display rumors, and",
-        setDescription:
-          "MacRumors compiles iPhone 17 CAD leaks, display rumors, and launch timelines with weekly updates",
+        seoTitle: "MacRumors Compiles IPhone 17 CAD Leaks, Display Rumors, And",
+        seoDescription:
+          "MacRumors Compiles IPhone 17 CAD Leaks, Display Rumors, And Launch Timelines With Weekly Updates",
         seoKeywords: [
           "macrumors",
           "iphone17",
@@ -5168,15 +5168,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.macrumors.com/roundup/iphone-17/",
         bgImg: "",
-        tags: ["macrumors", "iphone17", "hub", "tool", "platform"],
+        tags: ["Macrumors", "Iphone17", "Hub", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "9to5mac-iphone17-rumors",
         nameShort: "9to5mac",
-        seoTitle: "9to5Mac tracks analyst notes on A20 chips, stacked batteries",
-        setDescription:
-          "9to5Mac tracks analyst notes on A20 chips, stacked batteries, and camera upgrades expected for iPhone 17",
+        seoTitle: "9to5Mac Tracks Analyst Notes On A20 Chips, Stacked Batteries",
+        seoDescription:
+          "9To5Mac Tracks Analyst Notes On A20 Chips, Stacked Batteries, And Camera Upgrades Expected For IPhone 17",
         seoKeywords: [
           "9to5mac",
           "iphone17",
@@ -5193,15 +5193,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://9to5mac.com/nameShort/iphone-17/",
         bgImg: "",
-        tags: ["iphone17", "rumors", "tool", "platform", "service"],
+        tags: ["Iphone17", "Rumors", "Tool", "Platform", "Service"],
         updateTime: "2025-12-03",
       },
       {
         name: "techradar-iphone17-preview",
         nameShort: "techradar",
-        seoTitle: "TechRadar aggregates supplier leaks to forecast iPhone 17 design",
-        setDescription:
-          "TechRadar aggregates supplier leaks to forecast iPhone 17 design tweaks, price bands, and release windows",
+        seoTitle: "TechRadar Aggregates Supplier Leaks To Forecast IPhone 17 Design",
+        seoDescription:
+          "TechRadar Aggregates Supplier Leaks To Forecast IPhone 17 Design Tweaks, Price Bands, And Release Windows",
         seoKeywords: [
           "techradar",
           "iphone17",
@@ -5218,15 +5218,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.techradar.com/phones/iphone/iphone-17",
         bgImg: "",
-        tags: ["techradar", "iphone17", "preview", "tool", "platform"],
+        tags: ["Techradar", "Iphone17", "Preview", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "gsmarena-iphone17-specs",
         nameShort: "gsmarena",
-        seoTitle: "GSMArena maintains a speculative spec sheet covering display",
-        setDescription:
-          "GSMArena maintains a speculative spec sheet covering display sizes, camera sensors, and connectivity for the iPhone 17 line",
+        seoTitle: "GSMArena Maintains A Speculative Spec Sheet Covering Display",
+        seoDescription:
+          "GSMArena Maintains A Speculative Spec Sheet Covering Display Sizes, Camera Sensors, And Connectivity For The IPhone 17 Line",
         seoKeywords: [
           "gsmarena",
           "iphone17",
@@ -5243,15 +5243,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gsmarena.com/apple_iphone_17-0.php",
         bgImg: "",
-        tags: ["gsmarena", "iphone17", "specs", "tool", "platform"],
+        tags: ["Gsmarena", "Iphone17", "Specs", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "notebookcheck-iphone17-analysis",
         nameShort: "notebookcheck",
-        seoTitle: "NotebookCheck dissects supply-chain whispers on BOE panels",
-        setDescription:
-          "NotebookCheck dissects supply-chain whispers on BOE panels, periscope zoom, and thermal redesigns for Apple’s 2025 flagship",
+        seoTitle: "NotebookCheck Dissects Supply-Chain Whispers On BOE Panels",
+        seoDescription:
+          "NotebookCheck Dissects Supply-chain Whispers On BOE Panels, Periscope Zoom, And Thermal Redesigns For Apple’s 2025 Flagship",
         seoKeywords: [
           "notebookcheck",
           "iphone17",
@@ -5268,7 +5268,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.notebookcheck.net/Apple-iPhone-17.861026.0.html",
         bgImg: "",
-        tags: ["notebookcheck", "iphone17", "analysis", "tool", "platform"],
+        tags: ["Notebookcheck", "Iphone17", "Analysis", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5277,9 +5277,9 @@ export const menu: Menu[] = [
     name: "gemini-ai",
     nameShort: "gemini-ai",
     isHomeData: true,
-    seoTitle: "Gemini AI featuring Gemini Advanced, Gemini API, Gemini App",
-    setDescription:
-      "Gemini AI directory featuring Gemini Advanced, Gemini API, Gemini App, Gemini Workspace and more.",
+    seoTitle: "Gemini AI Featuring Gemini Advanced, Gemini API, Gemini App",
+    seoDescription:
+      "Gemini AI Directory Featuring Gemini Advanced, Gemini API, Gemini App, Gemini Workspace And More.",
     seoKeywords: [
       "gemini ai",
       "gemini",
@@ -5295,8 +5295,8 @@ export const menu: Menu[] = [
       {
         name: "gemini-advanced-multimodal",
         nameShort: "gemini-advanced",
-        seoTitle: "Gemini Advanced is Google's premium AI assistant with Ultra 1",
-        setDescription: "Gemini Advanced is Google's premium AI assistant with Ultra 1",
+        seoTitle: "Gemini Advanced Is Google'S Premium AI Assistant With Ultra 1",
+        seoDescription: "Gemini Advanced Is Google's Premium AI Assistant With Ultra 1",
         seoKeywords: [
           "gemini advanced",
           "gemini",
@@ -5311,15 +5311,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://gemini.google.com/advanced",
         bgImg: "",
-        tags: ["gemini", "advanced", "multimodal", "tool", "platform"],
+        tags: ["Gemini", "Advanced", "Multimodal", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "gemini-api-developer-platform",
         nameShort: "gemini-api",
-        seoTitle: "Gemini API Google Gemini API provides developers with access to",
-        setDescription:
-          "Google Gemini API provides developers with access to Gemini models for building custom AI applications, including text generation, image analysis, and",
+        seoTitle: "Gemini API Google Gemini API Provides Developers With Access To",
+        seoDescription:
+          "Google Gemini API Provides Developers With Access To Gemini Models For Building Custom AI Applications, Including Text Generation, Image Analysis, And",
         seoKeywords: [
           "gemini api",
           "gemini",
@@ -5336,15 +5336,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ai.google.dev/gemini-api",
         bgImg: "",
-        tags: ["gemini", "api", "developer", "platform", "tool"],
+        tags: ["Gemini", "Api", "Developer", "Platform", "Tool"],
         updateTime: "2025-12-03",
       },
       {
         name: "gemini-app-integrations",
         nameShort: "gemini-app",
-        seoTitle: "Gemini App for Android integrates Google's AI into mobile",
-        setDescription:
-          "Gemini App for Android integrates Google's AI into mobile workflows, offering on-device processing, real-time translation, and context-aware",
+        seoTitle: "Gemini App For Android Integrates Google'S AI Into Mobile",
+        seoDescription:
+          "Gemini App For Android Integrates Google's AI Into Mobile Workflows, Offering On-device Processing, Real-time Translation, And Context-aware",
         seoKeywords: [
           "gemini app",
           "gemini",
@@ -5361,15 +5361,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://play.google.com/store/apps/details?id=com.google.android.apps.gemini",
         bgImg: "",
-        tags: ["gemini", "app", "integrations", "tool", "platform"],
+        tags: ["Gemini", "App", "Integrations", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "gemini-workspace-integration",
         nameShort: "gemini-workspace",
-        seoTitle: "Gemini for Google Workspace enhances Docs, Sheets, Slides, and",
-        setDescription:
-          "Gemini Workspace - Gemini for Google Workspace enhances Docs, Sheets, Slides, and Meet with AI-powered content creation, data analysis, and meeting",
+        seoTitle: "Gemini For Google Workspace Enhances Docs, Sheets, Slides, And",
+        seoDescription:
+          "Gemini Workspace - Gemini For Google Workspace Enhances Docs, Sheets, Slides, And Meet With AI-powered Content Creation, Data Analysis, And Meeting",
         seoKeywords: [
           "gemini workspace",
           "gemini",
@@ -5386,15 +5386,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://workspace.google.com/products/gemini/",
         bgImg: "",
-        tags: ["gemini", "workspace", "integration", "tool", "platform"],
+        tags: ["Gemini", "Workspace", "Integration", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "gemini-education-tools",
         nameShort: "gemini-education",
-        seoTitle: "Gemini Education Suite offers AI-powered tutoring, lesson",
-        setDescription:
-          "Gemini Education Suite offers AI-powered tutoring, lesson planning, and student assessment tools tailored for K-12 and higher education institutions",
+        seoTitle: "Gemini Education Suite Offers AI-Powered Tutoring, Lesson",
+        seoDescription:
+          "Gemini Education Suite Offers AI-powered Tutoring, Lesson Planning, And Student Assessment Tools Tailored For K-12 And Higher Education Institutions",
         seoKeywords: [
           "gemini education",
           "gemini",
@@ -5411,7 +5411,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://edu.google.com/products/ai/gemini/",
         bgImg: "",
-        tags: ["gemini", "education", "tools", "tool", "platform"],
+        tags: ["Gemini", "Education", "Tools", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5420,9 +5420,9 @@ export const menu: Menu[] = [
     name: "mahjong333",
     nameShort: "mahjong333",
     isHomeData: true,
-    seoTitle: "Mahjong333 featuring Mahjong333 Online, Mahjong333 Mobile",
-    setDescription:
-      "Mahjong333 directory featuring Mahjong333 Online, Mahjong333 Mobile, Mahjong333 Strategy, Mahjong333 Tournament and more.",
+    seoTitle: "Mahjong333 Featuring Mahjong333 Online, Mahjong333 Mobile",
+    seoDescription:
+      "Mahjong333 Directory Featuring Mahjong333 Online, Mahjong333 Mobile, Mahjong333 Strategy, Mahjong333 Tournament And More.",
     seoKeywords: [
       "mahjong333",
       "online",
@@ -5437,9 +5437,9 @@ export const menu: Menu[] = [
       {
         name: "mahjong333-online-game",
         nameShort: "mahjong333-online",
-        seoTitle: "Mahjong333 is a popular online mahjong platform offering classic",
-        setDescription:
-          "Mahjong333 Online - Mahjong333 is a popular online mahjong platform offering classic Chinese mahjong gameplay, multiplayer modes, and real-time",
+        seoTitle: "Mahjong333 Is A Popular Online Mahjong Platform Offering Classic",
+        seoDescription:
+          "Mahjong333 Online - Mahjong333 Is A Popular Online Mahjong Platform Offering Classic Chinese Mahjong Gameplay, Multiplayer Modes, And Real-time",
         seoKeywords: [
           "mahjong333 online",
           "mahjong333",
@@ -5456,15 +5456,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mahjong333.com/",
         bgImg: "",
-        tags: ["mahjong333", "online", "game", "tool", "platform"],
+        tags: ["Mahjong333", "Online", "Game", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "mahjong333-mobile-app",
         nameShort: "mahjong333-mobile",
-        seoTitle: "Mahjong333 Mobile App brings authentic mahjong experience to",
-        setDescription:
-          "Mahjong333 Mobile App brings authentic mahjong experience to iOS/Android devices, supporting offline play, custom rules, and social sharing features",
+        seoTitle: "Mahjong333 Mobile App Brings Authentic Mahjong Experience To",
+        seoDescription:
+          "Mahjong333 Mobile App Brings Authentic Mahjong Experience To IOS/Android Devices, Supporting Offline Play, Custom Rules, And Social Sharing Features",
         seoKeywords: [
           "mahjong333 mobile",
           "mahjong333",
@@ -5481,15 +5481,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://apps.apple.com/us/app/mahjong333/id1628745989",
         bgImg: "",
-        tags: ["mahjong333", "mobile", "app", "tool", "platform"],
+        tags: ["Mahjong333", "Mobile", "App", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "mahjong333-strategy-guide",
         nameShort: "mahjong333-strategy",
-        seoTitle: "Mahjong333 Strategy Guide provides expert tips, winning tactics",
-        setDescription:
-          "Mahjong333 Strategy Guide provides expert tips, winning tactics, and rule explanations for both beginner and advanced mahjong players",
+        seoTitle: "Mahjong333 Strategy Guide Provides Expert Tips, Winning Tactics",
+        seoDescription:
+          "Mahjong333 Strategy Guide Provides Expert Tips, Winning Tactics, And Rule Explanations For Both Beginner And Advanced Mahjong Players",
         seoKeywords: [
           "mahjong333 strategy",
           "mahjong333",
@@ -5506,15 +5506,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mahjong333.com/strategy",
         bgImg: "",
-        tags: ["mahjong333", "strategy", "guide", "tool", "platform"],
+        tags: ["Mahjong333", "Strategy", "Guide", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "mahjong333-tournament-center",
         nameShort: "mahjong333-tournament",
-        seoTitle: "Mahjong333 Tournament Center hosts daily, weekly, and monthly",
-        setDescription:
-          "Mahjong333 Tournament Center hosts daily, weekly, and monthly mahjong competitions with cash prizes and leaderboard rankings",
+        seoTitle: "Mahjong333 Tournament Center Hosts Daily, Weekly, And Monthly",
+        seoDescription:
+          "Mahjong333 Tournament Center Hosts Daily, Weekly, And Monthly Mahjong Competitions With Cash Prizes And Leaderboard Rankings",
         seoKeywords: [
           "mahjong333 tournament",
           "mahjong333",
@@ -5531,15 +5531,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mahjong333.com/tournaments",
         bgImg: "",
-        tags: ["mahjong333", "tournament", "center", "tool", "platform"],
+        tags: ["Mahjong333", "Tournament", "Center", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "mahjong333-vip-membership",
         nameShort: "mahjong333-vip",
-        seoTitle: "Mahjong333 VIP Membership unlocks exclusive features including",
-        setDescription:
-          "Mahjong333 VIP Membership unlocks exclusive features including ad-free gameplay, custom avatars, and priority access to premium tournaments",
+        seoTitle: "Mahjong333 VIP Membership Unlocks Exclusive Features Including",
+        seoDescription:
+          "Mahjong333 VIP Membership Unlocks Exclusive Features Including Ad-free Gameplay, Custom Avatars, And Priority Access To Premium Tournaments",
         seoKeywords: [
           "mahjong333 vip",
           "mahjong333",
@@ -5556,7 +5556,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mahjong333.com/vip",
         bgImg: "",
-        tags: ["mahjong333", "vip", "membership", "tool", "platform"],
+        tags: ["Mahjong333", "Vip", "Membership", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5565,17 +5565,17 @@ export const menu: Menu[] = [
     name: "black-friday2025",
     nameShort: "black",
     isHomeData: true,
-    seoTitle: "Black featuring Black Friday2025, Black Friday2025 Bestbuy",
-    setDescription:
-      "Black directory featuring Black Friday2025, Black Friday2025 Bestbuy, Black Friday2025 Walmart, Black Friday2025 Target and more.",
+    seoTitle: "Black Featuring Black Friday2025, Black Friday2025 Bestbuy",
+    seoDescription:
+      "Black Directory Featuring Black Friday2025, Black Friday2025 Bestbuy, Black Friday2025 Walmart, Black Friday2025 Target And More.",
     seoKeywords: ["black", "friday2025", "amazon", "deals", "bestbuy", "walmart", "target"],
     children: [
       {
         name: "black-friday2025-amazon-deals",
         nameShort: "black-friday2025",
-        seoTitle: "Black Friday2025 Amazon Black Friday 2025 features early access",
-        setDescription:
-          "Black Friday2025 - Amazon Black Friday 2025 features early access deals on electronics, home goods, and Amazon devices with up to 70% off for Prime",
+        seoTitle: "Black Friday2025 Amazon Black Friday 2025 Features Early Access",
+        seoDescription:
+          "Black Friday2025 - Amazon Black Friday 2025 Features Early Access Deals On Electronics, Home Goods, And Amazon Devices With Up To 70% Off For Prime",
         seoKeywords: [
           "black friday2025",
           "black",
@@ -5592,15 +5592,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.amazon.com/Black-Friday/b?ie=UTF8&node=16225007011",
         bgImg: "",
-        tags: ["black", "friday2025", "amazon", "deals", "tool"],
+        tags: ["Black", "Friday2025", "Amazon", "Deals", "Tool"],
         updateTime: "2025-12-03",
       },
       {
         name: "black-friday2025-bestbuy-deals",
         nameShort: "black-friday2025-bestbuy",
-        seoTitle: "Black Friday2025 Bestbuy Best Buy Black Friday 2025 offers",
-        setDescription:
-          "Black Friday2025 Bestbuy - Best Buy Black Friday 2025 offers massive discounts on TVs, laptops, gaming consoles, and home appliances with price match",
+        seoTitle: "Black Friday2025 Bestbuy Best Buy Black Friday 2025 Offers",
+        seoDescription:
+          "Black Friday2025 Bestbuy - Best Buy Black Friday 2025 Offers Massive Discounts On TVs, Laptops, Gaming Consoles, And Home Appliances With Price Match",
         seoKeywords: [
           "black friday2025 bestbuy",
           "black",
@@ -5617,15 +5617,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl:
           "https://www.bestbuy.com/site/black-friday/pcmcat344700050001.c?id=pcmcat344700050001",
-        tags: ["black", "friday2025", "bestbuy", "deals", "tool"],
+        tags: ["Black", "Friday2025", "Bestbuy", "Deals", "Tool"],
         updateTime: "2025-12-03",
       },
       {
         name: "black-friday2025-walmart-deals",
         nameShort: "black-friday2025-walmart",
-        seoTitle: "Black Friday2025 Walmart Walmart Black Friday 2025 includes",
-        setDescription:
-          "Black Friday2025 Walmart - Walmart Black Friday 2025 includes rollback prices on toys, clothing, groceries, and electronics with both in-store and",
+        seoTitle: "Black Friday2025 Walmart Walmart Black Friday 2025 Includes",
+        seoDescription:
+          "Black Friday2025 Walmart - Walmart Black Friday 2025 Includes Rollback Prices On Toys, Clothing, Groceries, And Electronics With Both In-store And",
         seoKeywords: [
           "black friday2025 walmart",
           "black",
@@ -5642,15 +5642,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.walmart.com/blackfriday",
         bgImg: "",
-        tags: ["black", "friday2025", "walmart", "deals", "tool"],
+        tags: ["Black", "Friday2025", "Walmart", "Deals", "Tool"],
         updateTime: "2025-12-03",
       },
       {
         name: "black-friday2025-target-deals",
         nameShort: "black-friday2025-target",
-        seoTitle: "Black Friday2025 Target Target Black Friday 2025 features",
-        setDescription:
-          "Black Friday2025 Target - Target Black Friday 2025 features buy-one-get-one-free offers, gift card bonuses, and exclusive deals on home decor and",
+        seoTitle: "Black Friday2025 Target Target Black Friday 2025 Features",
+        seoDescription:
+          "Black Friday2025 Target - Target Black Friday 2025 Features Buy-one-get-one-free Offers, Gift Card Bonuses, And Exclusive Deals On Home Decor And",
         seoKeywords: [
           "black friday2025 target",
           "black",
@@ -5667,15 +5667,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.target.com/c/black-friday/-/N-5xsxf",
         bgImg: "",
-        tags: ["black", "friday2025", "target", "deals", "tool"],
+        tags: ["Black", "Friday2025", "Target", "Deals", "Tool"],
         updateTime: "2025-12-03",
       },
       {
         name: "black-friday2025-tech-deals-tracker",
         nameShort: "black-friday2025-tech",
         seoTitle: "Black Friday2025 Tech TechBargains Black Friday 2025 Tracker",
-        setDescription:
-          "Black Friday2025 Tech - TechBargains Black Friday 2025 Tracker monitors real-time price drops on smartphones, laptops, smart home devices, and audio",
+        seoDescription:
+          "Black Friday2025 Tech - TechBargains Black Friday 2025 Tracker Monitors Real-time Price Drops On Smartphones, Laptops, Smart Home Devices, And Audio",
         seoKeywords: [
           "black friday2025 tech",
           "black",
@@ -5692,7 +5692,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.techbargains.com/black-friday",
         bgImg: "",
-        tags: ["black", "friday2025", "tech", "deals", "tracker"],
+        tags: ["Black", "Friday2025", "Tech", "Deals", "Tracker"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5701,9 +5701,9 @@ export const menu: Menu[] = [
     name: "spotify",
     nameShort: "spotify",
     isHomeData: true,
-    seoTitle: "Spotify featuring Spotify Premium, Spotify For, Spotify Podcasts",
-    setDescription:
-      "Spotify directory featuring Spotify Premium, Spotify For, Spotify Podcasts, Spotify Wrapped and more.",
+    seoTitle: "Spotify Featuring Spotify Premium, Spotify For, Spotify Podcasts",
+    seoDescription:
+      "Spotify Directory Featuring Spotify Premium, Spotify For, Spotify Podcasts, Spotify Wrapped And More.",
     seoKeywords: [
       "spotify",
       "premium",
@@ -5718,9 +5718,9 @@ export const menu: Menu[] = [
       {
         name: "spotify-premium-subscription",
         nameShort: "spotify-premium",
-        seoTitle: "Spotify Premium offers ad-free music streaming, offline",
-        setDescription:
-          "Spotify Premium offers ad-free music streaming, offline downloads, high-quality audio, and unlimited skips across all devices for a monthly fee",
+        seoTitle: "Spotify Premium Offers Ad-Free Music Streaming, Offline",
+        seoDescription:
+          "Spotify Premium Offers Ad-free Music Streaming, Offline Downloads, High-quality Audio, And Unlimited Skips Across All Devices For A Monthly Fee",
         seoKeywords: [
           "spotify premium",
           "spotify",
@@ -5737,15 +5737,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.spotify.com/us/premium/",
         bgImg: "",
-        tags: ["spotify", "premium", "subscription", "tool", "platform"],
+        tags: ["Spotify", "Premium", "Subscription", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "spotify-for-artists",
         nameShort: "spotify-for",
-        seoTitle: "Spotify for Artists provides musicians with analytics, audience",
-        setDescription:
-          "Spotify for Artists provides musicians with analytics, audience insights, and tools to promote their music and grow their fan base on the platform",
+        seoTitle: "Spotify For Artists Provides Musicians With Analytics, Audience",
+        seoDescription:
+          "Spotify For Artists Provides Musicians With Analytics, Audience Insights, And Tools To Promote Their Music And Grow Their Fan Base On The Platform",
         seoKeywords: [
           "spotify for",
           "spotify",
@@ -5762,15 +5762,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://artists.spotify.com/",
         bgImg: "",
-        tags: ["spotify", "for", "artists", "tool", "platform"],
+        tags: ["Spotify", "For", "Artists", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "spotify-podcasts-studio",
         nameShort: "spotify-podcasts",
-        seoTitle: "Spotify for Podcasters (Anchor) offers free hosting",
-        setDescription:
-          "Spotify Podcasts - Spotify for Podcasters (Anchor) offers free hosting, distribution, and monetization tools for podcast creators with access to",
+        seoTitle: "Spotify For Podcasters (Anchor) Offers Free Hosting",
+        seoDescription:
+          "Spotify Podcasts - Spotify For Podcasters (Anchor) Offers Free Hosting, Distribution, And Monetization Tools For Podcast Creators With Access To",
         seoKeywords: [
           "spotify podcasts",
           "spotify",
@@ -5787,15 +5787,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://podcasters.spotify.com/",
         bgImg: "",
-        tags: ["spotify", "podcasts", "studio", "tool", "platform"],
+        tags: ["Spotify", "Podcasts", "Studio", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "spotify-wrapped-2025",
         nameShort: "spotify-wrapped",
-        seoTitle: "Spotify Wrapped 2025 is an annual personalized recap of users'",
-        setDescription:
-          "Spotify Wrapped 2025 is an annual personalized recap of users' listening habits, including top artists, songs, genres, and total listening time",
+        seoTitle: "Spotify Wrapped 2025 Is An Annual Personalized Recap Of Users'",
+        seoDescription:
+          "Spotify Wrapped 2025 Is An Annual Personalized Recap Of Users' Listening Habits, Including Top Artists, Songs, Genres, And Total Listening Time",
         seoKeywords: [
           "spotify wrapped",
           "spotify",
@@ -5812,15 +5812,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://spotify.com/wrapped",
         bgImg: "",
-        tags: ["spotify", "wrapped", "tool", "platform", "service"],
+        tags: ["Spotify", "Wrapped", "Tool", "Platform", "Service"],
         updateTime: "2025-12-03",
       },
       {
         name: "spotify-car-thing",
         nameShort: "spotify-car",
-        seoTitle: "Spotify Car Thing is a voice-controlled smart device for in-car",
-        setDescription:
-          "Spotify Car Thing is a voice-controlled smart device for in-car music playback, integrating with Spotify Premium to offer hands-free control of",
+        seoTitle: "Spotify Car Thing Is A Voice-Controlled Smart Device For In-Car",
+        seoDescription:
+          "Spotify Car Thing Is A Voice-controlled Smart Device For In-car Music Playback, Integrating With Spotify Premium To Offer Hands-free Control Of",
         seoKeywords: [
           "spotify car",
           "spotify",
@@ -5837,7 +5837,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.spotify.com/us/carthing/",
         bgImg: "",
-        tags: ["spotify", "car", "thing", "tool", "platform"],
+        tags: ["Spotify", "Car", "Thing", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5846,9 +5846,9 @@ export const menu: Menu[] = [
     name: "chatgpt",
     nameShort: "chatgpt-hub",
     isHomeData: true,
-    seoTitle: "ChatGPT Hub featuring ChatGPT Plus, ChatGPT Enterprise, ChatGPT",
-    setDescription:
-      "ChatGPT Hub directory featuring ChatGPT Plus, ChatGPT Enterprise, ChatGPT API, ChatGPT Plugins and more.",
+    seoTitle: "ChatGPT Hub Featuring ChatGPT Plus, ChatGPT Enterprise, ChatGPT",
+    seoDescription:
+      "ChatGPT Hub Directory Featuring ChatGPT Plus, ChatGPT Enterprise, ChatGPT API, ChatGPT Plugins And More.",
     seoKeywords: [
       "chatgpt hub",
       "chatgpt",
@@ -5865,9 +5865,9 @@ export const menu: Menu[] = [
       {
         name: "chatgpt-plus-subscription",
         nameShort: "chatgpt-plus",
-        seoTitle: "ChatGPT Plus ($20/month) unlocks GPT-4o access, faster response",
-        setDescription:
-          "ChatGPT Plus ($20/month) unlocks GPT-4o access, faster response times, browsing capabilities, DALL·E 3 integration, and priority support from OpenAI",
+        seoTitle: "ChatGPT Plus ($20/Month) Unlocks GPT-4o Access, Faster Response",
+        seoDescription:
+          "ChatGPT Plus ($20/Month) Unlocks GPT-4o Access, Faster Response Times, Browsing Capabilities, DALL·E 3 Integration, And Priority Support From OpenAI",
         seoKeywords: [
           "chatgpt plus",
           "chatgpt",
@@ -5884,15 +5884,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://openai.com/pricing",
         bgImg: "",
-        tags: ["chatgpt", "plus", "subscription", "tool", "platform"],
+        tags: ["Chatgpt", "Plus", "Subscription", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "chatgpt-enterprise-solution",
         nameShort: "chatgpt-enterprise",
-        seoTitle: "ChatGPT Enterprise offers enterprise-grade security, unlimited",
-        setDescription:
-          "ChatGPT Enterprise offers enterprise-grade security, unlimited GPT-4 access, advanced data analysis, custom models, and SLA guarantees for businesses",
+        seoTitle: "ChatGPT Enterprise Offers Enterprise-Grade Security, Unlimited",
+        seoDescription:
+          "ChatGPT Enterprise Offers Enterprise-grade Security, Unlimited GPT-4 Access, Advanced Data Analysis, Custom Models, And SLA Guarantees For Businesses",
         seoKeywords: [
           "chatgpt enterprise",
           "chatgpt",
@@ -5909,14 +5909,14 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://openai.com/enterprise",
         bgImg: "",
-        tags: ["chatgpt", "enterprise", "solution", "tool", "platform"],
+        tags: ["Chatgpt", "Enterprise", "Solution", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "chatgpt-api-integration",
         nameShort: "chatgpt-api",
-        seoTitle: "ChatGPT API allows developers to integrate GPT-3",
-        setDescription: "ChatGPT API allows developers to integrate GPT-3",
+        seoTitle: "ChatGPT API Allows Developers To Integrate GPT-3",
+        seoDescription: "ChatGPT API Allows Developers To Integrate GPT-3",
         seoKeywords: [
           "chatgpt api",
           "chatgpt",
@@ -5931,15 +5931,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://platform.openai.com/docs/guides/gpt",
         bgImg: "",
-        tags: ["chatgpt", "api", "integration", "tool", "platform"],
+        tags: ["Chatgpt", "Api", "Integration", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "chatgpt-plugins-marketplace",
         nameShort: "chatgpt-plugins",
-        seoTitle: "ChatGPT Plugins Marketplace offers 1000+ third-party",
-        setDescription:
-          "ChatGPT Plugins Marketplace offers 1000+ third-party integrations including travel booking, code execution, data analysis, and productivity tools to",
+        seoTitle: "ChatGPT Plugins Marketplace Offers 1000+ Third-Party",
+        seoDescription:
+          "ChatGPT Plugins Marketplace Offers 1000+ Third-party Integrations Including Travel Booking, Code Execution, Data Analysis, And Productivity Tools To",
         seoKeywords: [
           "chatgpt plugins",
           "chatgpt",
@@ -5956,15 +5956,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://openai.com/blog/chatgpt-plugins",
         bgImg: "",
-        tags: ["chatgpt", "plugins", "marketplace", "tool", "platform"],
+        tags: ["Chatgpt", "Plugins", "Marketplace", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
       {
         name: "chatgpt-mobile-app",
         nameShort: "chatgpt-mobile",
-        seoTitle: "ChatGPT Mobile App for iOS and Android provides on-the-go access",
-        setDescription:
-          "ChatGPT Mobile App for iOS and Android provides on-the-go access to GPT-4, voice input, offline mode, and sync across all devices with Plus",
+        seoTitle: "ChatGPT Mobile App For IOS And Android Provides On-The-Go Access",
+        seoDescription:
+          "ChatGPT Mobile App For IOS And Android Provides On-the-go Access To GPT-4, Voice Input, Offline Mode, And Sync Across All Devices With Plus",
         seoKeywords: [
           "chatgpt mobile",
           "chatgpt",
@@ -5981,7 +5981,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://apps.apple.com/us/app/chatgpt/id6448311069",
         bgImg: "",
-        tags: ["chatgpt", "mobile", "app", "tool", "platform"],
+        tags: ["Chatgpt", "Mobile", "App", "Tool", "Platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5990,8 +5990,8 @@ export const menu: Menu[] = [
     name: "global-productivity-essentials",
     nameShort: "productivity",
     isHomeData: true,
-    seoTitle: "Productivity featuring Todoist, Trello, Asana",
-    setDescription: "Productivity directory featuring Todoist, Trello, Asana, Clickup and more.",
+    seoTitle: "Productivity Featuring Todoist, Trello, Asana",
+    seoDescription: "Productivity Directory Featuring Todoist, Trello, Asana, Clickup And More.",
     seoKeywords: [
       "productivity",
       "global",
@@ -6010,9 +6010,9 @@ export const menu: Menu[] = [
       {
         name: "todoist-task-planner",
         nameShort: "todoist",
-        seoTitle: "Todoist is a cross-platform task manager with natural language",
-        setDescription:
-          "Todoist is a cross-platform task manager with natural language scheduling, productivity tracking, and shared projects for teams and individuals",
+        seoTitle: "Todoist Is A Cross-Platform Task Manager With Natural Language",
+        seoDescription:
+          "Todoist Is A Cross-platform Task Manager With Natural Language Scheduling, Productivity Tracking, And Shared Projects For Teams And Individuals",
         seoKeywords: [
           "todoist",
           "task",
@@ -6029,15 +6029,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://todoist.com/",
         bgImg: "",
-        tags: ["todoist", "tasks", "planner", "productivity", "webapp"],
+        tags: ["Todoist", "Tasks", "Planner", "Productivity", "Webapp"],
         updateTime: "2025-12-07",
       },
       {
         name: "trello-kanban-boards",
         nameShort: "trello",
-        seoTitle: "Trello delivers kanban boards, automation, and Power-Up",
-        setDescription:
-          "Trello delivers kanban boards, automation, and Power-Up integrations that keep marketing, product, and ops teams organized in one collaborative space",
+        seoTitle: "Trello Delivers Kanban Boards, Automation, And Power-Up",
+        seoDescription:
+          "Trello Delivers Kanban Boards, Automation, And Power-Up Integrations That Keep Marketing, Product, And Ops Teams Organized In One Collaborative Space",
         seoKeywords: [
           "trello",
           "kanban",
@@ -6054,15 +6054,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://trello.com/",
         bgImg: "",
-        tags: ["trello", "kanban", "boards", "collaboration", "tool"],
+        tags: ["Trello", "Kanban", "Boards", "Collaboration", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "asana-work-manager",
         nameShort: "asana",
-        seoTitle: "Asana centralizes work requests, timelines, and goals so",
-        setDescription:
-          "Asana centralizes work requests, timelines, and goals so distributed teams can plan launches, automate handoffs, and measure progress",
+        seoTitle: "Asana Centralizes Work Requests, Timelines, And Goals So",
+        seoDescription:
+          "Asana Centralizes Work Requests, Timelines, And Goals So Distributed Teams Can Plan Launches, Automate Handoffs, And Measure Progress",
         seoKeywords: [
           "asana",
           "work",
@@ -6079,15 +6079,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://asana.com/",
         bgImg: "",
-        tags: ["asana", "work", "management", "automation", "platform"],
+        tags: ["Asana", "Work", "Management", "Automation", "Platform"],
         updateTime: "2025-12-07",
       },
       {
         name: "clickup-productivity-platform",
         nameShort: "clickup",
-        seoTitle: "ClickUp combines docs, tasks, whiteboards, and dashboards in an",
-        setDescription:
-          "ClickUp combines docs, tasks, whiteboards, and dashboards in an all-in-one productivity platform with deep customization",
+        seoTitle: "ClickUp Combines Docs, Tasks, Whiteboards, And Dashboards In An",
+        seoDescription:
+          "ClickUp Combines Docs, Tasks, Whiteboards, And Dashboards In An All-in-one Productivity Platform With Deep Customization",
         seoKeywords: [
           "clickup",
           "productivity",
@@ -6104,26 +6104,26 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://clickup.com/",
         bgImg: "",
-        tags: ["clickup", "workspace", "tasks", "docs", "platform"],
+        tags: ["Clickup", "Workspace", "Tasks", "Docs", "Platform"],
         updateTime: "2025-12-07",
       },
       {
         name: "monday-work-operating-system",
         nameShort: "monday",
         seoTitle: "Monday",
-        setDescription: "Monday",
+        seoDescription: "Monday",
         seoKeywords: ["monday", "work", "operating", "system", "os", "automation", "boards"],
         iframeUrl: "https://monday.com/",
         bgImg: "",
-        tags: ["monday", "work", "os", "automation", "boards"],
+        tags: ["Monday", "Work", "Os", "Automation", "Boards"],
         updateTime: "2025-12-07",
       },
       {
         name: "airtable-flexible-database",
         nameShort: "airtable",
-        seoTitle: "Airtable blends spreadsheets with database power, supporting",
-        setDescription:
-          "Airtable blends spreadsheets with database power, supporting views, automations, and synced data for modern ops teams",
+        seoTitle: "Airtable Blends Spreadsheets With Database Power, Supporting",
+        seoDescription:
+          "Airtable Blends Spreadsheets With Database Power, Supporting Views, Automations, And Synced Data For Modern Ops Teams",
         seoKeywords: [
           "airtable",
           "flexible",
@@ -6140,15 +6140,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://airtable.com/",
         bgImg: "",
-        tags: ["airtable", "database", "spreadsheet", "automation", "tool"],
+        tags: ["Airtable", "Database", "Spreadsheet", "Automation", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "notion-connected-workspace",
         nameShort: "notion-workspace",
-        seoTitle: "Notion is a connected workspace where docs, wikis, tasks, and",
-        setDescription:
-          "Notion Workspace - Notion is a connected workspace where docs, wikis, tasks, and AI-powered notes live together for fast knowledge sharing",
+        seoTitle: "Notion Is A Connected Workspace Where Docs, Wikis, Tasks, And",
+        seoDescription:
+          "Notion Workspace - Notion Is A Connected Workspace Where Docs, Wikis, Tasks, And AI-powered Notes Live Together For Fast Knowledge Sharing",
         seoKeywords: [
           "notion workspace",
           "notion",
@@ -6165,15 +6165,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.notion.so/",
         bgImg: "",
-        tags: ["notion", "workspace", "docs", "wiki", "productivity"],
+        tags: ["Notion", "Workspace", "Docs", "Wiki", "Productivity"],
         updateTime: "2025-12-07",
       },
       {
         name: "linear-issue-tracker",
         nameShort: "linear",
-        seoTitle: "Linear is a lightning-fast issue tracker for product teams with",
-        setDescription:
-          "Linear is a lightning-fast issue tracker for product teams with cycle planning, roadmaps, and Git integrations",
+        seoTitle: "Linear Is A Lightning-Fast Issue Tracker For Product Teams With",
+        seoDescription:
+          "Linear Is A Lightning-fast Issue Tracker For Product Teams With Cycle Planning, Roadmaps, And Git Integrations",
         seoKeywords: [
           "linear",
           "issue",
@@ -6190,15 +6190,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://linear.app/",
         bgImg: "",
-        tags: ["linear", "issues", "roadmap", "product", "agile"],
+        tags: ["Linear", "Issues", "Roadmap", "Product", "Agile"],
         updateTime: "2025-12-07",
       },
       {
         name: "jira-cloud-work-management",
         nameShort: "jira",
-        seoTitle: "Jira Cloud powers agile planning, backlog grooming, and release",
-        setDescription:
-          "Jira Cloud powers agile planning, backlog grooming, and release tracking with robust permissions and reporting",
+        seoTitle: "Jira Cloud Powers Agile Planning, Backlog Grooming, And Release",
+        seoDescription:
+          "Jira Cloud Powers Agile Planning, Backlog Grooming, And Release Tracking With Robust Permissions And Reporting",
         seoKeywords: [
           "jira",
           "cloud",
@@ -6215,15 +6215,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.atlassian.com/software/jira",
         bgImg: "",
-        tags: ["jira", "agile", "issues", "planning", "software"],
+        tags: ["Jira", "Agile", "Issues", "Planning", "Software"],
         updateTime: "2025-12-07",
       },
       {
         name: "slack-team-messaging",
         nameShort: "slack",
-        seoTitle: "Slack connects teams with channels, clips, workflows, and app",
-        setDescription:
-          "Slack connects teams with channels, clips, workflows, and app integrations so information stays searchable",
+        seoTitle: "Slack Connects Teams With Channels, Clips, Workflows, And App",
+        seoDescription:
+          "Slack Connects Teams With Channels, Clips, Workflows, And App Integrations So Information Stays Searchable",
         seoKeywords: [
           "slack",
           "team",
@@ -6240,15 +6240,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://slack.com/",
         bgImg: "",
-        tags: ["slack", "chat", "team", "messaging", "collaboration"],
+        tags: ["Slack", "Chat", "Team", "Messaging", "Collaboration"],
         updateTime: "2025-12-07",
       },
       {
         name: "discord-community-hubs",
         nameShort: "discord",
-        seoTitle: "Discord hosts communities and product user groups with voice",
-        setDescription:
-          "Discord hosts communities and product user groups with voice, video, forums, and automation bots",
+        seoTitle: "Discord Hosts Communities And Product User Groups With Voice",
+        seoDescription:
+          "Discord Hosts Communities And Product User Groups With Voice, Video, Forums, And Automation Bots",
         seoKeywords: [
           "discord",
           "community",
@@ -6265,15 +6265,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://discord.com/",
         bgImg: "",
-        tags: ["discord", "community", "chat", "voice", "tool"],
+        tags: ["Discord", "Community", "Chat", "Voice", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "zoom-video-meetings",
         nameShort: "zoom",
-        seoTitle: "Zoom delivers HD meetings, phone, webinars, and Rooms hardware",
-        setDescription:
-          "Zoom delivers HD meetings, phone, webinars, and Rooms hardware so distributed teams can collaborate in real time",
+        seoTitle: "Zoom Delivers HD Meetings, Phone, Webinars, And Rooms Hardware",
+        seoDescription:
+          "Zoom Delivers HD Meetings, Phone, Webinars, And Rooms Hardware So Distributed Teams Can Collaborate In Real Time",
         seoKeywords: [
           "zoom",
           "video",
@@ -6290,15 +6290,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://zoom.us/",
         bgImg: "",
-        tags: ["zoom", "meetings", "video", "collaboration", "platform"],
+        tags: ["Zoom", "Meetings", "Video", "Collaboration", "Platform"],
         updateTime: "2025-12-07",
       },
       {
         name: "loom-video-messaging",
         nameShort: "loom",
-        seoTitle: "Loom records async video messages, screen walkthroughs, and",
-        setDescription:
-          "Loom records async video messages, screen walkthroughs, and quick demos with transcripts and engagement insights",
+        seoTitle: "Loom Records Async Video Messages, Screen Walkthroughs, And",
+        seoDescription:
+          "Loom Records Async Video Messages, Screen Walkthroughs, And Quick Demos With Transcripts And Engagement Insights",
         seoKeywords: [
           "loom",
           "video",
@@ -6315,15 +6315,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.loom.com/",
         bgImg: "",
-        tags: ["loom", "video", "async", "messaging", "tool"],
+        tags: ["Loom", "Video", "Async", "Messaging", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "figma-product-design-platform",
         nameShort: "figma",
-        seoTitle: "Figma is a collaborative interface design platform with",
-        setDescription:
-          "Figma is a collaborative interface design platform with multiplayer editing, Dev Mode, and extensible plugins",
+        seoTitle: "Figma Is A Collaborative Interface Design Platform With",
+        seoDescription:
+          "Figma Is A Collaborative Interface Design Platform With Multiplayer Editing, Dev Mode, And Extensible Plugins",
         seoKeywords: [
           "figma",
           "product",
@@ -6340,15 +6340,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.figma.com/",
         bgImg: "",
-        tags: ["figma", "design", "ui", "collaboration", "tool"],
+        tags: ["Figma", "Design", "Ui", "Collaboration", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "miro-collaboration-whiteboard",
         nameShort: "miro",
-        seoTitle: "Miro provides infinite canvases for brainstorming, agile",
-        setDescription:
-          "Miro provides infinite canvases for brainstorming, agile ceremonies, workshops, and diagramming with 500+ templates",
+        seoTitle: "Miro Provides Infinite Canvases For Brainstorming, Agile",
+        seoDescription:
+          "Miro Provides Infinite Canvases For Brainstorming, Agile Ceremonies, Workshops, And Diagramming With 500+ Templates",
         seoKeywords: [
           "miro",
           "collaboration",
@@ -6365,15 +6365,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://miro.com/",
         bgImg: "",
-        tags: ["miro", "whiteboard", "collaboration", "brainstorm", "tool"],
+        tags: ["Miro", "Whiteboard", "Collaboration", "Brainstorm", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "whimsical-flowchart-studio",
         nameShort: "whimsical",
-        seoTitle: "Whimsical combines flowcharts, wireframes, and mind maps with",
-        setDescription:
-          "Whimsical combines flowcharts, wireframes, and mind maps with keyboard-first shortcuts for fast ideation",
+        seoTitle: "Whimsical Combines Flowcharts, Wireframes, And Mind Maps With",
+        seoDescription:
+          "Whimsical Combines Flowcharts, Wireframes, And Mind Maps With Keyboard-first Shortcuts For Fast Ideation",
         seoKeywords: [
           "whimsical",
           "flowchart",
@@ -6390,26 +6390,26 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://whimsical.com/",
         bgImg: "",
-        tags: ["whimsical", "flowchart", "wireframe", "mindmap", "tool"],
+        tags: ["Whimsical", "Flowchart", "Wireframe", "Mindmap", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "drawio-diagram-maker",
         nameShort: "drawio",
-        seoTitle: "Drawio draw",
-        setDescription: "Drawio - draw",
+        seoTitle: "Drawio Draw",
+        seoDescription: "Drawio - Draw",
         seoKeywords: ["drawio", "diagram", "maker", "diagrams", "uml", "charts", "tool", "draw"],
         iframeUrl: "https://app.diagrams.net/",
         bgImg: "",
-        tags: ["drawio", "diagrams", "uml", "charts", "tool"],
+        tags: ["Drawio", "Diagrams", "Uml", "Charts", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "grammarly-writing-assistant",
         nameShort: "grammarly",
-        seoTitle: "Grammarly improves grammar, tone, and clarity with AI",
-        setDescription:
-          "Grammarly improves grammar, tone, and clarity with AI suggestions across email, docs, and browsers",
+        seoTitle: "Grammarly Improves Grammar, Tone, And Clarity With AI",
+        seoDescription:
+          "Grammarly Improves Grammar, Tone, And Clarity With AI Suggestions Across Email, Docs, And Browsers",
         seoKeywords: [
           "grammarly",
           "writing",
@@ -6426,15 +6426,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.grammarly.com/",
         bgImg: "",
-        tags: ["grammarly", "writing", "assistant", "ai", "tool"],
+        tags: ["Grammarly", "Writing", "Assistant", "Ai", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "quillbot-rephrase-suite",
         nameShort: "quillbot",
-        seoTitle: "QuillBot paraphrases, summarizes, and cites content with",
-        setDescription:
-          "QuillBot paraphrases, summarizes, and cites content with customizable modes for academic and marketing teams",
+        seoTitle: "QuillBot Paraphrases, Summarizes, And Cites Content With",
+        seoDescription:
+          "QuillBot Paraphrases, Summarizes, And Cites Content With Customizable Modes For Academic And Marketing Teams",
         seoKeywords: [
           "quillbot",
           "rephrase",
@@ -6451,15 +6451,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://quillbot.com/",
         bgImg: "",
-        tags: ["quillbot", "paraphrase", "summarize", "writing", "tool"],
+        tags: ["Quillbot", "Paraphrase", "Summarize", "Writing", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "deepl-language-translation",
         nameShort: "deepl",
-        seoTitle: "DeepL Translator offers context-aware translations, glossaries",
-        setDescription:
-          "DeepL Translator offers context-aware translations, glossaries, and document uploads for 30+ languages",
+        seoTitle: "DeepL Translator Offers Context-Aware Translations, Glossaries",
+        seoDescription:
+          "DeepL Translator Offers Context-aware Translations, Glossaries, And Document Uploads For 30+ Languages",
         seoKeywords: [
           "deepl",
           "language",
@@ -6476,26 +6476,26 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.deepl.com/translator",
         bgImg: "",
-        tags: ["deepl", "translation", "language", "ai", "tool"],
+        tags: ["Deepl", "Translation", "Language", "Ai", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "otter-ai-transcription-notes",
         nameShort: "otter",
         seoTitle: "Otter",
-        setDescription: "Otter",
+        seoDescription: "Otter",
         seoKeywords: ["otter", "transcription", "notes", "meetings", "tool"],
         iframeUrl: "https://otter.ai/",
         bgImg: "",
-        tags: ["otter", "transcription", "meetings", "notes", "tool"],
+        tags: ["Otter", "Transcription", "Meetings", "Notes", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "typeform-interactive-forms",
         nameShort: "typeform",
-        seoTitle: "Typeform delivers conversational forms, quizzes, and surveys",
-        setDescription:
-          "Typeform delivers conversational forms, quizzes, and surveys that feed results directly into CRMs",
+        seoTitle: "Typeform Delivers Conversational Forms, Quizzes, And Surveys",
+        seoDescription:
+          "Typeform Delivers Conversational Forms, Quizzes, And Surveys That Feed Results Directly Into CRMs",
         seoKeywords: [
           "typeform",
           "interactive",
@@ -6512,15 +6512,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.typeform.com/",
         bgImg: "",
-        tags: ["typeform", "forms", "survey", "interactive", "tool"],
+        tags: ["Typeform", "Forms", "Survey", "Interactive", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "jotform-form-builder",
         nameShort: "jotform",
-        seoTitle: "Jotform provides drag-and-drop forms, approval flows, and PDF",
-        setDescription:
-          "Jotform provides drag-and-drop forms, approval flows, and PDF builders with HIPAA and e-sign support",
+        seoTitle: "Jotform Provides Drag-And-Drop Forms, Approval Flows, And PDF",
+        seoDescription:
+          "Jotform Provides Drag-and-drop Forms, Approval Flows, And PDF Builders With HIPAA And E-sign Support",
         seoKeywords: [
           "jotform",
           "form",
@@ -6537,15 +6537,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.jotform.com/",
         bgImg: "",
-        tags: ["jotform", "forms", "builder", "automation", "tool"],
+        tags: ["Jotform", "Forms", "Builder", "Automation", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "surveymonkey-research-platform",
         nameShort: "surveymonkey",
-        seoTitle: "SurveyMonkey powers research with expert templates, logic",
-        setDescription:
-          "SurveyMonkey powers research with expert templates, logic, benchmarks, and panel respondents",
+        seoTitle: "SurveyMonkey Powers Research With Expert Templates, Logic",
+        seoDescription:
+          "SurveyMonkey Powers Research With Expert Templates, Logic, Benchmarks, And Panel Respondents",
         seoKeywords: [
           "surveymonkey",
           "research",
@@ -6562,15 +6562,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.surveymonkey.com/",
         bgImg: "",
-        tags: ["surveymonkey", "research", "feedback", "insights", "tool"],
+        tags: ["Surveymonkey", "Research", "Feedback", "Insights", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "mailchimp-email-marketing",
         nameShort: "mailchimp",
-        seoTitle: "Mailchimp is an email and automation suite with journeys",
-        setDescription:
-          "Mailchimp is an email and automation suite with journeys, audience CRM, and e-commerce reporting",
+        seoTitle: "Mailchimp Is An Email And Automation Suite With Journeys",
+        seoDescription:
+          "Mailchimp Is An Email And Automation Suite With Journeys, Audience CRM, And E-commerce Reporting",
         seoKeywords: [
           "mailchimp",
           "email",
@@ -6586,15 +6586,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://mailchimp.com/",
         bgImg: "",
-        tags: ["mailchimp", "email", "automation", "marketing", "tool"],
+        tags: ["Mailchimp", "Email", "Automation", "Marketing", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "convertkit-creator-email",
         nameShort: "convertkit",
-        seoTitle: "ConvertKit helps creators grow newsletters with visual",
-        setDescription:
-          "ConvertKit helps creators grow newsletters with visual automations, commerce, and subscriber tagging",
+        seoTitle: "ConvertKit Helps Creators Grow Newsletters With Visual",
+        seoDescription:
+          "ConvertKit Helps Creators Grow Newsletters With Visual Automations, Commerce, And Subscriber Tagging",
         seoKeywords: [
           "convertkit",
           "creator",
@@ -6611,15 +6611,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://convertkit.com/",
         bgImg: "",
-        tags: ["convertkit", "newsletter", "automation", "creator", "tool"],
+        tags: ["Convertkit", "Newsletter", "Automation", "Creator", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "beehiiv-newsletter-studio",
         nameShort: "beehiiv",
-        seoTitle: "Beehiiv is a newsletter growth stack with referral programs",
-        setDescription:
-          "Beehiiv is a newsletter growth stack with referral programs, monetization, and advanced segmentation",
+        seoTitle: "Beehiiv Is A Newsletter Growth Stack With Referral Programs",
+        seoDescription:
+          "Beehiiv Is A Newsletter Growth Stack With Referral Programs, Monetization, And Advanced Segmentation",
         seoKeywords: [
           "beehiiv",
           "newsletter",
@@ -6635,15 +6635,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.beehiiv.com/",
         bgImg: "",
-        tags: ["beehiiv", "newsletter", "growth", "monetization", "tool"],
+        tags: ["Beehiiv", "Newsletter", "Growth", "Monetization", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "buffer-social-scheduler",
         nameShort: "buffer",
-        seoTitle: "Buffer schedules content, collaborates on approvals, and shows",
-        setDescription:
-          "Buffer schedules content, collaborates on approvals, and shows channel analytics for social teams",
+        seoTitle: "Buffer Schedules Content, Collaborates On Approvals, And Shows",
+        seoDescription:
+          "Buffer Schedules Content, Collaborates On Approvals, And Shows Channel Analytics For Social Teams",
         seoKeywords: [
           "buffer",
           "social",
@@ -6660,15 +6660,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://buffer.com/",
         bgImg: "",
-        tags: ["buffer", "social", "scheduler", "analytics", "tool"],
+        tags: ["Buffer", "Social", "Scheduler", "Analytics", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "hootsuite-social-dashboard",
         nameShort: "hootsuite",
-        seoTitle: "Hootsuite unifies publishing, streams, engagement, and listening",
-        setDescription:
-          "Hootsuite unifies publishing, streams, engagement, and listening for enterprise social media",
+        seoTitle: "Hootsuite Unifies Publishing, Streams, Engagement, And Listening",
+        seoDescription:
+          "Hootsuite Unifies Publishing, Streams, Engagement, And Listening For Enterprise Social Media",
         seoKeywords: [
           "hootsuite",
           "social",
@@ -6685,15 +6685,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.hootsuite.com/",
         bgImg: "",
-        tags: ["hootsuite", "social", "management", "monitoring", "tool"],
+        tags: ["Hootsuite", "Social", "Management", "Monitoring", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "later-social-calendar",
         nameShort: "later",
-        seoTitle: "Later provides a visual calendar for Instagram, TikTok, and",
-        setDescription:
-          "Later provides a visual calendar for Instagram, TikTok, and Pinterest scheduling with link-in-bio tools",
+        seoTitle: "Later Provides A Visual Calendar For Instagram, TikTok, And",
+        seoDescription:
+          "Later Provides A Visual Calendar For Instagram, TikTok, And Pinterest Scheduling With Link-in-bio Tools",
         seoKeywords: [
           "later",
           "social",
@@ -6710,15 +6710,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://later.com/",
         bgImg: "",
-        tags: ["later", "social", "scheduler", "calendar", "tool"],
+        tags: ["Later", "Social", "Scheduler", "Calendar", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "semrush-keyword-platform",
         nameShort: "semrush",
-        seoTitle: "Semrush offers keyword research, site audits, competitor",
-        setDescription:
-          "Semrush offers keyword research, site audits, competitor monitoring, and AI writing for SEO teams",
+        seoTitle: "Semrush Offers Keyword Research, Site Audits, Competitor",
+        seoDescription:
+          "Semrush Offers Keyword Research, Site Audits, Competitor Monitoring, And AI Writing For SEO Teams",
         seoKeywords: [
           "semrush",
           "keyword",
@@ -6735,15 +6735,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.semrush.com/",
         bgImg: "",
-        tags: ["semrush", "seo", "keywords", "audit", "tool"],
+        tags: ["Semrush", "Seo", "Keywords", "Audit", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "ahrefs-site-auditor",
         nameShort: "ahrefs",
-        seoTitle: "Ahrefs provides backlink analysis, keyword tracking, site",
-        setDescription:
-          "Ahrefs provides backlink analysis, keyword tracking, site audits, and content gap insights",
+        seoTitle: "Ahrefs Provides Backlink Analysis, Keyword Tracking, Site",
+        seoDescription:
+          "Ahrefs Provides Backlink Analysis, Keyword Tracking, Site Audits, And Content Gap Insights",
         seoKeywords: [
           "ahrefs",
           "site",
@@ -6760,15 +6760,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ahrefs.com/",
         bgImg: "",
-        tags: ["ahrefs", "backlinks", "seo", "audit", "tool"],
+        tags: ["Ahrefs", "Backlinks", "Seo", "Audit", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "moz-pro-seo-suite",
         nameShort: "moz",
-        seoTitle: "Moz Pro packages rank tracking, keyword explorer, link data, and",
-        setDescription:
-          "Moz Pro packages rank tracking, keyword explorer, link data, and page optimization guidance",
+        seoTitle: "Moz Pro Packages Rank Tracking, Keyword Explorer, Link Data, And",
+        seoDescription:
+          "Moz Pro Packages Rank Tracking, Keyword Explorer, Link Data, And Page Optimization Guidance",
         seoKeywords: [
           "moz",
           "pro",
@@ -6785,15 +6785,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://moz.com/products/pro",
         bgImg: "",
-        tags: ["moz", "seo", "rank", "links", "tool"],
+        tags: ["Moz", "Seo", "Rank", "Links", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "ubersuggest-keyword-tool",
         nameShort: "ubersuggest",
-        seoTitle: "Ubersuggest uncovers keyword ideas, content suggestions, and",
-        setDescription:
-          "Ubersuggest uncovers keyword ideas, content suggestions, and domain SEO metrics for marketers",
+        seoTitle: "Ubersuggest Uncovers Keyword Ideas, Content Suggestions, And",
+        seoDescription:
+          "Ubersuggest Uncovers Keyword Ideas, Content Suggestions, And Domain SEO Metrics For Marketers",
         seoKeywords: [
           "ubersuggest",
           "keyword",
@@ -6810,15 +6810,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://neilpatel.com/ubersuggest/",
         bgImg: "",
-        tags: ["ubersuggest", "keywords", "seo", "content", "tool"],
+        tags: ["Ubersuggest", "Keywords", "Seo", "Content", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "answerthepublic-question-miner",
         nameShort: "answerthepublic",
-        seoTitle: "AnswerThePublic visualizes search questions and comparisons to",
-        setDescription:
-          "AnswerThePublic visualizes search questions and comparisons to inspire content briefs",
+        seoTitle: "AnswerThePublic Visualizes Search Questions And Comparisons To",
+        seoDescription:
+          "AnswerThePublic Visualizes Search Questions And Comparisons To Inspire Content Briefs",
         seoKeywords: [
           "answerthepublic",
           "question",
@@ -6835,15 +6835,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://answerthepublic.com/",
         bgImg: "",
-        tags: ["answerthepublic", "keywords", "questions", "seo", "tool"],
+        tags: ["Answerthepublic", "Keywords", "Questions", "Seo", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "canirank-seo-insights",
         nameShort: "canirank",
-        seoTitle: "CanIRank delivers AI-driven SEO recommendations, opportunity",
-        setDescription:
-          "CanIRank delivers AI-driven SEO recommendations, opportunity scores, and competitor tracking",
+        seoTitle: "CanIRank Delivers AI-Driven SEO Recommendations, Opportunity",
+        seoDescription:
+          "CanIRank Delivers AI-driven SEO Recommendations, Opportunity Scores, And Competitor Tracking",
         seoKeywords: [
           "canirank",
           "seo",
@@ -6860,15 +6860,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.canirank.com/",
         bgImg: "",
-        tags: ["canirank", "seo", "ai", "insights", "tool"],
+        tags: ["Canirank", "Seo", "Ai", "Insights", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "hotjar-experience-analytics",
         nameShort: "hotjar",
-        seoTitle: "Hotjar combines heatmaps, recordings, and feedback widgets to",
-        setDescription:
-          "Hotjar combines heatmaps, recordings, and feedback widgets to visualize product experience",
+        seoTitle: "Hotjar Combines Heatmaps, Recordings, And Feedback Widgets To",
+        seoDescription:
+          "Hotjar Combines Heatmaps, Recordings, And Feedback Widgets To Visualize Product Experience",
         seoKeywords: [
           "hotjar",
           "experience",
@@ -6885,15 +6885,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.hotjar.com/",
         bgImg: "",
-        tags: ["hotjar", "heatmap", "analytics", "ux", "tool"],
+        tags: ["Hotjar", "Heatmap", "Analytics", "Ux", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "crazyegg-heatmaps",
         nameShort: "crazyegg",
-        seoTitle: "Crazyegg Crazy Egg offers scroll maps, snapshots, and A/B",
-        setDescription:
-          "Crazyegg - Crazy Egg offers scroll maps, snapshots, and A/B testing to optimize landing pages",
+        seoTitle: "Crazyegg Crazy Egg Offers Scroll Maps, Snapshots, And A/B",
+        seoDescription:
+          "Crazyegg - Crazy Egg Offers Scroll Maps, Snapshots, And A/B Testing To Optimize Landing Pages",
         seoKeywords: [
           "crazyegg",
           "heatmaps",
@@ -6910,15 +6910,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.crazyegg.com/",
         bgImg: "",
-        tags: ["crazyegg", "heatmap", "testing", "ux", "tool"],
+        tags: ["Crazyegg", "Heatmap", "Testing", "Ux", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "fullstory-digital-insights",
         nameShort: "fullstory",
-        seoTitle: "FullStory captures session replays, funnels, and alerts so",
-        setDescription:
-          "FullStory captures session replays, funnels, and alerts so product teams can spot friction quickly",
+        seoTitle: "FullStory Captures Session Replays, Funnels, And Alerts So",
+        seoDescription:
+          "FullStory Captures Session Replays, Funnels, And Alerts So Product Teams Can Spot Friction Quickly",
         seoKeywords: [
           "fullstory",
           "digital",
@@ -6935,15 +6935,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.fullstory.com/",
         bgImg: "",
-        tags: ["fullstory", "replay", "analytics", "ux", "tool"],
+        tags: ["Fullstory", "Replay", "Analytics", "Ux", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "pingdom-website-monitoring",
         nameShort: "pingdom",
-        seoTitle: "Pingdom monitors uptime, page speed, and user experience from",
-        setDescription:
-          "Pingdom monitors uptime, page speed, and user experience from 100+ locations worldwide",
+        seoTitle: "Pingdom Monitors Uptime, Page Speed, And User Experience From",
+        seoDescription:
+          "Pingdom Monitors Uptime, Page Speed, And User Experience From 100+ Locations Worldwide",
         seoKeywords: [
           "pingdom",
           "website",
@@ -6960,15 +6960,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.pingdom.com/",
         bgImg: "",
-        tags: ["pingdom", "uptime", "monitoring", "performance", "tool"],
+        tags: ["Pingdom", "Uptime", "Monitoring", "Performance", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "uptimerobot-status-monitor",
         nameShort: "uptimerobot",
-        seoTitle: "UptimeRobot offers free and paid monitors for HTTP, ping",
-        setDescription:
-          "UptimeRobot offers free and paid monitors for HTTP, ping, keyword, and port checks with instant alerts",
+        seoTitle: "UptimeRobot Offers Free And Paid Monitors For HTTP, Ping",
+        seoDescription:
+          "UptimeRobot Offers Free And Paid Monitors For HTTP, Ping, Keyword, And Port Checks With Instant Alerts",
         seoKeywords: [
           "uptimerobot",
           "status",
@@ -6985,15 +6985,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://uptimerobot.com/",
         bgImg: "",
-        tags: ["uptimerobot", "monitor", "status", "alerts", "tool"],
+        tags: ["Uptimerobot", "Monitor", "Status", "Alerts", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "statuscake-uptime-checks",
         nameShort: "statuscake",
-        seoTitle: "StatusCake runs uptime, SSL, and domain monitoring with granular",
-        setDescription:
-          "StatusCake runs uptime, SSL, and domain monitoring with granular alert policies and reporting",
+        seoTitle: "StatusCake Runs Uptime, SSL, And Domain Monitoring With Granular",
+        seoDescription:
+          "StatusCake Runs Uptime, SSL, And Domain Monitoring With Granular Alert Policies And Reporting",
         seoKeywords: [
           "statuscake",
           "uptime",
@@ -7010,15 +7010,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.statuscake.com/",
         bgImg: "",
-        tags: ["statuscake", "uptime", "monitoring", "alerts", "tool"],
+        tags: ["Statuscake", "Uptime", "Monitoring", "Alerts", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "gtmetrix-performance-tester",
         nameShort: "gtmetrix",
-        seoTitle: "GTmetrix analyzes Core Web Vitals, waterfalls, and video",
-        setDescription:
-          "GTmetrix analyzes Core Web Vitals, waterfalls, and video captures to diagnose performance issues",
+        seoTitle: "GTmetrix Analyzes Core Web Vitals, Waterfalls, And Video",
+        seoDescription:
+          "GTmetrix Analyzes Core Web Vitals, Waterfalls, And Video Captures To Diagnose Performance Issues",
         seoKeywords: [
           "gtmetrix",
           "performance",
@@ -7035,15 +7035,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://gtmetrix.com/",
         bgImg: "",
-        tags: ["gtmetrix", "performance", "web", "vitals", "tool"],
+        tags: ["Gtmetrix", "Performance", "Web", "Vitals", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "webpagetest-lab-insights",
         nameShort: "webpagetest",
-        seoTitle: "WebPageTest reveals real browser performance with filmstrips",
-        setDescription:
-          "WebPageTest reveals real browser performance with filmstrips, scripting, and Lighthouse data",
+        seoTitle: "WebPageTest Reveals Real Browser Performance With Filmstrips",
+        seoDescription:
+          "WebPageTest Reveals Real Browser Performance With Filmstrips, Scripting, And Lighthouse Data",
         seoKeywords: [
           "webpagetest",
           "lab",
@@ -7060,15 +7060,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.webpagetest.org/",
         bgImg: "",
-        tags: ["webpagetest", "performance", "testing", "web", "tool"],
+        tags: ["Webpagetest", "Performance", "Testing", "Web", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "pagespeed-web-vitals",
         nameShort: "pagespeed",
-        seoTitle: "PageSpeed Insights scores mobile and desktop experiences with",
-        setDescription:
-          "PageSpeed Insights scores mobile and desktop experiences with guidance on improving Core Web Vitals",
+        seoTitle: "PageSpeed Insights Scores Mobile And Desktop Experiences With",
+        seoDescription:
+          "PageSpeed Insights Scores Mobile And Desktop Experiences With Guidance On Improving Core Web Vitals",
         seoKeywords: [
           "pagespeed",
           "web",
@@ -7085,15 +7085,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://pagespeed.web.dev/",
         bgImg: "",
-        tags: ["pagespeed", "insights", "core", "web", "tool"],
+        tags: ["Pagespeed", "Insights", "Core", "Web", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "ilovepdf-converter-suite",
         nameShort: "ilovepdf",
-        seoTitle: "iLovePDF merges, splits, compresses, and edits PDFs in the",
-        setDescription:
-          "iLovePDF merges, splits, compresses, and edits PDFs in the browser with batch processing",
+        seoTitle: "ILovePDF Merges, Splits, Compresses, And Edits PDFs In The",
+        seoDescription:
+          "ILovePDF Merges, Splits, Compresses, And Edits PDFs In The Browser With Batch Processing",
         seoKeywords: [
           "ilovepdf",
           "converter",
@@ -7110,15 +7110,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.ilovepdf.com/",
         bgImg: "",
-        tags: ["ilovepdf", "pdf", "converter", "compress", "tool"],
+        tags: ["Ilovepdf", "Pdf", "Converter", "Compress", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "smallpdf-online-pdf",
         nameShort: "smallpdf",
-        seoTitle: "Smallpdf offers 20+ PDF tools plus e-sign, OCR, and cloud",
-        setDescription:
-          "Smallpdf offers 20+ PDF tools plus e-sign, OCR, and cloud storage integrations",
+        seoTitle: "Smallpdf Offers 20+ PDF Tools Plus E-Sign, OCR, And Cloud",
+        seoDescription:
+          "Smallpdf Offers 20+ PDF Tools Plus E-sign, OCR, And Cloud Storage Integrations",
         seoKeywords: [
           "smallpdf",
           "online",
@@ -7135,15 +7135,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://smallpdf.com/",
         bgImg: "",
-        tags: ["smallpdf", "pdf", "tools", "esign", "utility"],
+        tags: ["Smallpdf", "Pdf", "Tools", "Esign", "Utility"],
         updateTime: "2025-12-07",
       },
       {
         name: "pdfcandy-document-toolkit",
         nameShort: "pdfcandy",
-        seoTitle: "Pdfcandy PDF Candy is a browser-based PDF toolkit with",
-        setDescription:
-          "Pdfcandy - PDF Candy is a browser-based PDF toolkit with conversions, editing, rearranging, and protection options",
+        seoTitle: "Pdfcandy PDF Candy Is A Browser-Based PDF Toolkit With",
+        seoDescription:
+          "Pdfcandy - PDF Candy Is A Browser-based PDF Toolkit With Conversions, Editing, Rearranging, And Protection Options",
         seoKeywords: [
           "pdfcandy",
           "document",
@@ -7160,26 +7160,26 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://pdfcandy.com/",
         bgImg: "",
-        tags: ["pdfcandy", "pdf", "convert", "edit", "tool"],
+        tags: ["Pdfcandy", "Pdf", "Convert", "Edit", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "removebg-background-editor",
         nameShort: "removebg",
         seoTitle: "Removebg Remove",
-        setDescription: "Removebg - Remove",
+        seoDescription: "Removebg - Remove",
         seoKeywords: ["removebg", "background", "editor", "image", "ai", "tool", "remove"],
         iframeUrl: "https://www.remove.bg/",
         bgImg: "",
-        tags: ["removebg", "image", "background", "ai", "tool"],
+        tags: ["Removebg", "Image", "Background", "Ai", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "kapwing-creative-studio",
         nameShort: "kapwing",
-        seoTitle: "Kapwing is an online creative studio for video editing, meme",
-        setDescription:
-          "Kapwing is an online creative studio for video editing, meme templates, subtitles, and AI generation",
+        seoTitle: "Kapwing Is An Online Creative Studio For Video Editing, Meme",
+        seoDescription:
+          "Kapwing Is An Online Creative Studio For Video Editing, Meme Templates, Subtitles, And AI Generation",
         seoKeywords: [
           "kapwing",
           "creative",
@@ -7195,7 +7195,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.kapwing.com/",
         bgImg: "",
-        tags: ["kapwing", "video", "editing", "creative", "tool"],
+        tags: ["Kapwing", "Video", "Editing", "Creative", "Tool"],
         updateTime: "2025-12-07",
       },
     ],
@@ -7204,8 +7204,8 @@ export const menu: Menu[] = [
     name: "ai-creation-suite",
     nameShort: "ai-suite",
     isHomeData: true,
-    seoTitle: "AI Suite featuring Runway, HeyGen, Pika",
-    setDescription: "AI Suite directory featuring Runway, HeyGen, Pika, Synthesia and more.",
+    seoTitle: "AI Suite Featuring Runway, HeyGen, Pika",
+    seoDescription: "AI Suite Directory Featuring Runway, HeyGen, Pika, Synthesia And More.",
     seoKeywords: [
       "ai suite",
       "creation",
@@ -7224,9 +7224,9 @@ export const menu: Menu[] = [
       {
         name: "runway-gen2-video-lab",
         nameShort: "runway",
-        seoTitle: "Runway Gen-2 lets creators generate and edit cinematic video",
-        setDescription:
-          "Runway Gen-2 lets creators generate and edit cinematic video clips from text prompts, reference images, or uploaded footage entirely in the browser",
+        seoTitle: "Runway Gen-2 Lets Creators Generate And Edit Cinematic Video",
+        seoDescription:
+          "Runway Gen-2 Lets Creators Generate And Edit Cinematic Video Clips From Text Prompts, Reference Images, Or Uploaded Footage Entirely In The Browser",
         seoKeywords: [
           "runway",
           "gen2",
@@ -7243,15 +7243,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://runwayml.com/gen-2/",
         bgImg: "",
-        tags: ["runway", "gen2", "video", "generation", "ai"],
+        tags: ["Runway", "Gen2", "Video", "Generation", "Ai"],
         updateTime: "2025-12-07",
       },
       {
         name: "heygen-avatar-studio",
         nameShort: "heygen",
-        seoTitle: "HeyGen produces multilingual talking avatars, voice cloning, and",
-        setDescription:
-          "HeyGen produces multilingual talking avatars, voice cloning, and script-to-video explainers with instant previews for marketing, support, and training",
+        seoTitle: "HeyGen Produces Multilingual Talking Avatars, Voice Cloning, And",
+        seoDescription:
+          "HeyGen Produces Multilingual Talking Avatars, Voice Cloning, And Script-to-video Explainers With Instant Previews For Marketing, Support, And Training",
         seoKeywords: [
           "heygen",
           "avatar",
@@ -7268,15 +7268,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.heygen.com/",
         bgImg: "",
-        tags: ["heygen", "avatar", "video", "ai", "studio"],
+        tags: ["Heygen", "Avatar", "Video", "Ai", "Studio"],
         updateTime: "2025-12-07",
       },
       {
         name: "pika-labs-video-studio",
         nameShort: "pika",
-        seoTitle: "Pika Labs turns prompts or storyboards into stylized motion",
-        setDescription:
-          "Pika Labs turns prompts or storyboards into stylized motion graphics and anime-grade clips with frame-by-frame refinement tools",
+        seoTitle: "Pika Labs Turns Prompts Or Storyboards Into Stylized Motion",
+        seoDescription:
+          "Pika Labs Turns Prompts Or Storyboards Into Stylized Motion Graphics And Anime-grade Clips With Frame-by-frame Refinement Tools",
         seoKeywords: [
           "pika",
           "labs",
@@ -7293,15 +7293,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://pika.art/",
         bgImg: "",
-        tags: ["pika", "video", "generation", "ai", "animation"],
+        tags: ["Pika", "Video", "Generation", "Ai", "Animation"],
         updateTime: "2025-12-07",
       },
       {
         name: "synthesia-ai-avatars",
         nameShort: "synthesia",
-        seoTitle: "Synthesia creates studio-quality presenter videos with lifelike",
-        setDescription:
-          "Synthesia creates studio-quality presenter videos with lifelike avatars, brand templates, and 120+ languages without cameras or actors",
+        seoTitle: "Synthesia Creates Studio-Quality Presenter Videos With Lifelike",
+        seoDescription:
+          "Synthesia Creates Studio-quality Presenter Videos With Lifelike Avatars, Brand Templates, And 120+ Languages Without Cameras Or Actors",
         seoKeywords: [
           "synthesia",
           "avatars",
@@ -7318,15 +7318,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.synthesia.io/",
         bgImg: "",
-        tags: ["synthesia", "avatar", "video", "ai", "presenter"],
+        tags: ["Synthesia", "Avatar", "Video", "Ai", "Presenter"],
         updateTime: "2025-12-07",
       },
       {
         name: "fliki-ai-video-maker",
         nameShort: "fliki",
-        seoTitle: "Fliki converts blog posts or scripts into narrated videos using",
-        setDescription:
-          "Fliki converts blog posts or scripts into narrated videos using AI voices, subtitles, and stock libraries optimized for shorts and reels",
+        seoTitle: "Fliki Converts Blog Posts Or Scripts Into Narrated Videos Using",
+        seoDescription:
+          "Fliki Converts Blog Posts Or Scripts Into Narrated Videos Using AI Voices, Subtitles, And Stock Libraries Optimized For Shorts And Reels",
         seoKeywords: [
           "fliki",
           "video",
@@ -7343,15 +7343,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://fliki.ai/",
         bgImg: "",
-        tags: ["fliki", "video", "voice", "ai", "creator"],
+        tags: ["Fliki", "Video", "Voice", "Ai", "Creator"],
         updateTime: "2025-12-07",
       },
       {
         name: "opusclip-video-repurposer",
         nameShort: "opusclip",
-        seoTitle: "OpusClip repurposes long-form podcasts or webinars into",
-        setDescription:
-          "OpusClip repurposes long-form podcasts or webinars into viral-ready short clips with AI highlights, captions, and virality scoring",
+        seoTitle: "OpusClip Repurposes Long-Form Podcasts Or Webinars Into",
+        seoDescription:
+          "OpusClip Repurposes Long-form Podcasts Or Webinars Into Viral-ready Short Clips With AI Highlights, Captions, And Virality Scoring",
         seoKeywords: [
           "opusclip",
           "video",
@@ -7368,15 +7368,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.opus.pro/",
         bgImg: "",
-        tags: ["opusclip", "video", "repurpose", "shorts", "ai"],
+        tags: ["Opusclip", "Video", "Repurpose", "Shorts", "Ai"],
         updateTime: "2025-12-07",
       },
       {
         name: "descript-ai-editor",
         nameShort: "descript",
-        seoTitle: "Descript edits podcasts and videos via text transcripts",
-        setDescription:
-          "Descript edits podcasts and videos via text transcripts, offering AI-powered filler word removal, overdub, and instant publishing",
+        seoTitle: "Descript Edits Podcasts And Videos Via Text Transcripts",
+        seoDescription:
+          "Descript Edits Podcasts And Videos Via Text Transcripts, Offering AI-powered Filler Word Removal, Overdub, And Instant Publishing",
         seoKeywords: [
           "descript",
           "editor",
@@ -7393,15 +7393,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.descript.com/",
         bgImg: "",
-        tags: ["descript", "podcast", "editor", "ai", "video"],
+        tags: ["Descript", "Podcast", "Editor", "Ai", "Video"],
         updateTime: "2025-12-07",
       },
       {
         name: "podcastle-ai-studio",
         nameShort: "podcastle",
-        seoTitle: "Podcastle is a browser studio for remote interviews, AI cleanup",
-        setDescription:
-          "Podcastle is a browser studio for remote interviews, AI cleanup, and text-to-speech narration with automated mastering",
+        seoTitle: "Podcastle Is A Browser Studio For Remote Interviews, AI Cleanup",
+        seoDescription:
+          "Podcastle Is A Browser Studio For Remote Interviews, AI Cleanup, And Text-to-speech Narration With Automated Mastering",
         seoKeywords: [
           "podcastle",
           "studio",
@@ -7418,15 +7418,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://podcastle.ai/",
         bgImg: "",
-        tags: ["podcastle", "podcast", "studio", "ai", "audio"],
+        tags: ["Podcastle", "Podcast", "Studio", "Ai", "Audio"],
         updateTime: "2025-12-07",
       },
       {
         name: "elevenlabs-voice-ai",
         nameShort: "elevenlabs",
-        seoTitle: "ElevenLabs clones voices, generates lifelike speech, and offers",
-        setDescription:
-          "ElevenLabs clones voices, generates lifelike speech, and offers multilingual dubbing pipelines for games, films, and narrators",
+        seoTitle: "ElevenLabs Clones Voices, Generates Lifelike Speech, And Offers",
+        seoDescription:
+          "ElevenLabs Clones Voices, Generates Lifelike Speech, And Offers Multilingual Dubbing Pipelines For Games, Films, And Narrators",
         seoKeywords: [
           "elevenlabs",
           "voice",
@@ -7443,26 +7443,26 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://elevenlabs.io/",
         bgImg: "",
-        tags: ["elevenlabs", "voice", "cloning", "ai", "audio"],
+        tags: ["Elevenlabs", "Voice", "Cloning", "Ai", "Audio"],
         updateTime: "2025-12-07",
       },
       {
         name: "playht-ai-voice",
         nameShort: "playht",
         seoTitle: "Playht Play",
-        setDescription: "Playht - Play",
+        seoDescription: "Playht - Play",
         seoKeywords: ["playht", "voice", "tts", "ai", "audio", "play"],
         iframeUrl: "https://play.ht/",
         bgImg: "",
-        tags: ["playht", "tts", "voice", "ai", "audio"],
+        tags: ["Playht", "Tts", "Voice", "Ai", "Audio"],
         updateTime: "2025-12-07",
       },
       {
         name: "leonardo-ai-art-studio",
         nameShort: "leonardo",
-        seoTitle: "Leonardo AI offers fine-tuned diffusion models, texture",
-        setDescription:
-          "Leonardo AI offers fine-tuned diffusion models, texture generators, and asset upscalers for game and concept artists",
+        seoTitle: "Leonardo AI Offers Fine-Tuned Diffusion Models, Texture",
+        seoDescription:
+          "Leonardo AI Offers Fine-tuned Diffusion Models, Texture Generators, And Asset Upscalers For Game And Concept Artists",
         seoKeywords: [
           "leonardo",
           "art",
@@ -7479,15 +7479,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://leonardo.ai/",
         bgImg: "",
-        tags: ["leonardo", "art", "ai", "design", "generator"],
+        tags: ["Leonardo", "Art", "Ai", "Design", "Generator"],
         updateTime: "2025-12-07",
       },
       {
         name: "ideogram-ai-typography",
         nameShort: "ideogram",
-        seoTitle: "Ideogram excels at typography-aware image generation, crafting",
-        setDescription:
-          "Ideogram excels at typography-aware image generation, crafting posters, merch, and social visuals with readable text",
+        seoTitle: "Ideogram Excels At Typography-Aware Image Generation, Crafting",
+        seoDescription:
+          "Ideogram Excels At Typography-aware Image Generation, Crafting Posters, Merch, And Social Visuals With Readable Text",
         seoKeywords: [
           "ideogram",
           "typography",
@@ -7504,15 +7504,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ideogram.ai/",
         bgImg: "",
-        tags: ["ideogram", "image", "generator", "typography", "ai"],
+        tags: ["Ideogram", "Image", "Generator", "Typography", "Ai"],
         updateTime: "2025-12-07",
       },
       {
         name: "recraft-ai-design-lab",
         nameShort: "recraft",
-        seoTitle: "Recraft AI outputs vector logos, patterns, and illustrations",
-        setDescription:
-          "Recraft AI outputs vector logos, patterns, and illustrations with reusable styles and brand-safe palettes",
+        seoTitle: "Recraft AI Outputs Vector Logos, Patterns, And Illustrations",
+        seoDescription:
+          "Recraft AI Outputs Vector Logos, Patterns, And Illustrations With Reusable Styles And Brand-safe Palettes",
         seoKeywords: [
           "recraft",
           "design",
@@ -7529,15 +7529,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.recraft.ai/",
         bgImg: "",
-        tags: ["recraft", "design", "vector", "ai", "illustration"],
+        tags: ["Recraft", "Design", "Vector", "Ai", "Illustration"],
         updateTime: "2025-12-07",
       },
       {
         name: "writesonic-ai-writer",
         nameShort: "writesonic",
-        seoTitle: "Writesonic drafts blog posts, ads, product descriptions, and",
-        setDescription:
-          "Writesonic drafts blog posts, ads, product descriptions, and localized landing pages with SEO briefs and fact-checking",
+        seoTitle: "Writesonic Drafts Blog Posts, Ads, Product Descriptions, And",
+        seoDescription:
+          "Writesonic Drafts Blog Posts, Ads, Product Descriptions, And Localized Landing Pages With SEO Briefs And Fact-checking",
         seoKeywords: [
           "writesonic",
           "writer",
@@ -7554,15 +7554,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://writesonic.com/",
         bgImg: "",
-        tags: ["writesonic", "copywriting", "ai", "content", "marketing"],
+        tags: ["Writesonic", "Copywriting", "Ai", "Content", "Marketing"],
         updateTime: "2025-12-07",
       },
       {
         name: "jasper-ai-marketing-studio",
         nameShort: "jasper",
-        seoTitle: "Jasper AI powers brand voice-aligned marketing copy, campaign",
-        setDescription:
-          "Jasper AI powers brand voice-aligned marketing copy, campaign briefs, and AI workflows for enterprise teams",
+        seoTitle: "Jasper AI Powers Brand Voice-Aligned Marketing Copy, Campaign",
+        seoDescription:
+          "Jasper AI Powers Brand Voice-aligned Marketing Copy, Campaign Briefs, And AI Workflows For Enterprise Teams",
         seoKeywords: [
           "jasper",
           "marketing",
@@ -7579,14 +7579,14 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.jasper.ai/",
         bgImg: "",
-        tags: ["jasper", "marketing", "copy", "ai", "assistant"],
+        tags: ["Jasper", "Marketing", "Copy", "Ai", "Assistant"],
         updateTime: "2025-12-07",
       },
       {
         name: "copyai-marketing-assistant",
         nameShort: "copyai",
         seoTitle: "Copyai Copy",
-        setDescription: "Copyai - Copy",
+        seoDescription: "Copyai - Copy",
         seoKeywords: [
           "copyai",
           "marketing",
@@ -7599,15 +7599,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.copy.ai/",
         bgImg: "",
-        tags: ["copyai", "copywriting", "automation", "ai", "sales"],
+        tags: ["Copyai", "Copywriting", "Automation", "Ai", "Sales"],
         updateTime: "2025-12-07",
       },
       {
         name: "rytr-ai-writer",
         nameShort: "rytr",
-        seoTitle: "Rytr creates emails, summaries, and ad copy in 30+ languages",
-        setDescription:
-          "Rytr creates emails, summaries, and ad copy in 30+ languages with tone controls and plagiarism checks",
+        seoTitle: "Rytr Creates Emails, Summaries, And Ad Copy In 30+ Languages",
+        seoDescription:
+          "Rytr Creates Emails, Summaries, And Ad Copy In 30+ Languages With Tone Controls And Plagiarism Checks",
         seoKeywords: [
           "rytr",
           "writer",
@@ -7624,15 +7624,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://rytr.me/",
         bgImg: "",
-        tags: ["rytr", "writer", "ai", "copy", "tool"],
+        tags: ["Rytr", "Writer", "Ai", "Copy", "Tool"],
         updateTime: "2025-12-07",
       },
       {
         name: "anyword-ai-copy",
         nameShort: "anyword",
-        seoTitle: "Anyword predicts conversion uplift for marketing copy and",
-        setDescription:
-          "Anyword predicts conversion uplift for marketing copy and generates channel-ready variations with scoring",
+        seoTitle: "Anyword Predicts Conversion Uplift For Marketing Copy And",
+        seoDescription:
+          "Anyword Predicts Conversion Uplift For Marketing Copy And Generates Channel-ready Variations With Scoring",
         seoKeywords: [
           "anyword",
           "copy",
@@ -7649,15 +7649,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://anyword.com/",
         bgImg: "",
-        tags: ["anyword", "copywriting", "ai", "optimization", "marketing"],
+        tags: ["Anyword", "Copywriting", "Ai", "Optimization", "Marketing"],
         updateTime: "2025-12-07",
       },
       {
         name: "tome-ai-presentation-maker",
         nameShort: "tome",
-        seoTitle: "Tome turns prompts into interactive presentations with smart",
-        setDescription:
-          "Tome turns prompts into interactive presentations with smart layouts, animations, and embeddable prototypes",
+        seoTitle: "Tome Turns Prompts Into Interactive Presentations With Smart",
+        seoDescription:
+          "Tome Turns Prompts Into Interactive Presentations With Smart Layouts, Animations, And Embeddable Prototypes",
         seoKeywords: [
           "tome",
           "presentation",
@@ -7674,15 +7674,15 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tome.app/",
         bgImg: "",
-        tags: ["tome", "presentation", "ai", "slides", "story"],
+        tags: ["Tome", "Presentation", "Ai", "Slides", "Story"],
         updateTime: "2025-12-07",
       },
       {
         name: "gamma-ai-slide-studio",
         nameShort: "gamma",
-        seoTitle: "Gamma generates decks, documents, and webpages using AI-created",
-        setDescription:
-          "Gamma generates decks, documents, and webpages using AI-created outlines, rich layouts, and live analytics",
+        seoTitle: "Gamma Generates Decks, Documents, And Webpages Using AI-Created",
+        seoDescription:
+          "Gamma Generates Decks, Documents, And Webpages Using AI-created Outlines, Rich Layouts, And Live Analytics",
         seoKeywords: [
           "gamma",
           "slide",
@@ -7699,26 +7699,26 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://gamma.app/",
         bgImg: "",
-        tags: ["gamma", "slides", "ai", "documents", "builder"],
+        tags: ["Gamma", "Slides", "Ai", "Documents", "Builder"],
         updateTime: "2025-12-07",
       },
       {
         name: "character-ai-chat-lab",
         nameShort: "character",
         seoTitle: "Character",
-        setDescription: "Character",
+        seoDescription: "Character",
         seoKeywords: ["character", "chat", "lab", "chatbot", "ai", "personas", "assistant"],
         iframeUrl: "https://beta.character.ai/",
         bgImg: "",
-        tags: ["character", "chatbot", "ai", "personas", "assistant"],
+        tags: ["Character", "Chatbot", "Ai", "Personas", "Assistant"],
         updateTime: "2025-12-07",
       },
       {
         name: "playground-ai-image-lab",
         nameShort: "playground",
-        seoTitle: "Playground AI offers fast image generation, editing masks, and",
-        setDescription:
-          "Playground AI offers fast image generation, editing masks, and template libraries for mood boards and campaigns",
+        seoTitle: "Playground AI Offers Fast Image Generation, Editing Masks, And",
+        seoDescription:
+          "Playground AI Offers Fast Image Generation, Editing Masks, And Template Libraries For Mood Boards And Campaigns",
         seoKeywords: [
           "playground",
           "image",
@@ -7735,186 +7735,381 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://playground.com/",
         bgImg: "",
-        tags: ["playground", "image", "generator", "ai", "creative"],
+        tags: ["Playground", "Image", "Generator", "Ai", "Creative"],
         updateTime: "2025-12-07",
       },
       {
         name: "eagles-vs-chargers",
         nameShort: "eagles-chargers",
-        seoTitle: "Philadelphia Eagles vs Los Angeles Chargers scores and updates",
-        setDescription:
-          "Live schedule, scores, and matchup insights for the Philadelphia Eagles against the Los Angeles Chargers.",
+        seoTitle: "Philadelphia Eagles Vs Los Angeles Chargers Scores And Updates",
+        seoDescription:
+          "Live Schedule, Scores, And Matchup Insights For The Philadelphia Eagles Against The Los Angeles Chargers.",
         seoKeywords: ["eagles", "chargers", "nfl", "live", "score", "schedule"],
         iframeUrl: "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/",
         bgImg: "",
-        tags: ["nfl", "eagles", "chargers", "schedule", "scores"],
+        tags: ["Nfl", "Eagles", "Chargers", "Schedule", "Scores"],
         updateTime: "2025-12-10",
       },
       {
         name: "ohio-state-vs-indiana",
         nameShort: "osu-indiana",
-        seoTitle: "Ohio State Buckeyes vs Indiana Hoosiers game hub",
-        setDescription:
-          "College football coverage for Ohio State vs Indiana with schedules, stats, and play-by-play.",
+        seoTitle: "Ohio State Buckeyes Vs Indiana Hoosiers Game Hub",
+        seoDescription:
+          "College Football Coverage For Ohio State Vs Indiana With Schedules, Stats, And Play-by-play.",
         seoKeywords: ["ohio state", "indiana", "college football", "big ten", "scores", "schedule"],
         iframeUrl: "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
         bgImg: "",
-        tags: ["college football", "ohio state", "indiana", "big ten"],
+        tags: ["College Football", "Ohio State", "Indiana", "Big Ten"],
         updateTime: "2025-12-10",
       },
       {
         name: "texans-vs-chiefs",
         nameShort: "texans-chiefs",
-        seoTitle: "Houston Texans vs Kansas City Chiefs live scoreboard",
-        setDescription:
-          "NFL matchup hub for the Houston Texans against the Kansas City Chiefs with scores and drive summaries.",
+        seoTitle: "Houston Texans Vs Kansas City Chiefs Live Scoreboard",
+        seoDescription:
+          "NFL Matchup Hub For The Houston Texans Against The Kansas City Chiefs With Scores And Drive Summaries.",
         seoKeywords: ["texans", "chiefs", "nfl", "live", "scoreboard", "afc"],
         iframeUrl: "https://www.cbssports.com/nfl/teams/KC/kansas-city-chiefs/",
         bgImg: "",
-        tags: ["nfl", "texans", "chiefs", "afc", "scoreboard"],
+        tags: ["Nfl", "Texans", "Chiefs", "Afc", "Scoreboard"],
         updateTime: "2025-12-10",
       },
       {
         name: "cowboys-vs-lions",
         nameShort: "cowboys-lions",
-        seoTitle: "Dallas Cowboys vs Detroit Lions game center",
-        setDescription:
-          "Game previews, scores, and highlights for the Dallas Cowboys versus the Detroit Lions.",
+        seoTitle: "Dallas Cowboys Vs Detroit Lions Game Center",
+        seoDescription:
+          "Game Previews, Scores, And Highlights For The Dallas Cowboys Versus The Detroit Lions.",
         seoKeywords: ["cowboys", "lions", "nfl", "scores", "highlights", "schedule"],
         iframeUrl: "https://www.nfl.com/teams/dallas-cowboys/",
         bgImg: "",
-        tags: ["nfl", "cowboys", "lions", "game center"],
+        tags: ["Nfl", "Cowboys", "Lions", "Game Center"],
         updateTime: "2025-12-10",
       },
       {
         name: "rostrum-records",
         nameShort: "rostrum",
-        seoTitle: "Rostrum Records artist roster and releases",
-        setDescription:
-          "Hip-hop and indie label Rostrum Records with artists, releases, and tour updates.",
+        seoTitle: "Rostrum Records Artist Roster And Releases",
+        seoDescription:
+          "Hip-hop And Indie Label Rostrum Records With Artists, Releases, And Tour Updates.",
         seoKeywords: ["rostrum", "records", "music", "label", "artists", "hip hop"],
         iframeUrl: "https://rostrumrecords.com/",
         bgImg: "",
-        tags: ["music", "label", "rostrum", "artists"],
+        tags: ["Music", "Label", "Rostrum", "Artists"],
         updateTime: "2025-12-10",
       },
       {
         name: "georgia-vs-alabama",
         nameShort: "georgia-alabama",
-        seoTitle: "Georgia Bulldogs vs Alabama Crimson Tide scoreboard",
-        setDescription:
-          "SEC clash hub for Georgia vs Alabama with rankings, stats, and scoring drives.",
+        seoTitle: "Georgia Bulldogs Vs Alabama Crimson Tide Scoreboard",
+        seoDescription:
+          "SEC Clash Hub For Georgia Vs Alabama With Rankings, Stats, And Scoring Drives.",
         seoKeywords: ["georgia", "alabama", "sec", "college football", "scores", "rankings"],
         iframeUrl: "https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide",
         bgImg: "",
-        tags: ["college football", "georgia", "alabama", "sec"],
+        tags: ["College Football", "Georgia", "Alabama", "Sec"],
         updateTime: "2025-12-10",
       },
       {
         name: "world-cup-draw",
         nameShort: "world-cup-draw",
-        seoTitle: "FIFA World Cup draw pots, schedule, and format",
-        setDescription:
-          "Official World Cup draw overview with qualified teams, seedings, and tournament schedule.",
+        seoTitle: "FIFA World Cup Draw Pots, Schedule, And Format",
+        seoDescription:
+          "Official World Cup Draw Overview With Qualified Teams, Seedings, And Tournament Schedule.",
         seoKeywords: ["world cup", "draw", "fifa", "groups", "schedule", "football"],
         iframeUrl: "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup",
         bgImg: "",
-        tags: ["fifa", "world cup", "draw", "football"],
+        tags: ["Fifa", "World Cup", "Draw", "Football"],
         updateTime: "2025-12-10",
       },
       {
         name: "bears-vs-packers",
         nameShort: "bears-packers",
-        seoTitle: "Chicago Bears vs Green Bay Packers rivalry coverage",
-        setDescription:
-          "NFL rivalry hub for Bears vs Packers with schedules, standings, and recent results.",
+        seoTitle: "Chicago Bears Vs Green Bay Packers Rivalry Coverage",
+        seoDescription:
+          "NFL Rivalry Hub For Bears Vs Packers With Schedules, Standings, And Recent Results.",
         seoKeywords: ["bears", "packers", "nfl", "rivalry", "scores", "schedule"],
         iframeUrl: "https://www.nfl.com/teams/chicago-bears/",
         bgImg: "",
-        tags: ["nfl", "bears", "packers", "rivalry"],
+        tags: ["Nfl", "Bears", "Packers", "Rivalry"],
         updateTime: "2025-12-10",
       },
       {
         name: "steelers-vs-ravens",
         nameShort: "steelers-ravens",
-        seoTitle: "Pittsburgh Steelers vs Baltimore Ravens divisional matchup",
-        setDescription:
-          "AFC North matchup page for Steelers vs Ravens with standings, game previews, and stats.",
+        seoTitle: "Pittsburgh Steelers Vs Baltimore Ravens Divisional Matchup",
+        seoDescription:
+          "AFC North Matchup Page For Steelers Vs Ravens With Standings, Game Previews, And Stats.",
         seoKeywords: ["steelers", "ravens", "afc north", "nfl", "scores", "standings"],
         iframeUrl: "https://www.nfl.com/teams/pittsburgh-steelers/",
         bgImg: "",
-        tags: ["nfl", "steelers", "ravens", "afc north"],
+        tags: ["Nfl", "Steelers", "Ravens", "Afc North"],
         updateTime: "2025-12-10",
       },
       {
         name: "bengals-vs-bills",
         nameShort: "bengals-bills",
-        seoTitle: "Cincinnati Bengals vs Buffalo Bills game tracker",
-        setDescription:
-          "Game tracker for Bengals vs Bills with live scores, stats, and injury updates.",
+        seoTitle: "Cincinnati Bengals Vs Buffalo Bills Game Tracker",
+        seoDescription:
+          "Game Tracker For Bengals Vs Bills With Live Scores, Stats, And Injury Updates.",
         seoKeywords: ["bengals", "bills", "nfl", "afc", "scores", "injuries"],
         iframeUrl: "https://www.nfl.com/teams/cincinnati-bengals/",
         bgImg: "",
-        tags: ["nfl", "bengals", "bills", "afc"],
+        tags: ["Nfl", "Bengals", "Bills", "Afc"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "real-betis-vs-barcelona",
+        nameShort: "betis-barca",
+        seoTitle: "Real Betis Vs Barcelona La Liga Scores And Lineups",
+        seoDescription:
+          "La Liga Match Hub For Real Betis Vs Barcelona With Scores, Lineups, And Standings.",
+        seoKeywords: ["real betis", "barcelona", "la liga", "scores", "lineups", "standings"],
+        iframeUrl: "https://www.thesportsdb.com/event/2279536-real-betis-vs-barcelona",
+        bgImg: "",
+        tags: ["Real Betis", "Barcelona", "La Liga", "Scores"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "barcelona-vs-eintracht-frankfurt",
+        nameShort: "barca-frankfurt",
+        seoTitle: "Barcelona Vs Eintracht Frankfurt Champions League Recap",
+        seoDescription:
+          "Champions League Coverage For Barcelona Vs Eintracht Frankfurt With Scoreline And Match Details.",
+        seoKeywords: [
+          "barcelona",
+          "eintracht frankfurt",
+          "champions league",
+          "scores",
+          "highlights",
+        ],
+        iframeUrl: "https://www.thesportsdb.com/event/2328097-barcelona-vs-eintracht-frankfurt",
+        bgImg: "",
+        tags: ["Barcelona", "Frankfurt", "Champions League", "Scores"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "england-vs-australia",
+        nameShort: "eng-aus",
+        seoTitle: "England Vs Australia International Friendly Scoreboard",
+        seoDescription:
+          "International Friendly Tracker For England Vs Australia With Live Score, Kickoff Time, And Venue Info.",
+        seoKeywords: ["england", "australia", "international friendly", "scores", "fixtures"],
+        iframeUrl: "https://www.thesportsdb.com/event/1794233-england-vs-australia",
+        bgImg: "",
+        tags: ["England", "Australia", "International", "Friendly"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "real-madrid-vs-celta-vigo",
+        nameShort: "realmadrid-celta",
+        seoTitle: "Real Madrid Vs Celta Vigo La Liga Match Center",
+        seoDescription:
+          "Match Center For Real Madrid Vs Celta Vigo With Scores, Lineups, And La Liga Standings.",
+        seoKeywords: ["real madrid", "celta vigo", "la liga", "scores", "fixtures"],
+        iframeUrl: "https://www.thesportsdb.com/event/2279540-real-madrid-vs-celta-vigo",
+        bgImg: "",
+        tags: ["Real Madrid", "Celta Vigo", "La Liga", "Scores"],
         updateTime: "2025-12-10",
       },
       {
         name: "athletic-real-madrid",
-        nameShort: "real-madrid",
-        seoTitle: "Real Madrid fixtures, standings, and news",
-        setDescription:
-          "Official Real Madrid club site with fixtures, standings, squad news, and match coverage.",
-        seoKeywords: ["real madrid", "la liga", "fixtures", "standings", "news", "athletic"],
-        iframeUrl: "https://www.realmadrid.com/en",
+        nameShort: "athletic-real",
+        seoTitle: "Athletic Bilbao Vs Real Madrid La Liga Updates",
+        seoDescription:
+          "La Liga Fixture Page For Athletic Bilbao Vs Real Madrid With Scoreline, Kickoff Time, And Venue.",
+        seoKeywords: ["athletic club", "real madrid", "la liga", "scores", "fixtures", "bilbao"],
+        iframeUrl: "https://www.thesportsdb.com/event/2279574-athletic-bilbao-vs-real-madrid",
         bgImg: "",
-        tags: ["football", "real madrid", "la liga", "fixtures"],
+        tags: ["Athletic Club", "Real Madrid", "La Liga", "Scores"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "mirassol-vs-flamengo",
+        nameShort: "mirassol-flamengo",
+        seoTitle: "Mirassol Vs Flamengo Brasileirao Scoreboard",
+        seoDescription:
+          "Brazilian Serie A Match Hub For Mirassol Vs Flamengo With Live Score And Table Position.",
+        seoKeywords: ["mirassol", "flamengo", "brasileirao", "serie a", "scores", "fixtures"],
+        iframeUrl: "https://www.thesportsdb.com/event/2385412-mirassol-vs-flamengo",
+        bgImg: "",
+        tags: ["Mirassol", "Flamengo", "Brasileirao", "Serie A"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "wolves-vs-man-united",
+        nameShort: "wolves-manunited",
+        seoTitle: "Wolves Vs Manchester United Premier League Recap",
+        seoDescription:
+          "Premier League Matchup Page For Wolves Vs Manchester United With Scores, Stats, And Highlights.",
+        seoKeywords: ["wolves", "manchester united", "premier league", "scores", "highlights"],
+        iframeUrl: "https://www.thesportsdb.com/event/1818617-wolves-vs-manchester-united",
+        bgImg: "",
+        tags: ["Wolves", "Manchester United", "Premier League", "Scores"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "leeds-united-vs-liverpool",
+        nameShort: "leeds-liverpool",
+        seoTitle: "Leeds United Vs Liverpool Premier League Tracker",
+        seoDescription:
+          "Leeds United Vs Liverpool Match Center With Goals, Standings Impact, And Kickoff Time.",
+        seoKeywords: ["leeds united", "liverpool", "premier league", "scores", "fixtures"],
+        iframeUrl: "https://www.thesportsdb.com/event/2267218-leeds-united-vs-liverpool",
+        bgImg: "",
+        tags: ["Leeds United", "Liverpool", "Premier League", "Scores"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "flamengo-vs-ceara",
+        nameShort: "flamengo-ceara",
+        seoTitle: "Flamengo Vs Ceará Serie A Live Score",
+        seoDescription:
+          "Serie A Match Listing For Flamengo Vs Ceará With Scoreline And Kickoff Details.",
+        seoKeywords: ["flamengo", "ceara", "serie a", "brasileirao", "scores"],
+        iframeUrl: "https://www.thesportsdb.com/event/2385404-flamengo-vs-cear%C3%A1",
+        bgImg: "",
+        tags: ["Flamengo", "Ceara", "Brasileirao", "Serie A"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "manchester-united-vs-west-ham",
+        nameShort: "manu-westham",
+        seoTitle: "Manchester United Vs West Ham Summer Series",
+        seoDescription:
+          "Premier League Summer Series Fixture Hub For Manchester United Vs West Ham With Scoreline And Venue.",
+        seoKeywords: ["manchester united", "west ham", "premier league", "summer series", "scores"],
+        iframeUrl: "https://www.thesportsdb.com/event/2300853-manchester-united-vs-west-ham-united",
+        bgImg: "",
+        tags: ["Manchester United", "West Ham", "Premier League", "Summer Series"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "inter-vs-liverpool",
+        nameShort: "inter-liverpool",
+        seoTitle: "Inter Vs Liverpool Champions League Match Page",
+        seoDescription:
+          "Champions League Knockout Meeting Inter Vs Liverpool With Scoreline, Venue, And Kickoff Time.",
+        seoKeywords: ["inter", "liverpool", "champions league", "scores", "fixtures"],
+        iframeUrl: "https://www.thesportsdb.com/event/1422831-inter-vs-liverpool",
+        bgImg: "",
+        tags: ["Inter", "Liverpool", "Champions League", "Scores"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "nava999-slot-hub",
+        nameShort: "nava999",
+        seoTitle: "Nava999 Online Slot Portal",
+        seoDescription: "Landing Page For Nava999 Slot Games With Promotions And Member Login.",
+        seoKeywords: ["nava999", "slots", "casino", "thai", "bonus"],
+        iframeUrl: "https://nava999.art/",
+        bgImg: "",
+        tags: ["Nava999", "Slots", "Casino", "Thai"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "pggroup777-slot",
+        nameShort: "pggroup777",
+        seoTitle: "PGGroup777 Slot Entry Mirror",
+        seoDescription:
+          "Mirror Page For PGGroup777 Slot Access And Signup, Optimized For Fast In-frame Loading.",
+        seoKeywords: ["pggroup777", "slots", "pg", "casino", "thai"],
+        iframeUrl: "https://r.jina.ai/http://pggroup777.sbs",
+        bgImg: "",
+        tags: ["Pggroup777", "Slots", "Casino", "Thai"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "deva555-slot",
+        nameShort: "deva555",
+        seoTitle: "Deva555 Slot Promotions And Login",
+        seoDescription: "Portal For Deva555 Slot Offers, Member Login, And Signup Information.",
+        seoKeywords: ["deva555", "slots", "casino", "thai", "promo"],
+        iframeUrl: "https://deva555.top/",
+        bgImg: "",
+        tags: ["Deva555", "Slots", "Casino", "Thai"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "siamwin555-slot",
+        nameShort: "siamwin555",
+        seoTitle: "Siamwin555 Slot Access Page",
+        seoDescription: "Quick Access Page For Siamwin555 Slots With Mobile-friendly Entry Point.",
+        seoKeywords: ["siamwin555", "slots", "casino", "thai", "login"],
+        iframeUrl: "https://siamwin555.com/win",
+        bgImg: "",
+        tags: ["Siamwin555", "Slots", "Casino", "Thai"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "slotolympus77-online",
+        nameShort: "slotolympus77",
+        seoTitle: "SlotOlympus77 Online Slot Mirror",
+        seoDescription:
+          "Text-only Mirror For SlotOlympus77 Online Slot Portal For Fast Embedded Loading.",
+        seoKeywords: ["slotolympus77", "slots", "casino", "mirror", "thai"],
+        iframeUrl: "https://r.jina.ai/http://slotolympus77.online",
+        bgImg: "",
+        tags: ["Slotolympus77", "Slots", "Casino", "Mirror"],
+        updateTime: "2025-12-10",
+      },
+      {
+        name: "fievel-character-guide",
+        nameShort: "fievel",
+        seoTitle: "Fievel Mousekewitz Character Guide And Film History",
+        seoDescription:
+          "Fandom Guide To Fievel Mousekewitz From An American Tail With Character Bio And Film Appearances.",
+        seoKeywords: ["fievel", "an american tail", "animation", "character", "film"],
+        iframeUrl: "https://anamericantail.fandom.com/wiki/Fievel_Mousekewitz",
+        bgImg: "",
+        tags: ["Fievel", "An American Tail", "Character", "Animation"],
         updateTime: "2025-12-10",
       },
       {
         name: "pars-football-news",
         nameShort: "pars",
-        seoTitle: "Pars Football news and league updates",
-        setDescription: "Pars Football coverage with news, match analysis, and transfer updates.",
+        seoTitle: "Pars Football News And League Updates",
+        seoDescription: "Pars Football Coverage With News, Match Analysis, And Transfer Updates.",
         seoKeywords: ["pars", "football", "news", "league", "analysis", "transfers"],
         iframeUrl: "https://parsfootball.com/",
         bgImg: "",
-        tags: ["football", "pars", "news"],
+        tags: ["Football", "Pars", "News"],
         updateTime: "2025-12-10",
       },
       {
         name: "matt-campbell-coach",
         nameShort: "matt-campbell",
-        seoTitle: "Iowa State head coach Matt Campbell profile",
-        setDescription:
-          "Bio, career record, and news for Iowa State football head coach Matt Campbell.",
+        seoTitle: "Iowa State Head Coach Matt Campbell Profile",
+        seoDescription:
+          "Bio, Career Record, And News For Iowa State Football Head Coach Matt Campbell.",
         seoKeywords: ["matt campbell", "iowa state", "coach", "college football", "profile"],
         iframeUrl: "https://cyclones.com/sports/football/roster/coaches/matt-campbell/140",
         bgImg: "",
-        tags: ["college football", "coach", "matt campbell"],
+        tags: ["College Football", "Coach", "Matt Campbell"],
         updateTime: "2025-12-10",
       },
       {
         name: "broncos-vs-raiders",
         nameShort: "broncos-raiders",
-        seoTitle: "Denver Broncos vs Las Vegas Raiders rivalry hub",
-        setDescription:
-          "AFC West rivalry page for Broncos vs Raiders with schedules, standings, and highlights.",
+        seoTitle: "Denver Broncos Vs Las Vegas Raiders Rivalry Hub",
+        seoDescription:
+          "AFC West Rivalry Page For Broncos Vs Raiders With Schedules, Standings, And Highlights.",
         seoKeywords: ["broncos", "raiders", "afc west", "nfl", "rivalry", "scores"],
         iframeUrl: "https://www.nfl.com/teams/denver-broncos/",
         bgImg: "",
-        tags: ["nfl", "broncos", "raiders", "afc west"],
+        tags: ["Nfl", "Broncos", "Raiders", "Afc West"],
         updateTime: "2025-12-10",
       },
       {
         name: "paul-dano-filmography",
         nameShort: "paul-dano",
-        seoTitle: "Paul Dano movies, reviews, and biography",
-        setDescription:
-          "Filmography, reviews, and career highlights for actor and director Paul Dano.",
+        seoTitle: "Paul Dano Movies, Reviews, And Biography",
+        seoDescription:
+          "Filmography, Reviews, And Career Highlights For Actor And Director Paul Dano.",
         seoKeywords: ["paul dano", "actor", "films", "reviews", "biography", "director"],
         iframeUrl: "https://www.rottentomatoes.com/celebrity/paul_dano",
         bgImg: "",
-        tags: ["actor", "films", "paul dano", "reviews"],
+        tags: ["Actor", "Films", "Paul Dano", "Reviews"],
         updateTime: "2025-12-10",
       },
     ],
