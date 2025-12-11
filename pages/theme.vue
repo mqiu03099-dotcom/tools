@@ -13,12 +13,17 @@
       </figure>
       <div class="card-body">
         <h2
-          class="card-title"
+          class="card-title capitalize"
           :style="{ color: fontColor }"
         >
           {{ name }}
         </h2>
-        <p :style="{ color: fontColor }">{{ description }}</p>
+        <p
+          :style="{ color: fontColor }"
+          class="capitalize"
+        >
+          {{ description }}
+        </p>
         <div class="card-actions justify-end">
           <button
             class="btn btn-primary btn-sm"

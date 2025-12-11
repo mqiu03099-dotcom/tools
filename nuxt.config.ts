@@ -87,7 +87,6 @@ export default defineNuxtConfig({
       htmlAttrs: {
         lang: "en",
         translate: "no",
-        "data-theme": "dark",
       },
       title: process.env.NUXT_PUBLIC_TITLE,
       link: [
@@ -112,7 +111,7 @@ export default defineNuxtConfig({
         {
           innerHTML: `
             (function () {
-              const theme = localStorage.getItem("theme") || "dark";
+              const theme = localStorage.getItem("theme") || "cupcake";
               document.documentElement.setAttribute("data-theme", theme);
             })();`,
           type: "text/javascript",
