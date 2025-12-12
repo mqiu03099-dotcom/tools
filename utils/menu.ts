@@ -44,7 +44,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.doubao.com",
         bgImg: "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png",
-        tags: ["Doubao", "Ai", "Productivity", "Assistant", "Tool"],
+        tags: ["doubao", "ai", "productivity", "assistant", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -69,7 +69,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://github.com/features/copilot",
         bgImg: "",
-        tags: ["Github", "Copilot", "Code", "Autocomplete", "Tool"],
+        tags: ["github", "copilot", "code", "autocomplete", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -94,7 +94,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://openai.com/chatgpt",
         bgImg: "",
-        tags: ["Chatgpt", "Openai", "Writing", "Coding", "Tool"],
+        tags: ["chatgpt", "openai", "writing", "coding", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -119,7 +119,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.deepseek.com",
         bgImg: "",
-        tags: ["Deepseek", "Open", "Source", "Reasoning", "Tool"],
+        tags: ["deepseek", "open", "source", "reasoning", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -144,7 +144,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://yiyan.baidu.com",
         bgImg: "",
-        tags: ["Baidu", "Wenxin", "Chinese", "Ai", "Tool"],
+        tags: ["baidu", "wenxin", "chinese", "ai", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -169,7 +169,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ernie-bot.chat",
         bgImg: "",
-        tags: ["Baidu", "Ernie", "Enterprise", "Assistant", "Tool"],
+        tags: ["baidu", "ernie", "enterprise", "assistant", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -194,7 +194,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.anthropic.com/index/claude",
         bgImg: "",
-        tags: ["Claude", "Anthropic", "Safe", "Ai", "Tool"],
+        tags: ["claude", "anthropic", "safe", "ai", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -219,7 +219,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://gemini.google.com",
         bgImg: "",
-        tags: ["Google", "Gemini", "Multimodal", "Ai", "Tool"],
+        tags: ["google", "gemini", "multimodal", "ai", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -245,7 +245,7 @@ export const menu: Menu[] = [
         iframeUrl: "https://openai.com/dall-e-3",
         bgImg:
           "https://images.ctfassets.net/kftzwdyauwt9/5JZsznv2kZBJhcntpSLEL9/fbe72de7edaceb8a44176170312ccf2a/picnic-cherry-tree.jpeg?w=1920&q=90&fm=webp",
-        tags: ["Dalle3", "Openai", "Image", "Generator", "Tool"],
+        tags: ["dalle3", "openai", "image", "generator", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -270,7 +270,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.midjourney.com",
         bgImg: "",
-        tags: ["Midjourney", "Ai", "Art", "Generator", "Tool"],
+        tags: ["midjourney", "ai", "art", "generator", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -295,7 +295,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.zhihu.com/chart-ai",
         bgImg: "",
-        tags: ["Zhihu", "Chart", "Data", "Assistant", "Tool"],
+        tags: ["zhihu", "chart", "data", "assistant", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -320,7 +320,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.iflytek.com/",
         bgImg: "",
-        tags: ["Iflytek", "Speech", "Nlp", "Platform", "Tool"],
+        tags: ["iflytek", "speech", "nlp", "platform", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -345,7 +345,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tongyi.aliyun.com/",
         bgImg: "",
-        tags: ["Tongyi", "Qianwen", "Enterprise", "Ai", "Tool"],
+        tags: ["tongyi", "qianwen", "enterprise", "ai", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -370,7 +370,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.adobe.com/uk/products/firefly.html",
         bgImg: "",
-        tags: ["Adobe", "Firefly", "Creative", "Suite", "Tool"],
+        tags: ["adobe", "firefly", "creative", "suite", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -395,7 +395,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.bing.com/new",
         bgImg: "",
-        tags: ["Bing", "Ai", "Search", "Copilot", "Tool"],
+        tags: ["bing", "ai", "search", "copilot", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -420,7 +420,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://cohere.com",
         bgImg: "",
-        tags: ["Cohere", "Enterprise", "Nlp", "Platform", "Tool"],
+        tags: ["cohere", "enterprise", "nlp", "platform", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -445,7 +445,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.perplexity.ai",
         bgImg: "",
-        tags: ["Perplexity", "Ai", "Search", "Assistant", "Tool"],
+        tags: ["perplexity", "ai", "search", "assistant", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -470,7 +470,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.notion.so/product/ai",
         bgImg: "",
-        tags: ["Notion", "Ai", "Workspace", "Automation", "Tool"],
+        tags: ["notion", "ai", "workspace", "automation", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -495,7 +495,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://stability.ai/stable-diffusion",
         bgImg: "",
-        tags: ["Stable", "Diffusion", "Image", "Model", "Tool"],
+        tags: ["stable", "diffusion", "image", "model", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -520,7 +520,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ai.meta.com/llama/",
         bgImg: "",
-        tags: ["Meta", "Llama", "Language", "Model", "Tool"],
+        tags: ["meta", "llama", "language", "model", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -545,7 +545,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://cursor.com/cn",
         bgImg: "",
-        tags: ["Cursor", "Ide", "Ai", "Editor", "Tool"],
+        tags: ["cursor", "ide", "ai", "editor", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -570,7 +570,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://aws.amazon.com/q/developer/",
         bgImg: "",
-        tags: ["Amazon", "Q", "Developer", "Copilot", "Tool"],
+        tags: ["amazon", "q", "developer", "copilot", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -595,7 +595,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://sourcegraph.com/cody",
         bgImg: "",
-        tags: ["Sourcegraph", "Cody", "Code", "Assistant", "Tool"],
+        tags: ["sourcegraph", "cody", "code", "assistant", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -620,7 +620,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://codeium.com/",
         bgImg: "",
-        tags: ["Codeium", "Free", "Coding", "Toolkit", "Tool"],
+        tags: ["codeium", "free", "coding", "toolkit", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -645,7 +645,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://about.gitlab.com/gitlab-duo/",
         bgImg: "",
-        tags: ["Gitlab", "Duo", "Pair", "Programmer", "Tool"],
+        tags: ["gitlab", "duo", "pair", "programmer", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -670,7 +670,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://replit.com/site/ghostwriter",
         bgImg: "",
-        tags: ["Replit", "Ghostwriter", "Ai", "Teammate", "Tool"],
+        tags: ["replit", "ghostwriter", "ai", "teammate", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -695,7 +695,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://cloud.google.com/gemini/docs/code-assist",
         bgImg: "",
-        tags: ["Gemini", "Code", "Assist", "Copilot", "Tool"],
+        tags: ["gemini", "code", "assist", "copilot", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -720,7 +720,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.tabnine.com/",
         bgImg: "",
-        tags: ["Tabnine", "Secure", "Code", "Completion", "Tool"],
+        tags: ["tabnine", "secure", "code", "completion", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -731,7 +731,7 @@ export const menu: Menu[] = [
         seoKeywords: ["grok", "chatbot", "ai", "tool", "platform"],
         iframeUrl: "https://x.ai/",
         bgImg: "",
-        tags: ["Grok", "Ai", "Chatbot", "Tool", "Platform"],
+        tags: ["grok", "ai", "chatbot", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -756,7 +756,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://mistral.ai/",
         bgImg: "",
-        tags: ["Mistral", "Large", "Language", "Model", "Tool"],
+        tags: ["mistral", "large", "language", "model", "tool"],
         updateTime: "2025-12-03",
       },
       {
@@ -781,7 +781,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://suno.com/",
         bgImg: "",
-        tags: ["Suno", "Ai", "Music", "Generator", "Tool"],
+        tags: ["suno", "ai", "music", "generator", "tool"],
         updateTime: "2025-12-03",
       },
       {
@@ -806,7 +806,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.blackbox.ai/",
         bgImg: "",
-        tags: ["Blackbox", "Ai", "Code", "Assistant", "Tool"],
+        tags: ["blackbox", "ai", "code", "assistant", "tool"],
         updateTime: "2025-12-03",
       },
       {
@@ -831,7 +831,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.phind.com/",
         bgImg: "",
-        tags: ["Phind", "Ai", "Coding", "Search", "Tool"],
+        tags: ["phind", "ai", "coding", "search", "tool"],
         updateTime: "2025-12-03",
       },
     ],
@@ -881,7 +881,7 @@ export const menu: Menu[] = [
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/excel",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440623-Hero-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=770&qlt=100&fmt=png-alpha&fit=constrain",
-        tags: ["Microsoft", "Excel", "Data", "Analysis", "Tool"],
+        tags: ["microsoft", "excel", "data", "analysis", "tool"],
         updateTime: "2025-10-30",
       },
       {
@@ -907,7 +907,7 @@ export const menu: Menu[] = [
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/word",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440250_M365-hero-1680x628-opiton1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=725&qlt=100&fmt=png-alpha&fit=constrain",
-        tags: ["Microsoft", "Word", "Document", "Editor", "Tool"],
+        tags: ["microsoft", "word", "document", "editor", "tool"],
         updateTime: "2025-10-28",
       },
       {
@@ -933,7 +933,7 @@ export const menu: Menu[] = [
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/powerpoint",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440700-M365-Hero-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=750&qlt=100&fmt=png-alpha&fit=constrain",
-        tags: ["Microsoft", "Powerpoint", "Presentation", "Tool", "Platform"],
+        tags: ["microsoft", "powerpoint", "presentation", "tool", "platform"],
         updateTime: "2025-10-25",
       },
       {
@@ -960,7 +960,7 @@ export const menu: Menu[] = [
           "https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/M365_FY26_Evergreen_ProductPage_Outlook_Header_Pedestal_Desktop_1600x632?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=770&qlt=100&fit=constrain",
-        tags: ["Microsoft", "Outlook", "Email", "Calendar", "Tool"],
+        tags: ["microsoft", "outlook", "email", "calendar", "tool"],
         updateTime: "2025-10-22",
       },
       {
@@ -986,7 +986,7 @@ export const menu: Menu[] = [
         iframeUrl: "https://www.microsoft.com/zh-cn/microsoft-365/onenote/digital-note-taking-app",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/h1rz79f6-1-hero-photo-568x520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1360&hei=765&qlt=100&fit=constrain",
-        tags: ["Microsoft", "Onenote", "Digital", "Notes", "Tool"],
+        tags: ["microsoft", "onenote", "digital", "notes", "tool"],
         updateTime: "2025-10-18",
       },
       {
@@ -1013,7 +1013,7 @@ export const menu: Menu[] = [
           "https://www.microsoft.com/zh-cn/microsoft-365/project/project-management-software",
         bgImg:
           "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-microsoft-planner-hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=4000&hei=1975&qlt=85&fmt=png-alpha&fit=constrain",
-        tags: ["Microsoft", "Project", "Enterprise", "Planning", "Tool"],
+        tags: ["microsoft", "project", "enterprise", "planning", "tool"],
         updateTime: "2025-10-05",
       },
     ],
@@ -1048,7 +1048,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/K-Pop:_Demon_Hunters",
         bgImg: "",
-        tags: ["Kpop", "Demon", "Hunters", "Disney", "Wiki"],
+        tags: ["kpop", "demon", "hunters", "disney", "wiki"],
         updateTime: "2025-12-08",
       },
       {
@@ -1073,7 +1073,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://variety.com/2021/film/news/k-pop-demon-hunters-1234985118/",
         bgImg: "",
-        tags: ["Kpop", "Variety", "Annecy", "Disney", "Film"],
+        tags: ["kpop", "variety", "annecy", "disney", "film"],
         updateTime: "2025-12-08",
       },
       {
@@ -1099,7 +1099,7 @@ export const menu: Menu[] = [
         iframeUrl:
           "https://www.animationmagazine.net/2021/06/disney-announces-k-pop-demon-hunters-and-steam-bentley/",
         bgImg: "",
-        tags: ["Kpop", "Animation", "Disney", "Announcement", "Film"],
+        tags: ["kpop", "animation", "disney", "announcement", "film"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1144,7 +1144,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.fcc.gov/commercial-radio-operator-license-program",
         bgImg: "",
-        tags: ["Grol", "Fcc", "License", "Element", "Guide"],
+        tags: ["grol", "fcc", "license", "element", "guide"],
         updateTime: "2025-12-08",
       },
       {
@@ -1169,7 +1169,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.qrz.com/hamtest/grol",
         bgImg: "",
-        tags: ["Grol", "Practice", "Exam", "Qrz", "Radio"],
+        tags: ["grol", "practice", "exam", "qrz", "radio"],
         updateTime: "2025-12-08",
       },
       {
@@ -1194,7 +1194,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.coastguardexams.com/grol-license.html",
         bgImg: "",
-        tags: ["Grol", "Study", "Guide", "Maritime", "License"],
+        tags: ["grol", "study", "guide", "maritime", "license"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1230,7 +1230,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.tomsguide.com/news/nintendo-switch-2",
         bgImg: "",
-        tags: ["Nintendo", "Switch2", "Rumors", "Tomsguide", "Console"],
+        tags: ["nintendo", "switch2", "rumors", "tomsguide", "console"],
         updateTime: "2025-12-08",
       },
       {
@@ -1255,7 +1255,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.videogameschronicle.com/features/nintendo-switch-2/",
         bgImg: "",
-        tags: ["Nintendo", "Switch2", "Vgc", "Hardware", "Leaks"],
+        tags: ["nintendo", "switch2", "vgc", "hardware", "leaks"],
         updateTime: "2025-12-08",
       },
       {
@@ -1280,7 +1280,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gamesradar.com/nintendo-switch-2/",
         bgImg: "",
-        tags: ["Nintendo", "Switch2", "Gamesradar", "Specs", "News"],
+        tags: ["nintendo", "switch2", "gamesradar", "specs", "news"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1325,7 +1325,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://wickedthemusical.com/",
         bgImg: "",
-        tags: ["Wicked", "For-good", "Musical", "Broadway", "Official"],
+        tags: ["wicked", "for-good", "musical", "broadway", "official"],
         updateTime: "2025-12-08",
       },
       {
@@ -1350,7 +1350,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/For_Good",
         bgImg: "",
-        tags: ["Wicked", "For-good", "Wiki", "Lyrics", "History"],
+        tags: ["wicked", "for-good", "wiki", "lyrics", "history"],
         updateTime: "2025-12-08",
       },
       {
@@ -1375,7 +1375,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://genius.com/Idina-menzel-and-kristin-chenoweth-for-good-lyrics",
         bgImg: "",
-        tags: ["Wicked", "For-good", "Lyrics", "Genius", "Music"],
+        tags: ["wicked", "for-good", "lyrics", "genius", "music"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1418,7 +1418,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/Welcome_to_Derry",
         bgImg: "",
-        tags: ["Welcome", "Derry", "Wiki", "It", "Series"],
+        tags: ["welcome", "derry", "wiki", "it", "series"],
         updateTime: "2025-12-08",
       },
       {
@@ -1444,7 +1444,7 @@ export const menu: Menu[] = [
         iframeUrl:
           "https://www.hollywoodreporter.com/tv/tv-news/it-prequel-welcome-to-derry-1235436560/",
         bgImg: "",
-        tags: ["Welcome", "Derry", "Thr", "Hbo", "News"],
+        tags: ["welcome", "derry", "thr", "hbo", "news"],
         updateTime: "2025-12-08",
       },
       {
@@ -1469,7 +1469,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://stephenking.fandom.com/wiki/Welcome_to_Derry",
         bgImg: "",
-        tags: ["Welcome", "Derry", "Fandom", "Stephen-king", "Lore"],
+        tags: ["welcome", "derry", "fandom", "stephen-king", "lore"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1505,7 +1505,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/Zootopia_2",
         bgImg: "",
-        tags: ["Zootopia2", "Wiki", "Disney", "Film", "Sequel"],
+        tags: ["zootopia2", "wiki", "disney", "film", "sequel"],
         updateTime: "2025-12-08",
       },
       {
@@ -1530,7 +1530,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://whatsondisneyplus.com/tag/zootopia-2/",
         bgImg: "",
-        tags: ["Zootopia2", "Disneyplus", "News", "Streaming", "Animation"],
+        tags: ["zootopia2", "disneyplus", "news", "streaming", "animation"],
         updateTime: "2025-12-08",
       },
       {
@@ -1555,7 +1555,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://screenrant.com/tag/zootopia-2/",
         bgImg: "",
-        tags: ["Zootopia2", "Screenrant", "Rumors", "Movie", "News"],
+        tags: ["zootopia2", "screenrant", "rumors", "movie", "news"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1600,7 +1600,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/Stranger_Things_(season_5)",
         bgImg: "",
-        tags: ["Stranger-things", "Season5", "Wiki", "Netflix", "Tv"],
+        tags: ["stranger-things", "season5", "wiki", "netflix", "tv"],
         updateTime: "2025-12-08",
       },
       {
@@ -1625,7 +1625,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.netflix.com/tudum/articles/stranger-things-season-5-guide",
         bgImg: "",
-        tags: ["Stranger-things", "Season5", "Netflix", "Tudum", "Insights"],
+        tags: ["stranger-things", "season5", "netflix", "tudum", "insights"],
         updateTime: "2025-12-08",
       },
       {
@@ -1650,7 +1650,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gamesradar.com/stranger-things-season-5/",
         bgImg: "",
-        tags: ["Stranger-things", "Season5", "Gamesradar", "News", "Tv"],
+        tags: ["stranger-things", "season5", "gamesradar", "news", "tv"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1686,7 +1686,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://en.wikipedia.org/wiki/Lane_Kiffin",
         bgImg: "",
-        tags: ["Lane-kiffin", "Wiki", "Coach", "College", "Football"],
+        tags: ["lane-kiffin", "wiki", "coach", "college", "football"],
         updateTime: "2025-12-08",
       },
       {
@@ -1711,7 +1711,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://olemisssports.com/staff-directory/lane-kiffin/3386",
         bgImg: "",
-        tags: ["Lane-kiffin", "Ole-miss", "Staff", "Sec", "Profile"],
+        tags: ["lane-kiffin", "ole-miss", "staff", "sec", "profile"],
         updateTime: "2025-12-08",
       },
       {
@@ -1736,7 +1736,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.sports-reference.com/cfb/coaches/lane-kiffin-1.html",
         bgImg: "",
-        tags: ["Lane-kiffin", "Stats", "Cfb", "Records", "History"],
+        tags: ["lane-kiffin", "stats", "cfb", "records", "history"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1771,7 +1771,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.accuweather.com/es",
         bgImg: "",
-        tags: ["Tiempo", "Manana", "Accuweather", "Pronostico", "Clima"],
+        tags: ["tiempo", "manana", "accuweather", "pronostico", "clima"],
         updateTime: "2025-12-08",
       },
       {
@@ -1782,7 +1782,7 @@ export const menu: Menu[] = [
         seoKeywords: ["eltiempo", "tiempo", "pronostico", "espana", "manana", "clima"],
         iframeUrl: "https://www.eltiempo.es/",
         bgImg: "",
-        tags: ["Tiempo", "Pronostico", "Espana", "Manana", "Clima"],
+        tags: ["tiempo", "pronostico", "espana", "manana", "clima"],
         updateTime: "2025-12-08",
       },
       {
@@ -1793,7 +1793,7 @@ export const menu: Menu[] = [
         seoKeywords: ["meteored", "global", "tiempo", "manana", "clima", "alertas"],
         iframeUrl: "https://www.meteored.com/",
         bgImg: "",
-        tags: ["Tiempo", "Meteored", "Manana", "Clima", "Alertas"],
+        tags: ["tiempo", "meteored", "manana", "clima", "alertas"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1828,7 +1828,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tv.apple.com/",
         bgImg: "",
-        tags: ["Tvapp", "Apple", "Streaming", "Tv", "App"],
+        tags: ["tvapp", "apple", "streaming", "tv", "app"],
         updateTime: "2025-12-08",
       },
       {
@@ -1853,7 +1853,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tv.youtube.com/welcome/",
         bgImg: "",
-        tags: ["Tvapp", "Youtube", "Live-tv", "Cloud-dvr", "Streaming"],
+        tags: ["tvapp", "youtube", "live-tv", "cloud-dvr", "streaming"],
         updateTime: "2025-12-08",
       },
       {
@@ -1878,7 +1878,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.plex.tv/watch-free-tv/",
         bgImg: "",
-        tags: ["Tvapp", "Plex", "Fast", "Streaming", "Live-tv"],
+        tags: ["tvapp", "plex", "fast", "streaming", "live-tv"],
         updateTime: "2025-12-08",
       },
     ],
@@ -1922,7 +1922,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://gptzero.me/",
         bgImg: "",
-        tags: ["Ai-detector", "Gptzero", "Plagiarism", "Education", "Tool"],
+        tags: ["ai-detector", "gptzero", "plagiarism", "education", "tool"],
         updateTime: "2025-12-08",
       },
       {
@@ -1947,7 +1947,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.zerogpt.com/",
         bgImg: "",
-        tags: ["Ai-checker", "Zerogpt", "Content", "Compliance", "Tool"],
+        tags: ["ai-checker", "zerogpt", "content", "compliance", "tool"],
         updateTime: "2025-12-08",
       },
       {
@@ -1972,7 +1972,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://contentatscale.ai/ai-content-detector/",
         bgImg: "",
-        tags: ["Ai-detector", "Content", "Scale", "Rewrites", "Tool"],
+        tags: ["ai-detector", "content", "scale", "rewrites", "tool"],
         updateTime: "2025-12-08",
       },
     ],
@@ -2018,7 +2018,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.statmuse.com/nfl/ask?q=eagles+vs+cowboys+record",
         bgImg: "",
-        tags: ["Eagles", "Cowboys", "Statmuse", "Record", "Rivalry"],
+        tags: ["eagles", "cowboys", "statmuse", "record", "rivalry"],
         updateTime: "2025-12-08",
       },
       {
@@ -2044,7 +2044,7 @@ export const menu: Menu[] = [
         iframeUrl:
           "https://www.pro-football-reference.com/boxscores/game_query.cgi?tm1=dal&tm2=phi&yr=all",
         bgImg: "",
-        tags: ["Eagles", "Cowboys", "Pfr", "History", "Stats"],
+        tags: ["eagles", "cowboys", "pfr", "history", "stats"],
         updateTime: "2025-12-08",
       },
       {
@@ -2055,7 +2055,7 @@ export const menu: Menu[] = [
         seoKeywords: ["nfl highlights", "nfl", "eagles", "cowboys", "highlights", "video"],
         iframeUrl: "https://www.nfl.com/videos/eagles-vs-cowboys-highlights",
         bgImg: "",
-        tags: ["Eagles", "Cowboys", "Nfl", "Highlights", "Video"],
+        tags: ["eagles", "cowboys", "nfl", "highlights", "video"],
         updateTime: "2025-12-08",
       },
     ],
@@ -2090,7 +2090,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://workspace.google.com/products/docs/",
         bgImg: "",
-        tags: ["Google-docs", "Workspace", "Product", "Collaboration", "Suite"],
+        tags: ["google-docs", "workspace", "product", "collaboration", "suite"],
         updateTime: "2025-12-08",
       },
       {
@@ -2115,7 +2115,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://support.google.com/docs/",
         bgImg: "",
-        tags: ["Google-docs", "Support", "Help", "Guides", "Faq"],
+        tags: ["google-docs", "support", "help", "guides", "faq"],
         updateTime: "2025-12-08",
       },
       {
@@ -2135,7 +2135,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://developers.google.com/docs/api",
         bgImg: "",
-        tags: ["Google-docs", "Api", "Developers", "Automation", "Cloud"],
+        tags: ["google-docs", "api", "developers", "automation", "cloud"],
         updateTime: "2025-12-08",
       },
     ],
@@ -2181,7 +2181,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://fightingirish.com/sports/football/",
         bgImg: "",
-        tags: ["Notre-dame", "Football", "Official", "Schedule", "News"],
+        tags: ["notre-dame", "football", "official", "schedule", "news"],
         updateTime: "2025-12-08",
       },
       {
@@ -2206,7 +2206,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish",
         bgImg: "",
-        tags: ["Notre-dame", "Espn", "Stats", "Schedule", "Cfb"],
+        tags: ["notre-dame", "espn", "stats", "schedule", "cfb"],
         updateTime: "2025-12-08",
       },
       {
@@ -2231,7 +2231,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://247sports.com/college/notre-dame/",
         bgImg: "",
-        tags: ["Notre-dame", "247sports", "Recruiting", "Analysis", "Cfb"],
+        tags: ["notre-dame", "247sports", "recruiting", "analysis", "cfb"],
         updateTime: "2025-12-08",
       },
     ],
@@ -2277,7 +2277,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ohiostatebuckeyes.com/sports/m-footbl/",
         bgImg: "",
-        tags: ["Ohio-state", "Football", "Official", "Schedule", "News"],
+        tags: ["ohio-state", "football", "official", "schedule", "news"],
         updateTime: "2025-12-08",
       },
       {
@@ -2302,7 +2302,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
         bgImg: "",
-        tags: ["Ohio-state", "Espn", "Stats", "Schedule", "Cfb"],
+        tags: ["ohio-state", "espn", "stats", "schedule", "cfb"],
         updateTime: "2025-12-08",
       },
       {
@@ -2327,7 +2327,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.elevenwarriors.com/",
         bgImg: "",
-        tags: ["Ohio-state", "Blog", "Analysis", "Recruiting", "Fans"],
+        tags: ["ohio-state", "blog", "analysis", "recruiting", "fans"],
         updateTime: "2025-12-08",
       },
     ],
@@ -2361,7 +2361,7 @@ export const menu: Menu[] = [
         seoKeywords: ["vue", "progressive", "framework", "js", "tool"],
         iframeUrl: "https://vuejs.org/",
         bgImg: "",
-        tags: ["Vue", "Progressive", "Js", "Framework", "Tool"],
+        tags: ["vue", "progressive", "js", "framework", "tool"],
         updateTime: "2025-09-15",
       },
       {
@@ -2386,7 +2386,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://react.dev/",
         bgImg: "",
-        tags: ["React", "Ui", "Component", "Library", "Tool"],
+        tags: ["react", "ui", "component", "library", "tool"],
         updateTime: "2025-09-12",
       },
       {
@@ -2411,7 +2411,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://angular.io/",
         bgImg: "",
-        tags: ["Angular", "Typescript", "Web", "Framework", "Tool"],
+        tags: ["angular", "typescript", "web", "framework", "tool"],
         updateTime: "2025-09-10",
       },
       {
@@ -2436,7 +2436,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://svelte.dev/",
         bgImg: "",
-        tags: ["Svelte", "Compiler", "First", "Framework", "Tool"],
+        tags: ["svelte", "compiler", "first", "framework", "tool"],
         updateTime: "2025-09-08",
       },
       {
@@ -2447,7 +2447,7 @@ export const menu: Menu[] = [
         seoKeywords: ["nextjs", "production", "react", "framework", "tool", "next"],
         iframeUrl: "https://nextjs.org/",
         bgImg: "",
-        tags: ["Nextjs", "Production", "React", "Framework", "Tool"],
+        tags: ["nextjs", "production", "react", "framework", "tool"],
         updateTime: "2025-09-05",
       },
     ],
@@ -2495,7 +2495,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://start.spring.io/",
         bgImg: "",
-        tags: ["Spring", "Initializr", "Boot", "Generator", "Tool"],
+        tags: ["spring", "initializr", "boot", "generator", "tool"],
         updateTime: "2025-11-30",
       },
       {
@@ -2520,7 +2520,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://laravel.com/",
         bgImg: "",
-        tags: ["Laravel", "Elegant", "Php", "Framework", "Tool"],
+        tags: ["laravel", "elegant", "php", "framework", "tool"],
         updateTime: "2025-11-27",
       },
       {
@@ -2545,7 +2545,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://fastapi.tiangolo.com/",
         bgImg: "",
-        tags: ["Fastapi", "Python", "Api", "Framework", "Tool"],
+        tags: ["fastapi", "python", "api", "framework", "tool"],
         updateTime: "2025-11-26",
       },
       {
@@ -2556,7 +2556,7 @@ export const menu: Menu[] = [
         seoKeywords: ["nestjs", "typescript", "backend", "framework", "tool", "first", "node"],
         iframeUrl: "https://nestjs.com/",
         bgImg: "",
-        tags: ["Nestjs", "Typescript", "Backend", "Framework", "Tool"],
+        tags: ["nestjs", "typescript", "backend", "framework", "tool"],
         updateTime: "2025-11-25",
       },
       {
@@ -2567,7 +2567,7 @@ export const menu: Menu[] = [
         seoKeywords: ["expressjs", "node", "api", "framework", "tool", "express"],
         iframeUrl: "https://expressjs.com/",
         bgImg: "",
-        tags: ["Expressjs", "Node", "Api", "Framework", "Tool"],
+        tags: ["expressjs", "node", "api", "framework", "tool"],
         updateTime: "2025-11-24",
       },
     ],
@@ -2615,7 +2615,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.zeekr.com/",
         bgImg: "",
-        tags: ["Zeekr", "Premium", "Electric", "Vehicles", "Tool"],
+        tags: ["zeekr", "premium", "electric", "vehicles", "tool"],
         updateTime: "2025-11-24",
       },
       {
@@ -2640,7 +2640,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.hozonauto.com/",
         bgImg: "",
-        tags: ["Neta", "Auto", "New", "Energy", "Vehicles"],
+        tags: ["neta", "auto", "new", "energy", "vehicles"],
         updateTime: "2025-11-23",
       },
       {
@@ -2665,7 +2665,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.voyah.com/",
         bgImg: "",
-        tags: ["Voyah", "Luxury", "Electric", "Brand", "Tool"],
+        tags: ["voyah", "luxury", "electric", "brand", "tool"],
         updateTime: "2025-11-22",
       },
       {
@@ -2690,7 +2690,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gwm.com.cn/",
         bgImg: "",
-        tags: ["Gwm", "Electric", "Vehicle", "Lineup", "Tool"],
+        tags: ["gwm", "electric", "vehicle", "lineup", "tool"],
         updateTime: "2025-11-21",
       },
       {
@@ -2715,7 +2715,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.seres.cn/",
         bgImg: "",
-        tags: ["Seres", "Auto", "Huawei", "Evs", "Tool"],
+        tags: ["seres", "auto", "huawei", "evs", "tool"],
         updateTime: "2025-11-20",
       },
     ],
@@ -2763,7 +2763,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://companiesmarketcap.com/walmart/marketcap/",
         bgImg: "",
-        tags: ["Walmart", "Global", "Retail", "Leader", "Tool"],
+        tags: ["walmart", "global", "retail", "leader", "tool"],
         updateTime: "2025-11-19",
       },
       {
@@ -2788,7 +2788,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://companiesmarketcap.com/saudi-aramco/marketcap/",
         bgImg: "",
-        tags: ["Saudi", "Aramco", "Energy", "Giant", "Tool"],
+        tags: ["saudi", "aramco", "energy", "giant", "tool"],
         updateTime: "2025-11-18",
       },
       {
@@ -2813,7 +2813,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://companiesmarketcap.com/amazon/marketcap/",
         bgImg: "",
-        tags: ["Amazon", "Ecommerce", "Cloud", "Powerhouse", "Tool"],
+        tags: ["amazon", "ecommerce", "cloud", "powerhouse", "tool"],
         updateTime: "2025-11-16",
       },
       {
@@ -2838,7 +2838,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://companiesmarketcap.com/apple/marketcap/",
         bgImg: "",
-        tags: ["Apple", "Consumer", "Electronics", "Leader", "Tool"],
+        tags: ["apple", "consumer", "electronics", "leader", "tool"],
         updateTime: "2025-11-15",
       },
       {
@@ -2863,7 +2863,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://companiesmarketcap.com/exxon-mobil/marketcap/",
         bgImg: "",
-        tags: ["Exxonmobil", "Integrated", "Energy", "Major", "Tool"],
+        tags: ["exxonmobil", "integrated", "energy", "major", "tool"],
         updateTime: "2025-11-14",
       },
     ],
@@ -2912,7 +2912,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.aconvert.com/",
         bgImg: "",
-        tags: ["Aconvert", "Multi", "Format", "Converter", "Tool"],
+        tags: ["aconvert", "multi", "format", "converter", "tool"],
         updateTime: "2025-11-14",
       },
       {
@@ -2937,7 +2937,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.freefileconvert.com/",
         bgImg: "",
-        tags: ["Freefileconvert", "Online", "Converter", "Tool", "Platform"],
+        tags: ["freefileconvert", "online", "converter", "tool", "platform"],
         updateTime: "2025-11-13",
       },
       {
@@ -2962,7 +2962,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.files-conversion.com/",
         bgImg: "",
-        tags: ["Filesconversion", "Simple", "Format", "Tool", "Platform"],
+        tags: ["filesconversion", "simple", "format", "tool", "platform"],
         updateTime: "2025-11-12",
       },
       {
@@ -2987,7 +2987,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.docspal.com/",
         bgImg: "",
-        tags: ["Docspal", "Legacy", "Modern", "Converter", "Tool"],
+        tags: ["docspal", "legacy", "modern", "converter", "tool"],
         updateTime: "2025-11-11",
       },
       {
@@ -3012,7 +3012,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.online-utility.org/file/converter.jsp",
         bgImg: "",
-        tags: ["Online", "Utility", "File", "Toolkit", "Tool"],
+        tags: ["online", "utility", "file", "toolkit", "tool"],
         updateTime: "2025-11-10",
       },
     ],
@@ -3061,7 +3061,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.iloveimg.com/",
         bgImg: "",
-        tags: ["Iloveimg", "Bulk", "Image", "Editor", "Tool"],
+        tags: ["iloveimg", "bulk", "image", "editor", "tool"],
         updateTime: "2025-11-09",
       },
       {
@@ -3086,7 +3086,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://imagetopdf.com/",
         bgImg: "",
-        tags: ["Imagetopdf", "Image", "Pdf", "Converter", "Tool"],
+        tags: ["imagetopdf", "image", "pdf", "converter", "tool"],
         updateTime: "2025-11-08",
       },
       {
@@ -3111,7 +3111,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.photopea.com/",
         bgImg: "",
-        tags: ["Photopea", "Browser", "Image", "Editor", "Tool"],
+        tags: ["photopea", "browser", "image", "editor", "tool"],
         updateTime: "2025-11-07",
       },
       {
@@ -3136,7 +3136,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://convert.town/png-to-jpg",
         bgImg: "",
-        tags: ["Convert", "Town", "Png", "Jpg", "Tool"],
+        tags: ["convert", "town", "png", "jpg", "tool"],
         updateTime: "2025-11-06",
       },
       {
@@ -3161,7 +3161,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.onlineimagetool.com/",
         bgImg: "",
-        tags: ["Online", "Image", "Tool", "Converter", "Platform"],
+        tags: ["online", "image", "tool", "converter", "platform"],
         updateTime: "2025-11-05",
       },
     ],
@@ -3209,7 +3209,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.sinopecgroup.com/",
         bgImg: "",
-        tags: ["Sinopec", "Group", "Energy", "Giant", "Tool"],
+        tags: ["sinopec", "group", "energy", "giant", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3234,7 +3234,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.sgcc.com.cn/",
         bgImg: "",
-        tags: ["State", "Grid", "Power", "Backbone", "Tool"],
+        tags: ["state", "grid", "power", "backbone", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3259,7 +3259,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.petrochina.com.cn/",
         bgImg: "",
-        tags: ["Petrochina", "Upstream", "Downstream", "Tool", "Platform"],
+        tags: ["petrochina", "upstream", "downstream", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3284,7 +3284,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cscec.com/",
         bgImg: "",
-        tags: ["Cscec", "Global", "Engineering", "Tool", "Platform"],
+        tags: ["cscec", "global", "engineering", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3309,7 +3309,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.icbc.com.cn/",
         bgImg: "",
-        tags: ["Icbc", "Leading", "Commercial", "Bank", "Tool"],
+        tags: ["icbc", "leading", "commercial", "bank", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3334,7 +3334,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.ccb.com/",
         bgImg: "",
-        tags: ["Ccb", "Housing", "Finance", "Leader", "Tool"],
+        tags: ["ccb", "housing", "finance", "leader", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3359,7 +3359,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.abchina.com/",
         bgImg: "",
-        tags: ["Abc", "Rural", "Finance", "Anchor", "Tool"],
+        tags: ["abc", "rural", "finance", "anchor", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3384,7 +3384,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.boc.cn/",
         bgImg: "",
-        tags: ["Boc", "Global", "Clearing", "Bank", "Tool"],
+        tags: ["boc", "global", "clearing", "bank", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3409,7 +3409,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.pingan.cn/",
         bgImg: "",
-        tags: ["Pingan", "Finance", "Ecosystem", "Tool", "Platform"],
+        tags: ["pingan", "finance", "ecosystem", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3434,7 +3434,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.crecg.com/",
         bgImg: "",
-        tags: ["Crec", "Railway", "Contractor", "Tool", "Platform"],
+        tags: ["crec", "railway", "contractor", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3459,7 +3459,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.crcc.cn/",
         bgImg: "",
-        tags: ["Crcc", "Infrastructure", "Builder", "Tool", "Platform"],
+        tags: ["crcc", "infrastructure", "builder", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3484,7 +3484,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cnooc.com.cn/",
         bgImg: "",
-        tags: ["Cnooc", "Offshore", "Energy", "Tool", "Platform"],
+        tags: ["cnooc", "offshore", "energy", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3509,7 +3509,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.10086.cn/",
         bgImg: "",
-        tags: ["China", "Mobile", "Leader", "Tool", "Platform"],
+        tags: ["china", "mobile", "leader", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3534,7 +3534,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.saicmotor.com/",
         bgImg: "",
-        tags: ["Saicmotor", "Auto", "Innovation", "Tool", "Platform"],
+        tags: ["saicmotor", "auto", "innovation", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3559,7 +3559,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.baowugroup.com/",
         bgImg: "",
-        tags: ["Baowu", "Steel", "Green", "Transition", "Tool"],
+        tags: ["baowu", "steel", "green", "transition", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3583,7 +3583,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.chinalife.com.cn/",
         bgImg: "",
-        tags: ["China", "Life", "Insurance", "Network", "Tool"],
+        tags: ["china", "life", "insurance", "network", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3608,7 +3608,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.crc.com.hk/",
         bgImg: "",
-        tags: ["China", "Resources", "Diversified", "Tool", "Platform"],
+        tags: ["china", "resources", "diversified", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3619,7 +3619,7 @@ export const menu: Menu[] = [
         seoKeywords: ["jd", "supply", "chain", "technology", "tool"],
         iframeUrl: "https://corporate.jd.com/",
         bgImg: "",
-        tags: ["Jd", "Supply", "Chain", "Technology", "Tool"],
+        tags: ["jd", "supply", "chain", "technology", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3644,7 +3644,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cmbchina.com/",
         bgImg: "",
-        tags: ["Cmb", "Wealth", "Management", "Tool", "Platform"],
+        tags: ["cmb", "wealth", "management", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3669,7 +3669,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.chinatelecom.com.cn/",
         bgImg: "",
-        tags: ["China", "Telecom", "Cloud", "Network", "Tool"],
+        tags: ["china", "telecom", "cloud", "network", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3694,7 +3694,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.alibabagroup.com/",
         bgImg: "",
-        tags: ["Alibaba", "Digital", "Commerce", "Tool", "Platform"],
+        tags: ["alibaba", "digital", "commerce", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3719,7 +3719,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.minmetals.com.cn/",
         bgImg: "",
-        tags: ["China", "Minmetals", "Resource", "Tool", "Platform"],
+        tags: ["china", "minmetals", "resource", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3744,7 +3744,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.ccccltd.cn/",
         bgImg: "",
-        tags: ["Cccc", "Transport", "Infrastructure", "Tool", "Platform"],
+        tags: ["cccc", "transport", "infrastructure", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3769,7 +3769,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.citic.com/",
         bgImg: "",
-        tags: ["Citic", "Diversified", "Holding", "Tool", "Platform"],
+        tags: ["citic", "diversified", "holding", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3794,7 +3794,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.chinaunicom.com/",
         bgImg: "",
-        tags: ["China", "Unicom", "Digital", "Infra", "Tool"],
+        tags: ["china", "unicom", "digital", "infra", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3819,7 +3819,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.chinapost.com.cn/",
         bgImg: "",
-        tags: ["China", "Post", "Group", "Services", "Tool"],
+        tags: ["china", "post", "group", "services", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -3844,7 +3844,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cofco.com/",
         bgImg: "",
-        tags: ["Cofco", "Global", "Grain", "Tool", "Platform"],
+        tags: ["cofco", "global", "grain", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3869,7 +3869,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cegroup.com.cn/",
         bgImg: "",
-        tags: ["Everbright", "Financial", "Holding", "Tool", "Platform"],
+        tags: ["everbright", "financial", "holding", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3894,7 +3894,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.csg.cn/",
         bgImg: "",
-        tags: ["Csg", "Power", "Grid", "Tool", "Platform"],
+        tags: ["csg", "power", "grid", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3919,7 +3919,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cnbm.com.cn/",
         bgImg: "",
-        tags: ["Cnbm", "New", "Materials", "Tool", "Platform"],
+        tags: ["cnbm", "new", "materials", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3944,7 +3944,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.powerchina.cn/",
         bgImg: "",
-        tags: ["Powerchina", "Engineering", "Group", "Tool", "Platform"],
+        tags: ["powerchina", "engineering", "group", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3969,7 +3969,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.ceec.net.cn/",
         bgImg: "",
-        tags: ["Ceec", "Energy", "Engineering", "Tool", "Platform"],
+        tags: ["ceec", "energy", "engineering", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -3994,7 +3994,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cnnc.com.cn/",
         bgImg: "",
-        tags: ["Cnnc", "Nuclear", "Industry", "Tool", "Platform"],
+        tags: ["cnnc", "nuclear", "industry", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4019,7 +4019,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cgnpc.com.cn/",
         bgImg: "",
-        tags: ["Cgn", "Clean", "Energy", "Tool", "Platform"],
+        tags: ["cgn", "clean", "energy", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4044,7 +4044,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.avic.com/",
         bgImg: "",
-        tags: ["Avic", "Aviation", "Manufacturer", "Tool", "Platform"],
+        tags: ["avic", "aviation", "manufacturer", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4069,7 +4069,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.ceair.com/",
         bgImg: "",
-        tags: ["China", "Eastern", "Airlines", "Tool", "Platform"],
+        tags: ["china", "eastern", "airlines", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4094,7 +4094,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.csair.com/",
         bgImg: "",
-        tags: ["China", "Southern", "Airlines", "Tool", "Platform"],
+        tags: ["china", "southern", "airlines", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4119,7 +4119,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.airchina.com.cn/",
         bgImg: "",
-        tags: ["Air", "China", "Flag", "Carrier", "Tool"],
+        tags: ["air", "china", "flag", "carrier", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -4143,7 +4143,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cib.com.cn/",
         bgImg: "",
-        tags: ["Industrial", "Bank", "Green", "Finance", "Tool"],
+        tags: ["industrial", "bank", "green", "finance", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -4168,7 +4168,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.bankcomm.com/",
         bgImg: "",
-        tags: ["Bank", "Of", "Communications", "Tool", "Platform"],
+        tags: ["bank", "of", "communications", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4193,7 +4193,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.psbc.com/",
         bgImg: "",
-        tags: ["Psbc", "Inclusive", "Finance", "Tool", "Platform"],
+        tags: ["psbc", "inclusive", "finance", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4218,7 +4218,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.cpic.com.cn/",
         bgImg: "",
-        tags: ["Cpic", "Insurance", "Services", "Tool", "Platform"],
+        tags: ["cpic", "insurance", "services", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4243,7 +4243,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mi.com/",
         bgImg: "",
-        tags: ["Xiaomi", "Smart", "Ecosystem", "Tool", "Platform"],
+        tags: ["xiaomi", "smart", "ecosystem", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4268,7 +4268,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.byd.com/",
         bgImg: "",
-        tags: ["Byd", "New", "Energy", "Tool", "Platform"],
+        tags: ["byd", "new", "energy", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4293,7 +4293,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.tencent.com/",
         bgImg: "",
-        tags: ["Tencent", "Digital", "Ecosystem", "Tool", "Platform"],
+        tags: ["tencent", "digital", "ecosystem", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4318,7 +4318,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.midea.com/",
         bgImg: "",
-        tags: ["Midea", "Smart", "Manufacturing", "Tool", "Platform"],
+        tags: ["midea", "smart", "manufacturing", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4343,7 +4343,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gree.com/",
         bgImg: "",
-        tags: ["Gree", "Intelligent", "Equipment", "Tool", "Platform"],
+        tags: ["gree", "intelligent", "equipment", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4368,7 +4368,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.haier.com/",
         bgImg: "",
-        tags: ["Haier", "Smart", "Home", "Tool", "Platform"],
+        tags: ["haier", "smart", "home", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4393,7 +4393,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.shougang.com.cn/",
         bgImg: "",
-        tags: ["Shougang", "Urban", "Renewal", "Tool", "Platform"],
+        tags: ["shougang", "urban", "renewal", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4418,7 +4418,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.yili.com/",
         bgImg: "",
-        tags: ["Yili", "Dairy", "Leader", "Tool", "Platform"],
+        tags: ["yili", "dairy", "leader", "tool", "platform"],
         updateTime: "2025-12-05",
       },
     ],
@@ -4466,7 +4466,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tinypng.com/",
         bgImg: "",
-        tags: ["Tinypng", "Smart", "Image", "Compression", "Tool"],
+        tags: ["tinypng", "smart", "image", "compression", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -4491,7 +4491,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://compressjpeg.com/",
         bgImg: "",
-        tags: ["Compressjpeg", "Batch", "Photo", "Tool", "Platform"],
+        tags: ["compressjpeg", "batch", "photo", "tool", "platform"],
         updateTime: "2025-12-05",
       },
       {
@@ -4516,7 +4516,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://squoosh.app/",
         bgImg: "",
-        tags: ["Squoosh", "Google", "Image", "Optimizer", "Tool"],
+        tags: ["squoosh", "google", "image", "optimizer", "tool"],
         updateTime: "2025-12-05",
       },
       {
@@ -4527,7 +4527,7 @@ export const menu: Menu[] = [
         seoKeywords: ["kraken", "lossy", "image", "optimizer", "io"],
         iframeUrl: "https://kraken.io/web-interface",
         bgImg: "",
-        tags: ["Kraken", "Io", "Lossy", "Image", "Optimizer"],
+        tags: ["kraken", "io", "lossy", "image", "optimizer"],
         updateTime: "2025-12-05",
       },
       {
@@ -4552,7 +4552,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tinywow.com/tool/image-compressor",
         bgImg: "",
-        tags: ["Tinywow", "Image", "Compressor", "Tool", "Platform"],
+        tags: ["tinywow", "image", "compressor", "tool", "platform"],
         updateTime: "2025-12-05",
       },
     ],
@@ -4600,7 +4600,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.tubebuddy.com/",
         bgImg: "",
-        tags: ["Tubebuddy", "Youtube", "Seo", "Tool", "Platform"],
+        tags: ["tubebuddy", "youtube", "seo", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -4625,7 +4625,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://vidiq.com/",
         bgImg: "",
-        tags: ["Vidiq", "Channel", "Analytics", "Tool", "Platform"],
+        tags: ["vidiq", "channel", "analytics", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -4650,7 +4650,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.canva.com/create/youtube-thumbnails/",
         bgImg: "",
-        tags: ["Canva", "Youtube", "Thumbnail", "Maker", "Tool"],
+        tags: ["canva", "youtube", "thumbnail", "maker", "tool"],
         updateTime: "2025-12-03",
       },
       {
@@ -4675,7 +4675,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.epidemicsound.com/",
         bgImg: "",
-        tags: ["Epidemic", "Sound", "Youtube", "Music", "Tool"],
+        tags: ["epidemic", "sound", "youtube", "music", "tool"],
         updateTime: "2025-12-03",
       },
       {
@@ -4700,7 +4700,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://socialblade.com/youtube",
         bgImg: "",
-        tags: ["Socialblade", "Youtube", "Stats", "Tool", "Platform"],
+        tags: ["socialblade", "youtube", "stats", "tool", "platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -4748,7 +4748,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gartner.com/en/articles/top-strategic-technology-trends-2025",
         bgImg: "",
-        tags: ["Gartner", "Tech", "Trends", "Tool", "Platform"],
+        tags: ["gartner", "tech", "trends", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -4773,7 +4773,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mckinsey.com/capabilities/mckinsey-global-institute/our-insights",
         bgImg: "",
-        tags: ["Mckinsey", "Economic", "Outlook", "Tool", "Platform"],
+        tags: ["mckinsey", "economic", "outlook", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -4798,7 +4798,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.accenture.com/us-en/insights/technology",
         bgImg: "",
-        tags: ["Accenture", "Tech", "Vision", "Tool", "Platform"],
+        tags: ["accenture", "tech", "vision", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -4823,7 +4823,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.weforum.org/reports/",
         bgImg: "",
-        tags: ["Wef", "Future", "Jobs", "Tool", "Platform"],
+        tags: ["wef", "future", "jobs", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -4848,7 +4848,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.statista.com/topics/8935/future-of-work/",
         bgImg: "",
-        tags: ["Statista", "Market", "Data", "Tool", "Platform"],
+        tags: ["statista", "market", "data", "tool", "platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -4896,7 +4896,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.deepseek.com/",
         bgImg: "",
-        tags: ["Deepseek", "Official", "Updates", "Tool", "Platform"],
+        tags: ["deepseek", "official", "updates", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -4921,7 +4921,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://github.com/deepseek-ai",
         bgImg: "",
-        tags: ["Deepseek", "Github", "Models", "Tool", "Platform"],
+        tags: ["deepseek", "github", "models", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -4946,7 +4946,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://huggingface.co/deepseek-ai",
         bgImg: "",
-        tags: ["Deepseek", "Huggingface", "Hub", "Tool", "Platform"],
+        tags: ["deepseek", "huggingface", "hub", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -4971,7 +4971,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://arxiv.org/abs/2402.03300",
         bgImg: "",
-        tags: ["Deepseek", "Research", "Papers", "Tool", "Platform"],
+        tags: ["deepseek", "research", "papers", "tool", "platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5020,7 +5020,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://slotcatalog.com/",
         bgImg: "",
-        tags: ["Slotcatalog", "Slot", "Tracker", "Tool", "Platform"],
+        tags: ["slotcatalog", "slot", "tracker", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5045,7 +5045,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.askgamblers.com/online-slots/",
         bgImg: "",
-        tags: ["Askgamblers", "Slot", "Reviews", "Tool", "Platform"],
+        tags: ["askgamblers", "slot", "reviews", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5070,7 +5070,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.pragmaticplay.com/en/games/slots/",
         bgImg: "",
-        tags: ["Pragmatic", "Slot", "Updates", "Tool", "Platform"],
+        tags: ["pragmatic", "slot", "updates", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5095,7 +5095,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://slottracker.com/",
         bgImg: "",
-        tags: ["Slottracker", "Community", "Stats", "Tool", "Platform"],
+        tags: ["slottracker", "community", "stats", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5120,7 +5120,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.begambleaware.org/",
         bgImg: "",
-        tags: ["Gambleaware", "Safe", "Play", "Tool", "Platform"],
+        tags: ["gambleaware", "safe", "play", "tool", "platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5168,7 +5168,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.macrumors.com/roundup/iphone-17/",
         bgImg: "",
-        tags: ["Macrumors", "Iphone17", "Hub", "Tool", "Platform"],
+        tags: ["macrumors", "iphone17", "hub", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5193,7 +5193,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://9to5mac.com/nameShort/iphone-17/",
         bgImg: "",
-        tags: ["Iphone17", "Rumors", "Tool", "Platform", "Service"],
+        tags: ["iphone17", "rumors", "tool", "platform", "service"],
         updateTime: "2025-12-03",
       },
       {
@@ -5218,7 +5218,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.techradar.com/phones/iphone/iphone-17",
         bgImg: "",
-        tags: ["Techradar", "Iphone17", "Preview", "Tool", "Platform"],
+        tags: ["techradar", "iphone17", "preview", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5243,7 +5243,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.gsmarena.com/apple_iphone_17-0.php",
         bgImg: "",
-        tags: ["Gsmarena", "Iphone17", "Specs", "Tool", "Platform"],
+        tags: ["gsmarena", "iphone17", "specs", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5268,7 +5268,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.notebookcheck.net/Apple-iPhone-17.861026.0.html",
         bgImg: "",
-        tags: ["Notebookcheck", "Iphone17", "Analysis", "Tool", "Platform"],
+        tags: ["notebookcheck", "iphone17", "analysis", "tool", "platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5311,7 +5311,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://gemini.google.com/advanced",
         bgImg: "",
-        tags: ["Gemini", "Advanced", "Multimodal", "Tool", "Platform"],
+        tags: ["gemini", "advanced", "multimodal", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5336,7 +5336,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ai.google.dev/gemini-api",
         bgImg: "",
-        tags: ["Gemini", "Api", "Developer", "Platform", "Tool"],
+        tags: ["gemini", "api", "developer", "platform", "tool"],
         updateTime: "2025-12-03",
       },
       {
@@ -5361,7 +5361,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://play.google.com/store/apps/details?id=com.google.android.apps.gemini",
         bgImg: "",
-        tags: ["Gemini", "App", "Integrations", "Tool", "Platform"],
+        tags: ["gemini", "app", "integrations", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5386,7 +5386,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://workspace.google.com/products/gemini/",
         bgImg: "",
-        tags: ["Gemini", "Workspace", "Integration", "Tool", "Platform"],
+        tags: ["gemini", "workspace", "integration", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5411,7 +5411,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://edu.google.com/products/ai/gemini/",
         bgImg: "",
-        tags: ["Gemini", "Education", "Tools", "Tool", "Platform"],
+        tags: ["gemini", "education", "tools", "tool", "platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5456,7 +5456,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mahjong333.com/",
         bgImg: "",
-        tags: ["Mahjong333", "Online", "Game", "Tool", "Platform"],
+        tags: ["mahjong333", "online", "game", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5481,7 +5481,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://apps.apple.com/us/app/mahjong333/id1628745989",
         bgImg: "",
-        tags: ["Mahjong333", "Mobile", "App", "Tool", "Platform"],
+        tags: ["mahjong333", "mobile", "app", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5506,7 +5506,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mahjong333.com/strategy",
         bgImg: "",
-        tags: ["Mahjong333", "Strategy", "Guide", "Tool", "Platform"],
+        tags: ["mahjong333", "strategy", "guide", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5531,7 +5531,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mahjong333.com/tournaments",
         bgImg: "",
-        tags: ["Mahjong333", "Tournament", "Center", "Tool", "Platform"],
+        tags: ["mahjong333", "tournament", "center", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5556,7 +5556,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.mahjong333.com/vip",
         bgImg: "",
-        tags: ["Mahjong333", "Vip", "Membership", "Tool", "Platform"],
+        tags: ["mahjong333", "vip", "membership", "tool", "platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5592,7 +5592,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.amazon.com/Black-Friday/b?ie=UTF8&node=16225007011",
         bgImg: "",
-        tags: ["Black", "Friday2025", "Amazon", "Deals", "Tool"],
+        tags: ["black", "friday2025", "amazon", "deals", "tool"],
         updateTime: "2025-12-03",
       },
       {
@@ -5617,7 +5617,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl:
           "https://www.bestbuy.com/site/black-friday/pcmcat344700050001.c?id=pcmcat344700050001",
-        tags: ["Black", "Friday2025", "Bestbuy", "Deals", "Tool"],
+        tags: ["black", "friday2025", "bestbuy", "deals", "tool"],
         updateTime: "2025-12-03",
       },
       {
@@ -5642,7 +5642,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.walmart.com/blackfriday",
         bgImg: "",
-        tags: ["Black", "Friday2025", "Walmart", "Deals", "Tool"],
+        tags: ["black", "friday2025", "walmart", "deals", "tool"],
         updateTime: "2025-12-03",
       },
       {
@@ -5667,7 +5667,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.target.com/c/black-friday/-/N-5xsxf",
         bgImg: "",
-        tags: ["Black", "Friday2025", "Target", "Deals", "Tool"],
+        tags: ["black", "friday2025", "target", "deals", "tool"],
         updateTime: "2025-12-03",
       },
       {
@@ -5692,7 +5692,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.techbargains.com/black-friday",
         bgImg: "",
-        tags: ["Black", "Friday2025", "Tech", "Deals", "Tracker"],
+        tags: ["black", "friday2025", "tech", "deals", "tracker"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5737,7 +5737,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.spotify.com/us/premium/",
         bgImg: "",
-        tags: ["Spotify", "Premium", "Subscription", "Tool", "Platform"],
+        tags: ["spotify", "premium", "subscription", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5762,7 +5762,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://artists.spotify.com/",
         bgImg: "",
-        tags: ["Spotify", "For", "Artists", "Tool", "Platform"],
+        tags: ["spotify", "for", "artists", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5787,7 +5787,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://podcasters.spotify.com/",
         bgImg: "",
-        tags: ["Spotify", "Podcasts", "Studio", "Tool", "Platform"],
+        tags: ["spotify", "podcasts", "studio", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5812,7 +5812,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://spotify.com/wrapped",
         bgImg: "",
-        tags: ["Spotify", "Wrapped", "Tool", "Platform", "Service"],
+        tags: ["spotify", "wrapped", "tool", "platform", "service"],
         updateTime: "2025-12-03",
       },
       {
@@ -5837,7 +5837,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.spotify.com/us/carthing/",
         bgImg: "",
-        tags: ["Spotify", "Car", "Thing", "Tool", "Platform"],
+        tags: ["spotify", "car", "thing", "tool", "platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -5884,7 +5884,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://openai.com/pricing",
         bgImg: "",
-        tags: ["Chatgpt", "Plus", "Subscription", "Tool", "Platform"],
+        tags: ["chatgpt", "plus", "subscription", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5909,7 +5909,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://openai.com/enterprise",
         bgImg: "",
-        tags: ["Chatgpt", "Enterprise", "Solution", "Tool", "Platform"],
+        tags: ["chatgpt", "enterprise", "solution", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5931,7 +5931,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://platform.openai.com/docs/guides/gpt",
         bgImg: "",
-        tags: ["Chatgpt", "Api", "Integration", "Tool", "Platform"],
+        tags: ["chatgpt", "api", "integration", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5956,7 +5956,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://openai.com/blog/chatgpt-plugins",
         bgImg: "",
-        tags: ["Chatgpt", "Plugins", "Marketplace", "Tool", "Platform"],
+        tags: ["chatgpt", "plugins", "marketplace", "tool", "platform"],
         updateTime: "2025-12-03",
       },
       {
@@ -5981,7 +5981,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://apps.apple.com/us/app/chatgpt/id6448311069",
         bgImg: "",
-        tags: ["Chatgpt", "Mobile", "App", "Tool", "Platform"],
+        tags: ["chatgpt", "mobile", "app", "tool", "platform"],
         updateTime: "2025-12-03",
       },
     ],
@@ -6029,7 +6029,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://todoist.com/",
         bgImg: "",
-        tags: ["Todoist", "Tasks", "Planner", "Productivity", "Webapp"],
+        tags: ["todoist", "tasks", "planner", "productivity", "webapp"],
         updateTime: "2025-12-07",
       },
       {
@@ -6054,7 +6054,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://trello.com/",
         bgImg: "",
-        tags: ["Trello", "Kanban", "Boards", "Collaboration", "Tool"],
+        tags: ["trello", "kanban", "boards", "collaboration", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6079,7 +6079,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://asana.com/",
         bgImg: "",
-        tags: ["Asana", "Work", "Management", "Automation", "Platform"],
+        tags: ["asana", "work", "management", "automation", "platform"],
         updateTime: "2025-12-07",
       },
       {
@@ -6104,7 +6104,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://clickup.com/",
         bgImg: "",
-        tags: ["Clickup", "Workspace", "Tasks", "Docs", "Platform"],
+        tags: ["clickup", "workspace", "tasks", "docs", "platform"],
         updateTime: "2025-12-07",
       },
       {
@@ -6115,7 +6115,7 @@ export const menu: Menu[] = [
         seoKeywords: ["monday", "work", "operating", "system", "os", "automation", "boards"],
         iframeUrl: "https://monday.com/",
         bgImg: "",
-        tags: ["Monday", "Work", "Os", "Automation", "Boards"],
+        tags: ["monday", "work", "os", "automation", "boards"],
         updateTime: "2025-12-07",
       },
       {
@@ -6140,7 +6140,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://airtable.com/",
         bgImg: "",
-        tags: ["Airtable", "Database", "Spreadsheet", "Automation", "Tool"],
+        tags: ["airtable", "database", "spreadsheet", "automation", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6165,7 +6165,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.notion.so/",
         bgImg: "",
-        tags: ["Notion", "Workspace", "Docs", "Wiki", "Productivity"],
+        tags: ["notion", "workspace", "docs", "wiki", "productivity"],
         updateTime: "2025-12-07",
       },
       {
@@ -6190,7 +6190,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://linear.app/",
         bgImg: "",
-        tags: ["Linear", "Issues", "Roadmap", "Product", "Agile"],
+        tags: ["linear", "issues", "roadmap", "product", "agile"],
         updateTime: "2025-12-07",
       },
       {
@@ -6215,7 +6215,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.atlassian.com/software/jira",
         bgImg: "",
-        tags: ["Jira", "Agile", "Issues", "Planning", "Software"],
+        tags: ["jira", "agile", "issues", "planning", "software"],
         updateTime: "2025-12-07",
       },
       {
@@ -6240,7 +6240,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://slack.com/",
         bgImg: "",
-        tags: ["Slack", "Chat", "Team", "Messaging", "Collaboration"],
+        tags: ["slack", "chat", "team", "messaging", "collaboration"],
         updateTime: "2025-12-07",
       },
       {
@@ -6265,7 +6265,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://discord.com/",
         bgImg: "",
-        tags: ["Discord", "Community", "Chat", "Voice", "Tool"],
+        tags: ["discord", "community", "chat", "voice", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6290,7 +6290,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://zoom.us/",
         bgImg: "",
-        tags: ["Zoom", "Meetings", "Video", "Collaboration", "Platform"],
+        tags: ["zoom", "meetings", "video", "collaboration", "platform"],
         updateTime: "2025-12-07",
       },
       {
@@ -6315,7 +6315,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.loom.com/",
         bgImg: "",
-        tags: ["Loom", "Video", "Async", "Messaging", "Tool"],
+        tags: ["loom", "video", "async", "messaging", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6340,7 +6340,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.figma.com/",
         bgImg: "",
-        tags: ["Figma", "Design", "Ui", "Collaboration", "Tool"],
+        tags: ["figma", "design", "ui", "collaboration", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6365,7 +6365,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://miro.com/",
         bgImg: "",
-        tags: ["Miro", "Whiteboard", "Collaboration", "Brainstorm", "Tool"],
+        tags: ["miro", "whiteboard", "collaboration", "brainstorm", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6390,7 +6390,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://whimsical.com/",
         bgImg: "",
-        tags: ["Whimsical", "Flowchart", "Wireframe", "Mindmap", "Tool"],
+        tags: ["whimsical", "flowchart", "wireframe", "mindmap", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6401,7 +6401,7 @@ export const menu: Menu[] = [
         seoKeywords: ["drawio", "diagram", "maker", "diagrams", "uml", "charts", "tool", "draw"],
         iframeUrl: "https://app.diagrams.net/",
         bgImg: "",
-        tags: ["Drawio", "Diagrams", "Uml", "Charts", "Tool"],
+        tags: ["drawio", "diagrams", "uml", "charts", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6426,7 +6426,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.grammarly.com/",
         bgImg: "",
-        tags: ["Grammarly", "Writing", "Assistant", "Ai", "Tool"],
+        tags: ["grammarly", "writing", "assistant", "ai", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6451,7 +6451,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://quillbot.com/",
         bgImg: "",
-        tags: ["Quillbot", "Paraphrase", "Summarize", "Writing", "Tool"],
+        tags: ["quillbot", "paraphrase", "summarize", "writing", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6476,7 +6476,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.deepl.com/translator",
         bgImg: "",
-        tags: ["Deepl", "Translation", "Language", "Ai", "Tool"],
+        tags: ["deepl", "translation", "language", "ai", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6487,7 +6487,7 @@ export const menu: Menu[] = [
         seoKeywords: ["otter", "transcription", "notes", "meetings", "tool"],
         iframeUrl: "https://otter.ai/",
         bgImg: "",
-        tags: ["Otter", "Transcription", "Meetings", "Notes", "Tool"],
+        tags: ["otter", "transcription", "meetings", "notes", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6512,7 +6512,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.typeform.com/",
         bgImg: "",
-        tags: ["Typeform", "Forms", "Survey", "Interactive", "Tool"],
+        tags: ["typeform", "forms", "survey", "interactive", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6537,7 +6537,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.jotform.com/",
         bgImg: "",
-        tags: ["Jotform", "Forms", "Builder", "Automation", "Tool"],
+        tags: ["jotform", "forms", "builder", "automation", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6562,7 +6562,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.surveymonkey.com/",
         bgImg: "",
-        tags: ["Surveymonkey", "Research", "Feedback", "Insights", "Tool"],
+        tags: ["surveymonkey", "research", "feedback", "insights", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6586,7 +6586,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://mailchimp.com/",
         bgImg: "",
-        tags: ["Mailchimp", "Email", "Automation", "Marketing", "Tool"],
+        tags: ["mailchimp", "email", "automation", "marketing", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6611,7 +6611,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://convertkit.com/",
         bgImg: "",
-        tags: ["Convertkit", "Newsletter", "Automation", "Creator", "Tool"],
+        tags: ["convertkit", "newsletter", "automation", "creator", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6635,7 +6635,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.beehiiv.com/",
         bgImg: "",
-        tags: ["Beehiiv", "Newsletter", "Growth", "Monetization", "Tool"],
+        tags: ["beehiiv", "newsletter", "growth", "monetization", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6660,7 +6660,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://buffer.com/",
         bgImg: "",
-        tags: ["Buffer", "Social", "Scheduler", "Analytics", "Tool"],
+        tags: ["buffer", "social", "scheduler", "analytics", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6685,7 +6685,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.hootsuite.com/",
         bgImg: "",
-        tags: ["Hootsuite", "Social", "Management", "Monitoring", "Tool"],
+        tags: ["hootsuite", "social", "management", "monitoring", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6710,7 +6710,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://later.com/",
         bgImg: "",
-        tags: ["Later", "Social", "Scheduler", "Calendar", "Tool"],
+        tags: ["later", "social", "scheduler", "calendar", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6735,7 +6735,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.semrush.com/",
         bgImg: "",
-        tags: ["Semrush", "Seo", "Keywords", "Audit", "Tool"],
+        tags: ["semrush", "seo", "keywords", "audit", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6760,7 +6760,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ahrefs.com/",
         bgImg: "",
-        tags: ["Ahrefs", "Backlinks", "Seo", "Audit", "Tool"],
+        tags: ["ahrefs", "backlinks", "seo", "audit", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6785,7 +6785,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://moz.com/products/pro",
         bgImg: "",
-        tags: ["Moz", "Seo", "Rank", "Links", "Tool"],
+        tags: ["moz", "seo", "rank", "links", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6810,7 +6810,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://neilpatel.com/ubersuggest/",
         bgImg: "",
-        tags: ["Ubersuggest", "Keywords", "Seo", "Content", "Tool"],
+        tags: ["ubersuggest", "keywords", "seo", "content", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6835,7 +6835,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://answerthepublic.com/",
         bgImg: "",
-        tags: ["Answerthepublic", "Keywords", "Questions", "Seo", "Tool"],
+        tags: ["answerthepublic", "keywords", "questions", "seo", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6860,7 +6860,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.canirank.com/",
         bgImg: "",
-        tags: ["Canirank", "Seo", "Ai", "Insights", "Tool"],
+        tags: ["canirank", "seo", "ai", "insights", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6885,7 +6885,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.hotjar.com/",
         bgImg: "",
-        tags: ["Hotjar", "Heatmap", "Analytics", "Ux", "Tool"],
+        tags: ["hotjar", "heatmap", "analytics", "ux", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6910,7 +6910,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.crazyegg.com/",
         bgImg: "",
-        tags: ["Crazyegg", "Heatmap", "Testing", "Ux", "Tool"],
+        tags: ["crazyegg", "heatmap", "testing", "ux", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6935,7 +6935,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.fullstory.com/",
         bgImg: "",
-        tags: ["Fullstory", "Replay", "Analytics", "Ux", "Tool"],
+        tags: ["fullstory", "replay", "analytics", "ux", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6960,7 +6960,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.pingdom.com/",
         bgImg: "",
-        tags: ["Pingdom", "Uptime", "Monitoring", "Performance", "Tool"],
+        tags: ["pingdom", "uptime", "monitoring", "performance", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -6985,7 +6985,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://uptimerobot.com/",
         bgImg: "",
-        tags: ["Uptimerobot", "Monitor", "Status", "Alerts", "Tool"],
+        tags: ["uptimerobot", "monitor", "status", "alerts", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -7010,7 +7010,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.statuscake.com/",
         bgImg: "",
-        tags: ["Statuscake", "Uptime", "Monitoring", "Alerts", "Tool"],
+        tags: ["statuscake", "uptime", "monitoring", "alerts", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -7035,7 +7035,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://gtmetrix.com/",
         bgImg: "",
-        tags: ["Gtmetrix", "Performance", "Web", "Vitals", "Tool"],
+        tags: ["gtmetrix", "performance", "web", "vitals", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -7060,7 +7060,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.webpagetest.org/",
         bgImg: "",
-        tags: ["Webpagetest", "Performance", "Testing", "Web", "Tool"],
+        tags: ["webpagetest", "performance", "testing", "web", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -7085,7 +7085,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://pagespeed.web.dev/",
         bgImg: "",
-        tags: ["Pagespeed", "Insights", "Core", "Web", "Tool"],
+        tags: ["pagespeed", "insights", "core", "web", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -7110,7 +7110,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.ilovepdf.com/",
         bgImg: "",
-        tags: ["Ilovepdf", "Pdf", "Converter", "Compress", "Tool"],
+        tags: ["ilovepdf", "pdf", "converter", "compress", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -7135,7 +7135,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://smallpdf.com/",
         bgImg: "",
-        tags: ["Smallpdf", "Pdf", "Tools", "Esign", "Utility"],
+        tags: ["smallpdf", "pdf", "tools", "esign", "utility"],
         updateTime: "2025-12-07",
       },
       {
@@ -7160,7 +7160,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://pdfcandy.com/",
         bgImg: "",
-        tags: ["Pdfcandy", "Pdf", "Convert", "Edit", "Tool"],
+        tags: ["pdfcandy", "pdf", "convert", "edit", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -7171,7 +7171,7 @@ export const menu: Menu[] = [
         seoKeywords: ["removebg", "background", "editor", "image", "ai", "tool", "remove"],
         iframeUrl: "https://www.remove.bg/",
         bgImg: "",
-        tags: ["Removebg", "Image", "Background", "Ai", "Tool"],
+        tags: ["removebg", "image", "background", "ai", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -7195,7 +7195,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.kapwing.com/",
         bgImg: "",
-        tags: ["Kapwing", "Video", "Editing", "Creative", "Tool"],
+        tags: ["kapwing", "video", "editing", "creative", "tool"],
         updateTime: "2025-12-07",
       },
     ],
@@ -7243,7 +7243,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://runwayml.com/gen-2/",
         bgImg: "",
-        tags: ["Runway", "Gen2", "Video", "Generation", "Ai"],
+        tags: ["runway", "gen2", "video", "generation", "ai"],
         updateTime: "2025-12-07",
       },
       {
@@ -7268,7 +7268,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.heygen.com/",
         bgImg: "",
-        tags: ["Heygen", "Avatar", "Video", "Ai", "Studio"],
+        tags: ["heygen", "avatar", "video", "ai", "studio"],
         updateTime: "2025-12-07",
       },
       {
@@ -7293,7 +7293,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://pika.art/",
         bgImg: "",
-        tags: ["Pika", "Video", "Generation", "Ai", "Animation"],
+        tags: ["pika", "video", "generation", "ai", "animation"],
         updateTime: "2025-12-07",
       },
       {
@@ -7318,7 +7318,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.synthesia.io/",
         bgImg: "",
-        tags: ["Synthesia", "Avatar", "Video", "Ai", "Presenter"],
+        tags: ["synthesia", "avatar", "video", "ai", "presenter"],
         updateTime: "2025-12-07",
       },
       {
@@ -7343,7 +7343,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://fliki.ai/",
         bgImg: "",
-        tags: ["Fliki", "Video", "Voice", "Ai", "Creator"],
+        tags: ["fliki", "video", "voice", "ai", "creator"],
         updateTime: "2025-12-07",
       },
       {
@@ -7368,7 +7368,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.opus.pro/",
         bgImg: "",
-        tags: ["Opusclip", "Video", "Repurpose", "Shorts", "Ai"],
+        tags: ["opusclip", "video", "repurpose", "shorts", "ai"],
         updateTime: "2025-12-07",
       },
       {
@@ -7393,7 +7393,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.descript.com/",
         bgImg: "",
-        tags: ["Descript", "Podcast", "Editor", "Ai", "Video"],
+        tags: ["descript", "podcast", "editor", "ai", "video"],
         updateTime: "2025-12-07",
       },
       {
@@ -7418,7 +7418,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://podcastle.ai/",
         bgImg: "",
-        tags: ["Podcastle", "Podcast", "Studio", "Ai", "Audio"],
+        tags: ["podcastle", "podcast", "studio", "ai", "audio"],
         updateTime: "2025-12-07",
       },
       {
@@ -7443,7 +7443,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://elevenlabs.io/",
         bgImg: "",
-        tags: ["Elevenlabs", "Voice", "Cloning", "Ai", "Audio"],
+        tags: ["elevenlabs", "voice", "cloning", "ai", "audio"],
         updateTime: "2025-12-07",
       },
       {
@@ -7454,7 +7454,7 @@ export const menu: Menu[] = [
         seoKeywords: ["playht", "voice", "tts", "ai", "audio", "play"],
         iframeUrl: "https://play.ht/",
         bgImg: "",
-        tags: ["Playht", "Tts", "Voice", "Ai", "Audio"],
+        tags: ["playht", "tts", "voice", "ai", "audio"],
         updateTime: "2025-12-07",
       },
       {
@@ -7479,7 +7479,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://leonardo.ai/",
         bgImg: "",
-        tags: ["Leonardo", "Art", "Ai", "Design", "Generator"],
+        tags: ["leonardo", "art", "ai", "design", "generator"],
         updateTime: "2025-12-07",
       },
       {
@@ -7504,7 +7504,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://ideogram.ai/",
         bgImg: "",
-        tags: ["Ideogram", "Image", "Generator", "Typography", "Ai"],
+        tags: ["ideogram", "image", "generator", "typography", "ai"],
         updateTime: "2025-12-07",
       },
       {
@@ -7529,7 +7529,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.recraft.ai/",
         bgImg: "",
-        tags: ["Recraft", "Design", "Vector", "Ai", "Illustration"],
+        tags: ["recraft", "design", "vector", "ai", "illustration"],
         updateTime: "2025-12-07",
       },
       {
@@ -7554,7 +7554,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://writesonic.com/",
         bgImg: "",
-        tags: ["Writesonic", "Copywriting", "Ai", "Content", "Marketing"],
+        tags: ["writesonic", "copywriting", "ai", "content", "marketing"],
         updateTime: "2025-12-07",
       },
       {
@@ -7579,7 +7579,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.jasper.ai/",
         bgImg: "",
-        tags: ["Jasper", "Marketing", "Copy", "Ai", "Assistant"],
+        tags: ["jasper", "marketing", "copy", "ai", "assistant"],
         updateTime: "2025-12-07",
       },
       {
@@ -7599,7 +7599,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.copy.ai/",
         bgImg: "",
-        tags: ["Copyai", "Copywriting", "Automation", "Ai", "Sales"],
+        tags: ["copyai", "copywriting", "automation", "ai", "sales"],
         updateTime: "2025-12-07",
       },
       {
@@ -7624,7 +7624,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://rytr.me/",
         bgImg: "",
-        tags: ["Rytr", "Writer", "Ai", "Copy", "Tool"],
+        tags: ["rytr", "writer", "ai", "copy", "tool"],
         updateTime: "2025-12-07",
       },
       {
@@ -7649,7 +7649,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://anyword.com/",
         bgImg: "",
-        tags: ["Anyword", "Copywriting", "Ai", "Optimization", "Marketing"],
+        tags: ["anyword", "copywriting", "ai", "optimization", "marketing"],
         updateTime: "2025-12-07",
       },
       {
@@ -7674,7 +7674,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://tome.app/",
         bgImg: "",
-        tags: ["Tome", "Presentation", "Ai", "Slides", "Story"],
+        tags: ["tome", "presentation", "ai", "slides", "story"],
         updateTime: "2025-12-07",
       },
       {
@@ -7699,7 +7699,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://gamma.app/",
         bgImg: "",
-        tags: ["Gamma", "Slides", "Ai", "Documents", "Builder"],
+        tags: ["gamma", "slides", "ai", "documents", "builder"],
         updateTime: "2025-12-07",
       },
       {
@@ -7710,7 +7710,7 @@ export const menu: Menu[] = [
         seoKeywords: ["character", "chat", "lab", "chatbot", "ai", "personas", "assistant"],
         iframeUrl: "https://beta.character.ai/",
         bgImg: "",
-        tags: ["Character", "Chatbot", "Ai", "Personas", "Assistant"],
+        tags: ["character", "chatbot", "ai", "personas", "assistant"],
         updateTime: "2025-12-07",
       },
       {
@@ -7735,7 +7735,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://playground.com/",
         bgImg: "",
-        tags: ["Playground", "Image", "Generator", "Ai", "Creative"],
+        tags: ["playground", "image", "generator", "ai", "creative"],
         updateTime: "2025-12-07",
       },
       {
@@ -7747,7 +7747,7 @@ export const menu: Menu[] = [
         seoKeywords: ["eagles", "chargers", "nfl", "live", "score", "schedule"],
         iframeUrl: "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/",
         bgImg: "",
-        tags: ["Nfl", "Eagles", "Chargers", "Schedule", "Scores"],
+        tags: ["nfl", "eagles", "chargers", "schedule", "scores"],
         updateTime: "2025-12-10",
       },
       {
@@ -7759,7 +7759,7 @@ export const menu: Menu[] = [
         seoKeywords: ["ohio state", "indiana", "college football", "big ten", "scores", "schedule"],
         iframeUrl: "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
         bgImg: "",
-        tags: ["College Football", "Ohio State", "Indiana", "Big Ten"],
+        tags: ["college-football", "ohio-state", "indiana", "big-ten"],
         updateTime: "2025-12-10",
       },
       {
@@ -7771,7 +7771,7 @@ export const menu: Menu[] = [
         seoKeywords: ["texans", "chiefs", "nfl", "live", "scoreboard", "afc"],
         iframeUrl: "https://www.cbssports.com/nfl/teams/KC/kansas-city-chiefs/",
         bgImg: "",
-        tags: ["Nfl", "Texans", "Chiefs", "Afc", "Scoreboard"],
+        tags: ["nfl", "texans", "chiefs", "afc", "scoreboard"],
         updateTime: "2025-12-10",
       },
       {
@@ -7783,7 +7783,7 @@ export const menu: Menu[] = [
         seoKeywords: ["cowboys", "lions", "nfl", "scores", "highlights", "schedule"],
         iframeUrl: "https://www.nfl.com/teams/dallas-cowboys/",
         bgImg: "",
-        tags: ["Nfl", "Cowboys", "Lions", "Game Center"],
+        tags: ["nfl", "cowboys", "lions", "game-center"],
         updateTime: "2025-12-10",
       },
       {
@@ -7795,7 +7795,7 @@ export const menu: Menu[] = [
         seoKeywords: ["rostrum", "records", "music", "label", "artists", "hip hop"],
         iframeUrl: "https://rostrumrecords.com/",
         bgImg: "",
-        tags: ["Music", "Label", "Rostrum", "Artists"],
+        tags: ["music", "label", "rostrum", "artists"],
         updateTime: "2025-12-10",
       },
       {
@@ -7807,7 +7807,7 @@ export const menu: Menu[] = [
         seoKeywords: ["georgia", "alabama", "sec", "college football", "scores", "rankings"],
         iframeUrl: "https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide",
         bgImg: "",
-        tags: ["College Football", "Georgia", "Alabama", "Sec"],
+        tags: ["college-football", "georgia", "alabama", "sec"],
         updateTime: "2025-12-10",
       },
       {
@@ -7819,7 +7819,7 @@ export const menu: Menu[] = [
         seoKeywords: ["world cup", "draw", "fifa", "groups", "schedule", "football"],
         iframeUrl: "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup",
         bgImg: "",
-        tags: ["Fifa", "World Cup", "Draw", "Football"],
+        tags: ["fifa", "world-cup", "draw", "football"],
         updateTime: "2025-12-10",
       },
       {
@@ -7831,7 +7831,7 @@ export const menu: Menu[] = [
         seoKeywords: ["bears", "packers", "nfl", "rivalry", "scores", "schedule"],
         iframeUrl: "https://www.nfl.com/teams/chicago-bears/",
         bgImg: "",
-        tags: ["Nfl", "Bears", "Packers", "Rivalry"],
+        tags: ["nfl", "bears", "packers", "rivalry"],
         updateTime: "2025-12-10",
       },
       {
@@ -7843,7 +7843,7 @@ export const menu: Menu[] = [
         seoKeywords: ["steelers", "ravens", "afc north", "nfl", "scores", "standings"],
         iframeUrl: "https://www.nfl.com/teams/pittsburgh-steelers/",
         bgImg: "",
-        tags: ["Nfl", "Steelers", "Ravens", "Afc North"],
+        tags: ["nfl", "steelers", "ravens", "afc-north"],
         updateTime: "2025-12-10",
       },
       {
@@ -7855,7 +7855,7 @@ export const menu: Menu[] = [
         seoKeywords: ["bengals", "bills", "nfl", "afc", "scores", "injuries"],
         iframeUrl: "https://www.nfl.com/teams/cincinnati-bengals/",
         bgImg: "",
-        tags: ["Nfl", "Bengals", "Bills", "Afc"],
+        tags: ["nfl", "bengals", "bills", "afc"],
         updateTime: "2025-12-10",
       },
       {
@@ -7867,7 +7867,7 @@ export const menu: Menu[] = [
         seoKeywords: ["real betis", "barcelona", "la liga", "scores", "lineups", "standings"],
         iframeUrl: "https://www.thesportsdb.com/event/2279536-real-betis-vs-barcelona",
         bgImg: "",
-        tags: ["Real Betis", "Barcelona", "La Liga", "Scores"],
+        tags: ["real-betis", "barcelona", "la-liga", "scores"],
         updateTime: "2025-12-10",
       },
       {
@@ -7885,7 +7885,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.thesportsdb.com/event/2328097-barcelona-vs-eintracht-frankfurt",
         bgImg: "",
-        tags: ["Barcelona", "Frankfurt", "Champions League", "Scores"],
+        tags: ["barcelona", "frankfurt", "champions-league", "scores"],
         updateTime: "2025-12-10",
       },
       {
@@ -7897,7 +7897,7 @@ export const menu: Menu[] = [
         seoKeywords: ["england", "australia", "international friendly", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/1794233-england-vs-australia",
         bgImg: "",
-        tags: ["England", "Australia", "International", "Friendly"],
+        tags: ["england", "australia", "international", "friendly"],
         updateTime: "2025-12-10",
       },
       {
@@ -7909,7 +7909,7 @@ export const menu: Menu[] = [
         seoKeywords: ["real madrid", "celta vigo", "la liga", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/2279540-real-madrid-vs-celta-vigo",
         bgImg: "",
-        tags: ["Real Madrid", "Celta Vigo", "La Liga", "Scores"],
+        tags: ["real-madrid", "celta-vigo", "la-liga", "scores"],
         updateTime: "2025-12-10",
       },
       {
@@ -7921,7 +7921,7 @@ export const menu: Menu[] = [
         seoKeywords: ["athletic club", "real madrid", "la liga", "scores", "fixtures", "bilbao"],
         iframeUrl: "https://www.thesportsdb.com/event/2279574-athletic-bilbao-vs-real-madrid",
         bgImg: "",
-        tags: ["Athletic Club", "Real Madrid", "La Liga", "Scores"],
+        tags: ["athletic-club", "real-madrid", "la-liga", "scores"],
         updateTime: "2025-12-10",
       },
       {
@@ -7933,7 +7933,7 @@ export const menu: Menu[] = [
         seoKeywords: ["mirassol", "flamengo", "brasileirao", "serie a", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/2385412-mirassol-vs-flamengo",
         bgImg: "",
-        tags: ["Mirassol", "Flamengo", "Brasileirao", "Serie A"],
+        tags: ["mirassol", "flamengo", "brasileirao", "serie-a"],
         updateTime: "2025-12-10",
       },
       {
@@ -7945,7 +7945,7 @@ export const menu: Menu[] = [
         seoKeywords: ["wolves", "manchester united", "premier league", "scores", "highlights"],
         iframeUrl: "https://www.thesportsdb.com/event/1818617-wolves-vs-manchester-united",
         bgImg: "",
-        tags: ["Wolves", "Manchester United", "Premier League", "Scores"],
+        tags: ["wolves", "manchester-united", "premier-league", "scores"],
         updateTime: "2025-12-10",
       },
       {
@@ -7957,7 +7957,7 @@ export const menu: Menu[] = [
         seoKeywords: ["leeds united", "liverpool", "premier league", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/2267218-leeds-united-vs-liverpool",
         bgImg: "",
-        tags: ["Leeds United", "Liverpool", "Premier League", "Scores"],
+        tags: ["leeds-united", "liverpool", "premier-league", "scores"],
         updateTime: "2025-12-10",
       },
       {
@@ -7969,7 +7969,7 @@ export const menu: Menu[] = [
         seoKeywords: ["flamengo", "ceara", "serie a", "brasileirao", "scores"],
         iframeUrl: "https://www.thesportsdb.com/event/2385404-flamengo-vs-cear%C3%A1",
         bgImg: "",
-        tags: ["Flamengo", "Ceara", "Brasileirao", "Serie A"],
+        tags: ["flamengo", "ceara", "brasileirao", "serie-a"],
         updateTime: "2025-12-10",
       },
       {
@@ -7981,7 +7981,7 @@ export const menu: Menu[] = [
         seoKeywords: ["manchester united", "west ham", "premier league", "summer series", "scores"],
         iframeUrl: "https://www.thesportsdb.com/event/2300853-manchester-united-vs-west-ham-united",
         bgImg: "",
-        tags: ["Manchester United", "West Ham", "Premier League", "Summer Series"],
+        tags: ["manchester-united", "west-ham", "premier-league", "summer-series"],
         updateTime: "2025-12-10",
       },
       {
@@ -7993,7 +7993,7 @@ export const menu: Menu[] = [
         seoKeywords: ["inter", "liverpool", "champions league", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/1422831-inter-vs-liverpool",
         bgImg: "",
-        tags: ["Inter", "Liverpool", "Champions League", "Scores"],
+        tags: ["inter", "liverpool", "champions-league", "scores"],
         updateTime: "2025-12-10",
       },
       {
@@ -8004,7 +8004,7 @@ export const menu: Menu[] = [
         seoKeywords: ["nava999", "slots", "casino", "thai", "bonus"],
         iframeUrl: "https://nava999.art/",
         bgImg: "",
-        tags: ["Nava999", "Slots", "Casino", "Thai"],
+        tags: ["nava999", "slots", "casino", "thai"],
         updateTime: "2025-12-10",
       },
       {
@@ -8016,7 +8016,7 @@ export const menu: Menu[] = [
         seoKeywords: ["pggroup777", "slots", "pg", "casino", "thai"],
         iframeUrl: "https://r.jina.ai/http://pggroup777.sbs",
         bgImg: "",
-        tags: ["Pggroup777", "Slots", "Casino", "Thai"],
+        tags: ["pggroup777", "slots", "casino", "thai"],
         updateTime: "2025-12-10",
       },
       {
@@ -8027,7 +8027,7 @@ export const menu: Menu[] = [
         seoKeywords: ["deva555", "slots", "casino", "thai", "promo"],
         iframeUrl: "https://deva555.top/",
         bgImg: "",
-        tags: ["Deva555", "Slots", "Casino", "Thai"],
+        tags: ["deva555", "slots", "casino", "thai"],
         updateTime: "2025-12-10",
       },
       {
@@ -8038,7 +8038,7 @@ export const menu: Menu[] = [
         seoKeywords: ["siamwin555", "slots", "casino", "thai", "login"],
         iframeUrl: "https://siamwin555.com/win",
         bgImg: "",
-        tags: ["Siamwin555", "Slots", "Casino", "Thai"],
+        tags: ["siamwin555", "slots", "casino", "thai"],
         updateTime: "2025-12-10",
       },
       {
@@ -8050,7 +8050,7 @@ export const menu: Menu[] = [
         seoKeywords: ["slotolympus77", "slots", "casino", "mirror", "thai"],
         iframeUrl: "https://r.jina.ai/http://slotolympus77.online",
         bgImg: "",
-        tags: ["Slotolympus77", "Slots", "Casino", "Mirror"],
+        tags: ["slotolympus77", "slots", "casino", "mirror"],
         updateTime: "2025-12-10",
       },
       {
@@ -8062,7 +8062,7 @@ export const menu: Menu[] = [
         seoKeywords: ["fievel", "an american tail", "animation", "character", "film"],
         iframeUrl: "https://anamericantail.fandom.com/wiki/Fievel_Mousekewitz",
         bgImg: "",
-        tags: ["Fievel", "An American Tail", "Character", "Animation"],
+        tags: ["fievel", "an-american-tail", "character", "animation"],
         updateTime: "2025-12-10",
       },
       {
@@ -8073,7 +8073,7 @@ export const menu: Menu[] = [
         seoKeywords: ["pars", "football", "news", "league", "analysis", "transfers"],
         iframeUrl: "https://parsfootball.com/",
         bgImg: "",
-        tags: ["Football", "Pars", "News"],
+        tags: ["football", "pars", "news"],
         updateTime: "2025-12-10",
       },
       {
@@ -8085,7 +8085,7 @@ export const menu: Menu[] = [
         seoKeywords: ["matt campbell", "iowa state", "coach", "college football", "profile"],
         iframeUrl: "https://cyclones.com/sports/football/roster/coaches/matt-campbell/140",
         bgImg: "",
-        tags: ["College Football", "Coach", "Matt Campbell"],
+        tags: ["college-football", "coach", "matt-campbell"],
         updateTime: "2025-12-10",
       },
       {
@@ -8097,7 +8097,7 @@ export const menu: Menu[] = [
         seoKeywords: ["broncos", "raiders", "afc west", "nfl", "rivalry", "scores"],
         iframeUrl: "https://www.nfl.com/teams/denver-broncos/",
         bgImg: "",
-        tags: ["Nfl", "Broncos", "Raiders", "Afc West"],
+        tags: ["nfl", "broncos", "raiders", "afc-west"],
         updateTime: "2025-12-10",
       },
       {
@@ -8109,7 +8109,7 @@ export const menu: Menu[] = [
         seoKeywords: ["paul dano", "actor", "films", "reviews", "biography", "director"],
         iframeUrl: "https://www.rottentomatoes.com/celebrity/paul_dano",
         bgImg: "",
-        tags: ["Actor", "Films", "Paul Dano", "Reviews"],
+        tags: ["actor", "films", "paul-dano", "reviews"],
         updateTime: "2025-12-10",
       },
       {
@@ -8121,7 +8121,7 @@ export const menu: Menu[] = [
         seoKeywords: ["kpop", "demon hunters", "animation", "film", "korean", "movie"],
         iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/K-Pop:_Demon_Hunters",
         bgImg: "",
-        tags: ["Kpop", "Demon Hunters", "Animation", "Film"],
+        tags: ["kpop", "demon-hunters", "animation", "film"],
         updateTime: "2025-12-11",
       },
       {
@@ -8133,7 +8133,7 @@ export const menu: Menu[] = [
         seoKeywords: ["real madrid", "manchester city", "champions league", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/2213859-manchester-city-vs-real-madrid",
         bgImg: "",
-        tags: ["Real Madrid", "Manchester City", "Champions League", "Scores"],
+        tags: ["real-madrid", "manchester-city", "champions-league", "scores"],
         updateTime: "2025-12-11",
       },
       {
@@ -8145,7 +8145,7 @@ export const menu: Menu[] = [
         seoKeywords: ["sophie kinsella", "author", "books", "chick lit", "shopaholic", "novelist"],
         iframeUrl: "https://r.jina.ai/https://www.sophiekinsella.co.uk/",
         bgImg: "",
-        tags: ["Sophie Kinsella", "Author", "Books", "Shopaholic"],
+        tags: ["sophie-kinsella", "author", "books", "shopaholic"],
         updateTime: "2025-12-11",
       },
       {
@@ -8157,7 +8157,7 @@ export const menu: Menu[] = [
         seoKeywords: ["club brugge", "arsenal", "champions league", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/2328108-club-brugge-vs-arsenal",
         bgImg: "",
-        tags: ["Club Brugge", "Arsenal", "Champions League", "Scores"],
+        tags: ["club-brugge", "arsenal", "champions-league", "scores"],
         updateTime: "2025-12-11",
       },
       {
@@ -8169,7 +8169,7 @@ export const menu: Menu[] = [
         seoKeywords: ["aston villa", "arsenal", "premier league", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/2267213-aston-villa-vs-arsenal",
         bgImg: "",
-        tags: ["Aston Villa", "Arsenal", "Premier League", "Scores"],
+        tags: ["aston-villa", "arsenal", "premier-league", "scores"],
         updateTime: "2025-12-11",
       },
       {
@@ -8182,7 +8182,7 @@ export const menu: Menu[] = [
         iframeUrl:
           "https://r.jina.ai/https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-winners-list/",
         bgImg: "",
-        tags: ["I'm A Celeb", "Reality TV", "Winner", "ITV"],
+        tags: ["a-celeb", "reality-tv", "winner", "itv"],
         updateTime: "2025-12-11",
       },
       {
@@ -8194,7 +8194,7 @@ export const menu: Menu[] = [
         seoKeywords: ["atalanta", "chelsea", "champions league", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/2328099-atalanta-vs-chelsea",
         bgImg: "",
-        tags: ["Atalanta", "Chelsea", "Champions League", "Scores"],
+        tags: ["atalanta", "chelsea", "champions-league", "scores"],
         updateTime: "2025-12-11",
       },
       {
@@ -8206,7 +8206,7 @@ export const menu: Menu[] = [
         seoKeywords: ["fulham", "crystal palace", "premier league", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/2267217-fulham-vs-crystal-palace",
         bgImg: "",
-        tags: ["Fulham", "Crystal Palace", "Premier League", "Scores"],
+        tags: ["fulham", "crystal-palace", "premier-league", "scores"],
         updateTime: "2025-12-11",
       },
       {
@@ -8219,7 +8219,7 @@ export const menu: Menu[] = [
         iframeUrl:
           "https://r.jina.ai/https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
         bgImg: "",
-        tags: ["World Cup 2026", "Draw", "FIFA", "Tournament"],
+        tags: ["world-cup-2026", "draw", "fifa", "tournament"],
         updateTime: "2025-12-11",
       },
       {
@@ -8231,7 +8231,7 @@ export const menu: Menu[] = [
         seoKeywords: ["mohamed salah", "liverpool", "premier league", "forward", "stats"],
         iframeUrl: "https://r.jina.ai/https://www.liverpoolfc.com/team/mens/player/mohamed-salah",
         bgImg: "",
-        tags: ["Mohamed Salah", "Liverpool", "Premier League", "Forward"],
+        tags: ["mohamed-salah", "liverpool", "premier-league", "forward"],
         updateTime: "2025-12-11",
       },
       {
@@ -8243,7 +8243,7 @@ export const menu: Menu[] = [
         seoKeywords: ["bayer leverkusen", "newcastle", "champions league", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/2328109-bayer-leverkusen-vs-newcastle-united",
         bgImg: "",
-        tags: ["Bayer Leverkusen", "Newcastle United", "Champions League", "Scores"],
+        tags: ["bayer-leverkusen", "newcastle-united", "champions-league", "scores"],
         updateTime: "2025-12-11",
       },
       {
@@ -8254,7 +8254,7 @@ export const menu: Menu[] = [
         seoKeywords: ["lando norris", "f1", "mclaren", "driver", "results", "standings"],
         iframeUrl: "https://r.jina.ai/https://www.formula1.com/en/drivers/lando-norris.html",
         bgImg: "",
-        tags: ["Lando Norris", "F1", "McLaren", "Driver"],
+        tags: ["lando-norris", "f1", "mclaren", "driver"],
         updateTime: "2025-12-11",
       },
       {
@@ -8266,7 +8266,7 @@ export const menu: Menu[] = [
         seoKeywords: ["manchester city", "sunderland", "premier league", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/2267219-manchester-city-vs-sunderland",
         bgImg: "",
-        tags: ["Manchester City", "Sunderland", "Premier League", "Scores"],
+        tags: ["manchester-city", "sunderland", "premier-league", "scores"],
         updateTime: "2025-12-11",
       },
       {
@@ -8278,7 +8278,7 @@ export const menu: Menu[] = [
         seoKeywords: ["2026 world cup", "fifa", "usa", "canada", "mexico", "format"],
         iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
         bgImg: "",
-        tags: ["World Cup 2026", "FIFA", "Soccer", "Tournament"],
+        tags: ["world-cup-2026", "fifa", "soccer", "tournament"],
         updateTime: "2025-12-11",
       },
       {
@@ -8290,7 +8290,7 @@ export const menu: Menu[] = [
         seoKeywords: ["brighton", "west ham", "premier league", "scores", "fixtures"],
         iframeUrl: "https://www.thesportsdb.com/event/1818418-brighton-vs-west-ham",
         bgImg: "",
-        tags: ["Brighton", "West Ham", "Premier League", "Scores"],
+        tags: ["brighton", "west-ham", "premier-league", "scores"],
         updateTime: "2025-12-11",
       },
       {
@@ -8309,7 +8309,7 @@ export const menu: Menu[] = [
         ],
         iframeUrl: "https://www.thesportsdb.com/league/4480",
         bgImg: "",
-        tags: ["UEFA", "Champions League", "UCL", "Scores"],
+        tags: ["uefa", "champions-league", "ucl", "scores"],
         updateTime: "2025-12-11",
       },
       {
@@ -8321,7 +8321,7 @@ export const menu: Menu[] = [
         seoKeywords: ["bbc", "cricket", "scores", "fixtures", "news"],
         iframeUrl: "https://r.jina.ai/https://www.bbc.com/sport/cricket",
         bgImg: "",
-        tags: ["BBC", "Cricket", "Scores", "News"],
+        tags: ["bbc", "cricket", "scores", "news"],
         updateTime: "2025-12-11",
       },
     ],

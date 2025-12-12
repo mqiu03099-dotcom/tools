@@ -10,6 +10,10 @@
     <MDescription
       :tags="tags"
       :name="name"
+      :seoTitle="seoTitle"
+      :seoDescription="seoDescription"
+      :seoKeywords="seoKeywords"
+      :moreTools="moreTools"
     />
     <div class="divider divider-primary m-0! text-[12px]!">More Tools</div>
     <MGrid>
@@ -35,7 +39,7 @@ const { data: moreTools } = await useFetch<Menu[]>("/api/getRandomTools", {
   method: "POST",
   body: {
     menu: flattenMenu(menu),
-    count: 20,
+    count: 10,
   },
 });
 
