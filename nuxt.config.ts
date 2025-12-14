@@ -70,7 +70,7 @@ export default defineNuxtConfig({
   nitro: {
     preset: "static", // 静态模式
     prerender: {
-      concurrency: 4, // 限制打包SSG任务数量，避免内存溢出
+      concurrency: 16, // 限制打包SSG任务数量，避免内存溢出
       crawlLinks: true, // 开启爬虫功能，遍历项目中所有服务端渲染的a标签
     },
   },
@@ -151,14 +151,6 @@ export default defineNuxtConfig({
     build: {
       minify: "esbuild", // 构建时是否进行代码压缩
       sourcemap: false, // 打包时是否生成 sourcemap 文件
-      rollupOptions: {
-        output: {
-          chunkFileNames: `_nuxt/[name].[hash].js`,
-          entryFileNames: "_nuxt/[name].[hash].js",
-          assetFileNames: "_nuxt/[name].[hash].[ext]",
-        },
-        cache: true, // 缓存
-      },
       cssCodeSplit: true, // 是否开启css代码分割
       chunkSizeWarningLimit: 100, // 构建时超过这个阈值的文件打包会标黄
       reportCompressedSize: true, // 构建时是否生成 gzip 压缩包
