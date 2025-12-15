@@ -8,7 +8,6 @@
   seoDescription: string;
   seoKeywords: string[];
   updateTime: string;
-  isHomeData: boolean;
   bgImg: string;
   children: Menu[];
 }>;

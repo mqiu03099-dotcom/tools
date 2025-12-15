@@ -4,7 +4,6 @@ export const menu: Menu[] = [
   {
     name: "top-ai-productivity-tools",
     nameShort: "top",
-    isHomeData: true,
     seoTitle: "Top Featuring Doubao, GitHub, ChatGPT",
     seoDescription: "Top Directory Featuring Doubao, GitHub, ChatGPT, DeepSeek And More.",
     seoKeywords: [
@@ -837,9 +836,678 @@ export const menu: Menu[] = [
     ],
   },
   {
+    name: "prompt-dec15-topics",
+    nameShort: "dec15",
+    seoTitle: "Prompt Batch Featuring Powerball, Christmas, Vikings Vs Cowboys",
+    seoDescription:
+      "Requested Categories Covering Lottery, Holidays, NFL Rivalries, Travel Spots, And Profile Lookups.",
+    seoKeywords: [
+      "powerball",
+      "christmas",
+      "hanukkah",
+      "vikings vs cowboys",
+      "bondi beach",
+      "rob reiner",
+      "brown university",
+      "mailbox rental",
+      "knives out",
+      "gpt",
+    ],
+    children: [
+      {
+        name: "powerball-lottery-drawings",
+        nameShort: "powerball",
+        seoTitle: "Powerball Lottery Numbers, Jackpot, And Drawing Schedule",
+        seoDescription:
+          "Official Powerball Feed With Current Jackpot, Winning Numbers, And Drawing Calendar For Lottery Players.",
+        seoKeywords: [
+          "powerball",
+          "lottery",
+          "power ball",
+          "jackpot",
+          "drawing schedule",
+          "powerball numbers",
+        ],
+        iframeUrl: "https://www.powerball.com/games/powerball",
+        bgImg: "",
+        tags: ["powerball", "lottery", "jackpot", "drawings", "numbers"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "christmas-holiday-guide",
+        nameShort: "christmas",
+        seoTitle: "Christmas Ideas Covering Santa, Trees, Lights, And Gift Lists",
+        seoDescription:
+          "Holiday Hub For Christmas Decor, Santa Traditions, Tree And Light Guides, Elf Fun, Reindeer Facts, And Gift Lists.",
+        seoKeywords: [
+          "christmas",
+          "santa",
+          "christmas tree",
+          "christmas lights",
+          "christmas gifts",
+          "elf",
+          "reindeer",
+        ],
+        iframeUrl: "https://www.goodhousekeeping.com/holidays/christmas-ideas/",
+        bgImg: "",
+        tags: ["christmas", "santa", "decor", "tree", "lights", "gifts", "elf", "reindeer"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "hanukkah-2025-guide",
+        nameShort: "hanukkah",
+        seoTitle: "Hanukkah 2025 Dates, First Night, Blessings, And Traditions",
+        seoDescription:
+          "Overview Of Hanukkah 2025 Including First Night Timing, Blessings, Happy Hanukkah Greetings, And Prayer References.",
+        seoKeywords: [
+          "hanukkah",
+          "hannukah",
+          "happy hanukkah",
+          "hanukkah prayer",
+          "first night of hanukkah 2025",
+        ],
+        iframeUrl: "https://www.chabad.org/holidays/chanukah/default_cdo/jewish/Hanukkah-2025.htm",
+        bgImg: "",
+        tags: ["hanukkah", "prayer", "blessings", "first-night", "happy-hanukkah"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "mailbox-rental-near-me",
+        nameShort: "mailbox",
+        seoTitle: "Mailbox Rental Near Me With UPS Store Locator",
+        seoDescription:
+          "Find Nearby Mailbox Rental Options, Street Addresses, And PO Box Alternatives Using The UPS Store Locator.",
+        seoKeywords: ["mailbox rental near me", "mailbox", "ups store", "po box", "address"],
+        iframeUrl: "https://www.theupsstore.com/tools/find-a-store",
+        bgImg: "",
+        tags: ["mailbox", "rental", "ups-store", "po-box", "locator"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "bondi-beach-guide",
+        nameShort: "bondi-beach",
+        seoTitle: "Bondi Beach Travel Guide, Surf, And Coastal Walks",
+        seoDescription:
+          "Visitor Guide For Bondi Beach Covering Surf Spots, Coastal Walk Highlights, Cafes, And Safety Tips.",
+        seoKeywords: ["bondi beach", "sydney", "surf", "coastal walk", "travel"],
+        iframeUrl: "https://www.sydney.com/destinations/sydney/sydney-east/bondi/bondi-beach",
+        bgImg: "",
+        tags: ["bondi", "beach", "sydney", "travel", "surf"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "honolulu-marathon-2025",
+        nameShort: "honolulu-marathon",
+        seoTitle: "Honolulu Marathon 2025 Registration, Course Map, And Results",
+        seoDescription:
+          "Official Honolulu Marathon Site With 2025 Registration, Course Maps, Race Day Details, And Results Links.",
+        seoKeywords: ["honolulu marathon 2025", "race", "registration", "course map", "results"],
+        iframeUrl: "https://www.honolulumarathon.org/",
+        bgImg: "",
+        tags: ["honolulu-marathon", "2025", "race", "registration"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "brown-university-safety",
+        nameShort: "brown-university",
+        seoTitle: "Brown University Alerts, Safety Notices, And Incident Updates",
+        seoDescription:
+          "Brown University Safety Portal For Alerts, Including Active Shooter Notices, Emergency Contacts, And Campus Updates.",
+        seoKeywords: ["brown university", "active shooter", "alerts", "campus safety", "security"],
+        iframeUrl: "https://alert.brown.edu/",
+        bgImg: "",
+        tags: ["brown-university", "alerts", "safety", "active-shooter", "security"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "gpt-chatgpt-overview",
+        nameShort: "gpt",
+        seoTitle: "GPT Overview With ChatGPT Access And Updates",
+        seoDescription:
+          "ChatGPT Landing Page Covering GPT Access, Product Overview, And How To Start A New Chat Session.",
+        seoKeywords: ["gpt", "chat gpt", "chatgpt", "openai", "ai chatbot"],
+        iframeUrl: "https://openai.com/chatgpt",
+        bgImg: "",
+        tags: ["gpt", "chatgpt", "openai", "ai"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "clownfish-marine-facts",
+        nameShort: "clownfish",
+        seoTitle: "Clownfish Facts, Habitat, And Reef Care",
+        seoDescription:
+          "Marine Life Guide Explaining Clownfish Species, Reef Habitats, Diet, And Symbiosis With Anemones.",
+        seoKeywords: ["clownfish", "marine life", "reef", "anemone", "fish facts"],
+        iframeUrl: "https://www.nationalgeographic.com/animals/fish/facts/clownfish",
+        bgImg: "",
+        tags: ["clownfish", "marine", "reef", "anemone"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "pet-care-dogs-cats",
+        nameShort: "dogs-cats",
+        seoTitle: "Dog And Cat Care Basics, Nutrition, And Adoption Tips",
+        seoDescription:
+          "ASPCA Pet Care Hub Covering Dog And Cat Nutrition, Training, Safety, And Adoption Resources.",
+        seoKeywords: ["dog", "dogs", "cat", "cats", "pet care", "aspca"],
+        iframeUrl: "https://www.aspca.org/pet-care",
+        bgImg: "",
+        tags: ["dog", "dogs", "cat", "cats", "pet-care"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "snake-care-basics",
+        nameShort: "snake",
+        seoTitle: "Snake Care Basics For New Keepers",
+        seoDescription:
+          "Beginner Guide To Pet Snake Care Including Habitat Setup, Temperature Control, And Feeding Schedules.",
+        seoKeywords: ["snake", "pet snake", "care guide", "habitat", "feeding"],
+        iframeUrl: "https://www.thesprucepets.com/how-to-take-care-of-pet-snakes-1239049",
+        bgImg: "",
+        tags: ["snake", "pet-care", "habitat", "feeding"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "iphone-14-15-compare",
+        nameShort: "iphone",
+        seoTitle: "iPhone 14 Vs 15 Comparison, Specs, And Upgrade Notes",
+        seoDescription:
+          "Apple Comparison Tool Detailing iPhone 14 And iPhone 15 Specs, Cameras, And Upgrade Guidance.",
+        seoKeywords: ["iphone 14", "iphone 15", "compare", "apple", "specs"],
+        iframeUrl: "https://www.apple.com/iphone/compare/",
+        bgImg: "",
+        tags: ["iphone14", "iphone15", "apple", "compare"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "google-search-home",
+        nameShort: "google",
+        seoTitle: "Google Search Homepage And Shortcuts",
+        seoDescription: "Direct Link To Google Search For Quick Queries, Images, And Web Results.",
+        seoKeywords: ["google", "search", "homepage", "queries"],
+        iframeUrl: "https://www.google.com/",
+        bgImg: "",
+        tags: ["google", "search", "homepage"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "camera-buyers-guide",
+        nameShort: "camera",
+        seoTitle: "Camera Buyer'S Guide For Beginners",
+        seoDescription:
+          "DPReview Buyer'S Guide Highlighting Beginner-friendly Cameras, Key Specs, And Pricing Tips.",
+        seoKeywords: ["camera", "buyers guide", "beginner cameras", "photography"],
+        iframeUrl: "https://www.dpreview.com/reviews/buying-guide-best-cameras-for-beginners",
+        bgImg: "",
+        tags: ["camera", "guide", "photography", "beginner"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "flowers-delivery-ideas",
+        nameShort: "flowers",
+        seoTitle: "Flowers Delivery And Bouquet Ideas",
+        seoDescription:
+          "1-800-Flowers Catalog With Delivery Options, Occasions, And Bouquet Ideas For Gifts.",
+        seoKeywords: ["flowers", "delivery", "bouquet", "gift"],
+        iframeUrl: "https://www.1800flowers.com/",
+        bgImg: "",
+        tags: ["flowers", "delivery", "bouquet", "gift"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "amazon-walmart-hobbylobby-deals",
+        nameShort: "retail-deals",
+        seoTitle: "Amazon, Walmart, And Hobby Lobby Deals Hub",
+        seoDescription:
+          "Retail Deals Hub Linking Amazon Gold Box, With Walmart And Hobby Lobby Savings In Keywords For Quick Lookups.",
+        seoKeywords: ["amazon", "walmart", "hobby lobby", "deals", "shopping"],
+        iframeUrl: "https://www.amazon.com/gp/goldbox",
+        bgImg: "",
+        tags: ["amazon", "walmart", "hobby-lobby", "deals", "shopping"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "youtube-trending-watch",
+        nameShort: "youtube",
+        seoTitle: "YouTube Trending And Popular Videos",
+        seoDescription:
+          "YouTube Trending Feed For Quick Access To Popular Videos And Live Streams.",
+        seoKeywords: ["youtube", "trending", "videos", "popular"],
+        iframeUrl: "https://www.youtube.com/feed/trending",
+        bgImg: "",
+        tags: ["youtube", "trending", "videos"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "nobel-prize-categories",
+        nameShort: "nobel-prize",
+        seoTitle: "Nobel Prize Categories And Disciplines",
+        seoDescription:
+          "Nobel Prize Official Page Listing Prize Categories, Disciplines, And Selection Notes.",
+        seoKeywords: ["nobel prize categories", "nobel", "physics", "chemistry", "peace"],
+        iframeUrl: "https://www.nobelprize.org/prizes/facts/prize-categories/",
+        bgImg: "",
+        tags: ["nobel-prize", "categories", "disciplines"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "made-in-america-gift-guide",
+        nameShort: "made-in-america",
+        seoTitle: "Made In America Gift Guide For Holiday Shopping",
+        seoDescription:
+          "Curated Made-in-America Gift Guide With Product Ideas For Holiday And Christmas Shopping.",
+        seoKeywords: ["made in america gift guide", "gift guide", "usa made", "holiday gifts"],
+        iframeUrl:
+          "https://www.countryliving.com/shopping/gifts/g27557185/made-in-america-gift-guide/",
+        bgImg: "",
+        tags: ["made-in-america", "gift-guide", "holiday"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "dicks-sporting-goods-deals",
+        nameShort: "dicks-deals",
+        seoTitle: "Dick'S Sporting Goods Deals And Weekly Savings",
+        seoDescription:
+          "Dick'S Sporting Goods Deals Page For Coupons, Clearance, And Sporting Equipment Discounts.",
+        seoKeywords: ["dicks sporting goods", "deals", "sporting goods", "coupon"],
+        iframeUrl: "https://www.dickssportinggoods.com/c/deals",
+        bgImg: "",
+        tags: ["dicks", "sporting-goods", "deals", "coupons"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "kevin-costner-the-first-christmas",
+        nameShort: "kevin-costner",
+        seoTitle: "Kevin Costner The First Christmas Coverage",
+        seoDescription:
+          "Search Digest For Kevin Costner Project “The First Christmas�?Including News And Rumors.",
+        seoKeywords: [
+          "kevin costner the first christmas",
+          "kevin costner",
+          "christmas film",
+          "movie news",
+        ],
+        iframeUrl: "https://www.bing.com/search?q=Kevin+Costner+The+First+Christmas",
+        bgImg: "",
+        tags: ["kevin-costner", "first-christmas", "movie"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "knives-out-2-glass-onion",
+        nameShort: "knives-out-2",
+        seoTitle: "Knives Out 2 Glass Onion Overview",
+        seoDescription:
+          "Glass Onion: A Knives Out Mystery Page Covering Cast, Plot, And Release Details.",
+        seoKeywords: ["knives out 2", "glass onion", "knives out", "film"],
+        iframeUrl: "https://en.wikipedia.org/wiki/Glass_Onion:_A_Knives_Out_Mystery",
+        bgImg: "",
+        tags: ["knives-out-2", "glass-onion", "film"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "knives-out-3-updates",
+        nameShort: "knives-out-3",
+        seoTitle: "Knives Out 3 Development News",
+        seoDescription:
+          "Upcoming Knives Out 3 Page With Development Status, Casting Rumors, And Release Tracking.",
+        seoKeywords: ["knives out 3", "knives out", "film", "sequel"],
+        iframeUrl: "https://en.wikipedia.org/wiki/Knives_Out_3",
+        bgImg: "",
+        tags: ["knives-out-3", "sequel", "film"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "rob-reiner-profile",
+        nameShort: "rob-reiner",
+        seoTitle: "Rob Reiner Filmography And Biography",
+        seoDescription:
+          "Rob Reiner Biography With Directing Credits, Filmography, And Family Notes Including Nick Reiner.",
+        seoKeywords: ["rob reiner", "director", "actor", "filmography", "nick reiner"],
+        iframeUrl: "https://en.wikipedia.org/wiki/Rob_Reiner",
+        bgImg: "",
+        tags: ["rob-reiner", "director", "filmography"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "nick-reiner-profile",
+        nameShort: "nick-reiner",
+        seoTitle: "Nick Reiner Writer Profile",
+        seoDescription:
+          "Nick Reiner Biography Highlighting Writing Credits, Family Background, And Notable Projects.",
+        seoKeywords: ["nick reiner", "writer", "rob reiner", "biography"],
+        iframeUrl: "https://en.wikipedia.org/wiki/Nick_Reiner",
+        bgImg: "",
+        tags: ["nick-reiner", "writer", "biography"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "peter-greene-actor-profile",
+        nameShort: "peter-greene",
+        seoTitle: "Peter Greene Actor Filmography",
+        seoDescription:
+          "Peter Greene Biography And Filmography Including Roles In The Mask And Pulp Fiction.",
+        seoKeywords: ["peter greene", "actor", "filmography", "the mask", "pulp fiction"],
+        iframeUrl: "https://en.wikipedia.org/wiki/Peter_Greene_(actor)",
+        bgImg: "",
+        tags: ["peter-greene", "actor", "filmography"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "alexa-blatt-ucla-trainer",
+        nameShort: "alexa-blatt",
+        seoTitle: "Alexa Blatt UCLA Athletic Trainer Profile",
+        seoDescription:
+          "UCLA Athletics Profile For Athletic Trainer Alexa Blatt Including Role And Background.",
+        seoKeywords: ["alexa blatt", "ucla", "trainer", "viral", "basketball"],
+        iframeUrl: "https://uclabruins.com/sports/mens-basketball/roster/staff/alexa-blatt/382",
+        bgImg: "",
+        tags: ["alexa-blatt", "ucla", "trainer"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "achuapa-municipal-club",
+        nameShort: "achuapa",
+        seoTitle: "Achuapa Municipal Football Club Fixtures And Results",
+        seoDescription:
+          "Achuapa Municipal Team Page With Fixtures, Results, And Squad Details From Soccerway.",
+        seoKeywords: ["achuapa municipal", "football", "fixtures", "results", "soccer"],
+        iframeUrl: "https://int.soccerway.com/teams/guatemala/achuapa/18845/",
+        bgImg: "",
+        tags: ["achuapa", "football", "fixtures", "results"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "vikings-vs-cowboys-record",
+        nameShort: "vikings-cowboys",
+        seoTitle: "Vikings Vs Cowboys Head-To-Head Record",
+        seoDescription:
+          "Statmuse Query Showing Minnesota Vikings Vs Dallas Cowboys Head-to-head Record And Scores.",
+        seoKeywords: ["vikings vs cowboys", "record", "nfl", "head to head"],
+        iframeUrl: "https://www.statmuse.com/nfl/ask?q=vikings+vs+cowboys+record",
+        bgImg: "",
+        tags: ["vikings", "cowboys", "nfl", "record"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "chargers-vs-chiefs-record",
+        nameShort: "chargers-chiefs",
+        seoTitle: "Chargers Vs Chiefs Rivalry Stats",
+        seoDescription:
+          "Statmuse Head-to-head For Los Angeles Chargers Against Kansas City Chiefs Including Wins And Points.",
+        seoKeywords: ["chargers vs chiefs", "nfl", "rivalry", "record", "afc west"],
+        iframeUrl: "https://www.statmuse.com/nfl/ask?q=chargers+vs+chiefs+record",
+        bgImg: "",
+        tags: ["chargers", "chiefs", "nfl", "afc-west"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "bills-vs-patriots-record",
+        nameShort: "bills-patriots",
+        seoTitle: "Bills Vs Patriots Series History",
+        seoDescription:
+          "Statmuse Head-to-head History For Buffalo Bills And New England Patriots With Score Trends.",
+        seoKeywords: ["bills vs patriots", "nfl", "record", "afc east", "rivalry"],
+        iframeUrl: "https://www.statmuse.com/nfl/ask?q=bills+vs+patriots+record",
+        bgImg: "",
+        tags: ["bills", "patriots", "nfl", "record"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "raiders-vs-eagles-record",
+        nameShort: "raiders-eagles",
+        seoTitle: "Raiders Vs Eagles Matchup History",
+        seoDescription:
+          "Statmuse Query For Las Vegas Raiders Versus Philadelphia Eagles Record And Point Totals.",
+        seoKeywords: ["raiders vs eagles", "nfl", "record", "afc nfc"],
+        iframeUrl: "https://www.statmuse.com/nfl/ask?q=raiders+vs+eagles+record",
+        bgImg: "",
+        tags: ["raiders", "eagles", "nfl", "record"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "lions-vs-rams-record",
+        nameShort: "lions-rams",
+        seoTitle: "Lions Vs Rams Head-To-Head Results",
+        seoDescription:
+          "Statmuse Head-to-head Summary For Detroit Lions Against Los Angeles Rams With Win-loss Totals.",
+        seoKeywords: ["lions vs rams", "nfl", "record", "head to head"],
+        iframeUrl: "https://www.statmuse.com/nfl/ask?q=lions+vs+rams+record",
+        bgImg: "",
+        tags: ["lions", "rams", "nfl", "record"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "packers-vs-broncos-record",
+        nameShort: "packers-broncos",
+        seoTitle: "Packers Vs Broncos Series Record",
+        seoDescription:
+          "Statmuse Head-to-head For Green Bay Packers And Denver Broncos With Win Totals And Scores.",
+        seoKeywords: ["packers vs broncos", "nfl", "record", "head to head"],
+        iframeUrl: "https://www.statmuse.com/nfl/ask?q=packers+vs+broncos+record",
+        bgImg: "",
+        tags: ["packers", "broncos", "nfl", "record"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "browns-vs-bears-record",
+        nameShort: "browns-bears",
+        seoTitle: "Browns Vs Bears Head-To-Head History",
+        seoDescription:
+          "Statmuse Summary For Cleveland Browns Vs Chicago Bears Including Scores And Margins.",
+        seoKeywords: ["browns vs bears", "nfl", "record", "history"],
+        iframeUrl: "https://www.statmuse.com/nfl/ask?q=browns+vs+bears+record",
+        bgImg: "",
+        tags: ["browns", "bears", "nfl", "record"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "colts-vs-seahawks-record",
+        nameShort: "colts-seahawks",
+        seoTitle: "Colts Vs Seahawks Series Results",
+        seoDescription:
+          "Statmuse Head-to-head For Indianapolis Colts And Seattle Seahawks With Win-loss Data.",
+        seoKeywords: ["colts vs seahawks", "nfl", "record", "head to head"],
+        iframeUrl: "https://www.statmuse.com/nfl/ask?q=colts+vs+seahawks+record",
+        bgImg: "",
+        tags: ["colts", "seahawks", "nfl", "record"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "bayern-vs-mainz-fixture",
+        nameShort: "bayern-mainz",
+        seoTitle: "Bayern Munich Vs Mainz Head-To-Head",
+        seoDescription:
+          "FC Tables Head-to-head Page For Bayern Munich Against Mainz With Recent Results.",
+        seoKeywords: ["bayern vs mainz", "bundesliga", "head to head", "fixture"],
+        iframeUrl: "https://www.fctables.com/h2h/bayern-munich/mainz/",
+        bgImg: "",
+        tags: ["bayern", "mainz", "bundesliga", "fixture"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "alaves-vs-real-madrid-fixture",
+        nameShort: "alaves-real-madrid",
+        seoTitle: "Alaves Vs Real Madrid Head-To-Head",
+        seoDescription:
+          "FC Tables Head-to-head Page For Deportivo Alaves Against Real Madrid With Match Results.",
+        seoKeywords: ["alaves real madrid", "la liga", "head to head", "fixture"],
+        iframeUrl: "https://www.fctables.com/h2h/deportivo-alaves/real-madrid/",
+        bgImg: "",
+        tags: ["alaves", "real-madrid", "la-liga", "fixture"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "army-navy-game-central",
+        nameShort: "army-navy",
+        seoTitle: "Army Navy Game Central With Tickets And History",
+        seoDescription:
+          "Official Army-Navy Game Hub Covering Tickets, History, And Game-day Information.",
+        seoKeywords: ["army navy game", "college football", "rivalry", "tickets"],
+        iframeUrl: "https://armynavygame.com/",
+        bgImg: "",
+        tags: ["army-navy", "college-football", "rivalry"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "australia-shooting-updates",
+        nameShort: "australia-shooting",
+        seoTitle: "Australia Shooting News Updates",
+        seoDescription:
+          "ABC Australia Topic Page Aggregating Shooting-related News And Safety Updates.",
+        seoKeywords: ["australia shooting", "news", "abc", "safety"],
+        iframeUrl: "https://www.abc.net.au/news/topic/shooting",
+        bgImg: "",
+        tags: ["australia", "shooting", "news"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "powerball-jackpot-tracker",
+        nameShort: "powerball-jackpot",
+        seoTitle: "Powerball Jackpot, Winning Numbers, And Payouts",
+        seoDescription:
+          "LotteryUSA Powerball Page Listing Current Jackpot, Winning Numbers Archive, And Payout Breakdowns.",
+        seoKeywords: [
+          "powerball jackpot",
+          "lottery powerball jackpot",
+          "powerball numbers",
+          "winning numbers",
+        ],
+        iframeUrl: "https://www.lotteryusa.com/powerball/",
+        bgImg: "",
+        tags: ["powerball", "jackpot", "winning-numbers", "lottery"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "powerball-drawing-schedule",
+        nameShort: "powerball-drawing",
+        seoTitle: "Powerball Drawing Days And Next Drawing Time",
+        seoDescription:
+          "Drawing Schedule For Powerball Showing Drawing Days, Cutoff Times, And Next Powerball Drawing.",
+        seoKeywords: [
+          "powerball drawing",
+          "powerball drawing days",
+          "next powerball drawing",
+          "power ball drawing",
+        ],
+        iframeUrl: "https://www.lotteryusa.com/powerball/drawing-schedule/",
+        bgImg: "",
+        tags: ["powerball", "drawing", "schedule", "next-drawing"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "powerball-numbers-archive",
+        nameShort: "powerball-numbers",
+        seoTitle: "Powerball Numbers Archive And Past Draws",
+        seoDescription:
+          "Official Powerball Numbers Archive Listing Recent Draw Results And Payouts.",
+        seoKeywords: ["powerball numbers", "powerball drawing", "powerball archive", "lottery"],
+        iframeUrl: "https://www.powerball.com/games/history",
+        bgImg: "",
+        tags: ["powerball", "numbers", "archive", "lottery"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "christmas-tree-ideas",
+        nameShort: "christmas-tree",
+        seoTitle: "Christmas Tree Decorating And Buying Guide",
+        seoDescription:
+          "Better Homes And Gardens Guide For Choosing And Decorating Christmas Trees With Style Tips.",
+        seoKeywords: ["christmas tree", "decorating", "holiday", "guide"],
+        iframeUrl: "https://www.bhg.com/christmas-trees/",
+        bgImg: "",
+        tags: ["christmas", "tree", "decorating", "holiday"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "christmas-lights-guide",
+        nameShort: "christmas-lights",
+        seoTitle: "Christmas Lights Ideas And Outdoor Displays",
+        seoDescription:
+          "House Beautiful Roundup Of Christmas Lights Ideas For Indoor And Outdoor Displays.",
+        seoKeywords: ["christmas lights", "holiday lights", "decor", "outdoor"],
+        iframeUrl:
+          "https://www.housebeautiful.com/room-decorating/outdoor-ideas/g27538521/best-christmas-lights/",
+        bgImg: "",
+        tags: ["christmas", "lights", "decor"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "elf-on-the-shelf-ideas",
+        nameShort: "elf-ideas",
+        seoTitle: "Elf On The Shelf Ideas And Printables",
+        seoDescription:
+          "Elf On The Shelf Official Ideas Hub With Daily Prompts, Printables, And Family Activities.",
+        seoKeywords: ["elf", "elf on the shelf", "christmas elf", "ideas"],
+        iframeUrl: "https://www.elfontheshelf.com/ideas",
+        bgImg: "",
+        tags: ["elf", "christmas", "ideas"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "reindeer-facts-guide",
+        nameShort: "reindeer",
+        seoTitle: "Reindeer Facts And Habitat Basics",
+        seoDescription:
+          "National Geographic Reindeer Guide Covering Species Facts, Habitat, Diet, And Migration.",
+        seoKeywords: ["reindeer", "facts", "christmas reindeer", "wildlife"],
+        iframeUrl: "https://www.nationalgeographic.com/animals/mammals/facts/reindeer",
+        bgImg: "",
+        tags: ["reindeer", "wildlife", "christmas"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "hobby-lobby-weekly-ad",
+        nameShort: "hobby-lobby",
+        seoTitle: "Hobby Lobby Weekly Ad And Coupons",
+        seoDescription:
+          "Hobby Lobby Weekly Ad With Current Coupons And Promotions For Crafts And Decor.",
+        seoKeywords: ["hobby lobby", "weekly ad", "coupon", "crafts", "decor"],
+        iframeUrl: "https://www.hobbylobby.com/weeklyad",
+        bgImg: "",
+        tags: ["hobby-lobby", "weekly-ad", "coupons"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "real-madrid-vs-man-city",
+        nameShort: "realmadrid-mancity-h2h",
+        seoTitle: "Real Madrid Vs Manchester City Head-To-Head",
+        seoDescription:
+          "FC Tables Head-to-head For Real Madrid Against Manchester City With Recent Matches And Results.",
+        seoKeywords: ["real madrid vs man city", "champions league", "head to head", "fixtures"],
+        iframeUrl: "https://www.fctables.com/h2h/manchester-city/real-madrid/",
+        bgImg: "",
+        tags: ["real-madrid", "man-city", "champions-league", "fixture"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "brown-university-emergency",
+        nameShort: "brown-emergency",
+        seoTitle: "Brown University Emergency Updates",
+        seoDescription:
+          "Brown Emergency Page Listing Active Alerts, Including Active Shooter Notices And Safety Resources.",
+        seoKeywords: ["brown university active shooter", "brown university", "emergency", "alerts"],
+        iframeUrl: "https://emergency.brown.edu/",
+        bgImg: "",
+        tags: ["brown-university", "emergency", "active-shooter", "alerts"],
+        updateTime: "2025-12-15",
+      },
+      {
+        name: "michigan-football-coach-profile",
+        nameShort: "michigan-coach",
+        seoTitle: "Michigan Football Head Coach Profile",
+        seoDescription:
+          "Official Michigan Football Coaching Staff Page Featuring Head Coach Sherrone Moore Bio And Staff Contacts.",
+        seoKeywords: ["michigan football coach", "sherrone moore", "coach", "bio"],
+        iframeUrl: "https://mgoblue.com/sports/football/coaches",
+        bgImg: "",
+        tags: ["michigan", "football", "coach", "sherrone-moore"],
+        updateTime: "2025-12-15",
+      },
+    ],
+  },
+  {
     name: "essential-office-productivity-tools",
     nameShort: "essential",
-    isHomeData: true,
     seoTitle: "Essential Featuring Microsoft, Microsoft Word, Microsoft",
     seoDescription:
       "Essential Directory Featuring Microsoft, Microsoft Word, Microsoft Powerpoint, Microsoft Outlook And More.",
@@ -1021,7 +1689,6 @@ export const menu: Menu[] = [
   {
     name: "kpop-demon-hunters",
     nameShort: "kpop",
-    isHomeData: true,
     seoTitle: "Kpop Featuring Kpop Wiki, Kpop Variety, Kpop Animationmag",
     seoDescription: "Kpop Directory Featuring Kpop Wiki, Kpop Variety, Kpop Animationmag And More.",
     seoKeywords: ["kpop", "demon", "hunters", "wikipedia", "variety", "animation", "magazine"],
@@ -1107,7 +1774,6 @@ export const menu: Menu[] = [
   {
     name: "grol-license-prep",
     nameShort: "grol",
-    isHomeData: true,
     seoTitle: "Grol Featuring Fcc Grol, Qrz Grol, Grol Guide",
     seoDescription: "Grol Directory Featuring Fcc Grol, Qrz Grol, Grol Guide And More.",
     seoKeywords: [
@@ -1202,7 +1868,6 @@ export const menu: Menu[] = [
   {
     name: "nintendo-switch-2",
     nameShort: "switch2",
-    isHomeData: true,
     seoTitle: "Switch2 Featuring Tomsguide Switch2, Vgc Switch2, Gamesradar",
     seoDescription:
       "Switch2 Directory Featuring Tomsguide Switch2, Vgc Switch2, Gamesradar Switch2 And More.",
@@ -1288,7 +1953,6 @@ export const menu: Menu[] = [
   {
     name: "wicked-for-good",
     nameShort: "for-good",
-    isHomeData: true,
     seoTitle: "For Good Featuring Wicked Site, For Good Wiki, For Good Genius",
     seoDescription:
       "For Good Directory Featuring Wicked Site, For Good Wiki, For Good Genius And More.",
@@ -1383,7 +2047,6 @@ export const menu: Menu[] = [
   {
     name: "welcome-to-derry",
     nameShort: "derry",
-    isHomeData: true,
     seoTitle: "Derry Featuring Derry Wiki, Derry Thr, Derry Fandom",
     seoDescription: "Derry Directory Featuring Derry Wiki, Derry Thr, Derry Fandom And More.",
     seoKeywords: [
@@ -1477,7 +2140,6 @@ export const menu: Menu[] = [
   {
     name: "zootopia-2",
     nameShort: "zootopia2",
-    isHomeData: true,
     seoTitle: "Zootopia2 Featuring Zootopia2 Wiki, Zootopia2 Wodp, Zootopia2",
     seoDescription:
       "Zootopia2 Directory Featuring Zootopia2 Wiki, Zootopia2 Wodp, Zootopia2 Screenrant And More.",
@@ -1563,7 +2225,6 @@ export const menu: Menu[] = [
   {
     name: "stranger-things-season5",
     nameShort: "stranger-things",
-    isHomeData: true,
     seoTitle: "Stranger Things Featuring St5 Wiki, St5 Tudum, St5 Gamesradar",
     seoDescription:
       "Stranger Things Directory Featuring St5 Wiki, St5 Tudum, St5 Gamesradar And More.",
@@ -1658,7 +2319,6 @@ export const menu: Menu[] = [
   {
     name: "lane-kiffin",
     nameShort: "kiffin",
-    isHomeData: true,
     seoTitle: "Kiffin Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats",
     seoDescription:
       "Kiffin Directory Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats And More.",
@@ -1744,7 +2404,6 @@ export const menu: Menu[] = [
   {
     name: "tiempo-de-manana",
     nameShort: "tiempo",
-    isHomeData: true,
     seoTitle: "Tiempo Featuring Accuweather Es, Eltiempo, Meteored",
     seoDescription: "Tiempo Directory Featuring Accuweather Es, Eltiempo, Meteored And More.",
     seoKeywords: ["tiempo", "manana", "accuweather", "espanol", "eltiempo", "meteored", "global"],
@@ -1801,7 +2460,6 @@ export const menu: Menu[] = [
   {
     name: "tvapp",
     nameShort: "tvapp",
-    isHomeData: true,
     seoTitle: "Tvapp Featuring Apple Tv, Youtube Tv, Plex Tv",
     seoDescription: "Tvapp Directory Featuring Apple Tv, Youtube Tv, Plex Tv And More.",
     seoKeywords: ["tvapp", "apple", "youtube", "plex"],
@@ -1886,7 +2544,6 @@ export const menu: Menu[] = [
   {
     name: "ai-detection-tools",
     nameShort: "ai-detector",
-    isHomeData: true,
     seoTitle: "AI Detector Featuring Gptzero, Zerogpt, Contentatscale",
     seoDescription: "AI Detector Directory Featuring Gptzero, Zerogpt, Contentatscale And More.",
     seoKeywords: [
@@ -1980,7 +2637,6 @@ export const menu: Menu[] = [
   {
     name: "eagles-vs-cowboys",
     nameShort: "eagles-cowboys",
-    isHomeData: true,
     seoTitle: "Eagles Cowboys Featuring Statmuse Rivalry, Pfr Rivalry, Nfl",
     seoDescription:
       "Eagles Cowboys Directory Featuring Statmuse Rivalry, Pfr Rivalry, Nfl Highlights And More.",
@@ -2063,7 +2719,6 @@ export const menu: Menu[] = [
   {
     name: "google-doc",
     nameShort: "google-doc",
-    isHomeData: true,
     seoTitle: "Google Doc Featuring Docs Product, Docs Support, Docs API",
     seoDescription: "Google Doc Directory Featuring Docs Product, Docs Support, Docs API And More.",
     seoKeywords: ["google doc", "google", "doc", "docs", "product", "support", "api"],
@@ -2143,7 +2798,6 @@ export const menu: Menu[] = [
   {
     name: "notre-dame-football",
     nameShort: "notre-dame",
-    isHomeData: true,
     seoTitle: "Notre Dame Featuring Fightingirish, Notre Dame Espn, Notre Dame",
     seoDescription:
       "Notre Dame Directory Featuring Fightingirish, Notre Dame Espn, Notre Dame 247 And More.",
@@ -2239,7 +2893,6 @@ export const menu: Menu[] = [
   {
     name: "ohio-state-football",
     nameShort: "ohio-state",
-    isHomeData: true,
     seoTitle: "Ohio State Featuring Buckeyes Official, Ohio State Espn",
     seoDescription:
       "Ohio State Directory Featuring Buckeyes Official, Ohio State Espn, Elevenwarriors And More.",
@@ -2335,7 +2988,6 @@ export const menu: Menu[] = [
   {
     name: "leading-frontend-frameworks",
     nameShort: "leading",
-    isHomeData: true,
     seoTitle: "Leading Featuring Vue, React, Angular",
     seoDescription: "Leading Directory Featuring Vue, React, Angular, Svelte And More.",
     seoKeywords: [
@@ -2455,7 +3107,6 @@ export const menu: Menu[] = [
   {
     name: "best-backend-api-frameworks",
     nameShort: "best",
-    isHomeData: true,
     seoTitle: "Best Featuring Spring, Laravel, Fastapi",
     seoDescription: "Best Directory Featuring Spring, Laravel, Fastapi, Nestjs And More.",
     seoKeywords: [
@@ -2575,7 +3226,6 @@ export const menu: Menu[] = [
   {
     name: "top-ev-new-energy-brands",
     nameShort: "top-ev",
-    isHomeData: true,
     seoTitle: "Top Ev Featuring Zeekr, Neta, Voyah",
     seoDescription: "Top Ev Directory Featuring Zeekr, Neta, Voyah, Gwm And More.",
     seoKeywords: [
@@ -2723,7 +3373,6 @@ export const menu: Menu[] = [
   {
     name: "fortune-global-500-leaders",
     nameShort: "fortune",
-    isHomeData: true,
     seoTitle: "Fortune Featuring Walmart, Saudi, Amazon Ecommerce",
     seoDescription: "Fortune Directory Featuring Walmart, Saudi, Amazon Ecommerce, Apple And More.",
     seoKeywords: [
@@ -2871,7 +3520,6 @@ export const menu: Menu[] = [
   {
     name: "free-online-file-converters",
     nameShort: "free",
-    isHomeData: true,
     seoTitle: "Free Featuring Aconvert, Freefileconvert, Filesconversion",
     seoDescription:
       "Free Directory Featuring Aconvert, Freefileconvert, Filesconversion, Docspal And More.",
@@ -3020,7 +3668,6 @@ export const menu: Menu[] = [
   {
     name: "online-image-conversion-tools",
     nameShort: "online-image",
-    isHomeData: true,
     seoTitle: "Online Image Featuring Iloveimg, Imagetopdf, Photopea",
     seoDescription:
       "Online Image Directory Featuring Iloveimg, Imagetopdf, Photopea, Convert And More.",
@@ -3169,7 +3816,6 @@ export const menu: Menu[] = [
   {
     name: "fortune-china-500-top50",
     nameShort: "fortune-china",
-    isHomeData: true,
     seoTitle: "Fortune China Featuring Sinopec, State, Petrochina",
     seoDescription: "Fortune China Directory Featuring Sinopec, State, Petrochina, Cscec And More.",
     seoKeywords: [
@@ -4426,7 +5072,6 @@ export const menu: Menu[] = [
   {
     name: "image-compression-tools",
     nameShort: "image",
-    isHomeData: true,
     seoTitle: "Image Featuring Tinypng, Compressjpeg, Squoosh",
     seoDescription: "Image Directory Featuring Tinypng, Compressjpeg, Squoosh, Kraken And More.",
     seoKeywords: [
@@ -4560,7 +5205,6 @@ export const menu: Menu[] = [
   {
     name: "youtube-growth-tools",
     nameShort: "youtube",
-    isHomeData: true,
     seoTitle: "Youtube Featuring Tubebuddy, Vidiq, Canva",
     seoDescription: "Youtube Directory Featuring Tubebuddy, Vidiq, Canva, Epidemic And More.",
     seoKeywords: [
@@ -4708,7 +5352,6 @@ export const menu: Menu[] = [
   {
     name: "2025-trend-reports",
     nameShort: "trend",
-    isHomeData: true,
     seoTitle: "Trend Featuring Gartner, Mckinsey, Accenture",
     seoDescription: "Trend Directory Featuring Gartner, Mckinsey, Accenture, Wef And More.",
     seoKeywords: [
@@ -4856,7 +5499,6 @@ export const menu: Menu[] = [
   {
     name: "deepseek-updates-resources",
     nameShort: "deepseek-updates",
-    isHomeData: true,
     seoTitle: "DeepSeek Updates Featuring DeepSeek Official, DeepSeek GitHub",
     seoDescription:
       "DeepSeek Updates Directory Featuring DeepSeek Official, DeepSeek GitHub, DeepSeek Huggingface, DeepSeek Research And More.",
@@ -4979,7 +5621,6 @@ export const menu: Menu[] = [
   {
     name: "slot-gacor-guides",
     nameShort: "slot",
-    isHomeData: true,
     seoTitle: "Slot Featuring Slotcatalog, Askgamblers, Pragmatic",
     seoDescription:
       "Slot Directory Featuring Slotcatalog, Askgamblers, Pragmatic, Slottracker And More.",
@@ -5128,7 +5769,6 @@ export const menu: Menu[] = [
   {
     name: "iphone17-latest-leaks",
     nameShort: "iphone17",
-    isHomeData: true,
     seoTitle: "Iphone17 Featuring Macrumors, 9to5mac, Techradar",
     seoDescription:
       "Iphone17 Directory Featuring Macrumors, 9To5mac, Techradar, Gsmarena And More.",
@@ -5276,7 +5916,6 @@ export const menu: Menu[] = [
   {
     name: "gemini-ai",
     nameShort: "gemini-ai",
-    isHomeData: true,
     seoTitle: "Gemini AI Featuring Gemini Advanced, Gemini API, Gemini App",
     seoDescription:
       "Gemini AI Directory Featuring Gemini Advanced, Gemini API, Gemini App, Gemini Workspace And More.",
@@ -5419,7 +6058,6 @@ export const menu: Menu[] = [
   {
     name: "mahjong333",
     nameShort: "mahjong333",
-    isHomeData: true,
     seoTitle: "Mahjong333 Featuring Mahjong333 Online, Mahjong333 Mobile",
     seoDescription:
       "Mahjong333 Directory Featuring Mahjong333 Online, Mahjong333 Mobile, Mahjong333 Strategy, Mahjong333 Tournament And More.",
@@ -5564,7 +6202,6 @@ export const menu: Menu[] = [
   {
     name: "black-friday2025",
     nameShort: "black",
-    isHomeData: true,
     seoTitle: "Black Featuring Black Friday2025, Black Friday2025 Bestbuy",
     seoDescription:
       "Black Directory Featuring Black Friday2025, Black Friday2025 Bestbuy, Black Friday2025 Walmart, Black Friday2025 Target And More.",
@@ -5700,7 +6337,6 @@ export const menu: Menu[] = [
   {
     name: "spotify",
     nameShort: "spotify",
-    isHomeData: true,
     seoTitle: "Spotify Featuring Spotify Premium, Spotify For, Spotify Podcasts",
     seoDescription:
       "Spotify Directory Featuring Spotify Premium, Spotify For, Spotify Podcasts, Spotify Wrapped And More.",
@@ -5845,7 +6481,6 @@ export const menu: Menu[] = [
   {
     name: "chatgpt",
     nameShort: "chatgpt-hub",
-    isHomeData: true,
     seoTitle: "ChatGPT Hub Featuring ChatGPT Plus, ChatGPT Enterprise, ChatGPT",
     seoDescription:
       "ChatGPT Hub Directory Featuring ChatGPT Plus, ChatGPT Enterprise, ChatGPT API, ChatGPT Plugins And More.",
@@ -5989,7 +6624,6 @@ export const menu: Menu[] = [
   {
     name: "global-productivity-essentials",
     nameShort: "productivity",
-    isHomeData: true,
     seoTitle: "Productivity Featuring Todoist, Trello, Asana",
     seoDescription: "Productivity Directory Featuring Todoist, Trello, Asana, Clickup And More.",
     seoKeywords: [
@@ -7203,7 +7837,6 @@ export const menu: Menu[] = [
   {
     name: "ai-creation-suite",
     nameShort: "ai-suite",
-    isHomeData: true,
     seoTitle: "AI Suite Featuring Runway, HeyGen, Pika",
     seoDescription: "AI Suite Directory Featuring Runway, HeyGen, Pika, Synthesia And More.",
     seoKeywords: [
@@ -8119,7 +8752,7 @@ export const menu: Menu[] = [
         seoDescription:
           "K-Pop: Demon Hunters Plot Summary, Cast Notes, Production Updates, And Release Details.",
         seoKeywords: ["kpop", "demon hunters", "animation", "film", "korean", "movie"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/K-Pop:_Demon_Hunters",
+        iframeUrl: "https://en.wikipedia.org/wiki/K-Pop:_Demon_Hunters",
         bgImg: "",
         tags: ["kpop", "demon-hunters", "animation", "film"],
         updateTime: "2025-12-11",
@@ -8143,7 +8776,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Official Sophie Kinsella Site Covering New Releases, Book Series Summaries, And Author Updates.",
         seoKeywords: ["sophie kinsella", "author", "books", "chick lit", "shopaholic", "novelist"],
-        iframeUrl: "https://r.jina.ai/https://www.sophiekinsella.co.uk/",
+        iframeUrl: "https://www.sophiekinsella.co.uk/",
         bgImg: "",
         tags: ["sophie-kinsella", "author", "books", "shopaholic"],
         updateTime: "2025-12-11",
@@ -8180,7 +8813,7 @@ export const menu: Menu[] = [
           "Winner Recap, Finalists, And Headline Moments From The 2025 I'm A Celebrity...Get Me Out Of Here Series.",
         seoKeywords: ["i'm a celeb", "2025 winner", "reality tv", "itv", "finale", "results"],
         iframeUrl:
-          "https://r.jina.ai/https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-winners-list/",
+          "https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-winners-list/",
         bgImg: "",
         tags: ["a-celeb", "reality-tv", "winner", "itv"],
         updateTime: "2025-12-11",
@@ -8216,8 +8849,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Projected World Cup 2026 Draw Pots, Host Cities, And Tournament Schedule Overview.",
         seoKeywords: ["world cup 2026", "draw", "fifa", "pots", "schedule", "canada mexico usa"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+        iframeUrl: "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
         bgImg: "",
         tags: ["world-cup-2026", "draw", "fifa", "tournament"],
         updateTime: "2025-12-11",
@@ -8229,7 +8861,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Liverpool Forward Mohamed Salah Biography, Stats, And Latest News From The Official Club Site.",
         seoKeywords: ["mohamed salah", "liverpool", "premier league", "forward", "stats"],
-        iframeUrl: "https://r.jina.ai/https://www.liverpoolfc.com/team/mens/player/mohamed-salah",
+        iframeUrl: "https://www.liverpoolfc.com/team/mens/player/mohamed-salah",
         bgImg: "",
         tags: ["mohamed-salah", "liverpool", "premier-league", "forward"],
         updateTime: "2025-12-11",
@@ -8252,7 +8884,7 @@ export const menu: Menu[] = [
         seoTitle: "Lando Norris Formula 1 Driver Profile And Results",
         seoDescription: "McLaren F1 Driver Lando Norris Stats, Biography, And Recent Race Results.",
         seoKeywords: ["lando norris", "f1", "mclaren", "driver", "results", "standings"],
-        iframeUrl: "https://r.jina.ai/https://www.formula1.com/en/drivers/lando-norris.html",
+        iframeUrl: "https://www.formula1.com/en/drivers/lando-norris.html",
         bgImg: "",
         tags: ["lando-norris", "f1", "mclaren", "driver"],
         updateTime: "2025-12-11",
@@ -8276,7 +8908,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Overview Of The 2026 FIFA World Cup In USA, Canada, And Mexico Including Format Changes, Venues, And Key Dates.",
         seoKeywords: ["2026 world cup", "fifa", "usa", "canada", "mexico", "format"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+        iframeUrl: "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
         bgImg: "",
         tags: ["world-cup-2026", "fifa", "soccer", "tournament"],
         updateTime: "2025-12-11",
@@ -8319,7 +8951,7 @@ export const menu: Menu[] = [
         seoDescription:
           "BBC Sport Cricket Page With Live Scores, Series Schedules, And Headlines Across Formats.",
         seoKeywords: ["bbc", "cricket", "scores", "fixtures", "news"],
-        iframeUrl: "https://r.jina.ai/https://www.bbc.com/sport/cricket",
+        iframeUrl: "https://www.bbc.com/sport/cricket",
         bgImg: "",
         tags: ["bbc", "cricket", "scores", "news"],
         updateTime: "2025-12-11",
@@ -8331,7 +8963,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Comprehensive Look At Former NFL Quarterback Philip Rivers Including Career Stats, Teams, Awards, And Post-retirement News.",
         seoKeywords: ["philip rivers", "nfl", "quarterback", "chargers", "stats", "biography"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/Philip_Rivers",
+        iframeUrl: "https://en.wikipedia.org/wiki/Philip_Rivers",
         bgImg: "",
         tags: ["philip-rivers", "nfl", "quarterback", "chargers"],
         updateTime: "2025-12-13",
@@ -8350,7 +8982,7 @@ export const menu: Menu[] = [
           "wife",
           "career",
         ],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/Sherrone_Moore",
+        iframeUrl: "https://en.wikipedia.org/wiki/Sherrone_Moore",
         bgImg: "",
         tags: ["sherrone-moore", "michigan", "head-coach", "bio"],
         updateTime: "2025-12-13",
@@ -8362,7 +8994,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Character Background For Dorothy Gale From The Wizard Of Oz With Story Origins, Adaptations, And Cultural Impact.",
         seoKeywords: ["dorothy gale", "wizard of oz", "character", "film", "l frank baum"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/Dorothy_Gale",
+        iframeUrl: "https://en.wikipedia.org/wiki/Dorothy_Gale",
         bgImg: "",
         tags: ["dorothy-gale", "wizard-of-oz", "character"],
         updateTime: "2025-12-13",
@@ -8387,7 +9019,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Dictionary Entry Explaining The Meaning Of Pars With Usage Examples And Word Origin Notes.",
         seoKeywords: ["pars meaning", "definition", "dictionary", "usage", "origin"],
-        iframeUrl: "https://r.jina.ai/https://www.collinsdictionary.com/dictionary/english/pars",
+        iframeUrl: "https://www.collinsdictionary.com/dictionary/english/pars",
         bgImg: "",
         tags: ["pars", "definition", "meaning", "dictionary"],
         updateTime: "2025-12-13",
@@ -8400,7 +9032,7 @@ export const menu: Menu[] = [
           "Coverage Of Michigan Football Staffer Paige Shiver With Role Details, Background, And Recent News Links.",
         seoKeywords: ["paige shiver", "michigan football", "staff", "sherrone moore", "news"],
         iframeUrl:
-          "https://r.jina.ai/https://sports.yahoo.com/articles/paige-shiver-executive-assistant-fired-130647815.html",
+          "https://sports.yahoo.com/articles/paige-shiver-executive-assistant-fired-130647815.html",
         bgImg: "",
         tags: ["paige-shiver", "michigan-football", "staffer", "news"],
         updateTime: "2025-12-13",
@@ -8412,7 +9044,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Overview Of David Lynch's Film Mulholland Drive Including Plot Synopsis, Cast, Production Notes, And Critical Reception.",
         seoKeywords: ["mulholland drive", "film", "david lynch", "plot", "cast", "analysis"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/Mulholland_Drive_(film)",
+        iframeUrl: "https://en.wikipedia.org/wiki/Mulholland_Drive_(film)",
         bgImg: "",
         tags: ["mulholland-drive", "film", "david-lynch"],
         updateTime: "2025-12-13",
@@ -8424,7 +9056,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Information On The Iron Lung Horror Film Adaptation With Production Background, Cast, And Release Updates.",
         seoKeywords: ["iron lung", "movie", "horror", "film", "release", "cast"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/Iron_Lung_(film)",
+        iframeUrl: "https://en.wikipedia.org/wiki/Iron_Lung_(film)",
         bgImg: "",
         tags: ["iron-lung", "horror", "film"],
         updateTime: "2025-12-13",
@@ -8491,8 +9123,7 @@ export const menu: Menu[] = [
           "chargers",
           "quarterback",
         ],
-        iframeUrl:
-          "https://r.jina.ai/https://www.pro-football-reference.com/players/R/RivePh00.htm",
+        iframeUrl: "https://www.pro-football-reference.com/players/R/RivePh00.htm",
         bgImg: "",
         tags: ["philip-rivers", "stats", "nfl", "chargers"],
         updateTime: "2025-12-13",
@@ -8516,7 +9147,7 @@ export const menu: Menu[] = [
         seoDescription:
           "University Of Michigan Official Bio Page For Head Coach Sherrone Moore With Career Timeline And Contact.",
         seoKeywords: ["sherrone moore", "michigan", "coach", "bio", "staff directory"],
-        iframeUrl: "https://r.jina.ai/https://mgoblue.com/staff-directory/sherrone-moore/3799",
+        iframeUrl: "https://mgoblue.com/staff-directory/sherrone-moore/3799",
         bgImg: "",
         tags: ["sherrone-moore", "michigan", "coach", "bio"],
         updateTime: "2025-12-13",
@@ -8529,7 +9160,7 @@ export const menu: Menu[] = [
           "On3 Coverage Of Sherrone Moore With Career Updates, Coaching Moves, And Team News At Michigan.",
         seoKeywords: ["sherrone moore", "michigan", "coach", "on3", "news"],
         iframeUrl:
-          "https://r.jina.ai/https://www.on3.com/college/michigan-wolverines/news/sherrone-moore-named-michigan-interim-head-coach/",
+          "https://www.on3.com/college/michigan-wolverines/news/sherrone-moore-named-michigan-interim-head-coach/",
         bgImg: "",
         tags: ["sherrone-moore", "michigan", "coach", "news"],
         updateTime: "2025-12-13",
@@ -8542,7 +9173,7 @@ export const menu: Menu[] = [
           "Background On Ashley Moore, Wife Of Michigan Head Coach Sherrone Moore, Including Family And Public Appearances.",
         seoKeywords: ["sherrone moore wife", "ashley moore", "michigan coach", "family"],
         iframeUrl:
-          "https://r.jina.ai/https://www.essentiallysports.com/ncaa-football-news-who-is-ashley-moore-meet-michigan-football-head-coach-sherrone-moores-wife/",
+          "https://www.essentiallysports.com/ncaa-football-news-who-is-ashley-moore-meet-michigan-football-head-coach-sherrone-moores-wife/",
         bgImg: "",
         tags: ["sherrone-moore", "wife", "ashley-moore", "michigan"],
         updateTime: "2025-12-13",
@@ -8554,7 +9185,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Official Michigan Wolverines Football Page With Coaching Staff, Schedule, Roster, And News.",
         seoKeywords: ["michigan football coach", "michigan wolverines", "schedule", "staff"],
-        iframeUrl: "https://r.jina.ai/https://mgoblue.com/sports/football",
+        iframeUrl: "https://mgoblue.com/sports/football",
         bgImg: "",
         tags: ["michigan", "football", "coach", "wolverines"],
         updateTime: "2025-12-13",
@@ -8567,7 +9198,7 @@ export const menu: Menu[] = [
           "Men's Journal Report On Paige Shiver And Her Role In Michigan Football Staff Headlines.",
         seoKeywords: ["paige shiver", "michigan", "staffer", "news", "mens journal"],
         iframeUrl:
-          "https://r.jina.ai/https://www.mensjournal.com/sports/paige-shiver-police-rushed-to-michigan-house-of-sherrone-moores-executive-assistant-reports-say",
+          "https://www.mensjournal.com/sports/paige-shiver-police-rushed-to-michigan-house-of-sherrone-moores-executive-assistant-reports-say",
         bgImg: "",
         tags: ["paige-shiver", "michigan", "staff", "news"],
         updateTime: "2025-12-13",
@@ -8579,8 +9210,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Marca Article Detailing Paige Shiver'S Background And Connection To Michigan Football News.",
         seoKeywords: ["paige shiver", "michigan football", "marca", "news"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.marca.com/en/ncaa/2025/12/11/693aa6fb22601d65318b45e7.html",
+        iframeUrl: "https://www.marca.com/en/ncaa/2025/12/11/693aa6fb22601d65318b45e7.html",
         bgImg: "",
         tags: ["paige-shiver", "michigan", "news", "marca"],
         updateTime: "2025-12-13",
@@ -8593,7 +9223,7 @@ export const menu: Menu[] = [
           "Recap Of The 2020 AFC Divisional Game Houston Texans Vs Kansas City Chiefs With Scoring Summary.",
         seoKeywords: ["texans vs chiefs", "afc playoffs", "nfl", "divisional round", "recap"],
         iframeUrl:
-          "https://r.jina.ai/https://en.wikipedia.org/wiki/2019%E2%80%9320_NFL_playoffs#AFC:_Kansas_City_Chiefs_51,_Houston_Texans_31",
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_NFL_playoffs#AFC:_Kansas_City_Chiefs_51,_Houston_Texans_31",
         bgImg: "",
         tags: ["nfl", "texans", "chiefs", "playoffs"],
         updateTime: "2025-12-13",
@@ -8605,7 +9235,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Game Center Page For Atlanta Falcons Vs Tampa Bay Buccaneers With Live Score And Stats.",
         seoKeywords: ["falcons vs buccaneers", "nfl", "espn", "gamecenter", "scores"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/game/_/gameId/401671742",
+        iframeUrl: "https://www.espn.com/nfl/game/_/gameId/401671742",
         bgImg: "",
         tags: ["nfl", "falcons", "buccaneers", "espn"],
         updateTime: "2025-12-13",
@@ -8617,8 +9247,7 @@ export const menu: Menu[] = [
         seoDescription:
           "History Of The Pittsburgh Steelers And Baltimore Ravens Rivalry With Series Records And Notable Games.",
         seoKeywords: ["steelers vs ravens", "rivalry", "nfl", "history", "afc north"],
-        iframeUrl:
-          "https://r.jina.ai/https://en.wikipedia.org/wiki/Ravens%E2%80%93Steelers_rivalry",
+        iframeUrl: "https://en.wikipedia.org/wiki/Ravens%E2%80%93Steelers_rivalry",
         bgImg: "",
         tags: ["nfl", "steelers", "ravens", "rivalry"],
         updateTime: "2025-12-13",
@@ -8630,8 +9259,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Game Page For Georgia Vs Alabama With Scoreline, Drive Chart, And Team Stats.",
         seoKeywords: ["georgia vs alabama", "sec", "espn", "college football", "scores"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.espn.com/college-football/game/_/gameId/401550368",
+        iframeUrl: "https://www.espn.com/college-football/game/_/gameId/401550368",
         bgImg: "",
         tags: ["college-football", "georgia", "alabama", "espn"],
         updateTime: "2025-12-13",
@@ -8643,8 +9271,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Overview Of The Bengals Bills Rivalry Including Historical Results And Notable Matchups.",
         seoKeywords: ["bengals vs bills", "rivalry", "nfl", "history"],
-        iframeUrl:
-          "https://r.jina.ai/https://en.wikipedia.org/wiki/Buffalo_Bills%E2%80%93Cincinnati_Bengals_rivalry",
+        iframeUrl: "https://en.wikipedia.org/wiki/Buffalo_Bills%E2%80%93Cincinnati_Bengals_rivalry",
         bgImg: "",
         tags: ["nfl", "bengals", "bills", "rivalry"],
         updateTime: "2025-12-13",
@@ -8657,7 +9284,7 @@ export const menu: Menu[] = [
           "UEFA Champions League Match Hub For Real Madrid Vs Manchester City With Lineups And Match Facts.",
         seoKeywords: ["real madrid vs man city", "uefa", "champions league", "match hub"],
         iframeUrl:
-          "https://r.jina.ai/https://www.uefa.com/uefachampionsleague/match/2036787--real-madrid-vs-man-city/",
+          "https://www.uefa.com/uefachampionsleague/match/2036787--real-madrid-vs-man-city/",
         bgImg: "",
         tags: ["real-madrid", "man-city", "champions-league", "uefa"],
         updateTime: "2025-12-13",
@@ -8669,7 +9296,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Historical Overview Of The Bears Packers Rivalry With Series Record And Iconic Games.",
         seoKeywords: ["bears vs packers", "rivalry", "nfl", "history"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/Bears%E2%80%93Packers_rivalry",
+        iframeUrl: "https://en.wikipedia.org/wiki/Bears%E2%80%93Packers_rivalry",
         bgImg: "",
         tags: ["nfl", "bears", "packers", "rivalry"],
         updateTime: "2025-12-13",
@@ -8681,8 +9308,7 @@ export const menu: Menu[] = [
         seoDescription:
           "History Of The Denver Broncos And Las Vegas Raiders Rivalry With Key Moments And Series Record.",
         seoKeywords: ["broncos vs raiders", "rivalry", "nfl", "afc west"],
-        iframeUrl:
-          "https://r.jina.ai/https://en.wikipedia.org/wiki/Broncos%E2%80%93Raiders_rivalry",
+        iframeUrl: "https://en.wikipedia.org/wiki/Broncos%E2%80%93Raiders_rivalry",
         bgImg: "",
         tags: ["nfl", "broncos", "raiders", "rivalry"],
         updateTime: "2025-12-13",
@@ -8694,8 +9320,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Overview Of The Atlanta Falcons And Tampa Bay Buccaneers NFC South Rivalry With Series Details.",
         seoKeywords: ["falcons vs buccaneers", "rivalry", "nfc south", "history"],
-        iframeUrl:
-          "https://r.jina.ai/https://en.wikipedia.org/wiki/Falcons%E2%80%93Buccaneers_rivalry",
+        iframeUrl: "https://en.wikipedia.org/wiki/Falcons%E2%80%93Buccaneers_rivalry",
         bgImg: "",
         tags: ["nfl", "falcons", "buccaneers", "rivalry"],
         updateTime: "2025-12-13",
@@ -8707,7 +9332,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Official UEFA Champions League Site With Fixtures, Standings, Highlights, And News.",
         seoKeywords: ["champions league", "uefa", "fixtures", "standings", "news"],
-        iframeUrl: "https://r.jina.ai/https://www.uefa.com/uefachampionsleague/",
+        iframeUrl: "https://www.uefa.com/uefachampionsleague/",
         bgImg: "",
         tags: ["champions-league", "uefa", "fixtures", "standings"],
         updateTime: "2025-12-13",
@@ -8718,7 +9343,7 @@ export const menu: Menu[] = [
         seoTitle: "Champions League Scores And Schedule On ESPN",
         seoDescription: "ESPN Champions League Hub With Live Scores, Schedule, Table, And News.",
         seoKeywords: ["champions league", "espn", "scores", "schedule", "table"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/soccer/league/_/name/uefa.champions",
+        iframeUrl: "https://www.espn.com/soccer/league/_/name/uefa.champions",
         bgImg: "",
         tags: ["champions-league", "espn", "scores"],
         updateTime: "2025-12-13",
@@ -8730,7 +9355,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Team Hub For The Kansas City Chiefs Featuring Schedule, Stats, And News.",
         seoKeywords: ["chiefs", "espn", "schedule", "stats", "news"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs",
+        iframeUrl: "https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs",
         bgImg: "",
         tags: ["nfl", "chiefs", "espn"],
         updateTime: "2025-12-13",
@@ -8742,7 +9367,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Hub For The Philadelphia Eagles With Schedule, Depth Chart, And Headlines.",
         seoKeywords: ["eagles game", "philadelphia eagles", "espn", "schedule", "news"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+        iframeUrl: "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
         bgImg: "",
         tags: ["nfl", "eagles", "espn"],
         updateTime: "2025-12-13",
@@ -8754,7 +9379,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Team Page For The Green Bay Packers With Scores, Schedule, And Player News.",
         seoKeywords: ["packers", "green bay", "espn", "schedule", "scores"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/team/_/name/gb/green-bay-packers",
+        iframeUrl: "https://www.espn.com/nfl/team/_/name/gb/green-bay-packers",
         bgImg: "",
         tags: ["nfl", "packers", "espn"],
         updateTime: "2025-12-13",
@@ -8766,7 +9391,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Box Score Page For Los Angeles Lakers Vs Philadelphia 76ers With Play-by-play And Stats.",
         seoKeywords: ["lakers vs 76ers", "nba", "espn", "box score", "recap"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nba/game/_/gameId/401636063",
+        iframeUrl: "https://www.espn.com/nba/game/_/gameId/401636063",
         bgImg: "",
         tags: ["nba", "lakers", "76ers", "espn"],
         updateTime: "2025-12-13",
@@ -8778,8 +9403,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Series History For Indiana Hoosiers Versus Ohio State Buckeyes Including All-time Results.",
         seoKeywords: ["indiana vs ohio state", "big ten", "rivalry", "history"],
-        iframeUrl:
-          "https://r.jina.ai/https://en.wikipedia.org/wiki/Indiana%E2%80%93Ohio_State_football_rivalry",
+        iframeUrl: "https://en.wikipedia.org/wiki/Indiana%E2%80%93Ohio_State_football_rivalry",
         bgImg: "",
         tags: ["college-football", "indiana", "ohio-state", "rivalry"],
         updateTime: "2025-12-13",
@@ -8791,8 +9415,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Overview Of The Georgia Bulldogs And Alabama Crimson Tide Football Rivalry With Series Notes.",
         seoKeywords: ["georgia vs alabama", "rivalry", "sec", "history"],
-        iframeUrl:
-          "https://r.jina.ai/https://en.wikipedia.org/wiki/Alabama%E2%80%93Georgia_football_rivalry",
+        iframeUrl: "https://en.wikipedia.org/wiki/Alabama%E2%80%93Georgia_football_rivalry",
         bgImg: "",
         tags: ["college-football", "georgia", "alabama", "rivalry"],
         updateTime: "2025-12-13",
@@ -8804,7 +9427,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Game Summary Page For Cincinnati Bengals Vs Buffalo Bills Featuring Score And Team Stats.",
         seoKeywords: ["bengals vs bills", "nfl", "espn", "scores", "summary"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/game/_/gameId/401547600",
+        iframeUrl: "https://www.espn.com/nfl/game/_/gameId/401547600",
         bgImg: "",
         tags: ["nfl", "bengals", "bills", "espn"],
         updateTime: "2025-12-13",
@@ -8816,7 +9439,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Match Recap For Real Madrid Vs Manchester City In The Champions League With Stats And Commentary.",
         seoKeywords: ["real madrid vs man city", "espn", "champions league", "recap"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/soccer/match/_/gameId/684187",
+        iframeUrl: "https://www.espn.com/soccer/match/_/gameId/684187",
         bgImg: "",
         tags: ["real-madrid", "man-city", "espn", "champions-league"],
         updateTime: "2025-12-13",
@@ -8828,7 +9451,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Game Center For Denver Broncos Vs Las Vegas Raiders With Live Score And Team Stats.",
         seoKeywords: ["broncos vs raiders", "espn", "nfl", "scores"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/game/_/gameId/401547464",
+        iframeUrl: "https://www.espn.com/nfl/game/_/gameId/401547464",
         bgImg: "",
         tags: ["nfl", "broncos", "raiders", "espn"],
         updateTime: "2025-12-13",
@@ -8840,7 +9463,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Game Center For Pittsburgh Steelers Vs Baltimore Ravens With Box Score And Play-by-play.",
         seoKeywords: ["steelers vs ravens", "espn", "nfl", "scores"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/game/_/gameId/401547573",
+        iframeUrl: "https://www.espn.com/nfl/game/_/gameId/401547573",
         bgImg: "",
         tags: ["nfl", "steelers", "ravens", "espn"],
         updateTime: "2025-12-13",
@@ -8852,7 +9475,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Game Summary For Chicago Bears Vs Green Bay Packers Including Score, Stats, And Highlights.",
         seoKeywords: ["bears vs packers", "espn", "nfl", "scores"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/game/_/gameId/401547568",
+        iframeUrl: "https://www.espn.com/nfl/game/_/gameId/401547568",
         bgImg: "",
         tags: ["nfl", "bears", "packers", "espn"],
         updateTime: "2025-12-13",
@@ -8864,7 +9487,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Game Recap For Houston Texans Vs Kansas City Chiefs With Scoreline And Team Stats.",
         seoKeywords: ["texans vs chiefs", "espn", "nfl", "scores"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/game/_/gameId/401547460",
+        iframeUrl: "https://www.espn.com/nfl/game/_/gameId/401547460",
         bgImg: "",
         tags: ["nfl", "texans", "chiefs", "espn"],
         updateTime: "2025-12-13",
@@ -8876,8 +9499,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN College Football Game Recap For Indiana Hoosiers Vs Ohio State Buckeyes With Scoring Summary.",
         seoKeywords: ["indiana vs ohio state", "espn", "college football", "scores"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.espn.com/college-football/game/_/gameId/401639435",
+        iframeUrl: "https://www.espn.com/college-football/game/_/gameId/401639435",
         bgImg: "",
         tags: ["college-football", "indiana", "ohio-state", "espn"],
         updateTime: "2025-12-13",
@@ -8889,7 +9511,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Oz Wiki Character Page For Dorothy Gale Covering Storylines, Adaptations, And Trivia.",
         seoKeywords: ["dorothy gale", "wizard of oz", "character", "oz wiki"],
-        iframeUrl: "https://r.jina.ai/https://oz.fandom.com/wiki/Dorothy_Gale",
+        iframeUrl: "https://oz.fandom.com/wiki/Dorothy_Gale",
         bgImg: "",
         tags: ["dorothy-gale", "wizard-of-oz", "character", "wiki"],
         updateTime: "2025-12-13",
@@ -8901,7 +9523,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Wikipedia Entry Detailing Fievel Mousekewitz From An American Tail With Character History And Films.",
         seoKeywords: ["fievel", "an american tail", "wikipedia", "character"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/Fievel_Mousekewitz",
+        iframeUrl: "https://en.wikipedia.org/wiki/Fievel_Mousekewitz",
         bgImg: "",
         tags: ["fievel", "an-american-tail", "character", "wikipedia"],
         updateTime: "2025-12-13",
@@ -8913,7 +9535,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Roger Ebert Review Of David Lynch'S Film Mulholland Drive With Analysis And Ratings.",
         seoKeywords: ["mulholland drive", "roger ebert", "review", "film"],
-        iframeUrl: "https://r.jina.ai/https://www.rogerebert.com/reviews/mulholland-drive-2001",
+        iframeUrl: "https://www.rogerebert.com/reviews/mulholland-drive-2001",
         bgImg: "",
         tags: ["mulholland-drive", "review", "roger-ebert", "film"],
         updateTime: "2025-12-13",
@@ -8924,7 +9546,7 @@ export const menu: Menu[] = [
         seoTitle: "Iron Lung Film Listing On IMDb",
         seoDescription: "IMDb Listing For The Iron Lung Film With Cast, Crew, And Release Details.",
         seoKeywords: ["iron lung movie", "imdb", "film", "cast"],
-        iframeUrl: "https://r.jina.ai/https://www.imdb.com/title/tt27732599/",
+        iframeUrl: "https://www.imdb.com/title/tt27732599/",
         bgImg: "",
         tags: ["iron-lung", "movie", "imdb", "film"],
         updateTime: "2025-12-13",
@@ -8936,7 +9558,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Merriam-Webster Dictionary Entry For Pars Including Pronunciation And Usage Examples.",
         seoKeywords: ["pars meaning", "dictionary", "merriam webster", "definition"],
-        iframeUrl: "https://r.jina.ai/https://www.merriam-webster.com/dictionary/pars",
+        iframeUrl: "https://www.merriam-webster.com/dictionary/pars",
         bgImg: "",
         tags: ["pars", "definition", "dictionary", "merriam-webster"],
         updateTime: "2025-12-13",
@@ -8949,7 +9571,7 @@ export const menu: Menu[] = [
           "ESPN Coverage Of Michigan Coach Sherrone Moore With Career Highlights And News Articles.",
         seoKeywords: ["sherrone moore", "espn", "michigan", "coach", "news"],
         iframeUrl:
-          "https://r.jina.ai/https://www.espn.com/college-football/story/_/id/36085770/who-sherrone-moore-michigan-offensive-coordinator",
+          "https://www.espn.com/college-football/story/_/id/36085770/who-sherrone-moore-michigan-offensive-coordinator",
         bgImg: "",
         tags: ["sherrone-moore", "espn", "michigan", "coach"],
         updateTime: "2025-12-13",
@@ -8962,7 +9584,7 @@ export const menu: Menu[] = [
           "Comprehensive List Of Michigan Wolverines Football Head Coaches With Tenures And Records.",
         seoKeywords: ["michigan football coach", "head coaches", "list", "wolverines"],
         iframeUrl:
-          "https://r.jina.ai/https://en.wikipedia.org/wiki/List_of_Michigan_Wolverines_football_head_coaches",
+          "https://en.wikipedia.org/wiki/List_of_Michigan_Wolverines_football_head_coaches",
         bgImg: "",
         tags: ["michigan", "football", "coaches", "history"],
         updateTime: "2025-12-13",
@@ -8973,7 +9595,7 @@ export const menu: Menu[] = [
         seoTitle: "Mulholland Drive IMDb Page",
         seoDescription: "IMDb Page For Mulholland Drive Featuring Cast, Crew, Reviews, And Trivia.",
         seoKeywords: ["mulholland drive", "imdb", "film", "cast", "reviews"],
-        iframeUrl: "https://r.jina.ai/https://www.imdb.com/title/tt0166924/",
+        iframeUrl: "https://www.imdb.com/title/tt0166924/",
         bgImg: "",
         tags: ["mulholland-drive", "imdb", "film"],
         updateTime: "2025-12-13",
@@ -8985,7 +9607,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Wikipedia Entry For The Iron Lung Video Game That Inspired The Film Adaptation.",
         seoKeywords: ["iron lung", "video game", "wikipedia", "horror"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/Iron_Lung_(video_game)",
+        iframeUrl: "https://en.wikipedia.org/wiki/Iron_Lung_(video_game)",
         bgImg: "",
         tags: ["iron-lung", "video-game", "wikipedia"],
         updateTime: "2025-12-13",
@@ -8997,7 +9619,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Player Page For Philip Rivers Featuring Career Stats, News, And Game Logs.",
         seoKeywords: ["philip rivers", "espn", "stats", "chargers", "quarterback"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/player/_/id/5526/philip-rivers",
+        iframeUrl: "https://www.espn.com/nfl/player/_/id/5526/philip-rivers",
         bgImg: "",
         tags: ["philip-rivers", "espn", "nfl", "stats"],
         updateTime: "2025-12-13",
@@ -9009,7 +9631,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Interactive Statmuse Page Showing Philip Rivers Career Passing Stats And Records.",
         seoKeywords: ["philip rivers", "statmuse", "stats", "records", "passing"],
-        iframeUrl: "https://r.jina.ai/https://www.statmuse.com/nfl/ask/philip-rivers-career-stats",
+        iframeUrl: "https://www.statmuse.com/nfl/ask/philip-rivers-career-stats",
         bgImg: "",
         tags: ["philip-rivers", "stats", "statmuse", "passing"],
         updateTime: "2025-12-13",
@@ -9021,8 +9643,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Sports Illustrated Style Recap Of Philip Rivers Career Highlights, Milestones, And Records.",
         seoKeywords: ["philip rivers", "career highlights", "milestones", "records"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.si.com/nfl/2024/05/17/philip-rivers-career-highlights",
+        iframeUrl: "https://www.si.com/nfl/2024/05/17/philip-rivers-career-highlights",
         bgImg: "",
         tags: ["philip-rivers", "highlights", "milestones"],
         updateTime: "2025-12-13",
@@ -9035,7 +9656,7 @@ export const menu: Menu[] = [
           "CBS Sports Story Covering Michigan Coach Sherrone Moore'S Promotion And Background.",
         seoKeywords: ["sherrone moore", "cbs sports", "michigan", "coach", "feature"],
         iframeUrl:
-          "https://r.jina.ai/https://www.cbssports.com/college-football/news/michigan-promotes-sherrone-moore-to-head-coach-what-to-know-about-jim-harbaughs-replacement/",
+          "https://www.cbssports.com/college-football/news/michigan-promotes-sherrone-moore-to-head-coach-what-to-know-about-jim-harbaughs-replacement/",
         bgImg: "",
         tags: ["sherrone-moore", "cbs", "michigan", "coach"],
         updateTime: "2025-12-13",
@@ -9047,8 +9668,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Sports Reference Profile Showing Sherrone Moore'S Coaching Record And Career History.",
         seoKeywords: ["sherrone moore", "sports reference", "coaching record", "career"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.sports-reference.com/cfb/coaches/sherrone-moore-1.html",
+        iframeUrl: "https://www.sports-reference.com/cfb/coaches/sherrone-moore-1.html",
         bgImg: "",
         tags: ["sherrone-moore", "sports-reference", "coach", "record"],
         updateTime: "2025-12-13",
@@ -9061,7 +9681,7 @@ export const menu: Menu[] = [
           "Sports Illustrated Coverage Detailing Sherrone Moore'S Rise At Michigan And Coaching Style.",
         seoKeywords: ["sherrone moore", "sports illustrated", "profile", "michigan"],
         iframeUrl:
-          "https://r.jina.ai/https://www.si.com/college/michigan/football/sherrone-moore-michigan-wolverines-next-head-coach",
+          "https://www.si.com/college/michigan/football/sherrone-moore-michigan-wolverines-next-head-coach",
         bgImg: "",
         tags: ["sherrone-moore", "sports-illustrated", "michigan", "coach"],
         updateTime: "2025-12-13",
@@ -9074,7 +9694,7 @@ export const menu: Menu[] = [
           "Yahoo Sports Article Detailing Paige Shiver'S Role And Background In Michigan Football Staff.",
         seoKeywords: ["paige shiver", "yahoo sports", "michigan", "staff"],
         iframeUrl:
-          "https://r.jina.ai/https://sports.yahoo.com/articles/paige-shiver-executive-assistant-fired-130647815.html",
+          "https://sports.yahoo.com/articles/paige-shiver-executive-assistant-fired-130647815.html",
         bgImg: "",
         tags: ["paige-shiver", "yahoo", "michigan", "staff"],
         updateTime: "2025-12-13",
@@ -9087,7 +9707,7 @@ export const menu: Menu[] = [
           "New York Post Article Introducing Paige Shiver, Executive Assistant Linked To Michigan Football News.",
         seoKeywords: ["paige shiver", "new york post", "michigan", "staff"],
         iframeUrl:
-          "https://r.jina.ai/https://nypost.com/sports/who-is-paige-shiver-the-executive-assistant-of-fired-michigan-coach-sherrone-moore/",
+          "https://nypost.com/sports/who-is-paige-shiver-the-executive-assistant-of-fired-michigan-coach-sherrone-moore/",
         bgImg: "",
         tags: ["paige-shiver", "nypost", "michigan", "staff"],
         updateTime: "2025-12-13",
@@ -9100,7 +9720,7 @@ export const menu: Menu[] = [
           "Hollywood Life Story On Paige Shiver And Her Reported Connection To Michigan Coach News.",
         seoKeywords: ["paige shiver", "hollywood life", "michigan", "coach"],
         iframeUrl:
-          "https://r.jina.ai/https://hollywoodlife.com/feature/who-is-paige-shiver-sherrone-moore-affair-5492555/",
+          "https://hollywoodlife.com/feature/who-is-paige-shiver-sherrone-moore-affair-5492555/",
         bgImg: "",
         tags: ["paige-shiver", "hollywood-life", "michigan"],
         updateTime: "2025-12-13",
@@ -9113,7 +9733,7 @@ export const menu: Menu[] = [
           "Times Of India Article Discussing Paige Shiver And The Michigan Football Staff Headlines.",
         seoKeywords: ["paige shiver", "times of india", "michigan", "news"],
         iframeUrl:
-          "https://r.jina.ai/https://timesofindia.indiatimes.com/sports/nfl/news/is-paige-shiver-single-exploring-the-personal-life-of-the-nfl-veterans-daughter-whose-name-is-being-linked-to-sherrone-moore-firing-saga/articleshow/125909640.cms",
+          "https://timesofindia.indiatimes.com/sports/nfl/news/is-paige-shiver-single-exploring-the-personal-life-of-the-nfl-veterans-daughter-whose-name-is-being-linked-to-sherrone-moore-firing-saga/articleshow/125909640.cms",
         bgImg: "",
         tags: ["paige-shiver", "times-of-india", "michigan", "news"],
         updateTime: "2025-12-13",
@@ -9125,7 +9745,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Wikipedia Overview Of Michigan Wolverines Football Program Including History, Titles, And Coaches.",
         seoKeywords: ["michigan football", "wikipedia", "wolverines", "history"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/Michigan_Wolverines_football",
+        iframeUrl: "https://en.wikipedia.org/wiki/Michigan_Wolverines_football",
         bgImg: "",
         tags: ["michigan-football", "wolverines", "wikipedia"],
         updateTime: "2025-12-13",
@@ -9137,8 +9757,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Team Hub For Michigan Wolverines Football With Schedule, Stats, And News.",
         seoKeywords: ["michigan football", "espn", "schedule", "stats"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.espn.com/college-football/team/_/id/130/michigan-wolverines",
+        iframeUrl: "https://www.espn.com/college-football/team/_/id/130/michigan-wolverines",
         bgImg: "",
         tags: ["michigan", "espn", "football", "schedule"],
         updateTime: "2025-12-13",
@@ -9150,7 +9769,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Official Michigan Wolverines Football Schedule Page With Upcoming Games And Results.",
         seoKeywords: ["michigan football", "schedule", "wolverines", "games"],
-        iframeUrl: "https://r.jina.ai/https://mgoblue.com/sports/football/schedule",
+        iframeUrl: "https://mgoblue.com/sports/football/schedule",
         bgImg: "",
         tags: ["michigan", "schedule", "football", "wolverines"],
         updateTime: "2025-12-13",
@@ -9162,7 +9781,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Wikipedia Overview Of The UEFA Champions League Including Format, History, And Records.",
         seoKeywords: ["champions league", "wikipedia", "uefa", "history"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/UEFA_Champions_League",
+        iframeUrl: "https://en.wikipedia.org/wiki/UEFA_Champions_League",
         bgImg: "",
         tags: ["champions-league", "wikipedia", "uefa"],
         updateTime: "2025-12-13",
@@ -9173,8 +9792,7 @@ export const menu: Menu[] = [
         seoTitle: "Champions League Scores And Fixtures BBC",
         seoDescription: "BBC Sport Page Listing Champions League Scores, Fixtures, And Results.",
         seoKeywords: ["champions league", "bbc", "scores", "fixtures"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.bbc.com/sport/football/champions-league/scores-fixtures",
+        iframeUrl: "https://www.bbc.com/sport/football/champions-league/scores-fixtures",
         bgImg: "",
         tags: ["champions-league", "bbc", "scores"],
         updateTime: "2025-12-13",
@@ -9186,7 +9804,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Goal.Com Hub For UEFA Champions League Fixtures, Results, And Group Tables.",
         seoKeywords: ["champions league", "goal", "fixtures", "results"],
-        iframeUrl: "https://r.jina.ai/https://www.goal.com/en/uefa-champions-league-fixtures",
+        iframeUrl: "https://www.goal.com/en/uefa-champions-league-fixtures",
         bgImg: "",
         tags: ["champions-league", "goal", "fixtures"],
         updateTime: "2025-12-13",
@@ -9210,7 +9828,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Pro Football Reference Franchise Page For The Kansas City Chiefs With Records And Stats.",
         seoKeywords: ["chiefs", "pro football reference", "records", "stats"],
-        iframeUrl: "https://r.jina.ai/https://www.pro-football-reference.com/teams/kan/",
+        iframeUrl: "https://www.pro-football-reference.com/teams/kan/",
         bgImg: "",
         tags: ["chiefs", "pfr", "stats", "records"],
         updateTime: "2025-12-13",
@@ -9234,7 +9852,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Pro Football Reference Franchise Page For The Philadelphia Eagles With Records And Advanced Stats.",
         seoKeywords: ["eagles", "pro football reference", "stats", "records"],
-        iframeUrl: "https://r.jina.ai/https://www.pro-football-reference.com/teams/phi/",
+        iframeUrl: "https://www.pro-football-reference.com/teams/phi/",
         bgImg: "",
         tags: ["eagles", "pfr", "stats", "records"],
         updateTime: "2025-12-13",
@@ -9258,7 +9876,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Pro Football Reference Franchise Page For The Green Bay Packers With Records And Advanced Stats.",
         seoKeywords: ["packers", "pro football reference", "stats", "records"],
-        iframeUrl: "https://r.jina.ai/https://www.pro-football-reference.com/teams/gnb/",
+        iframeUrl: "https://www.pro-football-reference.com/teams/gnb/",
         bgImg: "",
         tags: ["packers", "pfr", "stats", "records"],
         updateTime: "2025-12-13",
@@ -9270,8 +9888,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Pro Football Reference Box Score For The 2020 Divisional Round Between Houston Texans And Kansas City Chiefs.",
         seoKeywords: ["texans vs chiefs", "box score", "pro football reference", "playoffs"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.pro-football-reference.com/boxscores/202001120kan.htm",
+        iframeUrl: "https://www.pro-football-reference.com/boxscores/202001120kan.htm",
         bgImg: "",
         tags: ["texans", "chiefs", "pfr", "playoffs"],
         updateTime: "2025-12-13",
@@ -9283,7 +9900,7 @@ export const menu: Menu[] = [
         seoDescription:
           "NFL Game Center Page For Tampa Bay Buccaneers At Atlanta Falcons 2023 Matchup.",
         seoKeywords: ["falcons vs buccaneers", "nfl", "game center", "2023"],
-        iframeUrl: "https://r.jina.ai/https://www.nfl.com/games/buccaneers-at-falcons-2023-reg-14",
+        iframeUrl: "https://www.nfl.com/games/buccaneers-at-falcons-2023-reg-14",
         bgImg: "",
         tags: ["nfl", "falcons", "buccaneers", "game-center"],
         updateTime: "2025-12-13",
@@ -9294,8 +9911,7 @@ export const menu: Menu[] = [
         seoTitle: "Falcons Vs Buccaneers CBS Sports Recap",
         seoDescription: "CBS Sports Gametracker Recap For Tampa Bay Buccaneers At Atlanta Falcons.",
         seoKeywords: ["falcons vs buccaneers", "cbs sports", "recap", "nfl"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.cbssports.com/nfl/gametracker/recap/NFL_20231210_TB@ATL/",
+        iframeUrl: "https://www.cbssports.com/nfl/gametracker/recap/NFL_20231210_TB@ATL/",
         bgImg: "",
         tags: ["falcons", "buccaneers", "cbs", "recap"],
         updateTime: "2025-12-13",
@@ -9307,8 +9923,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Pro Football Reference Box Score For Pittsburgh Steelers At Baltimore Ravens 2023 Season.",
         seoKeywords: ["steelers vs ravens", "box score", "pfr", "2023"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.pro-football-reference.com/boxscores/202310010rav.htm",
+        iframeUrl: "https://www.pro-football-reference.com/boxscores/202310010rav.htm",
         bgImg: "",
         tags: ["steelers", "ravens", "pfr", "box-score"],
         updateTime: "2025-12-13",
@@ -9320,7 +9935,7 @@ export const menu: Menu[] = [
         seoDescription:
           "NFL Game Center Page For Pittsburgh Steelers At Baltimore Ravens 2024 Regular Season Finale.",
         seoKeywords: ["steelers vs ravens", "nfl", "game center", "2024"],
-        iframeUrl: "https://r.jina.ai/https://www.nfl.com/games/steelers-at-ravens-2024-reg-18",
+        iframeUrl: "https://www.nfl.com/games/steelers-at-ravens-2024-reg-18",
         bgImg: "",
         tags: ["steelers", "ravens", "nfl", "game-center"],
         updateTime: "2025-12-13",
@@ -9332,8 +9947,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Game Summary For Georgia Bulldogs Vs Alabama Crimson Tide With Scoring And Team Stats.",
         seoKeywords: ["georgia vs alabama", "espn", "college football", "game summary"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.espn.com/college-football/game/_/gameId/401525843",
+        iframeUrl: "https://www.espn.com/college-football/game/_/gameId/401525843",
         bgImg: "",
         tags: ["georgia", "alabama", "espn", "college-football"],
         updateTime: "2025-12-13",
@@ -9351,7 +9965,7 @@ export const menu: Menu[] = [
           "college football",
         ],
         iframeUrl:
-          "https://r.jina.ai/https://en.wikipedia.org/wiki/2022_College_Football_Playoff_National_Championship",
+          "https://en.wikipedia.org/wiki/2022_College_Football_Playoff_National_Championship",
         bgImg: "",
         tags: ["georgia", "alabama", "cfp", "championship"],
         updateTime: "2025-12-13",
@@ -9363,7 +9977,7 @@ export const menu: Menu[] = [
         seoDescription:
           "NFL Game Summary For Cincinnati Bengals At Buffalo Bills In The 2023 Divisional Playoffs.",
         seoKeywords: ["bengals vs bills", "playoff", "nfl", "divisional"],
-        iframeUrl: "https://r.jina.ai/https://www.nfl.com/games/bengals-at-bills-2022-post-19",
+        iframeUrl: "https://www.nfl.com/games/bengals-at-bills-2022-post-19",
         bgImg: "",
         tags: ["bengals", "bills", "playoffs", "nfl"],
         updateTime: "2025-12-13",
@@ -9375,8 +9989,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Pro Football Reference Box Score For Cincinnati Bengals At Buffalo Bills 2023 Playoff Meeting.",
         seoKeywords: ["bengals vs bills", "pfr", "box score", "playoff"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.pro-football-reference.com/boxscores/202301220buf.htm",
+        iframeUrl: "https://www.pro-football-reference.com/boxscores/202301220buf.htm",
         bgImg: "",
         tags: ["bengals", "bills", "pfr", "box-score"],
         updateTime: "2025-12-13",
@@ -9389,7 +10002,7 @@ export const menu: Menu[] = [
           "Guardian Match Report For Manchester City Vs Real Madrid Champions League Semifinal.",
         seoKeywords: ["real madrid vs man city", "guardian", "champions league", "report"],
         iframeUrl:
-          "https://r.jina.ai/https://www.theguardian.com/football/2023/may/17/manchester-city-real-madrid-champions-league-semi-final-second-leg-match-report",
+          "https://www.theguardian.com/football/2023/may/17/manchester-city-real-madrid-champions-league-semi-final-second-leg-match-report",
         bgImg: "",
         tags: ["real-madrid", "man-city", "guardian", "champions-league"],
         updateTime: "2025-12-13",
@@ -9401,7 +10014,7 @@ export const menu: Menu[] = [
         seoDescription:
           "BBC Sport Match Report For Real Madrid Against Manchester City In Champions League.",
         seoKeywords: ["real madrid vs man city", "bbc", "champions league", "report"],
-        iframeUrl: "https://r.jina.ai/https://www.bbc.com/sport/football/65494637",
+        iframeUrl: "https://www.bbc.com/sport/football/65494637",
         bgImg: "",
         tags: ["real-madrid", "man-city", "bbc", "champions-league"],
         updateTime: "2025-12-13",
@@ -9413,7 +10026,7 @@ export const menu: Menu[] = [
         seoDescription:
           "NFL Game Center Page For Green Bay Packers At Chicago Bears 2023 Season Opener.",
         seoKeywords: ["bears vs packers", "nfl", "game center", "2023"],
-        iframeUrl: "https://r.jina.ai/https://www.nfl.com/games/packers-at-bears-2023-reg-1",
+        iframeUrl: "https://www.nfl.com/games/packers-at-bears-2023-reg-1",
         bgImg: "",
         tags: ["bears", "packers", "nfl", "game-center"],
         updateTime: "2025-12-13",
@@ -9425,8 +10038,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Pro Football Reference Box Score For Green Bay Packers At Chicago Bears 2023 Week 1.",
         seoKeywords: ["bears vs packers", "pfr", "box score", "2023"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.pro-football-reference.com/boxscores/202309100chi.htm",
+        iframeUrl: "https://www.pro-football-reference.com/boxscores/202309100chi.htm",
         bgImg: "",
         tags: ["bears", "packers", "pfr", "box-score"],
         updateTime: "2025-12-13",
@@ -9438,7 +10050,7 @@ export const menu: Menu[] = [
         seoDescription:
           "NFL Game Center Page For Las Vegas Raiders At Denver Broncos 2023 Season Matchup.",
         seoKeywords: ["broncos vs raiders", "nfl", "game center", "2023"],
-        iframeUrl: "https://r.jina.ai/https://www.nfl.com/games/raiders-at-broncos-2023-reg-1",
+        iframeUrl: "https://www.nfl.com/games/raiders-at-broncos-2023-reg-1",
         bgImg: "",
         tags: ["broncos", "raiders", "nfl", "game-center"],
         updateTime: "2025-12-13",
@@ -9450,8 +10062,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Pro Football Reference Box Score For Las Vegas Raiders At Denver Broncos 2023 Season.",
         seoKeywords: ["broncos vs raiders", "pfr", "box score", "2023"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.pro-football-reference.com/boxscores/202309100den.htm",
+        iframeUrl: "https://www.pro-football-reference.com/boxscores/202309100den.htm",
         bgImg: "",
         tags: ["broncos", "raiders", "pfr", "box-score"],
         updateTime: "2025-12-13",
@@ -9463,8 +10074,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Game Recap For Indiana Hoosiers Vs Ohio State Buckeyes From The 2023 Season.",
         seoKeywords: ["indiana vs ohio state", "espn", "recap", "2023"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.espn.com/college-football/game/_/gameId/401525235",
+        iframeUrl: "https://www.espn.com/college-football/game/_/gameId/401525235",
         bgImg: "",
         tags: ["indiana", "ohio-state", "espn", "recap"],
         updateTime: "2025-12-13",
@@ -9477,7 +10087,7 @@ export const menu: Menu[] = [
           "College Football News Preview For Ohio State At Indiana With Betting Lines And Matchup Notes.",
         seoKeywords: ["indiana vs ohio state", "preview", "college football", "matchup"],
         iframeUrl:
-          "https://r.jina.ai/https://www.collegefootballnews.com/2023/08/ohio-state-at-indiana-prediction-game-preview",
+          "https://www.collegefootballnews.com/2023/08/ohio-state-at-indiana-prediction-game-preview",
         bgImg: "",
         tags: ["indiana", "ohio-state", "preview", "college-football"],
         updateTime: "2025-12-13",
@@ -9489,8 +10099,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Basketball Reference Box Score For Los Angeles Lakers Vs Philadelphia 76ers November 2023 Game.",
         seoKeywords: ["lakers vs 76ers", "basketball reference", "box score", "nba"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.basketball-reference.com/boxscores/202311270LAL.html",
+        iframeUrl: "https://www.basketball-reference.com/boxscores/202311270LAL.html",
         bgImg: "",
         tags: ["lakers", "76ers", "basketball-reference", "box-score"],
         updateTime: "2025-12-13",
@@ -9502,7 +10111,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Recap For Los Angeles Lakers Vs Philadelphia 76ers Including Team Stats And Highlights.",
         seoKeywords: ["lakers vs 76ers", "espn", "recap", "nba"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nba/recap/_/gameId/401585418",
+        iframeUrl: "https://www.espn.com/nba/recap/_/gameId/401585418",
         bgImg: "",
         tags: ["nba", "lakers", "76ers", "espn"],
         updateTime: "2025-12-13",
@@ -9514,8 +10123,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Encyclopaedia Britannica Entry For Dorothy Gale Detailing Character Background And Legacy.",
         seoKeywords: ["dorothy gale", "britannica", "character", "wizard of oz"],
-        iframeUrl:
-          "https://r.jina.ai/https://www.britannica.com/topic/Dorothy-fictional-character-by-Baum",
+        iframeUrl: "https://www.britannica.com/topic/Dorothy-fictional-character-by-Baum",
         bgImg: "",
         tags: ["dorothy-gale", "britannica", "wizard-of-oz"],
         updateTime: "2025-12-13",
@@ -9527,7 +10135,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Universal Studios Wiki Entry For Fievel Mousekewitz Covering Film Appearances And Character Notes.",
         seoKeywords: ["fievel", "universal studios", "character", "wiki"],
-        iframeUrl: "https://r.jina.ai/https://universalstudios.fandom.com/wiki/Fievel_Mousekewitz",
+        iframeUrl: "https://universalstudios.fandom.com/wiki/Fievel_Mousekewitz",
         bgImg: "",
         tags: ["fievel", "universal", "character", "wiki"],
         updateTime: "2025-12-13",
@@ -9539,7 +10147,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Collider Deep-dive Explaining The Themes, Ending, And Narrative Structure Of Mulholland Drive.",
         seoKeywords: ["mulholland drive", "analysis", "collider", "ending explained"],
-        iframeUrl: "https://r.jina.ai/https://collider.com/mulholland-drive-explained/",
+        iframeUrl: "https://collider.com/mulholland-drive-explained/",
         bgImg: "",
         tags: ["mulholland-drive", "analysis", "collider"],
         updateTime: "2025-12-13",
@@ -9551,7 +10159,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Wikipedia Entry For The Mulholland Drive Soundtrack Including Track Listing And Credits.",
         seoKeywords: ["mulholland drive", "soundtrack", "music", "wikipedia"],
-        iframeUrl: "https://r.jina.ai/https://en.wikipedia.org/wiki/Mulholland_Drive_(soundtrack)",
+        iframeUrl: "https://en.wikipedia.org/wiki/Mulholland_Drive_(soundtrack)",
         bgImg: "",
         tags: ["mulholland-drive", "soundtrack", "music"],
         updateTime: "2025-12-13",
@@ -9563,7 +10171,7 @@ export const menu: Menu[] = [
         seoDescription:
           "IGN Article Covering The Iron Lung Movie Adaptation And Production Details.",
         seoKeywords: ["iron lung movie", "ign", "announcement", "production"],
-        iframeUrl: "https://r.jina.ai/https://www.ign.com/articles/iron-lung-movie-by-markiplier",
+        iframeUrl: "https://www.ign.com/articles/iron-lung-movie-by-markiplier",
         bgImg: "",
         tags: ["iron-lung", "ign", "movie"],
         updateTime: "2025-12-13",
@@ -9575,7 +10183,7 @@ export const menu: Menu[] = [
         seoDescription:
           "Fandom Wiki Page For The Iron Lung Film Including Plot Notes And Production Info.",
         seoKeywords: ["iron lung", "fandom", "film", "wiki"],
-        iframeUrl: "https://r.jina.ai/https://ironlung.fandom.com/wiki/Iron_Lung_(film)",
+        iframeUrl: "https://ironlung.fandom.com/wiki/Iron_Lung_(film)",
         bgImg: "",
         tags: ["iron-lung", "fandom", "film"],
         updateTime: "2025-12-13",
@@ -9586,7 +10194,7 @@ export const menu: Menu[] = [
         seoTitle: "Pars Definition On Vocabulary.com",
         seoDescription: "Vocabulary.Com Entry Explaining The Meaning And Usage Of The Word Pars.",
         seoKeywords: ["pars meaning", "vocabulary", "definition", "usage"],
-        iframeUrl: "https://r.jina.ai/https://www.vocabulary.com/dictionary/pars",
+        iframeUrl: "https://www.vocabulary.com/dictionary/pars",
         bgImg: "",
         tags: ["pars", "definition", "vocabulary"],
         updateTime: "2025-12-13",
@@ -9597,7 +10205,7 @@ export const menu: Menu[] = [
         seoTitle: "Champions League Fixtures On Sky Sports",
         seoDescription: "Sky Sports Page Listing UEFA Champions League Fixtures And Results.",
         seoKeywords: ["champions league", "sky sports", "fixtures", "results"],
-        iframeUrl: "https://r.jina.ai/https://www.skysports.com/champions-league-fixtures",
+        iframeUrl: "https://www.skysports.com/champions-league-fixtures",
         bgImg: "",
         tags: ["champions-league", "sky-sports", "fixtures"],
         updateTime: "2025-12-13",
@@ -9609,7 +10217,7 @@ export const menu: Menu[] = [
         seoDescription:
           "ESPN Schedule Page For The Kansas City Chiefs With Results And Upcoming Games.",
         seoKeywords: ["chiefs", "espn", "schedule", "nfl"],
-        iframeUrl: "https://r.jina.ai/https://www.espn.com/nfl/team/schedule/_/name/kc",
+        iframeUrl: "https://www.espn.com/nfl/team/schedule/_/name/kc",
         bgImg: "",
         tags: ["chiefs", "espn", "schedule"],
         updateTime: "2025-12-13",

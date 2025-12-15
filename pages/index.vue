@@ -2,7 +2,7 @@
   <div class="flex flex-col gap-3 p-3">
     <div
       class="flex flex-col gap-3"
-      v-for="({ name, children = [] }, titleIndex) in homeDataSource"
+      v-for="({ name, children = [] }, titleIndex) in menu"
       :key="titleIndex"
     >
       <div class="flex items-center justify-between gap-3 w-full">
@@ -26,7 +26,6 @@
 </template>
 
 <script setup lang="ts">
-const homeDataSource = menu.filter((item) => item.isHomeData);
 const { webName } = useRuntimeConfig().public;
 
 usePageSeo({
