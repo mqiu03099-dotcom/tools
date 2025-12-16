@@ -1,89 +1,107 @@
-# 执行的提示词
+# 第一步
 
 - 帮我继续找
   [
-  mailbox rental near me
-  achuapa municipal
-  rob reiner
-  clownfish
-  alexa blatt
-  iphone 14
-  iphone 15
-  rob reiner
-  philip rivers
-  sherrone moore
-  brown university
-  vikings vs cowboys
-  bondi beach
-  eagles vs chargers
-  fievel
-  brown university active shooter
-  peter greene
-  chargers vs chiefs
-  bills vs patriots
-  raiders vs eagles
-  lions vs rams
-  falcons vs buccaneers
-  packers vs broncos
-  nick reiner
-  michigan football coach
-  browns vs bears
-  sherrone moore wife
-  army navy game
-  australia shooting
-  alavés real madrid
-  colts vs seahawks
-  real madrid vs man city
+  how to
   christmas
-  dog
-  cat
-  santa
-  gpt
-  lottery
-  chat gpt
-  dogs
-  powerball
-  snake
-  christmas tree
-  christmas lights
-  cats
-  powerball numbers
-  google
-  camera
-  elf
-  hanukkah
-  amazon
-  christmas gifts
-  flowers
-  reindeer
-  walmart
+  song
+  music
+  songs
+  baby
+  asmr
+  roblox
+  news
+  movies
+  minecraft
+  christmas music
+  funny
+  karaoke
   youtube
-  hobby lobby
-  bondi beach
+  nba
+  fnaf
+  christmas songs
+  react to
+  fortnite
+  stranger things
+  nba youngboy
+  bluey
+  sonic
+  anime
   rob reiner
-  nobel prize categories
+  game awards 2025
+  game awards
+  street fighter trailer
+  sherrone moore
+  divinity trailer
+  philip rivers
+  coco chanel
+  supergirl trailer
+  street fighter movie
+  say the word on beat
+  the game awards 2025
+  say the word on beat challenge
+  supergirl
+  avengers doomsday trailer
+  doomsday trailer
+  rob reiner news
+  pooh shiesty first day out
+  avengers doomsday
+  pooh shiesty
+  doomsday
+  digital circus
+  amazing digital circus
+  tadc
+  tadc episode 7
+  news
+  reiner
+  rob reiner
+  trump
+  brown
+  shooting
   brown university
-  bayern vs mainz
-  hanukkah prayer
-  made in america gift guide
-  lions vs rams
-  happy hanukkah
-  kevin costner the first christmas
-  honolulu marathon 2025
-  knives out 3
-  lottery powerball jackpot
-  power ball drawing
-  dicks sporting good
-  knives out
-  first night of hanukkah 2025
-  powerball jackpot
-  powerball drawing days
-  next powerball drawing
-  knives out 2
-  hanukkah
-  hannukah
-  power ball
-  powerball drawing
+  nfl
+  weather
+  sherrone moore
+  ai
+  reddit
+  news today
+  chicago
+  ice
+  powerball
+  rob reiner son
+  michigan football
+  nick reiner
+  china
+  australia
+  google
+  brown shooting
+  venezuela
+  nba
+  rob reiner
+  reiner
+  rob reiner son
+  nick reiner
+  brown shooting
+  brown university
+  brown shooter
+  trump reiner
+  bondi beach
+  brown university shooting
+  brown university shooter
+  rob reiner trump
+  paige shiver
+  rob reiner nick
+  australia shooting
+  rob reiner death
+  brown university active shooter
+  sherrone moore
+  rob reiner tmz
+  rob reiner movies
+  benjamin erickson
+  brown university suspect
+  rob reiner son nick
+  rob reiner wife
+  rob reiner dead
   ]
   这些分类填入 menu.ts 中，如果有重复的分类，则直接合
-  并，如果文档里面的单词和现有的 menu.ts 中的分类比较相似的也可以放在现有分类里面，其余的要找的是和这个分类有关的网站，但是注意 bgImg 字段要为空，由我自己手动填写，尽量找质量高的网站，能在 iframe 中加载出来的网站，加载速度快的网站，最新的分类要放在 AI 相关分类后面，AI 分类永远在第一个分类
+  并，如果文档里面的单词和现有的 menu.ts 中的分类比较相似的也可以放在现有分类里面，其余的要找的是和这个分类有关的网站，但是注意 bgImg 字段要为空，由我自己手动填写，尽量找质量高的网站，能在 iframe 中加载出来的网站，加载速度快的网站，最新的分类要放在 AI 相关分类后面，AI 分类永远在第一个分类，每个分类至少找 5 个相关网站工具

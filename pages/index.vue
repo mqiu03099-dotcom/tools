@@ -2,8 +2,8 @@
   <div class="flex flex-col gap-3 p-3">
     <div
       class="flex flex-col gap-3"
-      v-for="({ name, children = [] }, titleIndex) in menu"
-      :key="titleIndex"
+      v-for="({ name, children = [] }, index) in menu"
+      :key="index"
     >
       <div class="flex items-center justify-between gap-3 w-full">
         <MA :href="`/category/${name}`">
