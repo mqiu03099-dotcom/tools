@@ -5,4 +5,4 @@ Allow: /ads.txt
 User-agent: adbeat_bot
 Disallow: /
 
-Sitemap: https://tools.mqiu03099.workers.dev/sitemap.xml
+Sitemap: https://toolsbox.vip/sitemap.xml
