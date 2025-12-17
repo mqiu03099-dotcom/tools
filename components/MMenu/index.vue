@@ -12,7 +12,7 @@
       </MA>
     </li>
     <li
-      v-for="({ name: name1, path: path1, children: children1 }, index1) in menu"
+      v-for="({ name: name1, path: path1, children: children1 }, index1) in [...articles, ...menu]"
       :key="index1"
     >
       <MA

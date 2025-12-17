@@ -9,6 +9,7 @@
   seoKeywords: string[];
   updateTime: string;
   bgImg: string;
+  richText: string;
   children: Menu[];
 }>;
 

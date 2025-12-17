@@ -86,14 +86,14 @@ export default defineNuxtConfig({
     head: {
       htmlAttrs: {
         lang: "en",
-        translate: "no",
+        translate: "yes",
       },
       title: process.env.NUXT_PUBLIC_TITLE,
       link: [
         {
           rel: "icon",
           type: "image/png",
-          href: "/logo.png",
+          href: `https://${process.env.NUXT_PUBLIC_SITENAME}/logo.png`,
         },
       ],
       meta: [

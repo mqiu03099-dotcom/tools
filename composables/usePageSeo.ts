@@ -1,17 +1,17 @@
 import type { UsePageSeoOptions } from "@/utils";
 
 export const usePageSeo = (values: UsePageSeoOptions) => {
+  const { siteName } = useRuntimeConfig().public;
   const {
     title,
     seoDescription,
     type = "website",
     canonicalPath,
-    image = "/logo.png",
+    image = `https://${siteName}/logo.png`,
     publishedTime,
     modifiedTime,
     keywords,
   } = values;
-  const { siteName } = useRuntimeConfig().public;
   const siteBase = `https://${siteName}`;
   const canonicalUrl = new URL(canonicalPath, siteBase).toString();
   const keywordList = keywords && keywords.length ? keywords.join(", ") : undefined;
