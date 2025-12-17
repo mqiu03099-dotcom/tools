@@ -3,7 +3,9 @@
     class="text-center text-[12px]! p-3"
     style="zoom: 0.8"
   >
-    © 2025 {{ siteName }}. All rights reserved.
+    © 2025
+    <MA class="font-bold">{{ siteName }}</MA>
+    . All rights reserved.
   </footer>
 </template>
 
