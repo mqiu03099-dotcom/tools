@@ -99,6 +99,10 @@ export default defineNuxtConfig({
       meta: [
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         {
+          name: "baidu-site-verification",
+          content: process.env.NUXT_PUBLIC_BAIDU,
+        },
+        {
           name: "google-adsense-account",
           content: process.env.NUXT_PUBLIC_ADS,
         },
