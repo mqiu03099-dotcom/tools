@@ -1,0 +1,65 @@
+{
+  "name": "total-tools-store",
+  "nameShort": "total",
+  "seoTitle": "Total Tools Official Store Deals And Catalogues",
+  "seoDescription": "Total Tools retailer links for power tools, hand tools, clearance, and store catalogue pages.",
+  "seoKeywords": ["total tools", "power tools", "hand tools", "catalogue"],
+  "children": [
+    {
+      "name": "total-tools-home",
+      "nameShort": "home",
+      "seoTitle": "Total Tools Official Website",
+      "seoDescription": "Total Tools homepage with latest promotions, featured tool brands, and account access.",
+      "seoKeywords": ["total tools", "retailer", "promotions", "brands"],
+      "iframeUrl": "https://www.totaltools.com.au/",
+      "bgImg": "",
+      "tags": ["total-tools", "retail", "promotions"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "total-tools-power",
+      "nameShort": "power",
+      "seoTitle": "Total Tools Power Tools Category",
+      "seoDescription": "Total Tools power tool range with cordless kits, grinders, and saws.",
+      "seoKeywords": ["total tools", "power tools", "cordless", "saws"],
+      "iframeUrl": "https://www.totaltools.com.au/power-tools",
+      "bgImg": "",
+      "tags": ["total-tools", "power-tools", "retail"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "total-tools-hand",
+      "nameShort": "hand",
+      "seoTitle": "Total Tools Hand Tools Selection",
+      "seoDescription": "Total Tools hand tools including sockets, spanners, and measurement gear.",
+      "seoKeywords": ["total tools", "hand tools", "sockets", "measurement"],
+      "iframeUrl": "https://www.totaltools.com.au/hand-tools",
+      "bgImg": "",
+      "tags": ["total-tools", "hand-tools", "retail"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "total-tools-clearance",
+      "nameShort": "clearance",
+      "seoTitle": "Total Tools Clearance Specials",
+      "seoDescription": "Clearance and catalogue specials from Total Tools with limited stock discounts.",
+      "seoKeywords": ["total tools", "clearance", "deals", "catalogue"],
+      "iframeUrl": "https://www.totaltools.com.au/clearance",
+      "bgImg": "",
+      "tags": ["total-tools", "deals", "clearance"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "total-tools-locator",
+      "nameShort": "locator",
+      "seoTitle": "Total Tools Store Locator",
+      "seoDescription": "Find nearby Total Tools locations, trading hours, and click-and-collect options.",
+      "seoKeywords": ["total tools", "store locator", "hours", "locations"],
+      "iframeUrl": "https://www.totaltools.com.au/store-locator",
+      "bgImg": "",
+      "tags": ["total-tools", "locator", "stores"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

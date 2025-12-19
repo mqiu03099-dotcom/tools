@@ -1,0 +1,65 @@
+{
+  "name": "sydney-tools-retailer",
+  "nameShort": "sydney",
+  "seoTitle": "Sydney Tools Retailer Promotions And Stores",
+  "seoDescription": "Sydney Tools official shop links for power tool deals, clearance, and store locations.",
+  "seoKeywords": ["sydney tools", "power tools", "retailer", "clearance"],
+  "children": [
+    {
+      "name": "sydney-tools-home",
+      "nameShort": "home",
+      "seoTitle": "Sydney Tools Official Website",
+      "seoDescription": "Sydney Tools homepage with featured brands, promotions, and online ordering.",
+      "seoKeywords": ["sydney tools", "retail", "promotions", "brands"],
+      "iframeUrl": "https://www.sydneytools.com.au/",
+      "bgImg": "",
+      "tags": ["sydney-tools", "retail", "promotions"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "sydney-tools-power",
+      "nameShort": "power",
+      "seoTitle": "Sydney Tools Power Tools Deals",
+      "seoDescription": "Sydney Tools power tools selection with combo kits, cordless platforms, and specials.",
+      "seoKeywords": ["sydney tools", "power tools", "deals", "cordless"],
+      "iframeUrl": "https://www.sydneytools.com.au/power-tools",
+      "bgImg": "",
+      "tags": ["sydney-tools", "power-tools", "deals"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "sydney-tools-clearance",
+      "nameShort": "clearance",
+      "seoTitle": "Sydney Tools Clearance Section",
+      "seoDescription": "Sydney Tools clearance and outlet bargains across power tools and accessories.",
+      "seoKeywords": ["sydney tools", "clearance", "outlet", "bargains"],
+      "iframeUrl": "https://www.sydneytools.com.au/clearance",
+      "bgImg": "",
+      "tags": ["sydney-tools", "clearance", "deals"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "sydney-tools-reviews",
+      "nameShort": "reviews",
+      "seoTitle": "Sydney Tools Customer Reviews",
+      "seoDescription": "ProductReview community page with feedback and ratings for Sydney Tools stores.",
+      "seoKeywords": ["sydney tools", "reviews", "ratings", "customers"],
+      "iframeUrl": "https://www.productreview.com.au/listings/sydney-tools",
+      "bgImg": "",
+      "tags": ["sydney-tools", "reviews", "ratings"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "sydney-tools-store-locator",
+      "nameShort": "locator",
+      "seoTitle": "Sydney Tools Store Locator",
+      "seoDescription": "Store locator for Sydney Tools branches with addresses, hours, and directions.",
+      "seoKeywords": ["sydney tools", "store locator", "hours", "directions"],
+      "iframeUrl": "https://www.sydneytools.com.au/store-locator",
+      "bgImg": "",
+      "tags": ["sydney-tools", "locator", "stores"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

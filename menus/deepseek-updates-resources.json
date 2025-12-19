@@ -1,0 +1,118 @@
+{
+  "name": "deepseek-updates-resources",
+  "nameShort": "deepseek-updates",
+  "seoTitle": "DeepSeek Updates Featuring DeepSeek Official, DeepSeek GitHub",
+  "seoDescription": "DeepSeek Updates Directory Featuring DeepSeek Official, DeepSeek GitHub, DeepSeek Huggingface, DeepSeek Research And More.",
+  "seoKeywords": [
+    "deepseek updates",
+    "deepseek",
+    "updates",
+    "resources",
+    "official",
+    "github",
+    "models",
+    "huggingface",
+    "hub",
+    "research",
+    "papers"
+  ],
+  "children": [
+    {
+      "name": "deepseek-official-updates",
+      "nameShort": "deepseek-official",
+      "seoTitle": "DeepSeek's Official Site Shares Release Notes, Pricing, And",
+      "seoDescription": "DeepSeek Official - DeepSeek's Official Site Shares Release Notes, Pricing, And Access To The Grok-inspired DeepSeek-V3 Assistant",
+      "seoKeywords": [
+        "deepseek official",
+        "deepseek",
+        "official",
+        "updates",
+        "tool",
+        "platform",
+        "site",
+        "shares",
+        "release",
+        "notes",
+        "pricing",
+        "access"
+      ],
+      "iframeUrl": "https://www.deepseek.com/",
+      "bgImg": "",
+      "tags": ["deepseek", "official", "updates", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "deepseek-github-models",
+      "nameShort": "deepseek-github",
+      "seoTitle": "DeepSeek GitHub The DeepSeek GitHub Organization Hosts",
+      "seoDescription": "The DeepSeek GitHub Organization Hosts Mixtral-based Checkpoints, Fine-tuning Scripts, And Inference Examples",
+      "seoKeywords": [
+        "deepseek github",
+        "deepseek",
+        "github",
+        "models",
+        "tool",
+        "platform",
+        "organization",
+        "hosts",
+        "mixtral",
+        "based",
+        "checkpoints",
+        "fine"
+      ],
+      "iframeUrl": "https://github.com/deepseek-ai",
+      "bgImg": "",
+      "tags": ["deepseek", "github", "models", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "deepseek-huggingface-hub",
+      "nameShort": "deepseek-huggingface",
+      "seoTitle": "DeepSeek's Hugging Face Hub Provides Quantized Weights",
+      "seoDescription": "DeepSeek Huggingface - DeepSeek's Hugging Face Hub Provides Quantized Weights, Tokenizer Files, And Evaluation Cards For Community Downloads",
+      "seoKeywords": [
+        "deepseek huggingface",
+        "deepseek",
+        "huggingface",
+        "hub",
+        "tool",
+        "platform",
+        "hugging",
+        "face",
+        "provides",
+        "quantized",
+        "weights",
+        "tokenizer"
+      ],
+      "iframeUrl": "https://huggingface.co/deepseek-ai",
+      "bgImg": "",
+      "tags": ["deepseek", "huggingface", "hub", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "deepseek-research-papers",
+      "nameShort": "deepseek-research",
+      "seoTitle": "DeepSeek Research The DeepSeek Research Paper Outlines",
+      "seoDescription": "The DeepSeek Research Paper Outlines Architecture Innovations, Training Data, And Benchmark Results For V2 And Beyond",
+      "seoKeywords": [
+        "deepseek research",
+        "deepseek",
+        "research",
+        "papers",
+        "tool",
+        "platform",
+        "paper",
+        "outlines",
+        "architecture",
+        "innovations",
+        "training",
+        "data"
+      ],
+      "iframeUrl": "https://arxiv.org/abs/2402.03300",
+      "bgImg": "",
+      "tags": ["deepseek", "research", "papers", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    }
+  ]
+}
+

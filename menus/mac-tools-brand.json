@@ -1,0 +1,65 @@
+{
+  "name": "mac-tools-brand",
+  "nameShort": "mac-tools",
+  "seoTitle": "Mac Tools Automotive Hand Tools",
+  "seoDescription": "Mac Tools official pages for tool trucks, products, franchising, and trusted retailers.",
+  "seoKeywords": ["mac tools", "automotive", "hand tools", "franchise"],
+  "children": [
+    {
+      "name": "mac-tools-official",
+      "nameShort": "official",
+      "seoTitle": "Mac Tools Official Site",
+      "seoDescription": "Mac Tools homepage with latest automotive tool catalogs, promotions, and services.",
+      "seoKeywords": ["mac tools", "official", "automotive", "catalog"],
+      "iframeUrl": "https://www.mactools.com/",
+      "bgImg": "",
+      "tags": ["mac-tools", "official", "automotive"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "mac-tools-products",
+      "nameShort": "products",
+      "seoTitle": "Mac Tools Product Catalog",
+      "seoDescription": "Mac Tools product catalog highlighting hand tools, power tools, and storage.",
+      "seoKeywords": ["mac tools", "catalog", "hand tools", "storage"],
+      "iframeUrl": "https://www.mactools.com/products",
+      "bgImg": "",
+      "tags": ["mac-tools", "catalog", "products"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "mac-tools-franchise",
+      "nameShort": "franchise",
+      "seoTitle": "Mac Tools Franchise Information",
+      "seoDescription": "Mac Tools franchising details for starting a tool truck route and support resources.",
+      "seoKeywords": ["mac tools", "franchise", "tool truck", "business"],
+      "iframeUrl": "https://www.mactools.com/franchise",
+      "bgImg": "",
+      "tags": ["mac-tools", "franchise", "business"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "mac-tools-tool-truck",
+      "nameShort": "tool-truck",
+      "seoTitle": "Mac Tools Tool Truck Details",
+      "seoDescription": "Tool truck overview for Mac Tools mobile stores, inventory, and routes.",
+      "seoKeywords": ["mac tools", "tool truck", "mobile store", "inventory"],
+      "iframeUrl": "https://www.mactools.com/tool-truck",
+      "bgImg": "",
+      "tags": ["mac-tools", "tool-truck", "mobile"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "mac-tools-trustpilot",
+      "nameShort": "trustpilot",
+      "seoTitle": "Mac Tools Customer Ratings",
+      "seoDescription": "Trustpilot review page for Mac Tools with customer ratings and feedback.",
+      "seoKeywords": ["mac tools", "reviews", "trustpilot", "ratings"],
+      "iframeUrl": "https://www.trustpilot.com/review/mactools.com",
+      "bgImg": "",
+      "tags": ["mac-tools", "reviews", "ratings"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

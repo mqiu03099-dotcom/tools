@@ -1,0 +1,526 @@
+{
+  "name": "prompt-dec17-followup",
+  "nameShort": "dec17",
+  "seoTitle": "Prompt Follow-up With WhatsApp, Europa League, Epic Games, Wordle",
+  "seoDescription": "Requested Follow-up Batch Adding Messaging Staples, Translation Tools, Football Fixtures, Calculators, And Trending Profiles.",
+  "seoKeywords": [
+    "whatsapp",
+    "facebook",
+    "translate",
+    "europa league",
+    "epic games",
+    "wordle",
+    "dolphins vs steelers",
+    "candace owens"
+  ],
+  "children": [
+    {
+      "name": "whatsapp-overview",
+      "nameShort": "whatsapp",
+      "seoTitle": "WhatsApp Messaging Overview With WhatsApp Web Details",
+      "seoDescription": "Wikipedia Overview Of WhatsApp Covering Messaging Features, End-to-end Encryption, Platforms, And WhatsApp Web Access.",
+      "seoKeywords": ["whatsapp", "web whatsapp", "messaging", "encrypted chat", "meta"],
+      "iframeUrl": "https://en.wikipedia.org/wiki/WhatsApp",
+      "bgImg": "",
+      "tags": ["whatsapp", "messaging", "encrypted"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "facebook-company-profile",
+      "nameShort": "facebook",
+      "seoTitle": "Facebook Company Profile, Apps, And History",
+      "seoDescription": "Wikipedia Profile Of Facebook Detailing The Social Network's History, Features, Ownership, And Global Reach.",
+      "seoKeywords": ["facebook", "social network", "meta", "messenger", "profile"],
+      "iframeUrl": "https://en.wikipedia.org/wiki/Facebook",
+      "bgImg": "",
+      "tags": ["facebook", "social", "meta"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "deepl-translate",
+      "nameShort": "translate",
+      "seoTitle": "DeepL Translator For Fast Multilingual Translation",
+      "seoDescription": "DeepL Web Translator Supporting Rapid Text Translation With High Quality Output For English, Spanish, And More.",
+      "seoKeywords": ["translate", "translation", "deepl", "multilingual", "spanish english"],
+      "iframeUrl": "https://www.deepl.com/translator",
+      "bgImg": "",
+      "tags": ["translate", "deepl", "language"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "gmail-overview",
+      "nameShort": "gmail",
+      "seoTitle": "Gmail Overview, Features, And Storage Limits",
+      "seoDescription": "Wikipedia Article For Gmail Explaining Free Email Service, Search, Labels, Storage, And Account Access.",
+      "seoKeywords": ["gmail", "email", "google mail", "gmail login", "labels"],
+      "iframeUrl": "https://en.wikipedia.org/wiki/Gmail",
+      "bgImg": "",
+      "tags": ["gmail", "email", "google"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "pogoda-forecast-map",
+      "nameShort": "pogoda",
+      "seoTitle": "Windy Embedded Weather Map For Pogoda Forecasts",
+      "seoDescription": "Windy Embedded Map Showing Russian Weather With Wind, Clouds, And Temperature Layers.",
+      "seoKeywords": ["погода", "pogoda", "russian weather", "forecast", "windy"],
+      "iframeUrl": "https://embed.windy.com/embed2.html?lat=55.75&lon=37.62&zoom=5&level=surface&overlay=wind",
+      "bgImg": "",
+      "tags": ["pogoda", "weather", "windy"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "real-madrid-fixtures",
+      "nameShort": "real-madrid",
+      "seoTitle": "Real Madrid Fixtures Including Alaves And Manchester City",
+      "seoDescription": "ESPN Real Madrid Fixture List Covering Upcoming La Liga And Champions League Matches Such As Alaves And Manchester City.",
+      "seoKeywords": [
+        "real madrid fixtures",
+        "alavés real madrid",
+        "real madrid manchester city",
+        "laliga",
+        "ucl"
+      ],
+      "iframeUrl": "https://www.espn.com/soccer/team/fixtures/_/id/86/real-madrid",
+      "bgImg": "",
+      "tags": ["real-madrid", "fixtures", "laliga"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "barcelona-fixtures",
+      "nameShort": "barcelona",
+      "seoTitle": "Barcelona Fixtures Including Guadalajara And Osasuna",
+      "seoDescription": "ESPN Barcelona Fixture List Including Matches Versus Guadalajara, Osasuna, And Other Competitions.",
+      "seoKeywords": [
+        "guadalajara barcelona",
+        "guadalajara vs barcelona",
+        "barcelona osasuna",
+        "barcelona fixtures",
+        "laliga"
+      ],
+      "iframeUrl": "https://www.espn.com/soccer/team/fixtures/_/id/83/barcelona",
+      "bgImg": "",
+      "tags": ["barcelona", "fixtures", "laliga"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "brazilian-seriesa-corinthians",
+      "nameShort": "corinthians",
+      "seoTitle": "Corinthians And Serie A Fixtures Including Copa Do Brasil",
+      "seoDescription": "ESPN Fixture Page For Corinthians Highlighting Copa Do Brasil Ties, Cruzeiro Matchups, And Serie A Games Against Vasco.",
+      "seoKeywords": [
+        "cruzeiro x corinthians",
+        "copa do brasil",
+        "corinthians",
+        "vasco",
+        "serie a fixtures"
+      ],
+      "iframeUrl": "https://www.espn.com/soccer/team/fixtures/_/id/8747/corinthians",
+      "bgImg": "",
+      "tags": ["corinthians", "copa-do-brasil", "fixtures"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "premier-league-scores-and-fixtures",
+      "nameShort": "premier-league",
+      "seoTitle": "Premier League Scores Covering Arsenal Vs Wolves And More",
+      "seoDescription": "BBC Premier League Scores And Fixtures Page Featuring Arsenal Vs Wolves, Crystal Palace Vs Man City, And Cardiff City Vs Chelsea.",
+      "seoKeywords": [
+        "arsenal vs wolves",
+        "crystal palace vs man city",
+        "cardiff city vs chelsea",
+        "premier league scores"
+      ],
+      "iframeUrl": "https://www.bbc.com/sport/football/premier-league/scores-fixtures",
+      "bgImg": "",
+      "tags": ["premier-league", "scores", "fixtures"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "europa-league-official",
+      "nameShort": "europa-league",
+      "seoTitle": "UEFA Europa League Official Site And Club Hub",
+      "seoDescription": "UEFA Europa League Site For Fixtures, Standings, And Clubs Including Fenerbahce Updates.",
+      "seoKeywords": ["europa league", "fenerbahçe", "uefa", "fixtures", "standings"],
+      "iframeUrl": "https://www.uefa.com/uefaeuropaleague/",
+      "bgImg": "",
+      "tags": ["europa-league", "uefa", "fenerbahce"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "epic-games-store",
+      "nameShort": "epic-games",
+      "seoTitle": "Epic Games Store Deals, Free Games, And Launcher Download",
+      "seoDescription": "Epic Games Storefront Listing Free Games, Sales, And Launcher Download Links.",
+      "seoKeywords": ["epic games", "free games", "store", "pc games", "fortnite"],
+      "iframeUrl": "https://store.epicgames.com/en-US/",
+      "bgImg": "",
+      "tags": ["epic-games", "store", "games"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "desmos-scientific-calculator",
+      "nameShort": "calculator",
+      "seoTitle": "Desmos Scientific Calculator For Equations And Graphs",
+      "seoDescription": "Desmos Scientific Calculator Supporting Advanced Functions, Equations, And Quick Math Checks In Browser.",
+      "seoKeywords": ["calculator", "scientific calculator", "desmos", "math"],
+      "iframeUrl": "https://www.desmos.com/scientific",
+      "bgImg": "",
+      "tags": ["calculator", "desmos", "math"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "costco-company-overview",
+      "nameShort": "costco",
+      "seoTitle": "Costco Overview, Warehouses, And Membership Model",
+      "seoDescription": "Wikipedia Overview Of Costco Covering Warehouses, Membership Model, And Global Footprint.",
+      "seoKeywords": ["costco", "warehouse club", "membership", "wholesale"],
+      "iframeUrl": "https://en.wikipedia.org/wiki/Costco",
+      "bgImg": "",
+      "tags": ["costco", "retail", "membership"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "wordle-online-game",
+      "nameShort": "wordle",
+      "seoTitle": "Play Wordle Online Daily Word Puzzle",
+      "seoDescription": "WordleGame.org Browser Version Of The Daily Wordle Puzzle With Unlimited Plays.",
+      "seoKeywords": ["wordle", "daily puzzle", "word game", "wordle game"],
+      "iframeUrl": "https://wordlegame.org/",
+      "bgImg": "",
+      "tags": ["wordle", "word-game", "puzzle"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "dolphins-vs-steelers-record",
+      "nameShort": "dolphins-steelers",
+      "seoTitle": "Statmuse Dolphins Vs Steelers Head-To-Head Record",
+      "seoDescription": "Statmuse Query Showing Miami Dolphins Vs Pittsburgh Steelers Head-to-head Record And Scores.",
+      "seoKeywords": ["dolphins vs steelers", "statmuse", "nfl rivalry", "record"],
+      "iframeUrl": "https://www.statmuse.com/nfl/ask?q=dolphins+vs+steelers+record",
+      "bgImg": "",
+      "tags": ["dolphins", "steelers", "nfl", "statmuse"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "chimera-definition",
+      "nameShort": "chimera",
+      "seoTitle": "Chimera Definition And Examples",
+      "seoDescription": "Vocabulary.com Entry Explaining The Meaning Of Chimera With Usage Examples.",
+      "seoKeywords": ["chimera definition", "chimera meaning", "vocabulary", "mythical creature"],
+      "iframeUrl": "https://www.vocabulary.com/dictionary/chimera",
+      "bgImg": "",
+      "tags": ["chimera", "definition", "vocabulary"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "candace-owens-profile",
+      "nameShort": "candace-owens",
+      "seoTitle": "Candace Owens Biography And Commentary Profile",
+      "seoDescription": "Wikipedia Profile Of Candace Owens Covering Background, Media Commentary, And Political Positions.",
+      "seoKeywords": ["candace owens", "commentator", "biography", "politics"],
+      "iframeUrl": "https://en.wikipedia.org/wiki/Candace_Owens",
+      "bgImg": "",
+      "tags": ["candace-owens", "biography", "commentator"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "fdo-acronym-meanings",
+      "nameShort": "fdo",
+      "seoTitle": "FDO Acronym Meanings And Definitions",
+      "seoDescription": "Free Dictionary Acronym Page Listing Common Meanings For FDO Across Industries.",
+      "seoKeywords": ["fdo", "acronym", "definition", "meaning"],
+      "iframeUrl": "https://acronyms.thefreedictionary.com/FDO",
+      "bgImg": "",
+      "tags": ["fdo", "acronym", "definition"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "disclosure-day-trailer",
+      "nameShort": "disclosure-day",
+      "seoTitle": "Disclosure Day Trailer Clips Playlist",
+      "seoDescription": "YouTube Embedded Playlist Searching Disclosure Day Trailer Clips And Teasers.",
+      "seoKeywords": ["disclosure day trailer", "trailer", "video", "playlist"],
+      "iframeUrl": "https://www.youtube.com/embed?listType=search&list=disclosure+day+trailer",
+      "bgImg": "",
+      "tags": ["disclosure-day", "trailer", "youtube"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "whatsapp-web-qr",
+      "nameShort": "whatsapp-web",
+      "seoTitle": "WhatsApp Web QR Login Portal",
+      "seoDescription": "WhatsApp Web Interface For Scanning QR Codes To Sync Chats On Desktop Browsers.",
+      "seoKeywords": ["web whatsapp", "whatsapp web", "qr login", "desktop chat"],
+      "iframeUrl": "https://web.whatsapp.com/",
+      "bgImg": "",
+      "tags": ["web-whatsapp", "qr", "desktop"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "google-translate",
+      "nameShort": "google-translate",
+      "seoTitle": "Google Translate Multilingual Text Translator",
+      "seoDescription": "Google Translate Web App Supporting Instant Translation Across Dozens Of Languages.",
+      "seoKeywords": ["translate", "google translate", "language", "multilingual"],
+      "iframeUrl": "https://translate.google.com/",
+      "bgImg": "",
+      "tags": ["translate", "google", "language"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "fenerbahce-club-hub",
+      "nameShort": "fenerbahce",
+      "seoTitle": "Fenerbahce Club Profile With Europa League Stats",
+      "seoDescription": "UEFA Club Profile For Fenerbahce Covering Squad, Stats, And Europa League Fixtures.",
+      "seoKeywords": ["fenerbahce", "europa league", "club profile", "uefa"],
+      "iframeUrl": "https://www.uefa.com/uefaeuropaleague/clubs/50153--fenerbahce/",
+      "bgImg": "",
+      "tags": ["fenerbahce", "europa-league", "club"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "europa-league-table-bbc",
+      "nameShort": "europa-table",
+      "seoTitle": "Europa League Group Tables On BBC Sport",
+      "seoDescription": "BBC Sport Europa League Tables Showing Group Standings, Points, And Upcoming Fixtures.",
+      "seoKeywords": ["europa league table", "bbc sport", "group standings", "fixtures"],
+      "iframeUrl": "https://www.bbc.com/sport/football/europa-league/table",
+      "bgImg": "",
+      "tags": ["europa-league", "table", "bbc"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "arsenal-vs-wolves-match-center",
+      "nameShort": "arsenal-wolves",
+      "seoTitle": "Arsenal Vs Wolves Match Center With Stats",
+      "seoDescription": "ESPN Match Center For Arsenal Vs Wolves Featuring Lineups, Stats, And Commentary.",
+      "seoKeywords": ["arsenal vs wolves", "premier league", "match center", "stats"],
+      "iframeUrl": "https://www.espn.com/soccer/match/_/gameId/698077",
+      "bgImg": "",
+      "tags": ["arsenal", "wolves", "premier-league", "match"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "you-com-private-search",
+      "nameShort": "you",
+      "seoTitle": "You.com Private Search With AI Answers",
+      "seoDescription": "You.com Privacy-focused Search Engine Providing AI Answers, Links, And App Results In One View.",
+      "seoKeywords": ["you", "you.com", "search", "private", "ai"],
+      "iframeUrl": "https://you.com/",
+      "bgImg": "",
+      "tags": ["you", "search", "ai"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "google-search-homepage",
+      "nameShort": "google",
+      "seoTitle": "Google Search Homepage For Web Queries",
+      "seoDescription": "Google.com Homepage For Fast Web, Image, And Map Searches With Language Options.",
+      "seoKeywords": ["google", "search", "homepage", "web search"],
+      "iframeUrl": "https://www.google.com/",
+      "bgImg": "",
+      "tags": ["google", "search", "homepage"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "weather-underground-radar",
+      "nameShort": "weather-underground",
+      "seoTitle": "Weather Underground Radar And Forecasts",
+      "seoDescription": "Weather Underground Local Forecasts With Interactive Radar, Storm Tracking, And Air Quality.",
+      "seoKeywords": ["weather", "radar", "forecast", "underground", "clima"],
+      "iframeUrl": "https://www.wunderground.com/radar",
+      "bgImg": "",
+      "tags": ["weather", "radar", "forecast"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "whatsapp-business-platform",
+      "nameShort": "whatsapp-business",
+      "seoTitle": "WhatsApp Business Platform Overview",
+      "seoDescription": "WhatsApp Business Page Explaining API Access, Business Profiles, And Messaging Tools.",
+      "seoKeywords": ["whatsapp business", "api", "messaging", "platform"],
+      "iframeUrl": "https://www.whatsapp.com/business",
+      "bgImg": "",
+      "tags": ["whatsapp", "business", "api"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "facebook-help-center-login",
+      "nameShort": "facebook-help",
+      "seoTitle": "Facebook Help Center For Login And Accounts",
+      "seoDescription": "Facebook Help Center Covering Login Issues, Account Recovery, And Security Settings.",
+      "seoKeywords": ["facebook login", "help center", "account recovery", "security"],
+      "iframeUrl": "https://www.facebook.com/help/",
+      "bgImg": "",
+      "tags": ["facebook", "help", "login"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "instagram-web-profile",
+      "nameShort": "instagram",
+      "seoTitle": "Instagram Web Feed And Profiles",
+      "seoDescription": "Instagram Web Access For Viewing Feeds, Profiles, Reels, And Messages In Browser.",
+      "seoKeywords": ["instagram", "web", "reels", "photos"],
+      "iframeUrl": "https://www.instagram.com/",
+      "bgImg": "",
+      "tags": ["instagram", "social", "photos"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "reddit-home-feed",
+      "nameShort": "reddit-home",
+      "seoTitle": "Reddit Home Feed With Trending Posts",
+      "seoDescription": "Reddit.com Front Page Showing Popular And Home Feeds With Posts, AMAs, And News.",
+      "seoKeywords": ["reddit", "home", "popular", "news"],
+      "iframeUrl": "https://www.reddit.com/",
+      "bgImg": "",
+      "tags": ["reddit", "home", "popular"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "tiktok-trending-page",
+      "nameShort": "tiktok",
+      "seoTitle": "TikTok Discover Trending Hashtags And Videos",
+      "seoDescription": "TikTok Discover Page Highlighting Trending Hashtags, Challenges, And Popular Clips.",
+      "seoKeywords": ["tiktok", "trending", "hashtags", "videos"],
+      "iframeUrl": "https://www.tiktok.com/discover",
+      "bgImg": "",
+      "tags": ["tiktok", "trending", "videos"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "google-maps-directions",
+      "nameShort": "maps",
+      "seoTitle": "Google Maps Directions And Traffic",
+      "seoDescription": "Google Maps For Turn-by-turn Directions, Live Traffic, And Nearby Places.",
+      "seoKeywords": ["maps", "google maps", "directions", "traffic"],
+      "iframeUrl": "https://www.google.com/maps",
+      "bgImg": "",
+      "tags": ["maps", "directions", "traffic"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "mapquest-directions",
+      "nameShort": "mapquest",
+      "seoTitle": "MapQuest Driving Directions And Routes",
+      "seoDescription": "MapQuest Route Planner Offering Driving Directions, Traffic Layers, And Nearby Stops.",
+      "seoKeywords": ["map", "mapquest", "directions", "routes"],
+      "iframeUrl": "https://www.mapquest.com/directions",
+      "bgImg": "",
+      "tags": ["map", "directions", "mapquest"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "europa-league-live-scores",
+      "nameShort": "europa-live",
+      "seoTitle": "Europa League Live Scores And Results",
+      "seoDescription": "Livescore.com Europa League Page Showing Live Scores, Results, And Match Timers.",
+      "seoKeywords": ["europa league", "live scores", "results", "fixtures"],
+      "iframeUrl": "https://www.livescore.com/en/football/europe/uefa-europa-league/",
+      "bgImg": "",
+      "tags": ["europa-league", "live", "scores"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "epic-games-newsroom",
+      "nameShort": "epic-news",
+      "seoTitle": "Epic Games Newsroom And Announcements",
+      "seoDescription": "Epic Games Newsroom Listing Company Announcements, Store Updates, And Developer News.",
+      "seoKeywords": ["epic games", "newsroom", "announcements", "updates"],
+      "iframeUrl": "https://www.epicgames.com/site/en-US/news",
+      "bgImg": "",
+      "tags": ["epic-games", "news", "updates"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "corinthians-official-site",
+      "nameShort": "corinthians-official",
+      "seoTitle": "Corinthians Official Club Website",
+      "seoDescription": "Sport Club Corinthians Paulista Official Site Covering News, Fixtures, And Tickets.",
+      "seoKeywords": ["corinthians", "official site", "fixtures", "news"],
+      "iframeUrl": "https://www.corinthians.com.br/",
+      "bgImg": "",
+      "tags": ["corinthians", "official", "fixtures"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "vasco-da-gama-fixtures",
+      "nameShort": "vasco",
+      "seoTitle": "Vasco Da Gama Fixtures And Results",
+      "seoDescription": "ESPN Vasco Da Gama Team Page Listing Fixtures, Results, And Table Position.",
+      "seoKeywords": ["vasco", "fixtures", "results", "serie a"],
+      "iframeUrl": "https://www.espn.com/soccer/team/fixtures/_/id/3453/vasco-da-gama",
+      "bgImg": "",
+      "tags": ["vasco", "fixtures", "results"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "google-scientific-calculator",
+      "nameShort": "google-calculator",
+      "seoTitle": "Google Scientific Calculator In Browser",
+      "seoDescription": "Google's Built-in Scientific Calculator For Quick Math, Equations, And Conversions.",
+      "seoKeywords": ["calculator", "google calculator", "scientific", "math"],
+      "iframeUrl": "https://www.google.com/search?q=calculator",
+      "bgImg": "",
+      "tags": ["calculator", "google", "math"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "wordle-nyt-official",
+      "nameShort": "wordle-nyt",
+      "seoTitle": "Official Wordle By The New York Times",
+      "seoDescription": "NYT Wordle Daily Puzzle With Original Rules, Share Grid, And One-puzzle-per-day Format.",
+      "seoKeywords": ["wordle", "nyt", "daily puzzle", "word game"],
+      "iframeUrl": "https://www.nytimes.com/games/wordle/index.html",
+      "bgImg": "",
+      "tags": ["wordle", "nyt", "puzzle"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "dolphins-steelers-espn-recap",
+      "nameShort": "dolphins-steelers-espn",
+      "seoTitle": "Dolphins Vs Steelers ESPN Game Recap",
+      "seoDescription": "ESPN Recap Page For Miami Dolphins Vs Pittsburgh Steelers With Scoring Summary And Stats.",
+      "seoKeywords": ["dolphins vs steelers", "espn recap", "nfl", "game summary"],
+      "iframeUrl": "https://www.espn.com/nfl/recap/_/gameId/401437765",
+      "bgImg": "",
+      "tags": ["dolphins", "steelers", "espn", "recap"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "rob-reiner-imdb-filmography",
+      "nameShort": "rob-reiner-imdb",
+      "seoTitle": "Rob Reiner IMDb Filmography And Credits",
+      "seoDescription": "IMDb Page For Rob Reiner Listing Filmography, Awards, Photos, And TV Credits.",
+      "seoKeywords": ["rob reiner", "movies and tv shows", "imdb", "filmography"],
+      "iframeUrl": "https://www.imdb.com/name/nm0001661/",
+      "bgImg": "",
+      "tags": ["rob-reiner", "imdb", "filmography"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "crystal-palace-vs-man-city",
+      "nameShort": "palace-man-city",
+      "seoTitle": "Crystal Palace Vs Manchester City Match Hub",
+      "seoDescription": "BBC Sport Match Hub For Crystal Palace Vs Manchester City Including Commentary And Stats.",
+      "seoKeywords": ["crystal palace vs man city", "premier league", "match hub", "stats"],
+      "iframeUrl": "https://www.bbc.com/sport/football/teams/crystal-palace",
+      "bgImg": "",
+      "tags": ["crystal-palace", "man-city", "premier-league"],
+      "updateTime": "2025-12-17"
+    },
+    {
+      "name": "cardiff-city-vs-chelsea",
+      "nameShort": "cardiff-chelsea",
+      "seoTitle": "Cardiff City Vs Chelsea Match Page",
+      "seoDescription": "Sky Sports Match Page For Cardiff City Vs Chelsea Featuring Lineups, Live Commentary, And Results.",
+      "seoKeywords": ["cardiff city vs chelsea", "sky sports", "match", "lineups", "result"],
+      "iframeUrl": "https://www.skysports.com/cardiff-city-vs-chelsea/live/401815",
+      "bgImg": "",
+      "tags": ["cardiff", "chelsea", "premier-league"],
+      "updateTime": "2025-12-17"
+    }
+  ]
+}
+

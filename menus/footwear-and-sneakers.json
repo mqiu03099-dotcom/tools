@@ -1,0 +1,65 @@
+{
+  "name": "footwear-and-sneakers",
+  "nameShort": "footwear",
+  "seoTitle": "Shoes, Nike, Adidas, Jordan And Boots Deals",
+  "seoDescription": "Top footwear destinations covering Nike, Adidas, Jordan drops, and durable boots with fast-loading shop pages.",
+  "seoKeywords": ["shoes", "nike", "adidas", "boots", "jordan"],
+  "children": [
+    {
+      "name": "nike-official-store",
+      "nameShort": "nike",
+      "seoTitle": "Nike Official Store And SNKRS Drops",
+      "seoDescription": "Nike Store Featuring Latest Footwear, SNKRS Launch Calendar, And Member Exclusives.",
+      "seoKeywords": ["nike", "sneakers", "snkrs", "footwear"],
+      "iframeUrl": "https://www.nike.com/",
+      "bgImg": "",
+      "tags": ["nike", "sneakers", "footwear"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "adidas-official-store",
+      "nameShort": "adidas",
+      "seoTitle": "Adidas Originals And Performance Footwear",
+      "seoDescription": "Adidas Official Store Highlighting Originals, Performance Footwear, And Confirmed Drops.",
+      "seoKeywords": ["adidas", "footwear", "confirmed", "sneakers"],
+      "iframeUrl": "https://www.adidas.com/",
+      "bgImg": "",
+      "tags": ["adidas", "sneakers", "footwear"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "jordan-brand-store",
+      "nameShort": "jordan",
+      "seoTitle": "Jordan Brand Retro And Performance Sneakers",
+      "seoDescription": "Nike Jordan Brand Hub For Retro Drops, Performance Basketball Shoes, And Apparel.",
+      "seoKeywords": ["jordan", "retro", "sneakers", "nike"],
+      "iframeUrl": "https://www.nike.com/jordan",
+      "bgImg": "",
+      "tags": ["jordan", "sneakers", "retro"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "timberland-boots",
+      "nameShort": "timberland",
+      "seoTitle": "Timberland Boots And Workwear",
+      "seoDescription": "Timberland Official Boots Collection Featuring Waterproof, Work, And Hike-ready Styles.",
+      "seoKeywords": ["boots", "timberland", "footwear", "workwear"],
+      "iframeUrl": "https://www.timberland.com/shop/mens-boots",
+      "bgImg": "",
+      "tags": ["boots", "timberland", "footwear"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "stockx-sneakers",
+      "nameShort": "stockx",
+      "seoTitle": "StockX Sneaker Marketplace For Drops",
+      "seoDescription": "StockX Marketplace For Authentic Sneakers, Including Nike, Adidas, And Jordan Releases.",
+      "seoKeywords": ["stockx", "sneakers", "nike", "adidas"],
+      "iframeUrl": "https://stockx.com/sneakers",
+      "bgImg": "",
+      "tags": ["sneakers", "stockx", "marketplace"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

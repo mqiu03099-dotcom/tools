@@ -1,0 +1,65 @@
+{
+  "name": "klein-tools-brand",
+  "nameShort": "klein",
+  "seoTitle": "Klein Tools Electrical Hand Tools",
+  "seoDescription": "Klein Tools resources for electrical hand tools, pro reviews, and distributor pages.",
+  "seoKeywords": ["klein tools", "electrical", "hand tools", "distributor"],
+  "children": [
+    {
+      "name": "klein-tools-official",
+      "nameShort": "official",
+      "seoTitle": "Klein Tools Official Site",
+      "seoDescription": "Klein Tools homepage with product families, innovations, and service info.",
+      "seoKeywords": ["klein tools", "official", "electrical", "products"],
+      "iframeUrl": "https://www.kleintools.com/",
+      "bgImg": "",
+      "tags": ["klein-tools", "official", "electrical"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "klein-hand-tools",
+      "nameShort": "hand",
+      "seoTitle": "Klein Tools Catalog For Hand Tools",
+      "seoDescription": "Klein Tools catalog for pliers, screwdrivers, testers, and utility knives.",
+      "seoKeywords": ["klein tools", "hand tools", "pliers", "screwdrivers"],
+      "iframeUrl": "https://www.kleintools.com/catalog/hand-tools",
+      "bgImg": "",
+      "tags": ["klein-tools", "hand-tools", "catalog"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "klein-home-depot",
+      "nameShort": "home-depot",
+      "seoTitle": "Klein Tools At Home Depot",
+      "seoDescription": "Home Depot brand page listing Klein Tools electrical gear and hand tools.",
+      "seoKeywords": ["klein tools", "home depot", "electrical", "hand tools"],
+      "iframeUrl": "https://www.homedepot.com/b/Brand/Klein-Tools/N-5yc1vZ3y9",
+      "bgImg": "",
+      "tags": ["klein-tools", "retail", "home-depot"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "klein-grainger",
+      "nameShort": "grainger",
+      "seoTitle": "Klein Tools Distributor Page On Grainger",
+      "seoDescription": "Grainger supplier page for Klein Tools electrical hand tools and accessories.",
+      "seoKeywords": ["klein tools", "grainger", "electrical", "hand tools"],
+      "iframeUrl": "https://www.grainger.com/category/brands/klein-tools",
+      "bgImg": "",
+      "tags": ["klein-tools", "grainger", "distributor"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "klein-pro-reviews",
+      "nameShort": "reviews",
+      "seoTitle": "Klein Tools Professional Reviews",
+      "seoDescription": "Pro Tool Reviews coverage of Klein Tools launches, testing, and buying advice.",
+      "seoKeywords": ["klein tools", "reviews", "testing", "buying guide"],
+      "iframeUrl": "https://protoolreviews.com/brand/klein-tools/",
+      "bgImg": "",
+      "tags": ["klein-tools", "reviews", "testing"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

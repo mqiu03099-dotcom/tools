@@ -1,0 +1,78 @@
+{
+  "name": "google-doc",
+  "nameShort": "google-doc",
+  "seoTitle": "Google Doc Featuring Docs Product, Docs Support, Docs API",
+  "seoDescription": "Google Doc Directory Featuring Docs Product, Docs Support, Docs API And More.",
+  "seoKeywords": ["google doc", "google", "doc", "docs", "product", "support", "api"],
+  "children": [
+    {
+      "name": "google-docs-product",
+      "nameShort": "docs-product",
+      "seoTitle": "Docs Product Google Workspace's Docs Page Explains Templates",
+      "seoDescription": "Docs Product - Google Workspace's Docs Page Explains Templates, Smart Chips, And Collaboration Controls For Enterprise Rollouts",
+      "seoKeywords": [
+        "docs product",
+        "google",
+        "docs",
+        "product",
+        "google-docs",
+        "workspace",
+        "collaboration",
+        "suite",
+        "page",
+        "explains",
+        "templates",
+        "smart"
+      ],
+      "iframeUrl": "https://workspace.google.com/products/docs/",
+      "bgImg": "",
+      "tags": ["google-docs", "workspace", "product", "collaboration", "suite"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "google-docs-support",
+      "nameShort": "docs-support",
+      "seoTitle": "Docs Support The Docs Help Center Provides Troubleshooting",
+      "seoDescription": "Docs Support - The Docs Help Center Provides Troubleshooting Guides, Keyboard Shortcuts, And Rollout Notes For New Editor Features",
+      "seoKeywords": [
+        "docs support",
+        "google",
+        "docs",
+        "support",
+        "google-docs",
+        "help",
+        "guides",
+        "faq",
+        "center",
+        "provides",
+        "troubleshooting",
+        "keyboard"
+      ],
+      "iframeUrl": "https://support.google.com/docs/",
+      "bgImg": "",
+      "tags": ["google-docs", "support", "help", "guides", "faq"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "google-docs-api",
+      "nameShort": "docs-api",
+      "seoTitle": "Docs API Developers",
+      "seoDescription": "Docs API - Developers",
+      "seoKeywords": [
+        "docs api",
+        "google",
+        "docs",
+        "api",
+        "google-docs",
+        "developers",
+        "automation",
+        "cloud"
+      ],
+      "iframeUrl": "https://developers.google.com/docs/api",
+      "bgImg": "",
+      "tags": ["google-docs", "api", "developers", "automation", "cloud"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+

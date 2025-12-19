@@ -1,0 +1,65 @@
+{
+  "name": "dewalt-tools-brand",
+  "nameShort": "dewalt",
+  "seoTitle": "DeWalt Power And Hand Tools Resources",
+  "seoDescription": "DeWalt brand links for power tools, hand tools, and retailer listings.",
+  "seoKeywords": ["dewalt tools", "power tools", "hand tools", "retailers"],
+  "children": [
+    {
+      "name": "dewalt-official-uk",
+      "nameShort": "official",
+      "seoTitle": "DeWalt UK Official Site",
+      "seoDescription": "DeWalt UK homepage featuring promotions, tool platforms, and service info.",
+      "seoKeywords": ["dewalt", "official", "uk", "tools"],
+      "iframeUrl": "https://www.dewalt.co.uk/",
+      "bgImg": "",
+      "tags": ["dewalt", "official", "uk"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "dewalt-power-tools",
+      "nameShort": "power",
+      "seoTitle": "DeWalt Power Tools Catalog",
+      "seoDescription": "DeWalt catalog for drills, drivers, grinders, and cordless tool platforms.",
+      "seoKeywords": ["dewalt", "power tools", "cordless", "catalog"],
+      "iframeUrl": "https://www.dewalt.co.uk/products/power-tools",
+      "bgImg": "",
+      "tags": ["dewalt", "power-tools", "catalog"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "dewalt-hand-tools",
+      "nameShort": "hand",
+      "seoTitle": "DeWalt Hand Tools Range",
+      "seoDescription": "DeWalt hand tools lineup including tapes, wrenches, and jobsite accessories.",
+      "seoKeywords": ["dewalt", "hand tools", "jobsite", "accessories"],
+      "iframeUrl": "https://www.dewalt.co.uk/products/hand-tools",
+      "bgImg": "",
+      "tags": ["dewalt", "hand-tools", "catalog"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "dewalt-home-depot",
+      "nameShort": "home-depot",
+      "seoTitle": "DeWalt Tools At Home Depot",
+      "seoDescription": "Home Depot brand page for DeWalt tools, battery platforms, and promotions.",
+      "seoKeywords": ["dewalt", "home depot", "power tools", "batteries"],
+      "iframeUrl": "https://www.homedepot.com/b/Brand/DEWALT/N-5yc1vZ4f7",
+      "bgImg": "",
+      "tags": ["dewalt", "retail", "home-depot"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "dewalt-acme-tools",
+      "nameShort": "acme",
+      "seoTitle": "DeWalt Listings On Acme Tools",
+      "seoDescription": "Acme Tools selection of DeWalt cordless kits, hand tools, and accessories.",
+      "seoKeywords": ["dewalt", "acme tools", "cordless", "kits"],
+      "iframeUrl": "https://www.acmetools.com/brands/dewalt",
+      "bgImg": "",
+      "tags": ["dewalt", "retail", "acme-tools"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

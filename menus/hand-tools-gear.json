@@ -1,0 +1,65 @@
+{
+  "name": "hand-tools-gear",
+  "nameShort": "hand-tools",
+  "seoTitle": "Hand Tools Brands And Catalogs",
+  "seoDescription": "Hand tool collections from leading brands plus specialty grip solutions like Grip Edge.",
+  "seoKeywords": ["hand tools", "pliers", "wrenches", "grip edge", "catalog"],
+  "children": [
+    {
+      "name": "stanley-hand-tools",
+      "nameShort": "stanley",
+      "seoTitle": "Stanley Hand Tools Catalog",
+      "seoDescription": "Stanley hand tools lineup with tapes, hammers, screwdrivers, and storage.",
+      "seoKeywords": ["stanley", "hand tools", "tape", "hammer"],
+      "iframeUrl": "https://www.stanleytools.com/products/hand-tools",
+      "bgImg": "",
+      "tags": ["stanley", "hand-tools", "catalog"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "wiha-hand-tools",
+      "nameShort": "wiha",
+      "seoTitle": "Wiha Precision Hand Tools",
+      "seoDescription": "Wiha hand tools catalog covering insulated drivers, cutters, and precision kits.",
+      "seoKeywords": ["wiha", "hand tools", "insulated", "precision"],
+      "iframeUrl": "https://www.wihatools.com/hand-tools",
+      "bgImg": "",
+      "tags": ["wiha", "hand-tools", "precision"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "crescent-hand-tools",
+      "nameShort": "crescent",
+      "seoTitle": "Crescent Hand Tools Range",
+      "seoDescription": "Crescent lineup for wrenches, pliers, socket sets, and mechanics tool kits.",
+      "seoKeywords": ["crescent", "hand tools", "wrenches", "sockets"],
+      "iframeUrl": "https://www.crescenttool.com/products/hand-tools",
+      "bgImg": "",
+      "tags": ["crescent", "hand-tools", "wrenches"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "gedore-hand-tools",
+      "nameShort": "gedore",
+      "seoTitle": "Gedore Professional Hand Tools",
+      "seoDescription": "Gedore professional hand tools including torque wrenches, pliers, and tool sets.",
+      "seoKeywords": ["gedore", "hand tools", "torque", "pliers"],
+      "iframeUrl": "https://www.gedore.com/en/hand-tools",
+      "bgImg": "",
+      "tags": ["gedore", "hand-tools", "professional"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "grip-edge-tools",
+      "nameShort": "grip-edge",
+      "seoTitle": "Grip Edge Bolt Removal Tools",
+      "seoDescription": "Grip Edge Tools official site showcasing extraction sockets and bolt removal tech.",
+      "seoKeywords": ["grip edge", "hand tools", "sockets", "extraction"],
+      "iframeUrl": "https://www.gripedgetools.com/",
+      "bgImg": "",
+      "tags": ["grip-edge", "hand-tools", "sockets"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

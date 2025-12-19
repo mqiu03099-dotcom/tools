@@ -1,0 +1,65 @@
+{
+  "name": "input-tools-keyboards",
+  "nameShort": "input",
+  "seoTitle": "Input Tools For Multilingual Typing And Keyboards",
+  "seoDescription": "Virtual keyboards, IME downloads, and language input helpers including Google Input Tools.",
+  "seoKeywords": ["input tools", "virtual keyboard", "ime", "google input tools"],
+  "children": [
+    {
+      "name": "google-input-tools",
+      "nameShort": "google-input",
+      "seoTitle": "Google Input Tools Download And Web Input",
+      "seoDescription": "Google Input Tools page for transliteration, handwriting, and keyboard support across languages.",
+      "seoKeywords": ["google input tools", "transliteration", "keyboard", "handwriting"],
+      "iframeUrl": "https://www.google.com/inputtools/",
+      "bgImg": "",
+      "tags": ["google-input-tools", "keyboard", "ime"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "keyman-keyboard",
+      "nameShort": "keyman",
+      "seoTitle": "Keyman Keyboard Manager For Any Language",
+      "seoDescription": "Keyman desktop and mobile keyboards with thousands of language layouts and cloud sync.",
+      "seoKeywords": ["keyman", "keyboard", "language", "layouts"],
+      "iframeUrl": "https://www.keyman.com/",
+      "bgImg": "",
+      "tags": ["keyman", "keyboard", "ime"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "inputking-online-keyboard",
+      "nameShort": "inputking",
+      "seoTitle": "InputKing Online Keyboard And IME",
+      "seoDescription": "InputKing browser-based keyboards for Chinese, Japanese, and multilingual typing.",
+      "seoKeywords": ["inputking", "online keyboard", "ime", "multilingual"],
+      "iframeUrl": "https://www.inputking.com/",
+      "bgImg": "",
+      "tags": ["inputking", "keyboard", "ime"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "lexilogos-virtual-keyboard",
+      "nameShort": "lexilogos",
+      "seoTitle": "Lexilogos Virtual Keyboards For World Languages",
+      "seoDescription": "Lexilogos keyboard widgets covering Arabic, Hindi, Greek, and more scripts online.",
+      "seoKeywords": ["lexilogos", "virtual keyboard", "languages", "online typing"],
+      "iframeUrl": "https://www.lexilogos.com/keyboard/",
+      "bgImg": "",
+      "tags": ["lexilogos", "keyboard", "virtual"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "branah-virtual-keyboard",
+      "nameShort": "branah",
+      "seoTitle": "Branah Virtual Keyboard Collection",
+      "seoDescription": "Branah hosts virtual keyboards and character pickers for fast multilingual input.",
+      "seoKeywords": ["branah", "virtual keyboard", "multilingual", "typing"],
+      "iframeUrl": "https://www.branah.com/keyboard",
+      "bgImg": "",
+      "tags": ["branah", "keyboard", "typing"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

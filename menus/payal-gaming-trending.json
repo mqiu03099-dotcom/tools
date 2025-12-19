@@ -1,0 +1,65 @@
+{
+  "name": "payal-gaming-trending",
+  "nameShort": "payal",
+  "seoTitle": "Payal Gaming Viral Video And Creator Channels",
+  "seoDescription": "Follow Payal Gaming across YouTube, Instagram, and esports coverage for viral videos and livestream highlights.",
+  "seoKeywords": ["payal gaming viral video", "streamer", "youtube", "esports"],
+  "children": [
+    {
+      "name": "payal-gaming-youtube",
+      "nameShort": "youtube",
+      "seoTitle": "Payal Gaming Official YouTube Channel",
+      "seoDescription": "Payal Gaming YouTube Channel Featuring Livestreams, Shorts, And Viral Gameplay Videos.",
+      "seoKeywords": ["payal gaming", "youtube", "viral video", "livestream"],
+      "iframeUrl": "https://www.youtube.com/@PayalGamingOfficial",
+      "bgImg": "",
+      "tags": ["payal-gaming", "youtube", "streamer"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "payal-gaming-instagram",
+      "nameShort": "instagram",
+      "seoTitle": "Payal Gaming Instagram Reels And Updates",
+      "seoDescription": "Payal Gaming Instagram Feed With Reels, Behind-the-scenes Clips, And Creator Updates.",
+      "seoKeywords": ["payal gaming", "instagram", "reels", "updates"],
+      "iframeUrl": "https://www.instagram.com/payalgaming/",
+      "bgImg": "",
+      "tags": ["payal-gaming", "instagram", "reels"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "payal-gaming-twitter",
+      "nameShort": "twitter",
+      "seoTitle": "Payal Gaming Official X (Twitter)",
+      "seoDescription": "Payal Gaming's Official X (Twitter) Account Sharing Stream Schedules, Clips, And Community News.",
+      "seoKeywords": ["payal gaming", "twitter", "streams", "updates"],
+      "iframeUrl": "https://twitter.com/PayalDhare",
+      "bgImg": "",
+      "tags": ["payal-gaming", "twitter", "streams"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "payal-gaming-facebook",
+      "nameShort": "facebook",
+      "seoTitle": "Payal Gaming Facebook Clips",
+      "seoDescription": "Payal Gaming Facebook Page Hosting Short Clips, Photos, And Community Posts.",
+      "seoKeywords": ["payal gaming", "facebook", "clips", "community"],
+      "iframeUrl": "https://www.facebook.com/PayalGaming/",
+      "bgImg": "",
+      "tags": ["payal-gaming", "facebook", "clips"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "payal-gaming-coverage",
+      "nameShort": "coverage",
+      "seoTitle": "Payal Gaming Esports Coverage On Sportskeeda",
+      "seoDescription": "Sportskeeda Coverage Of Payal Gaming Featuring Interviews, Viral Moments, And Tournament Recaps.",
+      "seoKeywords": ["payal gaming", "sportskeeda", "esports", "news"],
+      "iframeUrl": "https://www.sportskeeda.com/esports/payal-gaming",
+      "bgImg": "",
+      "tags": ["payal-gaming", "esports", "news"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

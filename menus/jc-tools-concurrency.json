@@ -1,0 +1,65 @@
+{
+  "name": "jc-tools-concurrency",
+  "nameShort": "jc-tools",
+  "seoTitle": "JCTools Concurrency Libraries For Java",
+  "seoDescription": "JCTools resources with docs, GitHub source, wiki notes, and API references for Java concurrency utilities.",
+  "seoKeywords": ["jc tools", "jctools", "java", "concurrency", "library"],
+  "children": [
+    {
+      "name": "jctools-docs",
+      "nameShort": "docs",
+      "seoTitle": "JCTools Official Documentation",
+      "seoDescription": "JCTools GitHub Pages site with guides, benchmarks, and usage examples.",
+      "seoKeywords": ["jctools", "documentation", "java", "concurrency"],
+      "iframeUrl": "https://jctools.github.io/JCTools/",
+      "bgImg": "",
+      "tags": ["jctools", "docs", "java"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "jctools-github",
+      "nameShort": "github",
+      "seoTitle": "JCTools GitHub Repository",
+      "seoDescription": "JCTools GitHub source code with issue tracker, releases, and examples.",
+      "seoKeywords": ["jctools", "github", "source code", "java"],
+      "iframeUrl": "https://github.com/JCTools/JCTools",
+      "bgImg": "",
+      "tags": ["jctools", "github", "source"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "jctools-wiki",
+      "nameShort": "wiki",
+      "seoTitle": "JCTools Project Wiki",
+      "seoDescription": "JCTools wiki with design notes, FAQ, and tips for choosing the right queue.",
+      "seoKeywords": ["jctools", "wiki", "concurrency", "queues"],
+      "iframeUrl": "https://github.com/JCTools/JCTools/wiki",
+      "bgImg": "",
+      "tags": ["jctools", "wiki", "concurrency"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "jctools-api",
+      "nameShort": "api",
+      "seoTitle": "JCTools API Reference",
+      "seoDescription": "Javadoc site for JCTools core library classes and interfaces.",
+      "seoKeywords": ["jctools", "javadoc", "api", "java"],
+      "iframeUrl": "https://www.javadoc.io/doc/org.jctools/jctools-core/latest/index.html",
+      "bgImg": "",
+      "tags": ["jctools", "api", "javadoc"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "jctools-central",
+      "nameShort": "central",
+      "seoTitle": "JCTools Artifact On Maven Central",
+      "seoDescription": "Maven Central page for the jctools-core artifact with versions and coordinates.",
+      "seoKeywords": ["jctools", "maven", "artifact", "java"],
+      "iframeUrl": "https://central.sonatype.com/artifact/org.jctools/jctools-core",
+      "bgImg": "",
+      "tags": ["jctools", "maven", "artifact"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

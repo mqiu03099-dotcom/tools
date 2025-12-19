@@ -1,0 +1,65 @@
+{
+  "name": "tools-near-me-locators",
+  "nameShort": "near-me",
+  "seoTitle": "Tools Near Me Store Locator Pages",
+  "seoDescription": "Store locator pages to quickly find nearby hardware and tool retailers in your area.",
+  "seoKeywords": ["tools near me", "store locator", "hardware", "retail"],
+  "children": [
+    {
+      "name": "home-depot-store-finder",
+      "nameShort": "home-depot",
+      "seoTitle": "Home Depot Store Finder",
+      "seoDescription": "Home Depot store finder for directions, hours, and inventory status near you.",
+      "seoKeywords": ["home depot", "store finder", "tools near me", "hours"],
+      "iframeUrl": "https://www.homedepot.com/l/search/StoreFinder",
+      "bgImg": "",
+      "tags": ["home-depot", "locator", "retail"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "lowes-store-locator",
+      "nameShort": "lowes",
+      "seoTitle": "Lowe'S Store Locator",
+      "seoDescription": "Lowe's store locator with addresses, curbside pickup options, and contact info.",
+      "seoKeywords": ["lowe's", "store locator", "tools near me", "pickup"],
+      "iframeUrl": "https://www.lowes.com/store/",
+      "bgImg": "",
+      "tags": ["lowes", "locator", "retail"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "ace-hardware-locator",
+      "nameShort": "ace",
+      "seoTitle": "Ace Hardware Store Locator",
+      "seoDescription": "Ace Hardware locator for nearby stores, services, and paint or tool inventory.",
+      "seoKeywords": ["ace hardware", "store locator", "hardware", "tools"],
+      "iframeUrl": "https://www.acehardware.com/store-locator",
+      "bgImg": "",
+      "tags": ["ace-hardware", "locator", "tools"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "harbor-freight-locator",
+      "nameShort": "harbor-freight",
+      "seoTitle": "Harbor Freight Store Locator",
+      "seoDescription": "Harbor Freight store locator for coupons, opening hours, and directions.",
+      "seoKeywords": ["harbor freight", "store locator", "coupons", "tools"],
+      "iframeUrl": "https://www.harborfreight.com/storelocator",
+      "bgImg": "",
+      "tags": ["harbor-freight", "locator", "tools"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "true-value-locator",
+      "nameShort": "true-value",
+      "seoTitle": "True Value Hardware Locator",
+      "seoDescription": "True Value store locator to find hardware, rental tools, and services nearby.",
+      "seoKeywords": ["true value", "store locator", "hardware", "tools"],
+      "iframeUrl": "https://www.truevalue.com/store-locator",
+      "bgImg": "",
+      "tags": ["true-value", "locator", "hardware"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

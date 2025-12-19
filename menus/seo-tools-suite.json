@@ -1,0 +1,65 @@
+{
+  "name": "seo-tools-suite",
+  "nameShort": "seo",
+  "seoTitle": "SEO Tools For Audits, Checks, And Monitoring",
+  "seoDescription": "Fast SEO checkers covering site audits, on-page metrics, and keyword previews.",
+  "seoKeywords": ["seo tools", "audit", "checker", "keywords", "monitoring"],
+  "children": [
+    {
+      "name": "seobility-site-check",
+      "nameShort": "seobility",
+      "seoTitle": "Seobility SEO Checker For Websites",
+      "seoDescription": "Seobility on-page SEO check with crawl errors, metadata tips, and scoring.",
+      "seoKeywords": ["seobility", "seo checker", "on-page", "audit"],
+      "iframeUrl": "https://seobility.net/en/seocheck/",
+      "bgImg": "",
+      "tags": ["seo", "checker", "seobility"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "seoptimer-audit",
+      "nameShort": "seoptimer",
+      "seoTitle": "SEOptimer Free SEO Audit Tool",
+      "seoDescription": "SEOptimer generates site audits with performance, accessibility, and link checks.",
+      "seoKeywords": ["seoptimer", "seo audit", "performance", "links"],
+      "iframeUrl": "https://www.seoptimer.com/",
+      "bgImg": "",
+      "tags": ["seo", "audit", "seoptimer"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "seoreviewtools-suite",
+      "nameShort": "seoreview",
+      "seoTitle": "SEO Review Tools Collection",
+      "seoDescription": "SEO Review Tools hosts backlink checks, keyword tools, schema validators, and SERP previews.",
+      "seoKeywords": ["seo review tools", "backlink", "keywords", "schema"],
+      "iframeUrl": "https://www.seoreviewtools.com/",
+      "bgImg": "",
+      "tags": ["seo", "backlinks", "keywords"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "siteliner-duplicate-check",
+      "nameShort": "siteliner",
+      "seoTitle": "Siteliner Duplicate Content Checker",
+      "seoDescription": "Siteliner scans for duplicate content, broken links, and site performance metrics.",
+      "seoKeywords": ["siteliner", "duplicate content", "broken links", "seo"],
+      "iframeUrl": "https://www.siteliner.com/",
+      "bgImg": "",
+      "tags": ["seo", "duplicate", "siteliner"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "woorank-audit",
+      "nameShort": "woorank",
+      "seoTitle": "WooRank Website Review And Audit",
+      "seoDescription": "WooRank automated website reviews covering SEO basics, performance, and backlinks.",
+      "seoKeywords": ["woorank", "seo audit", "performance", "backlinks"],
+      "iframeUrl": "https://www.woorank.com/en",
+      "bgImg": "",
+      "tags": ["seo", "woorank", "audit"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

@@ -1,0 +1,82 @@
+{
+  "name": "kpop-demon-hunters",
+  "nameShort": "kpop",
+  "seoTitle": "Kpop Featuring Kpop Wiki, Kpop Variety, Kpop Animationmag",
+  "seoDescription": "Kpop Directory Featuring Kpop Wiki, Kpop Variety, Kpop Animationmag And More.",
+  "seoKeywords": ["kpop", "demon", "hunters", "wikipedia", "variety", "animation", "magazine"],
+  "children": [
+    {
+      "name": "kpop-demon-hunters-wikipedia",
+      "nameShort": "kpop-wiki",
+      "seoTitle": "Kpop Wiki Wikipedia Documents The K-Pop: Demon Hunters",
+      "seoDescription": "Kpop Wiki - Wikipedia Documents The K-Pop Demon Hunters Production Timeline, Confirmed Creative Team, Voice Cast, And Plot Synopsis Straight From",
+      "seoKeywords": [
+        "kpop wiki",
+        "kpop",
+        "demon",
+        "hunters",
+        "wikipedia",
+        "wiki",
+        "disney",
+        "documents",
+        "pop",
+        "production",
+        "timeline",
+        "confirmed"
+      ],
+      "iframeUrl": "https://en.wikipedia.org/wiki/K-Pop:_Demon_Hunters",
+      "bgImg": "",
+      "tags": ["kpop", "demon", "hunters", "disney", "wiki"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "variety-kpop-demon-hunters",
+      "nameShort": "kpop-variety",
+      "seoTitle": "Kpop Variety Variety's Annecy Coverage Recaps Interviews With",
+      "seoDescription": "Kpop Variety - Variety's Annecy Coverage Recaps Interviews With Directors Chris And Jennifer Lee, Concept Art Reveals, And Why Disney Is Leaning On",
+      "seoKeywords": [
+        "kpop variety",
+        "variety",
+        "kpop",
+        "demon",
+        "hunters",
+        "annecy",
+        "disney",
+        "film",
+        "coverage",
+        "recaps",
+        "interviews",
+        "directors"
+      ],
+      "iframeUrl": "https://variety.com/2021/film/news/k-pop-demon-hunters-1234985118/",
+      "bgImg": "",
+      "tags": ["kpop", "variety", "annecy", "disney", "film"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "animation-magazine-kpop-demon-hunters",
+      "nameShort": "kpop-animationmag",
+      "seoTitle": "Kpop Animationmag Animation Magazine's Announcement Story",
+      "seoDescription": "Kpop Animationmag - Animation Magazine's Announcement Story Highlights The Producing Team Behind K-Pop Demon Hunters And Links To Related Disney",
+      "seoKeywords": [
+        "kpop animationmag",
+        "animation",
+        "magazine",
+        "kpop",
+        "demon",
+        "hunters",
+        "animationmag",
+        "disney",
+        "announcement",
+        "film",
+        "story",
+        "highlights"
+      ],
+      "iframeUrl": "https://www.animationmagazine.net/2021/06/disney-announces-k-pop-demon-hunters-and-steam-bentley/",
+      "bgImg": "",
+      "tags": ["kpop", "animation", "disney", "announcement", "film"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+

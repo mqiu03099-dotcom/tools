@@ -1,5 +1,5 @@
 <template>
-  <ul class="menu flex-nowrap! menu-md bg-base-200 rounded-none p-3!">
+  <ul class="menu flex-nowrap! menu-md bg-base-200 rounded-none p-3! capitalize">
     <li
       v-for="({ name, path }, index) in headerMenu"
       :key="index"

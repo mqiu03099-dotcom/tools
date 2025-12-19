@@ -1,0 +1,82 @@
+{
+  "name": "lane-kiffin",
+  "nameShort": "kiffin",
+  "seoTitle": "Kiffin Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats",
+  "seoDescription": "Kiffin Directory Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats And More.",
+  "seoKeywords": ["kiffin", "lane", "wikipedia", "olemiss", "staff", "sports", "reference"],
+  "children": [
+    {
+      "name": "lane-kiffin-wikipedia",
+      "nameShort": "kiffin-wiki",
+      "seoTitle": "Kiffin Wiki Lane Kiffin's Wikipedia Profile Covers Every Stop On",
+      "seoDescription": "Kiffin Wiki - Lane Kiffin's Wikipedia Profile Covers Every Stop On His Coaching Tree, Head-coaching Record, And Notable Scheme Changes",
+      "seoKeywords": [
+        "kiffin wiki",
+        "lane",
+        "kiffin",
+        "wikipedia",
+        "wiki",
+        "lane-kiffin",
+        "coach",
+        "college",
+        "football",
+        "profile",
+        "covers",
+        "every"
+      ],
+      "iframeUrl": "https://en.wikipedia.org/wiki/Lane_Kiffin",
+      "bgImg": "",
+      "tags": ["lane-kiffin", "wiki", "coach", "college", "football"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "olemiss-staff-lane-kiffin",
+      "nameShort": "kiffin-olemiss",
+      "seoTitle": "Kiffin Olemiss Ole Miss Athletics Lists Kiffin's Current",
+      "seoDescription": "Kiffin Olemiss - Ole Miss Athletics Lists Kiffin's Current Responsibilities, Contract Milestones, And Contact Details Inside The University Directory",
+      "seoKeywords": [
+        "kiffin olemiss",
+        "olemiss",
+        "staff",
+        "lane",
+        "kiffin",
+        "lane-kiffin",
+        "ole-miss",
+        "sec",
+        "profile",
+        "ole",
+        "miss",
+        "athletics"
+      ],
+      "iframeUrl": "https://olemisssports.com/staff-directory/lane-kiffin/3386",
+      "bgImg": "",
+      "tags": ["lane-kiffin", "ole-miss", "staff", "sec", "profile"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "sports-reference-lane-kiffin",
+      "nameShort": "kiffin-stats",
+      "seoTitle": "Kiffin Stats Sports Reference Breaks Down Kiffin's Year-By-Year",
+      "seoDescription": "Kiffin Stats - Sports Reference Breaks Down Kiffin's Year-by-year Records, Bowl Appearances, And Offensive Rankings Across His Head-coaching Tenure",
+      "seoKeywords": [
+        "kiffin stats",
+        "sports",
+        "reference",
+        "lane",
+        "kiffin",
+        "stats",
+        "lane-kiffin",
+        "cfb",
+        "records",
+        "history",
+        "breaks",
+        "down"
+      ],
+      "iframeUrl": "https://www.sports-reference.com/cfb/coaches/lane-kiffin-1.html",
+      "bgImg": "",
+      "tags": ["lane-kiffin", "stats", "cfb", "records", "history"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+

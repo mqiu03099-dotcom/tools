@@ -1,0 +1,130 @@
+{
+  "name": "image-compression-tools",
+  "nameShort": "image",
+  "seoTitle": "Image Featuring Tinypng, Compressjpeg, Squoosh",
+  "seoDescription": "Image Directory Featuring Tinypng, Compressjpeg, Squoosh, Kraken And More.",
+  "seoKeywords": [
+    "image",
+    "compression",
+    "tinypng",
+    "smart",
+    "compressjpeg",
+    "batch",
+    "photo",
+    "squoosh",
+    "google",
+    "optimizer",
+    "kraken",
+    "lossy"
+  ],
+  "children": [
+    {
+      "name": "tinypng-smart-image-compression",
+      "nameShort": "tinypng",
+      "seoTitle": "TinyPNG Compresses PNG And JPG Files With Smart Color",
+      "seoDescription": "TinyPNG Compresses PNG And JPG Files With Smart Color Quantization So You Can Shrink Transparent Assets In Bulk While Keeping Clarity",
+      "seoKeywords": [
+        "tinypng",
+        "smart",
+        "image",
+        "compression",
+        "tool",
+        "compresses",
+        "png",
+        "jpg",
+        "files",
+        "color",
+        "quantization",
+        "you"
+      ],
+      "iframeUrl": "https://tinypng.com/",
+      "bgImg": "",
+      "tags": ["tinypng", "smart", "image", "compression", "tool"],
+      "updateTime": "2025-12-05"
+    },
+    {
+      "name": "compressjpeg-batch-photo-tool",
+      "nameShort": "compressjpeg",
+      "seoTitle": "CompressJPEG Lets You Drop 20 Images At A Time, Auto-Detects",
+      "seoDescription": "CompressJPEG Lets You Drop 20 Images At A Time, Auto-detects JPG PNG WEBP Formats, And Exports Zipped Downloads With Adjustable Quality Levels",
+      "seoKeywords": [
+        "compressjpeg",
+        "batch",
+        "photo",
+        "tool",
+        "platform",
+        "lets",
+        "you",
+        "drop",
+        "images",
+        "time",
+        "auto",
+        "detects"
+      ],
+      "iframeUrl": "https://compressjpeg.com/",
+      "bgImg": "",
+      "tags": ["compressjpeg", "batch", "photo", "tool", "platform"],
+      "updateTime": "2025-12-05"
+    },
+    {
+      "name": "squoosh-google-image-optimizer",
+      "nameShort": "squoosh",
+      "seoTitle": "Squoosh Is Google's Open-Source Web App For Tweaking AVIF",
+      "seoDescription": "Squoosh Is Google's Open-source Web App For Tweaking AVIF, MozJPEG, And WebP Encoders With Live Side-by-side Previews And Granular Compression Sliders",
+      "seoKeywords": [
+        "squoosh",
+        "google",
+        "image",
+        "optimizer",
+        "tool",
+        "open",
+        "source",
+        "web",
+        "tweaking",
+        "avif",
+        "mozjpeg",
+        "webp"
+      ],
+      "iframeUrl": "https://squoosh.app/",
+      "bgImg": "",
+      "tags": ["squoosh", "google", "image", "optimizer", "tool"],
+      "updateTime": "2025-12-05"
+    },
+    {
+      "name": "kraken-io-lossy-image-optimizer",
+      "nameShort": "kraken",
+      "seoTitle": "Kraken",
+      "seoDescription": "Kraken",
+      "seoKeywords": ["kraken", "lossy", "image", "optimizer", "io"],
+      "iframeUrl": "https://kraken.io/web-interface",
+      "bgImg": "",
+      "tags": ["kraken", "io", "lossy", "image", "optimizer"],
+      "updateTime": "2025-12-05"
+    },
+    {
+      "name": "tinywow-image-compressor",
+      "nameShort": "tinywow",
+      "seoTitle": "TinyWow Image Compressor Combines Drag-And-Drop Uploads",
+      "seoDescription": "TinyWow Image Compressor Combines Drag-and-drop Uploads, Clipboard Pasting, And Cloud Cleanup To Shrink JPG, PNG, And WEBP Files Without Sign-ups",
+      "seoKeywords": [
+        "tinywow",
+        "image",
+        "compressor",
+        "tool",
+        "platform",
+        "combines",
+        "drag",
+        "drop",
+        "uploads",
+        "clipboard",
+        "pasting",
+        "cloud"
+      ],
+      "iframeUrl": "https://tinywow.com/tool/image-compressor",
+      "bgImg": "",
+      "tags": ["tinywow", "image", "compressor", "tool", "platform"],
+      "updateTime": "2025-12-05"
+    }
+  ]
+}
+

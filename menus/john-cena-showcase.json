@@ -1,0 +1,65 @@
+{
+  "name": "john-cena-showcase",
+  "nameShort": "john-cena",
+  "seoTitle": "John Cena Profiles, Matches, And Filmography",
+  "seoDescription": "Official and fan-favorite resources for John Cena including WWE profile, film credits, and social updates.",
+  "seoKeywords": ["john cena", "wwe", "filmography", "profile"],
+  "children": [
+    {
+      "name": "wwe-john-cena",
+      "nameShort": "wwe",
+      "seoTitle": "John Cena Official WWE Superstar Page",
+      "seoDescription": "WWE Profile For John Cena With Match History, Videos, And Latest WWE Appearances.",
+      "seoKeywords": ["john cena", "wwe", "matches", "videos"],
+      "iframeUrl": "https://www.wwe.com/superstars/john-cena",
+      "bgImg": "",
+      "tags": ["john-cena", "wwe", "profile"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "imdb-john-cena",
+      "nameShort": "imdb",
+      "seoTitle": "John Cena Filmography On IMDb",
+      "seoDescription": "IMDb Page Listing John Cena's Films, TV Credits, Trailers, And Upcoming Projects.",
+      "seoKeywords": ["john cena", "imdb", "filmography", "movies"],
+      "iframeUrl": "https://www.imdb.com/name/nm1078479/",
+      "bgImg": "",
+      "tags": ["john-cena", "imdb", "movies"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "instagram-john-cena",
+      "nameShort": "instagram",
+      "seoTitle": "John Cena Instagram Updates",
+      "seoDescription": "John Cena's Instagram Feed Featuring Photos, Motivational Posts, And WWE Highlights.",
+      "seoKeywords": ["john cena", "instagram", "social", "updates"],
+      "iframeUrl": "https://www.instagram.com/johncena/",
+      "bgImg": "",
+      "tags": ["john-cena", "instagram", "social"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "twitter-john-cena",
+      "nameShort": "twitter",
+      "seoTitle": "John Cena Official X (Twitter) Feed",
+      "seoDescription": "John Cena's Official X (Twitter) Feed With Announcements, Charity Work, And WWE Notes.",
+      "seoKeywords": ["john cena", "twitter", "social", "updates"],
+      "iframeUrl": "https://twitter.com/JohnCena",
+      "bgImg": "",
+      "tags": ["john-cena", "twitter", "social"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "biography-john-cena",
+      "nameShort": "biography",
+      "seoTitle": "John Cena Biography And Career Highlights",
+      "seoDescription": "Biography.com Profile Covering John Cena's Early Life, Wrestling Success, And Acting Career.",
+      "seoKeywords": ["john cena", "biography", "career", "highlights"],
+      "iframeUrl": "https://www.biography.com/athletes/john-cena",
+      "bgImg": "",
+      "tags": ["john-cena", "biography", "career"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

@@ -1,0 +1,142 @@
+{
+  "name": "iphone17-latest-leaks",
+  "nameShort": "iphone17",
+  "seoTitle": "Iphone17 Featuring Macrumors, 9to5mac, Techradar",
+  "seoDescription": "Iphone17 Directory Featuring Macrumors, 9To5mac, Techradar, Gsmarena And More.",
+  "seoKeywords": [
+    "iphone17",
+    "latest",
+    "leaks",
+    "macrumors",
+    "hub",
+    "9to5mac",
+    "rumors",
+    "techradar",
+    "preview",
+    "gsmarena",
+    "specs"
+  ],
+  "children": [
+    {
+      "name": "macrumors-iphone17-hub",
+      "nameShort": "macrumors",
+      "seoTitle": "MacRumors Compiles IPhone 17 CAD Leaks, Display Rumors, And",
+      "seoDescription": "MacRumors Compiles IPhone 17 CAD Leaks, Display Rumors, And Launch Timelines With Weekly Updates",
+      "seoKeywords": [
+        "macrumors",
+        "iphone17",
+        "hub",
+        "tool",
+        "platform",
+        "compiles",
+        "iphone",
+        "cad",
+        "leaks",
+        "display",
+        "rumors",
+        "launch"
+      ],
+      "iframeUrl": "https://www.macrumors.com/roundup/iphone-17/",
+      "bgImg": "",
+      "tags": ["macrumors", "iphone17", "hub", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "9to5mac-iphone17-rumors",
+      "nameShort": "9to5mac",
+      "seoTitle": "9to5Mac Tracks Analyst Notes On A20 Chips, Stacked Batteries",
+      "seoDescription": "9To5Mac Tracks Analyst Notes On A20 Chips, Stacked Batteries, And Camera Upgrades Expected For IPhone 17",
+      "seoKeywords": [
+        "9to5mac",
+        "iphone17",
+        "rumors",
+        "tool",
+        "platform",
+        "service",
+        "tracks",
+        "analyst",
+        "notes",
+        "a20",
+        "chips",
+        "stacked"
+      ],
+      "iframeUrl": "https://9to5mac.com/nameShort/iphone-17/",
+      "bgImg": "",
+      "tags": ["iphone17", "rumors", "tool", "platform", "service"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "techradar-iphone17-preview",
+      "nameShort": "techradar",
+      "seoTitle": "TechRadar Aggregates Supplier Leaks To Forecast IPhone 17 Design",
+      "seoDescription": "TechRadar Aggregates Supplier Leaks To Forecast IPhone 17 Design Tweaks, Price Bands, And Release Windows",
+      "seoKeywords": [
+        "techradar",
+        "iphone17",
+        "preview",
+        "tool",
+        "platform",
+        "aggregates",
+        "supplier",
+        "leaks",
+        "forecast",
+        "iphone",
+        "design",
+        "tweaks"
+      ],
+      "iframeUrl": "https://www.techradar.com/phones/iphone/iphone-17",
+      "bgImg": "",
+      "tags": ["techradar", "iphone17", "preview", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "gsmarena-iphone17-specs",
+      "nameShort": "gsmarena",
+      "seoTitle": "GSMArena Maintains A Speculative Spec Sheet Covering Display",
+      "seoDescription": "GSMArena Maintains A Speculative Spec Sheet Covering Display Sizes, Camera Sensors, And Connectivity For The IPhone 17 Line",
+      "seoKeywords": [
+        "gsmarena",
+        "iphone17",
+        "specs",
+        "tool",
+        "platform",
+        "maintains",
+        "speculative",
+        "spec",
+        "sheet",
+        "covering",
+        "display",
+        "sizes"
+      ],
+      "iframeUrl": "https://www.gsmarena.com/apple_iphone_17-0.php",
+      "bgImg": "",
+      "tags": ["gsmarena", "iphone17", "specs", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "notebookcheck-iphone17-analysis",
+      "nameShort": "notebookcheck",
+      "seoTitle": "NotebookCheck Dissects Supply-Chain Whispers On BOE Panels",
+      "seoDescription": "NotebookCheck Dissects Supply-chain Whispers On BOE Panels, Periscope Zoom, And Thermal Redesigns For Apple's 2025 Flagship",
+      "seoKeywords": [
+        "notebookcheck",
+        "iphone17",
+        "analysis",
+        "tool",
+        "platform",
+        "dissects",
+        "supply",
+        "chain",
+        "whispers",
+        "boe",
+        "panels",
+        "periscope"
+      ],
+      "iframeUrl": "https://www.notebookcheck.net/Apple-iPhone-17.861026.0.html",
+      "bgImg": "",
+      "tags": ["notebookcheck", "iphone17", "analysis", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    }
+  ]
+}
+

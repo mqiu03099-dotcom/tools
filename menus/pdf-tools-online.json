@@ -1,0 +1,65 @@
+{
+  "name": "pdf-tools-online",
+  "nameShort": "pdf",
+  "seoTitle": "PDF Tools For Merge, Convert, And Compress",
+  "seoDescription": "Trusted PDF web apps for merging, compressing, and editing without installs.",
+  "seoKeywords": ["pdf tools", "merge", "compress", "convert", "edit"],
+  "children": [
+    {
+      "name": "ilovepdf-editor",
+      "nameShort": "ilovepdf",
+      "seoTitle": "iLovePDF Online PDF Editor And Converter",
+      "seoDescription": "iLovePDF web suite for merging, splitting, converting, and compressing PDFs quickly.",
+      "seoKeywords": ["ilovepdf", "pdf editor", "merge", "compress"],
+      "iframeUrl": "https://www.ilovepdf.com/",
+      "bgImg": "",
+      "tags": ["pdf", "ilovepdf", "converter"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "sejda-pdf-suite",
+      "nameShort": "sejda",
+      "seoTitle": "Sejda PDF Suite In The Browser",
+      "seoDescription": "Sejda online PDF toolkit with edit, sign, compress, and PDF to Word conversion.",
+      "seoKeywords": ["sejda", "pdf tools", "edit", "compress"],
+      "iframeUrl": "https://www.sejda.com/",
+      "bgImg": "",
+      "tags": ["sejda", "pdf", "converter"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "pdf24-tools",
+      "nameShort": "pdf24",
+      "seoTitle": "PDF24 Tools For Quick PDF Tasks",
+      "seoDescription": "PDF24 hosts free browser PDF tools for merging, signing, converting, and unlocking files.",
+      "seoKeywords": ["pdf24", "pdf tools", "merge", "sign"],
+      "iframeUrl": "https://www.pdf24.org/",
+      "bgImg": "",
+      "tags": ["pdf24", "pdf", "online-tools"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "smallpdf-online",
+      "nameShort": "smallpdf",
+      "seoTitle": "Smallpdf Web PDF Converter Collection",
+      "seoDescription": "Smallpdf provides fast PDF conversions, compression, and signing from any device.",
+      "seoKeywords": ["smallpdf", "pdf converter", "compress", "sign"],
+      "iframeUrl": "https://www.smallpdf.com/",
+      "bgImg": "",
+      "tags": ["smallpdf", "pdf", "converter"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "pdfcandy-toolkit",
+      "nameShort": "pdfcandy",
+      "seoTitle": "PDF Candy Online Toolkit",
+      "seoDescription": "PDF Candy browser toolkit for PDF to Word, OCR, page delete, and quick merges.",
+      "seoKeywords": ["pdf candy", "pdf tools", "ocr", "merge"],
+      "iframeUrl": "https://www.pdfcandy.com/",
+      "bgImg": "",
+      "tags": ["pdfcandy", "pdf", "ocr"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

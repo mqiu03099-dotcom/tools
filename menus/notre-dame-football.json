@@ -1,0 +1,92 @@
+{
+  "name": "notre-dame-football",
+  "nameShort": "notre-dame",
+  "seoTitle": "Notre Dame Featuring Fightingirish, Notre Dame Espn, Notre Dame",
+  "seoDescription": "Notre Dame Directory Featuring Fightingirish, Notre Dame Espn, Notre Dame 247 And More.",
+  "seoKeywords": [
+    "notre dame",
+    "notre",
+    "dame",
+    "football",
+    "fighting",
+    "irish",
+    "espn",
+    "team",
+    "247sports"
+  ],
+  "children": [
+    {
+      "name": "fighting-irish-football",
+      "nameShort": "fightingirish",
+      "seoTitle": "Fightingirish Notre Dame's Official Site Posts Schedules, Marcus",
+      "seoDescription": "Fightingirish - Notre Dame's Official Site Posts Schedules, Marcus Freeman Pressers, Depth Charts, And NBC Broadcast Links",
+      "seoKeywords": [
+        "fightingirish",
+        "fighting",
+        "irish",
+        "football",
+        "notre-dame",
+        "official",
+        "schedule",
+        "news",
+        "notre",
+        "dame",
+        "site",
+        "posts"
+      ],
+      "iframeUrl": "https://fightingirish.com/sports/football/",
+      "bgImg": "",
+      "tags": ["notre-dame", "football", "official", "schedule", "news"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "espn-notre-dame-team",
+      "nameShort": "notre-dame-espn",
+      "seoTitle": "Notre Dame Espn ESPN's Team Hub Features Statistics",
+      "seoDescription": "Notre Dame Espn - ESPN's Team Hub Features Statistics, Game-by-game Recaps, And FPI Projections For The Fighting Irish",
+      "seoKeywords": [
+        "notre dame espn",
+        "espn",
+        "notre",
+        "dame",
+        "team",
+        "notre-dame",
+        "stats",
+        "schedule",
+        "cfb",
+        "hub",
+        "features",
+        "statistics"
+      ],
+      "iframeUrl": "https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish",
+      "bgImg": "",
+      "tags": ["notre-dame", "espn", "stats", "schedule", "cfb"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "247sports-notre-dame",
+      "nameShort": "notre-dame-247",
+      "seoTitle": "Notre Dame 247 247Sports Blends Recruiting Intel, Transfer",
+      "seoDescription": "Notre Dame 247 - 247Sports Blends Recruiting Intel, Transfer Portal Trackers, And Premium Analysis For Notre Dame Football Fans",
+      "seoKeywords": [
+        "notre dame 247",
+        "247sports",
+        "notre",
+        "dame",
+        "247",
+        "notre-dame",
+        "recruiting",
+        "analysis",
+        "cfb",
+        "blends",
+        "intel",
+        "transfer"
+      ],
+      "iframeUrl": "https://247sports.com/college/notre-dame/",
+      "bgImg": "",
+      "tags": ["notre-dame", "247sports", "recruiting", "analysis", "cfb"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+

@@ -1,0 +1,117 @@
+{
+  "name": "leading-frontend-frameworks",
+  "nameShort": "leading",
+  "seoTitle": "Leading Featuring Vue, React, Angular",
+  "seoDescription": "Leading Directory Featuring Vue, React, Angular, Svelte And More.",
+  "seoKeywords": [
+    "leading",
+    "frontend",
+    "frameworks",
+    "vue",
+    "progressive",
+    "framework",
+    "react",
+    "component",
+    "library",
+    "angular",
+    "typescript",
+    "web"
+  ],
+  "children": [
+    {
+      "name": "vue-progressive-js-framework",
+      "nameShort": "vue",
+      "seoTitle": "Vue",
+      "seoDescription": "Vue",
+      "seoKeywords": ["vue", "progressive", "framework", "js", "tool"],
+      "iframeUrl": "https://vuejs.org/",
+      "bgImg": "",
+      "tags": ["vue", "progressive", "js", "framework", "tool"],
+      "updateTime": "2025-09-15"
+    },
+    {
+      "name": "react-ui-component-library",
+      "nameShort": "react",
+      "seoTitle": "React Is Meta's Declarative Library For Building",
+      "seoDescription": "React Is Meta's Declarative Library For Building Component-driven UIs With Hooks, Concurrent Rendering, And A Vast Community Ecosystem",
+      "seoKeywords": [
+        "react",
+        "component",
+        "library",
+        "ui",
+        "tool",
+        "meta",
+        "declarative",
+        "building",
+        "driven",
+        "uis",
+        "hooks",
+        "concurrent"
+      ],
+      "iframeUrl": "https://react.dev/",
+      "bgImg": "",
+      "tags": ["react", "ui", "component", "library", "tool"],
+      "updateTime": "2025-09-12"
+    },
+    {
+      "name": "angular-typescript-web-framework",
+      "nameShort": "angular",
+      "seoTitle": "Angular Is Google's Full-Featured Framework With",
+      "seoDescription": "Angular Is Google's Full-featured Framework With TypeScript-first Tooling, RxJS-powered Reactivity, And Enterprise-ready CLI Workflows",
+      "seoKeywords": [
+        "angular",
+        "typescript",
+        "web",
+        "framework",
+        "tool",
+        "google",
+        "full",
+        "featured",
+        "first",
+        "tooling",
+        "rxjs",
+        "powered"
+      ],
+      "iframeUrl": "https://angular.io/",
+      "bgImg": "",
+      "tags": ["angular", "typescript", "web", "framework", "tool"],
+      "updateTime": "2025-09-10"
+    },
+    {
+      "name": "svelte-compiler-first-framework",
+      "nameShort": "svelte",
+      "seoTitle": "Svelte Is A Compiler-Driven Framework That Turns Declarative",
+      "seoDescription": "Svelte Is A Compiler-driven Framework That Turns Declarative Components Into Tiny Vanilla JS Bundles With Zero Runtime Overhead",
+      "seoKeywords": [
+        "svelte",
+        "compiler",
+        "first",
+        "framework",
+        "tool",
+        "driven",
+        "turns",
+        "declarative",
+        "components",
+        "tiny",
+        "vanilla",
+        "bundles"
+      ],
+      "iframeUrl": "https://svelte.dev/",
+      "bgImg": "",
+      "tags": ["svelte", "compiler", "first", "framework", "tool"],
+      "updateTime": "2025-09-08"
+    },
+    {
+      "name": "nextjs-production-react-framework",
+      "nameShort": "nextjs",
+      "seoTitle": "Nextjs Next",
+      "seoDescription": "Nextjs - Next",
+      "seoKeywords": ["nextjs", "production", "react", "framework", "tool", "next"],
+      "iframeUrl": "https://nextjs.org/",
+      "bgImg": "",
+      "tags": ["nextjs", "production", "react", "framework", "tool"],
+      "updateTime": "2025-09-05"
+    }
+  ]
+}
+

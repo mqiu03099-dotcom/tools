@@ -1,0 +1,90 @@
+{
+  "name": "welcome-to-derry",
+  "nameShort": "derry",
+  "seoTitle": "Derry Featuring Derry Wiki, Derry Thr, Derry Fandom",
+  "seoDescription": "Derry Directory Featuring Derry Wiki, Derry Thr, Derry Fandom And More.",
+  "seoKeywords": [
+    "derry",
+    "welcome",
+    "wikipedia",
+    "hollywood",
+    "reporter",
+    "stephenking",
+    "fandom"
+  ],
+  "children": [
+    {
+      "name": "welcome-to-derry-wikipedia",
+      "nameShort": "derry-wiki",
+      "seoTitle": "Derry Wiki Wikipedia Covers The IT Prequel's Showrunners",
+      "seoDescription": "Derry Wiki - Wikipedia Covers The IT Prequel's Showrunners, Returning Cast Members, Production Timeline, And How The Max Series Ties Into Andy",
+      "seoKeywords": [
+        "derry wiki",
+        "welcome",
+        "derry",
+        "wikipedia",
+        "wiki",
+        "it",
+        "series",
+        "covers",
+        "prequel",
+        "showrunners",
+        "returning",
+        "cast"
+      ],
+      "iframeUrl": "https://en.wikipedia.org/wiki/Welcome_to_Derry",
+      "bgImg": "",
+      "tags": ["welcome", "derry", "wiki", "it", "series"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "hollywood-reporter-welcome-to-derry",
+      "nameShort": "derry-thr",
+      "seoTitle": "Derry Thr The Hollywood Reporter's Exclusive Dives Into HBO's",
+      "seoDescription": "Derry Thr - The Hollywood Reporter's Exclusive Dives Into HBO's Episode Order, Pennywise Flashbacks, And Quotes From The Producing Team About",
+      "seoKeywords": [
+        "derry thr",
+        "hollywood",
+        "reporter",
+        "welcome",
+        "derry",
+        "thr",
+        "hbo",
+        "news",
+        "exclusive",
+        "dives",
+        "episode",
+        "order"
+      ],
+      "iframeUrl": "https://www.hollywoodreporter.com/tv/tv-news/it-prequel-welcome-to-derry-1235436560/",
+      "bgImg": "",
+      "tags": ["welcome", "derry", "thr", "hbo", "news"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "stephenking-fandom-welcome-to-derry",
+      "nameShort": "derry-fandom",
+      "seoTitle": "Derry Fandom The Stephen King Wiki Catalogues Canon References",
+      "seoDescription": "Derry Fandom - The Stephen King Wiki Catalogues Canon References, Known Episode Titles, And Lore Connections Fans Expect The Series To Cover",
+      "seoKeywords": [
+        "derry fandom",
+        "stephenking",
+        "fandom",
+        "welcome",
+        "derry",
+        "stephen-king",
+        "lore",
+        "stephen",
+        "king",
+        "wiki",
+        "catalogues",
+        "canon"
+      ],
+      "iframeUrl": "https://stephenking.fandom.com/wiki/Welcome_to_Derry",
+      "bgImg": "",
+      "tags": ["welcome", "derry", "fandom", "stephen-king", "lore"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+

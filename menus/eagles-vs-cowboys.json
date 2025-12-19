@@ -1,0 +1,79 @@
+{
+  "name": "eagles-vs-cowboys",
+  "nameShort": "eagles-cowboys",
+  "seoTitle": "Eagles Cowboys Featuring Statmuse Rivalry, Pfr Rivalry, Nfl",
+  "seoDescription": "Eagles Cowboys Directory Featuring Statmuse Rivalry, Pfr Rivalry, Nfl Highlights And More.",
+  "seoKeywords": [
+    "eagles cowboys",
+    "eagles",
+    "cowboys",
+    "statmuse",
+    "record",
+    "pfr",
+    "history",
+    "nfl",
+    "highlights"
+  ],
+  "children": [
+    {
+      "name": "statmuse-eagles-cowboys-record",
+      "nameShort": "statmuse-rivalry",
+      "seoTitle": "Statmuse Generates Instant Head-To-Head Charts, Margins, And",
+      "seoDescription": "Statmuse Rivalry - Statmuse Generates Instant Head-to-head Charts, Margins, And Season Splits For Every Eagles Vs",
+      "seoKeywords": [
+        "statmuse rivalry",
+        "statmuse",
+        "eagles",
+        "cowboys",
+        "record",
+        "rivalry",
+        "generates",
+        "instant",
+        "head",
+        "charts",
+        "margins",
+        "season"
+      ],
+      "iframeUrl": "https://www.statmuse.com/nfl/ask?q=eagles+vs+cowboys+record",
+      "bgImg": "",
+      "tags": ["eagles", "cowboys", "statmuse", "record", "rivalry"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "pfr-eagles-cowboys-history",
+      "nameShort": "pfr-rivalry",
+      "seoTitle": "Pfr Rivalry Pro Football Reference Lists Every Box Score Between",
+      "seoDescription": "Pfr Rivalry - Pro Football Reference Lists Every Box Score Between Dallas And Philadelphia With Filters For Playoffs, Primetime, Or Location",
+      "seoKeywords": [
+        "pfr rivalry",
+        "pfr",
+        "eagles",
+        "cowboys",
+        "history",
+        "rivalry",
+        "stats",
+        "pro",
+        "football",
+        "reference",
+        "lists",
+        "every"
+      ],
+      "iframeUrl": "https://www.pro-football-reference.com/boxscores/game_query.cgi?tm1=dal&tm2=phi&yr=all",
+      "bgImg": "",
+      "tags": ["eagles", "cowboys", "pfr", "history", "stats"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "nfl-eagles-cowboys-highlights",
+      "nameShort": "nfl-highlights",
+      "seoTitle": "NFL",
+      "seoDescription": "Nfl Highlights - NFL",
+      "seoKeywords": ["nfl highlights", "nfl", "eagles", "cowboys", "highlights", "video"],
+      "iframeUrl": "https://www.nfl.com/videos/eagles-vs-cowboys-highlights",
+      "bgImg": "",
+      "tags": ["eagles", "cowboys", "nfl", "highlights", "video"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+

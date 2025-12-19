@@ -1,0 +1,65 @@
+{
+  "name": "hair-tools-and-styling",
+  "nameShort": "hair-tools",
+  "seoTitle": "Hair Tools And Styling Brand Pages",
+  "seoDescription": "Hair tool brands including Hot Tools, Dyson, ghd, T3, and Conair for fast-loading product hubs.",
+  "seoKeywords": ["hair tools", "hot tools", "styling", "dryer", "curler"],
+  "children": [
+    {
+      "name": "hot-tools-official",
+      "nameShort": "hot-tools",
+      "seoTitle": "Hot Tools Professional Styling Tools",
+      "seoDescription": "Hot Tools official site showcasing curling irons, dryers, and salon styling gear.",
+      "seoKeywords": ["hot tools", "styling", "curling iron", "dryer"],
+      "iframeUrl": "https://www.hottools.com/",
+      "bgImg": "",
+      "tags": ["hot-tools", "styling", "hair"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "ghd-hair-tools",
+      "nameShort": "ghd",
+      "seoTitle": "ghd Hair Tools Product Hub",
+      "seoDescription": "ghd official site with straighteners, hair dryers, and styling guides.",
+      "seoKeywords": ["ghd", "hair tools", "straightener", "dryer"],
+      "iframeUrl": "https://www.ghdhair.com/",
+      "bgImg": "",
+      "tags": ["ghd", "hair-tools", "styling"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "t3micro-hair-tools",
+      "nameShort": "t3",
+      "seoTitle": "T3 Micro Hair Styling Tools",
+      "seoDescription": "T3 Micro catalog covering styling irons, dryers, and hot rollers.",
+      "seoKeywords": ["t3 micro", "hair tools", "styling", "dryer"],
+      "iframeUrl": "https://www.t3micro.com/",
+      "bgImg": "",
+      "tags": ["t3", "hair-tools", "styling"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "dyson-hair-care",
+      "nameShort": "dyson",
+      "seoTitle": "Dyson Hair Care Technology",
+      "seoDescription": "Dyson hair care page featuring Supersonic dryers, Airwrap stylers, and Corrale straighteners.",
+      "seoKeywords": ["dyson", "hair care", "airwrap", "supersonic"],
+      "iframeUrl": "https://www.dyson.com/hair-care",
+      "bgImg": "",
+      "tags": ["dyson", "hair-tools", "styling"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "conair-hair-tools",
+      "nameShort": "conair",
+      "seoTitle": "Conair Hair Styling Tools",
+      "seoDescription": "Conair styling tool lineup with dryers, curling wands, and straighteners.",
+      "seoKeywords": ["conair", "hair tools", "styling", "dryer"],
+      "iframeUrl": "https://www.conair.com/en/hair/hair-styling-tools/",
+      "bgImg": "",
+      "tags": ["conair", "hair-tools", "styling"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

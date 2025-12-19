@@ -1,0 +1,139 @@
+{
+  "name": "chatgpt",
+  "nameShort": "chatgpt-hub",
+  "seoTitle": "ChatGPT Hub Featuring ChatGPT Plus, ChatGPT Enterprise, ChatGPT",
+  "seoDescription": "ChatGPT Hub Directory Featuring ChatGPT Plus, ChatGPT Enterprise, ChatGPT API, ChatGPT Plugins And More.",
+  "seoKeywords": [
+    "chatgpt hub",
+    "chatgpt",
+    "hub",
+    "plus",
+    "subscription",
+    "enterprise",
+    "api",
+    "integration",
+    "plugins",
+    "marketplace"
+  ],
+  "children": [
+    {
+      "name": "chatgpt-plus-subscription",
+      "nameShort": "chatgpt-plus",
+      "seoTitle": "ChatGPT Plus ($20/Month) Unlocks GPT-4o Access, Faster Response",
+      "seoDescription": "ChatGPT Plus 20 Month Unlocks GPT-4o Access, Faster Response Times, Browsing Capabilities, DALL E 3 Integration, And Priority Support From OpenAI",
+      "seoKeywords": [
+        "chatgpt plus",
+        "chatgpt",
+        "plus",
+        "subscription",
+        "tool",
+        "platform",
+        "month",
+        "unlocks",
+        "gpt",
+        "access",
+        "faster",
+        "response"
+      ],
+      "iframeUrl": "https://openai.com/pricing",
+      "bgImg": "",
+      "tags": ["chatgpt", "plus", "subscription", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "chatgpt-enterprise-solution",
+      "nameShort": "chatgpt-enterprise",
+      "seoTitle": "ChatGPT Enterprise Offers Enterprise-Grade Security, Unlimited",
+      "seoDescription": "ChatGPT Enterprise Offers Enterprise-grade Security, Unlimited GPT-4 Access, Advanced Data Analysis, Custom Models, And SLA Guarantees For Businesses",
+      "seoKeywords": [
+        "chatgpt enterprise",
+        "chatgpt",
+        "enterprise",
+        "solution",
+        "tool",
+        "platform",
+        "offers",
+        "grade",
+        "security",
+        "unlimited",
+        "gpt",
+        "access"
+      ],
+      "iframeUrl": "https://openai.com/enterprise",
+      "bgImg": "",
+      "tags": ["chatgpt", "enterprise", "solution", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "chatgpt-api-integration",
+      "nameShort": "chatgpt-api",
+      "seoTitle": "ChatGPT API Allows Developers To Integrate GPT-3",
+      "seoDescription": "ChatGPT API Allows Developers To Integrate GPT-3",
+      "seoKeywords": [
+        "chatgpt api",
+        "chatgpt",
+        "api",
+        "integration",
+        "tool",
+        "platform",
+        "allows",
+        "developers",
+        "integrate",
+        "gpt"
+      ],
+      "iframeUrl": "https://platform.openai.com/docs/guides/gpt",
+      "bgImg": "",
+      "tags": ["chatgpt", "api", "integration", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "chatgpt-plugins-marketplace",
+      "nameShort": "chatgpt-plugins",
+      "seoTitle": "ChatGPT Plugins Marketplace Offers 1000+ Third-Party",
+      "seoDescription": "ChatGPT Plugins Marketplace Offers 1000 Third-party Integrations Including Travel Booking, Code Execution, Data Analysis, And Productivity Tools To",
+      "seoKeywords": [
+        "chatgpt plugins",
+        "chatgpt",
+        "plugins",
+        "marketplace",
+        "tool",
+        "platform",
+        "offers",
+        "1000+",
+        "third",
+        "party",
+        "integrations",
+        "including"
+      ],
+      "iframeUrl": "https://openai.com/blog/chatgpt-plugins",
+      "bgImg": "",
+      "tags": ["chatgpt", "plugins", "marketplace", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "chatgpt-mobile-app",
+      "nameShort": "chatgpt-mobile",
+      "seoTitle": "ChatGPT Mobile App For IOS And Android Provides On-The-Go Access",
+      "seoDescription": "ChatGPT Mobile App For IOS And Android Provides On-the-go Access To GPT-4, Voice Input, Offline Mode, And Sync Across All Devices With Plus",
+      "seoKeywords": [
+        "chatgpt mobile",
+        "chatgpt",
+        "mobile",
+        "app",
+        "tool",
+        "platform",
+        "ios",
+        "android",
+        "provides",
+        "access",
+        "gpt",
+        "voice"
+      ],
+      "iframeUrl": "https://apps.apple.com/us/app/chatgpt/id6448311069",
+      "bgImg": "",
+      "tags": ["chatgpt", "mobile", "app", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    }
+  ]
+}
+

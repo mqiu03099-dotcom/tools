@@ -1,0 +1,91 @@
+{
+  "name": "wicked-for-good",
+  "nameShort": "for-good",
+  "seoTitle": "For Good Featuring Wicked Site, For Good Wiki, For Good Genius",
+  "seoDescription": "For Good Directory Featuring Wicked Site, For Good Wiki, For Good Genius And More.",
+  "seoKeywords": [
+    "for good",
+    "wicked",
+    "good",
+    "official",
+    "site",
+    "wikipedia",
+    "genius",
+    "lyrics"
+  ],
+  "children": [
+    {
+      "name": "wicked-official-site",
+      "nameShort": "wicked-site",
+      "seoTitle": "Wicked Site The Official Wicked Site Posts Touring Schedules",
+      "seoDescription": "The Official Wicked Site Posts Touring Schedules, Behind-the-scenes Clips, And Performance Notes For For Good ahead Of The Two-part Film Release",
+      "seoKeywords": [
+        "wicked site",
+        "wicked",
+        "official",
+        "site",
+        "for-good",
+        "musical",
+        "broadway",
+        "posts",
+        "touring",
+        "schedules",
+        "behind",
+        "scenes"
+      ],
+      "iframeUrl": "https://wickedthemusical.com/",
+      "bgImg": "",
+      "tags": ["wicked", "for-good", "musical", "broadway", "official"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "for-good-wikipedia",
+      "nameShort": "for-good-wiki",
+      "seoTitle": "For Good Wiki Wikipedia's 'For Good' Entry Outlines The Song's",
+      "seoDescription": "For Good Wiki - Wikipedia's For Good entry Outlines The Song's Context In Act II, Lyrical Themes, And Key Recordings By Idina Menzel And Kristin",
+      "seoKeywords": [
+        "for good wiki",
+        "good",
+        "wikipedia",
+        "wiki",
+        "wicked",
+        "for-good",
+        "lyrics",
+        "history",
+        "entry",
+        "outlines",
+        "song",
+        "context"
+      ],
+      "iframeUrl": "https://en.wikipedia.org/wiki/For_Good",
+      "bgImg": "",
+      "tags": ["wicked", "for-good", "wiki", "lyrics", "history"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "for-good-genius-lyrics",
+      "nameShort": "for-good-genius",
+      "seoTitle": "For Good Genius Genius Provides Annotated 'For Good' Lyrics With",
+      "seoDescription": "For Good Genius - Genius Provides Annotated For Good lyrics With Community Notes On Harmonies, Chord Progressions, And How The Duet Has Evolved In",
+      "seoKeywords": [
+        "for good genius",
+        "good",
+        "genius",
+        "lyrics",
+        "wicked",
+        "for-good",
+        "music",
+        "provides",
+        "annotated",
+        "community",
+        "notes",
+        "harmonies"
+      ],
+      "iframeUrl": "https://genius.com/Idina-menzel-and-kristin-chenoweth-for-good-lyrics",
+      "bgImg": "",
+      "tags": ["wicked", "for-good", "lyrics", "genius", "music"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+

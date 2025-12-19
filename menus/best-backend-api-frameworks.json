@@ -1,0 +1,117 @@
+{
+  "name": "best-backend-api-frameworks",
+  "nameShort": "best",
+  "seoTitle": "Best Featuring Spring, Laravel, Fastapi",
+  "seoDescription": "Best Directory Featuring Spring, Laravel, Fastapi, Nestjs And More.",
+  "seoKeywords": [
+    "best",
+    "backend",
+    "api",
+    "frameworks",
+    "spring",
+    "initializr",
+    "boot",
+    "generator",
+    "laravel",
+    "elegant",
+    "php",
+    "framework"
+  ],
+  "children": [
+    {
+      "name": "spring-initializr-boot-generator",
+      "nameShort": "spring",
+      "seoTitle": "Spring Initializr Is The Official Spring Boot Project Generator",
+      "seoDescription": "Spring Initializr Is The Official Spring Boot Project Generator That Scaffolds Maven Or Gradle Services With The Right Starters, Metadata, And",
+      "seoKeywords": [
+        "spring",
+        "initializr",
+        "boot",
+        "generator",
+        "tool",
+        "official",
+        "project",
+        "scaffolds",
+        "maven",
+        "gradle",
+        "services",
+        "right"
+      ],
+      "iframeUrl": "https://start.spring.io/",
+      "bgImg": "",
+      "tags": ["spring", "initializr", "boot", "generator", "tool"],
+      "updateTime": "2025-11-30"
+    },
+    {
+      "name": "laravel-elegant-php-framework",
+      "nameShort": "laravel",
+      "seoTitle": "Laravel Is An Elegant PHP Framework Featuring Blade, Eloquent",
+      "seoDescription": "Laravel Is An Elegant PHP Framework Featuring Blade, Eloquent, Queues, And Octane-ready Tooling For Modern Backend And SaaS Workloads",
+      "seoKeywords": [
+        "laravel",
+        "elegant",
+        "php",
+        "framework",
+        "tool",
+        "featuring",
+        "blade",
+        "eloquent",
+        "queues",
+        "octane",
+        "ready",
+        "tooling"
+      ],
+      "iframeUrl": "https://laravel.com/",
+      "bgImg": "",
+      "tags": ["laravel", "elegant", "php", "framework", "tool"],
+      "updateTime": "2025-11-27"
+    },
+    {
+      "name": "fastapi-python-api-framework",
+      "nameShort": "fastapi",
+      "seoTitle": "FastAPI Is An Async-First Python Framework Powered By Type",
+      "seoDescription": "FastAPI Is An Async-first Python Framework Powered By Type Hints, Automatic OpenAPI Docs, And Blazing Performance On Uvicorn Or Hypercorn",
+      "seoKeywords": [
+        "fastapi",
+        "python",
+        "api",
+        "framework",
+        "tool",
+        "async",
+        "first",
+        "powered",
+        "type",
+        "hints",
+        "automatic",
+        "openapi"
+      ],
+      "iframeUrl": "https://fastapi.tiangolo.com/",
+      "bgImg": "",
+      "tags": ["fastapi", "python", "api", "framework", "tool"],
+      "updateTime": "2025-11-26"
+    },
+    {
+      "name": "nestjs-typescript-backend-framework",
+      "nameShort": "nestjs",
+      "seoTitle": "NestJS Is A TypeScript-First Node",
+      "seoDescription": "NestJS Is A TypeScript-first Node",
+      "seoKeywords": ["nestjs", "typescript", "backend", "framework", "tool", "first", "node"],
+      "iframeUrl": "https://nestjs.com/",
+      "bgImg": "",
+      "tags": ["nestjs", "typescript", "backend", "framework", "tool"],
+      "updateTime": "2025-11-25"
+    },
+    {
+      "name": "expressjs-node-api-framework",
+      "nameShort": "expressjs",
+      "seoTitle": "Expressjs Express",
+      "seoDescription": "Expressjs - Express",
+      "seoKeywords": ["expressjs", "node", "api", "framework", "tool", "express"],
+      "iframeUrl": "https://expressjs.com/",
+      "bgImg": "",
+      "tags": ["expressjs", "node", "api", "framework", "tool"],
+      "updateTime": "2025-11-24"
+    }
+  ]
+}
+

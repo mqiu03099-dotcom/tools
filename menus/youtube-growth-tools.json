@@ -1,0 +1,143 @@
+{
+  "name": "youtube-growth-tools",
+  "nameShort": "youtube",
+  "seoTitle": "Youtube Featuring Tubebuddy, Vidiq, Canva",
+  "seoDescription": "Youtube Directory Featuring Tubebuddy, Vidiq, Canva, Epidemic And More.",
+  "seoKeywords": [
+    "youtube",
+    "growth",
+    "tubebuddy",
+    "seo",
+    "vidiq",
+    "channel",
+    "analytics",
+    "canva",
+    "thumbnail",
+    "maker",
+    "epidemic",
+    "sound"
+  ],
+  "children": [
+    {
+      "name": "tubebuddy-youtube-seo",
+      "nameShort": "tubebuddy",
+      "seoTitle": "TubeBuddy Is A Certified Browser Extension That Streamlines",
+      "seoDescription": "TubeBuddy Is A Certified Browser Extension That Streamlines Keyword Research, A B Tests, And Bulk Metadata Edits For YouTube Channels",
+      "seoKeywords": [
+        "tubebuddy",
+        "youtube",
+        "seo",
+        "tool",
+        "platform",
+        "certified",
+        "browser",
+        "extension",
+        "streamlines",
+        "keyword",
+        "research",
+        "tests"
+      ],
+      "iframeUrl": "https://www.tubebuddy.com/",
+      "bgImg": "",
+      "tags": ["tubebuddy", "youtube", "seo", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "vidiq-channel-analytics",
+      "nameShort": "vidiq",
+      "seoTitle": "VidIQ Surfaces Trending Topics, SEO Scores, And AI Idea Prompts",
+      "seoDescription": "VidIQ Surfaces Trending Topics, SEO Scores, And AI Idea Prompts So Creators Can Optimize Titles, Thumbnails, And Upload Calendars",
+      "seoKeywords": [
+        "vidiq",
+        "channel",
+        "analytics",
+        "tool",
+        "platform",
+        "surfaces",
+        "trending",
+        "topics",
+        "seo",
+        "scores",
+        "idea",
+        "prompts"
+      ],
+      "iframeUrl": "https://vidiq.com/",
+      "bgImg": "",
+      "tags": ["vidiq", "channel", "analytics", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "canva-youtube-thumbnail-maker",
+      "nameShort": "canva",
+      "seoTitle": "Canva's YouTube Thumbnail Maker Ships Ready-Made Layouts, Brand",
+      "seoDescription": "Canva's YouTube Thumbnail Maker Ships Ready-made Layouts, Brand Kits, And AI Image Tools For Fast, On-brand Cover Art",
+      "seoKeywords": [
+        "canva",
+        "youtube",
+        "thumbnail",
+        "maker",
+        "tool",
+        "ships",
+        "ready",
+        "made",
+        "layouts",
+        "brand",
+        "kits",
+        "image"
+      ],
+      "iframeUrl": "https://www.canva.com/create/youtube-thumbnails/",
+      "bgImg": "",
+      "tags": ["canva", "youtube", "thumbnail", "maker", "tool"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "epidemic-sound-youtube-music",
+      "nameShort": "epidemic",
+      "seoTitle": "Epidemic Sound Licenses Royalty-Free Tracks And Sound Effects",
+      "seoDescription": "Epidemic Sound Licenses Royalty-free Tracks And Sound Effects Cleared For Monetized YouTube Uploads With Direct Channel Linking",
+      "seoKeywords": [
+        "epidemic",
+        "sound",
+        "youtube",
+        "music",
+        "tool",
+        "licenses",
+        "royalty",
+        "free",
+        "tracks",
+        "effects",
+        "cleared",
+        "monetized"
+      ],
+      "iframeUrl": "https://www.epidemicsound.com/",
+      "bgImg": "",
+      "tags": ["epidemic", "sound", "youtube", "music", "tool"],
+      "updateTime": "2025-12-03"
+    },
+    {
+      "name": "socialblade-youtube-stats",
+      "nameShort": "socialblade",
+      "seoTitle": "Socialblade Social Blade Tracks Subscriber Velocity, Estimated",
+      "seoDescription": "Socialblade - Social Blade Tracks Subscriber Velocity, Estimated Earnings, And Competitor Benchmarks For Any Public YouTube Channel",
+      "seoKeywords": [
+        "socialblade",
+        "youtube",
+        "stats",
+        "tool",
+        "platform",
+        "social",
+        "blade",
+        "tracks",
+        "subscriber",
+        "velocity",
+        "estimated",
+        "earnings"
+      ],
+      "iframeUrl": "https://socialblade.com/youtube",
+      "bgImg": "",
+      "tags": ["socialblade", "youtube", "stats", "tool", "platform"],
+      "updateTime": "2025-12-03"
+    }
+  ]
+}
+

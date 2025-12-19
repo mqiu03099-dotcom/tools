@@ -1,0 +1,56 @@
+{
+  "name": "tiempo-de-manana",
+  "nameShort": "tiempo",
+  "seoTitle": "Tiempo Featuring Accuweather Es, Eltiempo, Meteored",
+  "seoDescription": "Tiempo Directory Featuring Accuweather Es, Eltiempo, Meteored And More.",
+  "seoKeywords": ["tiempo", "manana", "accuweather", "espanol", "eltiempo", "meteored", "global"],
+  "children": [
+    {
+      "name": "accuweather-espanol",
+      "nameShort": "accuweather-es",
+      "seoTitle": "AccuWeather En Espanol Ofrece Pronosticos Por Hora Y Alertas De",
+      "seoDescription": "Accuweather Es - AccuWeather En Espanol Ofrece Pronosticos Por Hora Y Alertas De Lluvia Para Manana Con Radar Interactivo Configurable Por Ciudad",
+      "seoKeywords": [
+        "accuweather es",
+        "accuweather",
+        "espanol",
+        "tiempo",
+        "manana",
+        "pronostico",
+        "clima",
+        "espa",
+        "ofrece",
+        "pron",
+        "sticos",
+        "por"
+      ],
+      "iframeUrl": "https://www.accuweather.com/es",
+      "bgImg": "",
+      "tags": ["tiempo", "manana", "accuweather", "pronostico", "clima"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "eltiempo-es",
+      "nameShort": "eltiempo",
+      "seoTitle": "ElTiempo",
+      "seoDescription": "ElTiempo",
+      "seoKeywords": ["eltiempo", "tiempo", "pronostico", "espana", "manana", "clima"],
+      "iframeUrl": "https://www.eltiempo.es/",
+      "bgImg": "",
+      "tags": ["tiempo", "pronostico", "espana", "manana", "clima"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "meteored-global",
+      "nameShort": "meteored",
+      "seoTitle": "Meteored (Tiempo",
+      "seoDescription": "Meteored Tiempo",
+      "seoKeywords": ["meteored", "global", "tiempo", "manana", "clima", "alertas"],
+      "iframeUrl": "https://www.meteored.com/",
+      "bgImg": "",
+      "tags": ["tiempo", "meteored", "manana", "clima", "alertas"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+

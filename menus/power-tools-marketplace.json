@@ -1,0 +1,65 @@
+{
+  "name": "power-tools-marketplace",
+  "nameShort": "power-tools",
+  "seoTitle": "Power Tools Retailers And Brand Hubs",
+  "seoDescription": "Fast-loading power tool catalogs across major retailers and brand landing pages.",
+  "seoKeywords": ["power tools", "retailer", "hardware", "cordless"],
+  "children": [
+    {
+      "name": "home-depot-power-tools",
+      "nameShort": "home-depot",
+      "seoTitle": "Home Depot Power Tools Category",
+      "seoDescription": "Home Depot listings for drills, saws, combo kits, and cordless power tools.",
+      "seoKeywords": ["home depot", "power tools", "cordless", "kits"],
+      "iframeUrl": "https://www.homedepot.com/b/Tools-Power-Tools/N-5yc1vZc2cg",
+      "bgImg": "",
+      "tags": ["power-tools", "home-depot", "hardware"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "lowes-power-tools",
+      "nameShort": "lowes",
+      "seoTitle": "Lowe'S Power Tools Department",
+      "seoDescription": "Lowe's power tools department featuring drills, saws, nailers, and batteries.",
+      "seoKeywords": ["lowe's", "power tools", "hardware", "cordless"],
+      "iframeUrl": "https://www.lowes.com/c/Power-tools-Tools",
+      "bgImg": "",
+      "tags": ["power-tools", "lowes", "hardware"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "harbor-freight-power-tools",
+      "nameShort": "harbor-freight",
+      "seoTitle": "Harbor Freight Power Tools Deals",
+      "seoDescription": "Harbor Freight page for budget drills, grinders, saws, and cordless tool deals.",
+      "seoKeywords": ["harbor freight", "power tools", "deals", "cordless"],
+      "iframeUrl": "https://www.harborfreight.com/power-tools.html",
+      "bgImg": "",
+      "tags": ["power-tools", "harbor-freight", "deals"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "total-tools-catalog",
+      "nameShort": "total-tools",
+      "seoTitle": "Total Tools Power Tools Range",
+      "seoDescription": "Total Tools power tool catalog including cordless kits, grinders, and saws.",
+      "seoKeywords": ["total tools", "power tools", "catalog", "cordless"],
+      "iframeUrl": "https://www.totaltools.com.au/power-tools",
+      "bgImg": "",
+      "tags": ["total-tools", "power-tools", "retail"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "sydney-tools-power",
+      "nameShort": "sydney-tools",
+      "seoTitle": "Sydney Tools Power Tools Selection",
+      "seoDescription": "Sydney Tools landing for power tools, combo kits, and battery platforms in Australia.",
+      "seoKeywords": ["sydney tools", "power tools", "australia", "retail"],
+      "iframeUrl": "https://www.sydneytools.com.au/power-tools",
+      "bgImg": "",
+      "tags": ["sydney-tools", "power-tools", "retail"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

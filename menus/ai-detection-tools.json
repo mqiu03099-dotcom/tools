@@ -1,0 +1,91 @@
+{
+  "name": "ai-detection-tools",
+  "nameShort": "ai-detector",
+  "seoTitle": "AI Detector Featuring Gptzero, Zerogpt, Contentatscale",
+  "seoDescription": "AI Detector Directory Featuring Gptzero, Zerogpt, Contentatscale And More.",
+  "seoKeywords": [
+    "ai detector",
+    "detection",
+    "detector",
+    "gptzero",
+    "zerogpt",
+    "checker",
+    "content",
+    "scale"
+  ],
+  "children": [
+    {
+      "name": "gptzero-ai-detector",
+      "nameShort": "gptzero",
+      "seoTitle": "GPTZero Analyzes Burstiness And Perplexity To Label AI-Generated",
+      "seoDescription": "GPTZero Analyzes Burstiness And Perplexity To Label AI-generated Essays, Offering Batch Uploads And LMS Integrations",
+      "seoKeywords": [
+        "gptzero",
+        "detector",
+        "ai-detector",
+        "plagiarism",
+        "education",
+        "tool",
+        "analyzes",
+        "burstiness",
+        "perplexity",
+        "label",
+        "generated",
+        "essays"
+      ],
+      "iframeUrl": "https://gptzero.me/",
+      "bgImg": "",
+      "tags": ["ai-detector", "gptzero", "plagiarism", "education", "tool"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "zerogpt-ai-checker",
+      "nameShort": "zerogpt",
+      "seoTitle": "ZeroGPT Supports 50+ Languages, Highlighting Suspicious",
+      "seoDescription": "ZeroGPT Supports 50 Languages, Highlighting Suspicious Sentences And Exporting Reports Useful For Compliance Teams",
+      "seoKeywords": [
+        "zerogpt",
+        "checker",
+        "ai-checker",
+        "content",
+        "compliance",
+        "tool",
+        "supports",
+        "50+",
+        "languages",
+        "highlighting",
+        "suspicious",
+        "sentences"
+      ],
+      "iframeUrl": "https://www.zerogpt.com/",
+      "bgImg": "",
+      "tags": ["ai-checker", "zerogpt", "content", "compliance", "tool"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "content-at-scale-ai-detector",
+      "nameShort": "contentatscale",
+      "seoTitle": "Contentatscale Content At Scale's Detector Scores Text Against",
+      "seoDescription": "Contentatscale - Content At Scale's Detector Scores Text Against Multiple LLM Fingerprints And Provides Rewrite Suggestions To Improve Human Tone",
+      "seoKeywords": [
+        "contentatscale",
+        "content",
+        "scale",
+        "detector",
+        "ai-detector",
+        "rewrites",
+        "tool",
+        "scores",
+        "text",
+        "against",
+        "multiple",
+        "llm"
+      ],
+      "iframeUrl": "https://contentatscale.ai/ai-content-detector/",
+      "bgImg": "",
+      "tags": ["ai-detector", "content", "scale", "rewrites", "tool"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+

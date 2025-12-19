@@ -1,0 +1,92 @@
+{
+  "name": "ohio-state-football",
+  "nameShort": "ohio-state",
+  "seoTitle": "Ohio State Featuring Buckeyes Official, Ohio State Espn",
+  "seoDescription": "Ohio State Directory Featuring Buckeyes Official, Ohio State Espn, Elevenwarriors And More.",
+  "seoKeywords": [
+    "ohio state",
+    "ohio",
+    "state",
+    "football",
+    "buckeyes",
+    "official",
+    "espn",
+    "team",
+    "elevenwarriors"
+  ],
+  "children": [
+    {
+      "name": "buckeyes-official-football",
+      "nameShort": "buckeyes-official",
+      "seoTitle": "Buckeyes Official Ohio State's Athletics Site Features Ryan Day",
+      "seoDescription": "Buckeyes Official - Ohio State's Athletics Site Features Ryan Day Press Conferences, Roster Bios, And Scarlet Gray Ticket Info",
+      "seoKeywords": [
+        "buckeyes official",
+        "buckeyes",
+        "official",
+        "football",
+        "ohio-state",
+        "schedule",
+        "news",
+        "ohio",
+        "state",
+        "athletics",
+        "site",
+        "features"
+      ],
+      "iframeUrl": "https://ohiostatebuckeyes.com/sports/m-footbl/",
+      "bgImg": "",
+      "tags": ["ohio-state", "football", "official", "schedule", "news"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "espn-ohio-state-team",
+      "nameShort": "ohio-state-espn",
+      "seoTitle": "Ohio State Espn ESPN's Buckeyes Page Tracks Standings, Injury",
+      "seoDescription": "Ohio State Espn - ESPN's Buckeyes Page Tracks Standings, Injury Reports, And Live Win Probabilities For Every Matchup",
+      "seoKeywords": [
+        "ohio state espn",
+        "espn",
+        "ohio",
+        "state",
+        "team",
+        "ohio-state",
+        "stats",
+        "schedule",
+        "cfb",
+        "buckeyes",
+        "page",
+        "tracks"
+      ],
+      "iframeUrl": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+      "bgImg": "",
+      "tags": ["ohio-state", "espn", "stats", "schedule", "cfb"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "elevenwarriors-ohio-state",
+      "nameShort": "elevenwarriors",
+      "seoTitle": "Elevenwarriors Eleven Warriors Provides Daily Ohio State",
+      "seoDescription": "Elevenwarriors - Eleven Warriors Provides Daily Ohio State Analysis, Film Rooms, Recruiting Scoops, And Rapid Game Reactions",
+      "seoKeywords": [
+        "elevenwarriors",
+        "ohio",
+        "state",
+        "ohio-state",
+        "blog",
+        "analysis",
+        "recruiting",
+        "fans",
+        "eleven",
+        "warriors",
+        "provides",
+        "daily"
+      ],
+      "iframeUrl": "https://www.elevenwarriors.com/",
+      "bgImg": "",
+      "tags": ["ohio-state", "blog", "analysis", "recruiting", "fans"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+

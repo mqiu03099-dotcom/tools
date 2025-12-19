@@ -1,0 +1,65 @@
+{
+  "name": "uvic-online-tools",
+  "nameShort": "uvic",
+  "seoTitle": "UVic Online Tools And Student Services",
+  "seoDescription": "University of Victoria online tools hub covering systems status, library access, and registrar resources.",
+  "seoKeywords": ["uvic online tools", "university", "library", "systems"],
+  "children": [
+    {
+      "name": "uvic-tools-index",
+      "nameShort": "tools",
+      "seoTitle": "UVic Tools Index Page",
+      "seoDescription": "UVic tools index linking to course sites, email, registration, and campus services.",
+      "seoKeywords": ["uvic", "online tools", "index", "services"],
+      "iframeUrl": "https://www.uvic.ca/tools/index.php",
+      "bgImg": "",
+      "tags": ["uvic", "tools", "services"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "uvic-systems",
+      "nameShort": "systems",
+      "seoTitle": "UVic Systems And IT Services",
+      "seoDescription": "UVic Systems site with IT service catalog, account help, and system notices.",
+      "seoKeywords": ["uvic", "systems", "it services", "support"],
+      "iframeUrl": "https://www.uvic.ca/systems/",
+      "bgImg": "",
+      "tags": ["uvic", "systems", "it"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "uvic-library",
+      "nameShort": "library",
+      "seoTitle": "UVic Library Online Resources",
+      "seoDescription": "UVic Library portal for databases, research help, and digital collections.",
+      "seoKeywords": ["uvic", "library", "databases", "research"],
+      "iframeUrl": "https://www.uvic.ca/library/",
+      "bgImg": "",
+      "tags": ["uvic", "library", "research"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "uvic-search",
+      "nameShort": "search",
+      "seoTitle": "UVic Site Search",
+      "seoDescription": "UVic search page for quickly finding tools, services, and academic resources.",
+      "seoKeywords": ["uvic", "search", "services", "tools"],
+      "iframeUrl": "https://www.uvic.ca/search/",
+      "bgImg": "",
+      "tags": ["uvic", "search", "resources"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "uvic-registrar",
+      "nameShort": "registrar",
+      "seoTitle": "UVic Registrar And Student Support",
+      "seoDescription": "UVic Registrar site for admissions, records, tuition, and academic calendars.",
+      "seoKeywords": ["uvic", "registrar", "admissions", "records"],
+      "iframeUrl": "https://www.uvic.ca/registrar/",
+      "bgImg": "",
+      "tags": ["uvic", "registrar", "students"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

@@ -1,0 +1,65 @@
+{
+  "name": "pogoda-forecast",
+  "nameShort": "pogoda",
+  "seoTitle": "Pogoda Weather Sources For Russian Forecasts",
+  "seoDescription": "Russian-friendly weather dashboards with hourly forecasts, radar maps, and air quality updates for cities worldwide.",
+  "seoKeywords": ["pogoda", "weather", "forecast", "radar", "russia"],
+  "children": [
+    {
+      "name": "gismeteo-russia-forecast",
+      "nameShort": "gismeteo",
+      "seoTitle": "Gismeteo 10-Day Weather Forecasts And Radar",
+      "seoDescription": "Gismeteo Provides 10-day And Hourly Weather Forecasts With Radar Maps For Cities Across Russia And Europe.",
+      "seoKeywords": ["gismeteo", "weather", "forecast", "radar"],
+      "iframeUrl": "https://www.gismeteo.ru/",
+      "bgImg": "",
+      "tags": ["pogoda", "gismeteo", "forecast", "weather"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "yandex-weather-global",
+      "nameShort": "yandex",
+      "seoTitle": "Yandex Weather Current Conditions And Alerts",
+      "seoDescription": "Yandex Weather Shows Current Conditions, Feels-like Temperatures, And Weather Alerts In Russian.",
+      "seoKeywords": ["yandex", "pogoda", "weather", "alerts"],
+      "iframeUrl": "https://yandex.com/weather/",
+      "bgImg": "",
+      "tags": ["yandex", "weather", "pogoda", "alerts"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "accuweather-russian",
+      "nameShort": "accuweather",
+      "seoTitle": "AccuWeather Russian-language Forecast Portal",
+      "seoDescription": "AccuWeather Russian Portal With Extended Forecasts, Severe Weather Tracking, And Radar Layers.",
+      "seoKeywords": ["accuweather", "pogoda", "forecast", "radar"],
+      "iframeUrl": "https://www.accuweather.com/ru",
+      "bgImg": "",
+      "tags": ["accuweather", "pogoda", "forecast", "radar"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "foreca-forecast",
+      "nameShort": "foreca",
+      "seoTitle": "Foreca Global Forecasts In Russian",
+      "seoDescription": "Foreca Provides Global 10-day Forecasts And Precipitation Maps With Russian-language Interface.",
+      "seoKeywords": ["foreca", "pogoda", "forecast", "precipitation"],
+      "iframeUrl": "https://www.foreca.com/",
+      "bgImg": "",
+      "tags": ["foreca", "pogoda", "forecast"],
+      "updateTime": "2025-12-19"
+    },
+    {
+      "name": "sinoptik-ua-weather",
+      "nameShort": "sinoptik",
+      "seoTitle": "Sinoptik UA Detailed City Weather Forecasts",
+      "seoDescription": "Sinoptik UA Lists Detailed City Forecasts, Pressure Charts, And Historical Weather In Russian.",
+      "seoKeywords": ["sinoptik", "pogoda", "forecast", "ukraine"],
+      "iframeUrl": "https://sinoptik.ua/",
+      "bgImg": "",
+      "tags": ["sinoptik", "pogoda", "forecast"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

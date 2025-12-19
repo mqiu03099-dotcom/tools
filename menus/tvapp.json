@@ -1,0 +1,82 @@
+{
+  "name": "tvapp",
+  "nameShort": "tvapp",
+  "seoTitle": "Tvapp Featuring Apple Tv, Youtube Tv, Plex Tv",
+  "seoDescription": "Tvapp Directory Featuring Apple Tv, Youtube Tv, Plex Tv And More.",
+  "seoKeywords": ["tvapp", "apple", "youtube", "plex"],
+  "children": [
+    {
+      "name": "apple-tv-app",
+      "nameShort": "apple-tv",
+      "seoTitle": "Apple's TV App Centralizes Apple TV+, MLS Season Pass, And",
+      "seoDescription": "Apple's TV App Centralizes Apple TV , MLS Season Pass, And Channel Add-ons With Profiles, Up Next Queues, And Device Syncing",
+      "seoKeywords": [
+        "apple tv",
+        "apple",
+        "tvapp",
+        "streaming",
+        "tv",
+        "app",
+        "centralizes",
+        "tv+",
+        "mls",
+        "season",
+        "pass",
+        "channel"
+      ],
+      "iframeUrl": "https://tv.apple.com/",
+      "bgImg": "",
+      "tags": ["tvapp", "apple", "streaming", "tv", "app"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "youtube-tvapp",
+      "nameShort": "youtube-tv",
+      "seoTitle": "YouTube TV's Welcome Hub Outlines Channel Lineups, Multiview, 4K",
+      "seoDescription": "YouTube TV's Welcome Hub Outlines Channel Lineups, Multiview, 4K Add-ons, And How To Run The TV App On Smart TVs Or Chromecasts",
+      "seoKeywords": [
+        "youtube tv",
+        "youtube",
+        "tvapp",
+        "live-tv",
+        "cloud-dvr",
+        "streaming",
+        "welcome",
+        "hub",
+        "outlines",
+        "channel",
+        "lineups",
+        "multiview"
+      ],
+      "iframeUrl": "https://tv.youtube.com/welcome/",
+      "bgImg": "",
+      "tags": ["tvapp", "youtube", "live-tv", "cloud-dvr", "streaming"],
+      "updateTime": "2025-12-08"
+    },
+    {
+      "name": "plex-tvapp",
+      "nameShort": "plex-tv",
+      "seoTitle": "Plex's TV App Streams Free Ad-Supported Live Channels Plus",
+      "seoDescription": "Plex Tv - Plex's TV App Streams Free Ad-supported Live Channels Plus On-demand Movies, And It Can Merge With Your Personal Media Server",
+      "seoKeywords": [
+        "plex tv",
+        "plex",
+        "tvapp",
+        "fast",
+        "streaming",
+        "live-tv",
+        "streams",
+        "free",
+        "supported",
+        "live",
+        "channels",
+        "plus"
+      ],
+      "iframeUrl": "https://www.plex.tv/watch-free-tv/",
+      "bgImg": "",
+      "tags": ["tvapp", "plex", "fast", "streaming", "live-tv"],
+      "updateTime": "2025-12-08"
+    }
+  ]
+}
+
