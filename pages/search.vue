@@ -40,7 +40,7 @@ const { webName } = useRuntimeConfig().public;
 
 usePageSeo({
   canonicalPath: "/search/",
-  title: `Tool Search: Instantly Find AI, Productivity & Marketing Tools`,
+  title: `Tool Search: Instantly Find AI, Productivity - Marketing Tools`,
   seoDescription: `Instantly Search Our Curated Library of Tools – Find AI Products, Productivity Suites, and Marketing Resources to Match Your Exact Needs.`,
   keywords: [
     "tool search",

@@ -224,9 +224,9 @@ export const menu: Menu[] = [
       {
         name: "dalle3-openai-image-generator",
         nameShort: "dalle3",
-        seoTitle: "DALL-E 3 DALL·E Is An AI Image Generation Tool By OpenAI That",
+        seoTitle: "DALL-E 3 DALL-E Is An AI Image Generation Tool By OpenAI That",
         seoDescription:
-          "DALL-E 3 - DALL·E Is An AI Image Generation Tool By OpenAI That Transforms Natural Language Prompts Into High-quality Creative Images With Style",
+          "DALL-E 3 - DALL E Is An AI Image Generation Tool By OpenAI That Transforms Natural Language Prompts Into High-quality Creative Images With Style",
         seoKeywords: [
           "dall-e 3",
           "dalle3",
@@ -550,9 +550,9 @@ export const menu: Menu[] = [
       {
         name: "amazon-q-developer-copilot",
         nameShort: "amazon",
-        seoTitle: "Amazon Q Developer Is AWS’S Coding Copilot That Drafts",
+        seoTitle: "Amazon Q Developer Is AWS's Coding Copilot That Drafts",
         seoDescription:
-          "Amazon Q Developer Is AWS’s Coding Copilot That Drafts Infrastructure As Code, Fixes Vulnerabilities, And Can Run Commands Directly In CloudShell And",
+          "Amazon Q Developer Is AWS's Coding Copilot That Drafts Infrastructure As Code, Fixes Vulnerabilities, And Can Run Commands Directly In CloudShell And",
         seoKeywords: [
           "amazon",
           "developer",
@@ -577,7 +577,7 @@ export const menu: Menu[] = [
         nameShort: "sourcegraph",
         seoTitle: "Sourcegraph Cody Is A Deep-Code AI Assistant With",
         seoDescription:
-          "Sourcegraph Cody Is A Deep-code AI Assistant With Repository-aware Context, Structural Search, And Precise Answers Grounded In Sourcegraph’s Code",
+          "Sourcegraph Cody Is A Deep-code AI Assistant With Repository-aware Context, Structural Search, And Precise Answers Grounded In Sourcegraph's Code",
         seoKeywords: [
           "sourcegraph",
           "cody",
@@ -602,7 +602,7 @@ export const menu: Menu[] = [
         nameShort: "codeium",
         seoTitle: "Codeium Is A Free-For-Dev AI Toolkit From Exafunction That",
         seoDescription:
-          "Codeium Is A Free-for-dev AI Toolkit From Exafunction That Offers Autocomplete, Chat, And Refactor Actions For 70+ Languages Across JetBrains, VS",
+          "Codeium Is A Free-for-dev AI Toolkit From Exafunction That Offers Autocomplete, Chat, And Refactor Actions For 70 Languages Across JetBrains, VS",
         seoKeywords: [
           "codeium",
           "free",
@@ -625,9 +625,9 @@ export const menu: Menu[] = [
       {
         name: "gitlab-duo-pair-programmer",
         nameShort: "gitlab",
-        seoTitle: "GitLab Duo Is GitLab’S Native AI Pair Programmer That Comments",
+        seoTitle: "GitLab Duo Is GitLab's Native AI Pair Programmer That Comments",
         seoDescription:
-          "GitLab Duo Is GitLab’s Native AI Pair Programmer That Comments On Merge Requests, Generates Secure Code In The Web IDE, And Triages CI Issues With",
+          "GitLab Duo Is GitLab's Native AI Pair Programmer That Comments On Merge Requests, Generates Secure Code In The Web IDE, And Triages CI Issues With",
         seoKeywords: [
           "gitlab",
           "duo",
@@ -675,9 +675,9 @@ export const menu: Menu[] = [
       {
         name: "gemini-code-assist-copilot",
         nameShort: "gemini",
-        seoTitle: "Gemini Code Assist Is Google Cloud’S Gemini-Based Coding Partner",
+        seoTitle: "Gemini Code Assist Is Google Cloud's Gemini-Based Coding Partner",
         seoDescription:
-          "Gemini Code Assist Is Google Cloud’s Gemini-based Coding Partner That Understands Multi-file Context, Fixes IaC Policies, And Can Run Remediation",
+          "Gemini Code Assist Is Google Cloud's Gemini-based Coding Partner That Understands Multi-file Context, Fixes IaC Policies, And Can Run Remediation",
         seoKeywords: [
           "gemini",
           "code",
@@ -788,7 +788,7 @@ export const menu: Menu[] = [
         nameShort: "blackbox",
         seoTitle: "Blackbox AI Is A Coding Copilot For Browser And IDE Workflows",
         seoDescription:
-          "Blackbox AI Is A Coding Copilot For Browser And IDE Workflows, Supporting Repo-aware Chat, Code Search, And Autocomplete For 200+ Languages",
+          "Blackbox AI Is A Coding Copilot For Browser And IDE Workflows, Supporting Repo-aware Chat, Code Search, And Autocomplete For 200 Languages",
         seoKeywords: [
           "blackbox",
           "code",
@@ -838,7 +838,7 @@ export const menu: Menu[] = [
   {
     name: "prompt-dec16-trending",
     nameShort: "dec16",
-    seoTitle: "Prompt Batch Featuring Roblox, Minecraft, Game Awards 2025, Digital Circus, NBA",
+    seoTitle: "Prompt Batch Featuring Roblox, Minecraft, Game Awards, Digital Circus",
     seoDescription:
       "Requested Categories Covering Gaming Hits, Holiday Music, Pop Culture Trailers, And News Hubs For Reddit, NBA, And More.",
     seoKeywords: [
@@ -1045,7 +1045,7 @@ export const menu: Menu[] = [
         nameShort: "supergirl",
         seoTitle: "Supergirl Woman Of Tomorrow Film Updates And Cast",
         seoDescription:
-          "DC Database Entry Tracking The Supergirl: Woman Of Tomorrow Film With Release News, Cast Notes, And Trailer Links.",
+          "DC Database Entry Tracking The Supergirl Woman Of Tomorrow Film With Release News, Cast Notes, And Trailer Links.",
         seoKeywords: ["supergirl trailer", "supergirl", "dc", "woman of tomorrow", "movie"],
         iframeUrl: "https://dc.fandom.com/wiki/Supergirl:_Woman_of_Tomorrow_(film)",
         bgImg: "",
@@ -1057,7 +1057,7 @@ export const menu: Menu[] = [
         nameShort: "avengers-doomsday",
         seoTitle: "Avengers Doomsday Rumored Movie And Trailer Buzz",
         seoDescription:
-          "Fan Coverage Summarizing Avengers: Doomsday Rumors, Trailer Speculation, And MCU Timeline Predictions.",
+          "Fan Coverage Summarizing Avengers Doomsday Rumors, Trailer Speculation, And MCU Timeline Predictions.",
         seoKeywords: [
           "avengers doomsday",
           "doomsday trailer",
@@ -1118,7 +1118,7 @@ export const menu: Menu[] = [
         nameShort: "reddit",
         seoTitle: "Reddit Popular Feed For Trending Discussions",
         seoDescription:
-          "Reddit r/Popular Stream Surfacing Trending Posts, Memes, AMAs, And News Across The Platform.",
+          "Reddit r Popular Stream Surfacing Trending Posts, Memes, AMAs, And News Across The Platform.",
         seoKeywords: ["reddit", "news", "memes", "discussions", "popular"],
         iframeUrl: "https://www.reddit.com/r/popular/",
         bgImg: "",
@@ -1310,7 +1310,7 @@ export const menu: Menu[] = [
         nameShort: "pogoda",
         seoTitle: "Windy Embedded Weather Map For Pogoda Forecasts",
         seoDescription:
-          "Windy Embedded Map Showing Russian Weather (Погода) With Wind, Clouds, And Temperature Layers.",
+          "Windy Embedded Map Showing Russian Weather With Wind, Clouds, And Temperature Layers.",
         seoKeywords: ["погода", "pogoda", "russian weather", "forecast", "windy"],
         iframeUrl:
           "https://embed.windy.com/embed2.html?lat=55.75&lon=37.62&zoom=5&level=surface&overlay=wind",
@@ -1321,9 +1321,9 @@ export const menu: Menu[] = [
       {
         name: "real-madrid-fixtures",
         nameShort: "real-madrid",
-        seoTitle: "Real Madrid Fixtures Including Alavés And Manchester City",
+        seoTitle: "Real Madrid Fixtures Including Alaves And Manchester City",
         seoDescription:
-          "ESPN Real Madrid Fixture List Covering Upcoming La Liga And Champions League Matches Such As Alavés And Manchester City.",
+          "ESPN Real Madrid Fixture List Covering Upcoming La Liga And Champions League Matches Such As Alaves And Manchester City.",
         seoKeywords: [
           "real madrid fixtures",
           "alavés real madrid",
@@ -1394,7 +1394,7 @@ export const menu: Menu[] = [
         nameShort: "europa-league",
         seoTitle: "UEFA Europa League Official Site And Club Hub",
         seoDescription:
-          "UEFA Europa League Site For Fixtures, Standings, And Clubs Including Fenerbahçe Updates.",
+          "UEFA Europa League Site For Fixtures, Standings, And Clubs Including Fenerbahce Updates.",
         seoKeywords: ["europa league", "fenerbahçe", "uefa", "fixtures", "standings"],
         iframeUrl: "https://www.uefa.com/uefaeuropaleague/",
         bgImg: "",
@@ -2103,7 +2103,7 @@ export const menu: Menu[] = [
         nameShort: "kevin-costner",
         seoTitle: "Kevin Costner The First Christmas Coverage",
         seoDescription:
-          "Search Digest For Kevin Costner Project “The First Christmas�?Including News And Rumors.",
+          "Search Digest For Kevin Costner Project The First Christmas Including News And Rumors.",
         seoKeywords: [
           "kevin costner the first christmas",
           "kevin costner",
@@ -2120,7 +2120,7 @@ export const menu: Menu[] = [
         nameShort: "knives-out-2",
         seoTitle: "Knives Out 2 Glass Onion Overview",
         seoDescription:
-          "Glass Onion: A Knives Out Mystery Page Covering Cast, Plot, And Release Details.",
+          "Glass Onion A Knives Out Mystery Page Covering Cast, Plot, And Release Details.",
         seoKeywords: ["knives out 2", "glass onion", "knives out", "film"],
         iframeUrl: "https://en.wikipedia.org/wiki/Glass_Onion:_A_Knives_Out_Mystery",
         bgImg: "",
@@ -2690,7 +2690,7 @@ export const menu: Menu[] = [
         nameShort: "kpop-wiki",
         seoTitle: "Kpop Wiki Wikipedia Documents The K-Pop: Demon Hunters",
         seoDescription:
-          "Kpop Wiki - Wikipedia Documents The K-Pop: Demon Hunters Production Timeline, Confirmed Creative Team, Voice Cast, And Plot Synopsis Straight From",
+          "Kpop Wiki - Wikipedia Documents The K-Pop Demon Hunters Production Timeline, Confirmed Creative Team, Voice Cast, And Plot Synopsis Straight From",
         seoKeywords: [
           "kpop wiki",
           "kpop",
@@ -2713,9 +2713,9 @@ export const menu: Menu[] = [
       {
         name: "variety-kpop-demon-hunters",
         nameShort: "kpop-variety",
-        seoTitle: "Kpop Variety Variety’S Annecy Coverage Recaps Interviews With",
+        seoTitle: "Kpop Variety Variety's Annecy Coverage Recaps Interviews With",
         seoDescription:
-          "Kpop Variety - Variety’s Annecy Coverage Recaps Interviews With Directors Chris And Jennifer Lee, Concept Art Reveals, And Why Disney Is Leaning On",
+          "Kpop Variety - Variety's Annecy Coverage Recaps Interviews With Directors Chris And Jennifer Lee, Concept Art Reveals, And Why Disney Is Leaning On",
         seoKeywords: [
           "kpop variety",
           "variety",
@@ -2738,9 +2738,9 @@ export const menu: Menu[] = [
       {
         name: "animation-magazine-kpop-demon-hunters",
         nameShort: "kpop-animationmag",
-        seoTitle: "Kpop Animationmag Animation Magazine’S Announcement Story",
+        seoTitle: "Kpop Animationmag Animation Magazine's Announcement Story",
         seoDescription:
-          "Kpop Animationmag - Animation Magazine’s Announcement Story Highlights The Producing Team Behind K-Pop: Demon Hunters And Links To Related Disney",
+          "Kpop Animationmag - Animation Magazine's Announcement Story Highlights The Producing Team Behind K-Pop Demon Hunters And Links To Related Disney",
         seoKeywords: [
           "kpop animationmag",
           "animation",
@@ -2783,9 +2783,9 @@ export const menu: Menu[] = [
       {
         name: "fcc-grol-overview",
         nameShort: "fcc-grol",
-        seoTitle: "Fcc Grol The FCC’S Commercial Operator Portal Lists General",
+        seoTitle: "Fcc Grol The FCC's Commercial Operator Portal Lists General",
         seoDescription:
-          "Fcc Grol - The FCC’s Commercial Operator Portal Lists General Radiotelephone Operator License Eligibility, Element 1/3/8 Requirements, And All",
+          "Fcc Grol - The FCC's Commercial Operator Portal Lists General Radiotelephone Operator License Eligibility, Element 1 3 8 Requirements, And All",
         seoKeywords: [
           "fcc grol",
           "fcc",
@@ -2808,9 +2808,9 @@ export const menu: Menu[] = [
       {
         name: "qrz-grol-practice",
         nameShort: "qrz-grol",
-        seoTitle: "QRZ’S Browser-Based Simulator Lets You Drill The Entire Question",
+        seoTitle: "QRZ's Browser-Based Simulator Lets You Drill The Entire Question",
         seoDescription:
-          "Qrz Grol - QRZ’s Browser-based Simulator Lets You Drill The Entire Question Pool For GROL Elements 1, 3, And 8 With Instant Grading And Answer",
+          "Qrz Grol - QRZ's Browser-based Simulator Lets You Drill The Entire Question Pool For GROL Elements 1, 3, And 8 With Instant Grading And Answer",
         seoKeywords: [
           "qrz grol",
           "qrz",
@@ -2868,9 +2868,9 @@ export const menu: Menu[] = [
       {
         name: "tomsguide-nintendo-switch-2",
         nameShort: "tomsguide-switch2",
-        seoTitle: "Tomsguide Switch2 Tom’S Guide Tracks Every Switch 2 Leak, From",
+        seoTitle: "Tomsguide Switch2 Tom's Guide Tracks Every Switch 2 Leak, From",
         seoDescription:
-          "Tomsguide Switch2 - Tom’s Guide Tracks Every Switch 2 Leak, From Rumored Release Windows To Nvidia Silicon Chatter And Developer Kits Spotted In",
+          "Tomsguide Switch2 - Tom's Guide Tracks Every Switch 2 Leak, From Rumored Release Windows To Nvidia Silicon Chatter And Developer Kits Spotted In",
         seoKeywords: [
           "tomsguide switch2",
           "tomsguide",
@@ -2893,9 +2893,9 @@ export const menu: Menu[] = [
       {
         name: "vgc-nintendo-switch-2",
         nameShort: "vgc-switch2",
-        seoTitle: "Vgc Switch2 Video Games Chronicle’S Hub Aggregates Insider",
+        seoTitle: "Vgc Switch2 Video Games Chronicle's Hub Aggregates Insider",
         seoDescription:
-          "Vgc Switch2 - Video Games Chronicle’s Hub Aggregates Insider Reporting On Switch Successor Specs, Backwards Compatibility, And Partner Studios Already",
+          "Vgc Switch2 - Video Games Chronicle's Hub Aggregates Insider Reporting On Switch Successor Specs, Backwards Compatibility, And Partner Studios Already",
         seoKeywords: [
           "vgc switch2",
           "vgc",
@@ -2964,7 +2964,7 @@ export const menu: Menu[] = [
         nameShort: "wicked-site",
         seoTitle: "Wicked Site The Official Wicked Site Posts Touring Schedules",
         seoDescription:
-          "The Official Wicked Site Posts Touring Schedules, Behind-the-scenes Clips, And Performance Notes For “For Good�?ahead Of The Two-part Film Release",
+          "The Official Wicked Site Posts Touring Schedules, Behind-the-scenes Clips, And Performance Notes For For Good ahead Of The Two-part Film Release",
         seoKeywords: [
           "wicked site",
           "wicked",
@@ -2987,9 +2987,9 @@ export const menu: Menu[] = [
       {
         name: "for-good-wikipedia",
         nameShort: "for-good-wiki",
-        seoTitle: "For Good Wiki Wikipedia’S “For Good�?Entry Outlines The Song’S",
+        seoTitle: "For Good Wiki Wikipedia's 'For Good' Entry Outlines The Song's",
         seoDescription:
-          "For Good Wiki - Wikipedia’s “For Good�?entry Outlines The Song’s Context In Act II, Lyrical Themes, And Key Recordings By Idina Menzel And Kristin",
+          "For Good Wiki - Wikipedia's For Good entry Outlines The Song's Context In Act II, Lyrical Themes, And Key Recordings By Idina Menzel And Kristin",
         seoKeywords: [
           "for good wiki",
           "good",
@@ -3012,9 +3012,9 @@ export const menu: Menu[] = [
       {
         name: "for-good-genius-lyrics",
         nameShort: "for-good-genius",
-        seoTitle: "For Good Genius Genius Provides Annotated “For Good�?Lyrics With",
+        seoTitle: "For Good Genius Genius Provides Annotated 'For Good' Lyrics With",
         seoDescription:
-          "For Good Genius - Genius Provides Annotated “For Good�?lyrics With Community Notes On Harmonies, Chord Progressions, And How The Duet Has Evolved In",
+          "For Good Genius - Genius Provides Annotated For Good lyrics With Community Notes On Harmonies, Chord Progressions, And How The Duet Has Evolved In",
         seoKeywords: [
           "for good genius",
           "good",
@@ -3054,9 +3054,9 @@ export const menu: Menu[] = [
       {
         name: "welcome-to-derry-wikipedia",
         nameShort: "derry-wiki",
-        seoTitle: "Derry Wiki Wikipedia Covers The IT Prequel’S Showrunners",
+        seoTitle: "Derry Wiki Wikipedia Covers The IT Prequel's Showrunners",
         seoDescription:
-          "Derry Wiki - Wikipedia Covers The IT Prequel’s Showrunners, Returning Cast Members, Production Timeline, And How The Max Series Ties Into Andy",
+          "Derry Wiki - Wikipedia Covers The IT Prequel's Showrunners, Returning Cast Members, Production Timeline, And How The Max Series Ties Into Andy",
         seoKeywords: [
           "derry wiki",
           "welcome",
@@ -3079,9 +3079,9 @@ export const menu: Menu[] = [
       {
         name: "hollywood-reporter-welcome-to-derry",
         nameShort: "derry-thr",
-        seoTitle: "Derry Thr The Hollywood Reporter’S Exclusive Dives Into HBO’S",
+        seoTitle: "Derry Thr The Hollywood Reporter's Exclusive Dives Into HBO's",
         seoDescription:
-          "Derry Thr - The Hollywood Reporter’s Exclusive Dives Into HBO’s Episode Order, Pennywise Flashbacks, And Quotes From The Producing Team About",
+          "Derry Thr - The Hollywood Reporter's Exclusive Dives Into HBO's Episode Order, Pennywise Flashbacks, And Quotes From The Producing Team About",
         seoKeywords: [
           "derry thr",
           "hollywood",
@@ -3165,9 +3165,9 @@ export const menu: Menu[] = [
       {
         name: "whatsondisneyplus-zootopia-2",
         nameShort: "zootopia2-wodp",
-        seoTitle: "Zootopia2 Wodp What’S On Disney Plus Aggregates Every Official",
+        seoTitle: "Zootopia2 Wodp What's On Disney Plus Aggregates Every Official",
         seoDescription:
-          "Zootopia2 Wodp - What’s On Disney Plus Aggregates Every Official Mention Of Zootopia 2, From Investor-day Slides To Cast Interviews And Teaser Footage",
+          "Zootopia2 Wodp - What's On Disney Plus Aggregates Every Official Mention Of Zootopia 2, From Investor-day Slides To Cast Interviews And Teaser Footage",
         seoKeywords: [
           "zootopia2 wodp",
           "whatsondisneyplus",
@@ -3190,9 +3190,9 @@ export const menu: Menu[] = [
       {
         name: "screenrant-zootopia-2",
         nameShort: "zootopia2-screenrant",
-        seoTitle: "Zootopia2 Screenrant Screen Rant’S Topic Page Rounds Up",
+        seoTitle: "Zootopia2 Screenrant Screen Rant's Topic Page Rounds Up",
         seoDescription:
-          "Zootopia2 Screenrant - Screen Rant’s Topic Page Rounds Up Speculation On Storylines, New Districts In Zootopia, And Returning Voice Talent",
+          "Zootopia2 Screenrant - Screen Rant's Topic Page Rounds Up Speculation On Storylines, New Districts In Zootopia, And Returning Voice Talent",
         seoKeywords: [
           "zootopia2 screenrant",
           "screenrant",
@@ -3234,9 +3234,9 @@ export const menu: Menu[] = [
       {
         name: "stranger-things-season5-wikipedia",
         nameShort: "st5-wiki",
-        seoTitle: "St5 Wiki Wikipedia Details The Final Season’S Episode List",
+        seoTitle: "St5 Wiki Wikipedia Details The Final Season's Episode List",
         seoDescription:
-          "St5 Wiki - Wikipedia Details The Final Season’s Episode List, Filming Schedule, And Confirmed Directors, Keeping Tabs On Production Pauses",
+          "St5 Wiki - Wikipedia Details The Final Season's Episode List, Filming Schedule, And Confirmed Directors, Keeping Tabs On Production Pauses",
         seoKeywords: [
           "st5 wiki",
           "stranger",
@@ -3259,9 +3259,9 @@ export const menu: Menu[] = [
       {
         name: "netflix-tudum-stranger-things",
         nameShort: "st5-tudum",
-        seoTitle: "St5 Tudum Netflix Tudum’S Guide Posts Official Teasers",
+        seoTitle: "St5 Tudum Netflix Tudum's Guide Posts Official Teasers",
         seoDescription:
-          "St5 Tudum - Netflix Tudum’s Guide Posts Official Teasers, Table-read Photos, And Quotes From The Duffer Brothers About How The Finale Is Structured",
+          "St5 Tudum - Netflix Tudum's Guide Posts Official Teasers, Table-read Photos, And Quotes From The Duffer Brothers About How The Finale Is Structured",
         seoKeywords: [
           "st5 tudum",
           "netflix",
@@ -3319,9 +3319,9 @@ export const menu: Menu[] = [
       {
         name: "lane-kiffin-wikipedia",
         nameShort: "kiffin-wiki",
-        seoTitle: "Kiffin Wiki Lane Kiffin’S Wikipedia Profile Covers Every Stop On",
+        seoTitle: "Kiffin Wiki Lane Kiffin's Wikipedia Profile Covers Every Stop On",
         seoDescription:
-          "Kiffin Wiki - Lane Kiffin’s Wikipedia Profile Covers Every Stop On His Coaching Tree, Head-coaching Record, And Notable Scheme Changes",
+          "Kiffin Wiki - Lane Kiffin's Wikipedia Profile Covers Every Stop On His Coaching Tree, Head-coaching Record, And Notable Scheme Changes",
         seoKeywords: [
           "kiffin wiki",
           "lane",
@@ -3344,9 +3344,9 @@ export const menu: Menu[] = [
       {
         name: "olemiss-staff-lane-kiffin",
         nameShort: "kiffin-olemiss",
-        seoTitle: "Kiffin Olemiss Ole Miss Athletics Lists Kiffin’S Current",
+        seoTitle: "Kiffin Olemiss Ole Miss Athletics Lists Kiffin's Current",
         seoDescription:
-          "Kiffin Olemiss - Ole Miss Athletics Lists Kiffin’s Current Responsibilities, Contract Milestones, And Contact Details Inside The University Directory",
+          "Kiffin Olemiss - Ole Miss Athletics Lists Kiffin's Current Responsibilities, Contract Milestones, And Contact Details Inside The University Directory",
         seoKeywords: [
           "kiffin olemiss",
           "olemiss",
@@ -3369,9 +3369,9 @@ export const menu: Menu[] = [
       {
         name: "sports-reference-lane-kiffin",
         nameShort: "kiffin-stats",
-        seoTitle: "Kiffin Stats Sports Reference Breaks Down Kiffin’S Year-By-Year",
+        seoTitle: "Kiffin Stats Sports Reference Breaks Down Kiffin's Year-By-Year",
         seoDescription:
-          "Kiffin Stats - Sports Reference Breaks Down Kiffin’s Year-by-year Records, Bowl Appearances, And Offensive Rankings Across His Head-coaching Tenure",
+          "Kiffin Stats - Sports Reference Breaks Down Kiffin's Year-by-year Records, Bowl Appearances, And Offensive Rankings Across His Head-coaching Tenure",
         seoKeywords: [
           "kiffin stats",
           "sports",
@@ -3403,9 +3403,9 @@ export const menu: Menu[] = [
       {
         name: "accuweather-espanol",
         nameShort: "accuweather-es",
-        seoTitle: "AccuWeather En EspañOl Ofrece PronóSticos Por Hora Y Alertas De",
+        seoTitle: "AccuWeather En Espanol Ofrece Pronosticos Por Hora Y Alertas De",
         seoDescription:
-          "Accuweather Es - AccuWeather En Español Ofrece Pronósticos Por Hora Y Alertas De Lluvia Para Mañana Con Radar Interactivo Configurable Por Ciudad",
+          "Accuweather Es - AccuWeather En Espanol Ofrece Pronosticos Por Hora Y Alertas De Lluvia Para Manana Con Radar Interactivo Configurable Por Ciudad",
         seoKeywords: [
           "accuweather es",
           "accuweather",
@@ -3440,7 +3440,7 @@ export const menu: Menu[] = [
         name: "meteored-global",
         nameShort: "meteored",
         seoTitle: "Meteored (Tiempo",
-        seoDescription: "Meteored (Tiempo",
+        seoDescription: "Meteored Tiempo",
         seoKeywords: ["meteored", "global", "tiempo", "manana", "clima", "alertas"],
         iframeUrl: "https://www.meteored.com/",
         bgImg: "",
@@ -3459,9 +3459,9 @@ export const menu: Menu[] = [
       {
         name: "apple-tv-app",
         nameShort: "apple-tv",
-        seoTitle: "Apple’S TV App Centralizes Apple TV+, MLS Season Pass, And",
+        seoTitle: "Apple's TV App Centralizes Apple TV+, MLS Season Pass, And",
         seoDescription:
-          "Apple’s TV App Centralizes Apple TV+, MLS Season Pass, And Channel Add-ons With Profiles, Up Next Queues, And Device Syncing",
+          "Apple's TV App Centralizes Apple TV , MLS Season Pass, And Channel Add-ons With Profiles, Up Next Queues, And Device Syncing",
         seoKeywords: [
           "apple tv",
           "apple",
@@ -3484,9 +3484,9 @@ export const menu: Menu[] = [
       {
         name: "youtube-tvapp",
         nameShort: "youtube-tv",
-        seoTitle: "YouTube TV’S Welcome Hub Outlines Channel Lineups, Multiview, 4K",
+        seoTitle: "YouTube TV's Welcome Hub Outlines Channel Lineups, Multiview, 4K",
         seoDescription:
-          "YouTube TV’s Welcome Hub Outlines Channel Lineups, Multiview, 4K Add-ons, And How To Run The TV App On Smart TVs Or Chromecasts",
+          "YouTube TV's Welcome Hub Outlines Channel Lineups, Multiview, 4K Add-ons, And How To Run The TV App On Smart TVs Or Chromecasts",
         seoKeywords: [
           "youtube tv",
           "youtube",
@@ -3509,9 +3509,9 @@ export const menu: Menu[] = [
       {
         name: "plex-tvapp",
         nameShort: "plex-tv",
-        seoTitle: "Plex’S TV App Streams Free Ad-Supported Live Channels Plus",
+        seoTitle: "Plex's TV App Streams Free Ad-Supported Live Channels Plus",
         seoDescription:
-          "Plex Tv - Plex’s TV App Streams Free Ad-supported Live Channels Plus On-demand Movies, And It Can Merge With Your Personal Media Server",
+          "Plex Tv - Plex's TV App Streams Free Ad-supported Live Channels Plus On-demand Movies, And It Can Merge With Your Personal Media Server",
         seoKeywords: [
           "plex tv",
           "plex",
@@ -3579,7 +3579,7 @@ export const menu: Menu[] = [
         nameShort: "zerogpt",
         seoTitle: "ZeroGPT Supports 50+ Languages, Highlighting Suspicious",
         seoDescription:
-          "ZeroGPT Supports 50+ Languages, Highlighting Suspicious Sentences And Exporting Reports Useful For Compliance Teams",
+          "ZeroGPT Supports 50 Languages, Highlighting Suspicious Sentences And Exporting Reports Useful For Compliance Teams",
         seoKeywords: [
           "zerogpt",
           "checker",
@@ -3602,9 +3602,9 @@ export const menu: Menu[] = [
       {
         name: "content-at-scale-ai-detector",
         nameShort: "contentatscale",
-        seoTitle: "Contentatscale Content At Scale’S Detector Scores Text Against",
+        seoTitle: "Contentatscale Content At Scale's Detector Scores Text Against",
         seoDescription:
-          "Contentatscale - Content At Scale’s Detector Scores Text Against Multiple LLM Fingerprints And Provides Rewrite Suggestions To Improve Human Tone",
+          "Contentatscale - Content At Scale's Detector Scores Text Against Multiple LLM Fingerprints And Provides Rewrite Suggestions To Improve Human Tone",
         seoKeywords: [
           "contentatscale",
           "content",
@@ -3718,9 +3718,9 @@ export const menu: Menu[] = [
       {
         name: "google-docs-product",
         nameShort: "docs-product",
-        seoTitle: "Docs Product Google Workspace’S Docs Page Explains Templates",
+        seoTitle: "Docs Product Google Workspace's Docs Page Explains Templates",
         seoDescription:
-          "Docs Product - Google Workspace’s Docs Page Explains Templates, Smart Chips, And Collaboration Controls For Enterprise Rollouts",
+          "Docs Product - Google Workspace's Docs Page Explains Templates, Smart Chips, And Collaboration Controls For Enterprise Rollouts",
         seoKeywords: [
           "docs product",
           "google",
@@ -3808,9 +3808,9 @@ export const menu: Menu[] = [
       {
         name: "fighting-irish-football",
         nameShort: "fightingirish",
-        seoTitle: "Fightingirish Notre Dame’S Official Site Posts Schedules, Marcus",
+        seoTitle: "Fightingirish Notre Dame's Official Site Posts Schedules, Marcus",
         seoDescription:
-          "Fightingirish - Notre Dame’s Official Site Posts Schedules, Marcus Freeman Pressers, Depth Charts, And NBC Broadcast Links",
+          "Fightingirish - Notre Dame's Official Site Posts Schedules, Marcus Freeman Pressers, Depth Charts, And NBC Broadcast Links",
         seoKeywords: [
           "fightingirish",
           "fighting",
@@ -3833,9 +3833,9 @@ export const menu: Menu[] = [
       {
         name: "espn-notre-dame-team",
         nameShort: "notre-dame-espn",
-        seoTitle: "Notre Dame Espn ESPN’S Team Hub Features Statistics",
+        seoTitle: "Notre Dame Espn ESPN's Team Hub Features Statistics",
         seoDescription:
-          "Notre Dame Espn - ESPN’s Team Hub Features Statistics, Game-by-game Recaps, And FPI Projections For The Fighting Irish",
+          "Notre Dame Espn - ESPN's Team Hub Features Statistics, Game-by-game Recaps, And FPI Projections For The Fighting Irish",
         seoKeywords: [
           "notre dame espn",
           "espn",
@@ -3903,9 +3903,9 @@ export const menu: Menu[] = [
       {
         name: "buckeyes-official-football",
         nameShort: "buckeyes-official",
-        seoTitle: "Buckeyes Official Ohio State’S Athletics Site Features Ryan Day",
+        seoTitle: "Buckeyes Official Ohio State's Athletics Site Features Ryan Day",
         seoDescription:
-          "Buckeyes Official - Ohio State’s Athletics Site Features Ryan Day Press Conferences, Roster Bios, And Scarlet & Gray Ticket Info",
+          "Buckeyes Official - Ohio State's Athletics Site Features Ryan Day Press Conferences, Roster Bios, And Scarlet Gray Ticket Info",
         seoKeywords: [
           "buckeyes official",
           "buckeyes",
@@ -3928,9 +3928,9 @@ export const menu: Menu[] = [
       {
         name: "espn-ohio-state-team",
         nameShort: "ohio-state-espn",
-        seoTitle: "Ohio State Espn ESPN’S Buckeyes Page Tracks Standings, Injury",
+        seoTitle: "Ohio State Espn ESPN's Buckeyes Page Tracks Standings, Injury",
         seoDescription:
-          "Ohio State Espn - ESPN’s Buckeyes Page Tracks Standings, Injury Reports, And Live Win Probabilities For Every Matchup",
+          "Ohio State Espn - ESPN's Buckeyes Page Tracks Standings, Injury Reports, And Live Win Probabilities For Every Matchup",
         seoKeywords: [
           "ohio state espn",
           "espn",
@@ -4011,9 +4011,9 @@ export const menu: Menu[] = [
       {
         name: "react-ui-component-library",
         nameShort: "react",
-        seoTitle: "React Is Meta’S Declarative Library For Building",
+        seoTitle: "React Is Meta's Declarative Library For Building",
         seoDescription:
-          "React Is Meta’s Declarative Library For Building Component-driven UIs With Hooks, Concurrent Rendering, And A Vast Community Ecosystem",
+          "React Is Meta's Declarative Library For Building Component-driven UIs With Hooks, Concurrent Rendering, And A Vast Community Ecosystem",
         seoKeywords: [
           "react",
           "component",
@@ -4036,9 +4036,9 @@ export const menu: Menu[] = [
       {
         name: "angular-typescript-web-framework",
         nameShort: "angular",
-        seoTitle: "Angular Is Google’S Full-Featured Framework With",
+        seoTitle: "Angular Is Google's Full-Featured Framework With",
         seoDescription:
-          "Angular Is Google’s Full-featured Framework With TypeScript-first Tooling, RxJS-powered Reactivity, And Enterprise-ready CLI Workflows",
+          "Angular Is Google's Full-featured Framework With TypeScript-first Tooling, RxJS-powered Reactivity, And Enterprise-ready CLI Workflows",
         seoKeywords: [
           "angular",
           "typescript",
@@ -4238,9 +4238,9 @@ export const menu: Menu[] = [
       {
         name: "zeekr-premium-electric-vehicles",
         nameShort: "zeekr",
-        seoTitle: "Zeekr Is Geely’S Premium EV Marque That Builds SEA-Platform",
+        seoTitle: "Zeekr Is Geely's Premium EV Marque That Builds SEA-Platform",
         seoDescription:
-          "Zeekr Is Geely’s Premium EV Marque That Builds SEA-platform Fastbacks And SUVs, Shipping OTA Software Globally From Ningbo",
+          "Zeekr Is Geely's Premium EV Marque That Builds SEA-platform Fastbacks And SUVs, Shipping OTA Software Globally From Ningbo",
         seoKeywords: [
           "zeekr",
           "premium",
@@ -4263,9 +4263,9 @@ export const menu: Menu[] = [
       {
         name: "neta-auto-new-energy-vehicles",
         nameShort: "neta",
-        seoTitle: "Neta Auto Is Hozon’S EV Brand Covering A0 To B-Class Crossovers",
+        seoTitle: "Neta Auto Is Hozon's EV Brand Covering A0 To B-Class Crossovers",
         seoDescription:
-          "Neta Auto Is Hozon’s EV Brand Covering A0 To B-class Crossovers With In-house Chips And Assisted Driving Technology",
+          "Neta Auto Is Hozon's EV Brand Covering A0 To B-class Crossovers With In-house Chips And Assisted Driving Technology",
         seoKeywords: [
           "neta",
           "auto",
@@ -4288,9 +4288,9 @@ export const menu: Menu[] = [
       {
         name: "voyah-luxury-electric-brand",
         nameShort: "voyah",
-        seoTitle: "VOYAH Is Dongfeng’S Luxury EV Sub-Brand Delivering The Free SUV",
+        seoTitle: "VOYAH Is Dongfeng's Luxury EV Sub-Brand Delivering The Free SUV",
         seoDescription:
-          "VOYAH Is Dongfeng’s Luxury EV Sub-brand Delivering The Free SUV And Dreamer MPV With ESSA Architecture And Battery Swap Technology",
+          "VOYAH Is Dongfeng's Luxury EV Sub-brand Delivering The Free SUV And Dreamer MPV With ESSA Architecture And Battery Swap Technology",
         seoKeywords: [
           "voyah",
           "luxury",
@@ -4313,9 +4313,9 @@ export const menu: Menu[] = [
       {
         name: "gwm-electric-vehicle-lineup",
         nameShort: "gwm",
-        seoTitle: "GWM New Energy Is Great Wall Motor’S NEV Portfolio Spanning ORA",
+        seoTitle: "GWM New Energy Is Great Wall Motor's NEV Portfolio Spanning ORA",
         seoDescription:
-          "GWM New Energy Is Great Wall Motor’s NEV Portfolio Spanning ORA City Cars To Wey Hybrids, Backed By Coffee OS And L2+ Driving Stacks",
+          "GWM New Energy Is Great Wall Motor's NEV Portfolio Spanning ORA City Cars To Wey Hybrids, Backed By Coffee OS And L2 Driving Stacks",
         seoKeywords: [
           "gwm",
           "electric",
@@ -4340,7 +4340,7 @@ export const menu: Menu[] = [
         nameShort: "seres",
         seoTitle: "Seres Auto Is A Chongqing-Based Brand Building AITO Co-Branded",
         seoDescription:
-          "Seres Auto Is A Chongqing-based Brand Building AITO Co-branded Range Extenders With Huawei’s HarmonyOS Cockpit And ADS 2",
+          "Seres Auto Is A Chongqing-based Brand Building AITO Co-branded Range Extenders With Huawei's HarmonyOS Cockpit And ADS 2",
         seoKeywords: [
           "seres",
           "auto",
@@ -4387,7 +4387,7 @@ export const menu: Menu[] = [
         nameShort: "walmart",
         seoTitle: "Walmart Is The Fortune #1 Retailer With Global Supply Chains",
         seoDescription:
-          "Walmart Is The Fortune #1 Retailer With Global Supply Chains, Automation Pilots, And $600B+ In Annual Revenue",
+          "Walmart Is The Fortune 1 Retailer With Global Supply Chains, Automation Pilots, And 600B In Annual Revenue",
         seoKeywords: [
           "walmart",
           "global",
@@ -4487,7 +4487,7 @@ export const menu: Menu[] = [
         nameShort: "exxonmobil",
         seoTitle: "Exxonmobil Exxon Mobil Is An Integrated Oil Major Accelerating",
         seoDescription:
-          "Exxonmobil - Exxon Mobil Is An Integrated Oil Major Accelerating Low-carbon Ventures While Running One Of The World’s Largest Downstream Networks",
+          "Exxonmobil - Exxon Mobil Is An Integrated Oil Major Accelerating Low-carbon Ventures While Running One Of The World's Largest Downstream Networks",
         seoKeywords: [
           "exxonmobil",
           "integrated",
@@ -4560,7 +4560,7 @@ export const menu: Menu[] = [
         nameShort: "freefileconvert",
         seoTitle: "Freefileconvert Free File Convert Handles 8,000+ Format",
         seoDescription:
-          "Freefileconvert - Free File Convert Handles 8,000+ Format Combinations With Asynchronous Jobs And Email Reminders For Finished Tasks",
+          "Freefileconvert - Free File Convert Handles 8,000 Format Combinations With Asynchronous Jobs And Email Reminders For Finished Tasks",
         seoKeywords: [
           "freefileconvert",
           "online",
@@ -4635,7 +4635,7 @@ export const menu: Menu[] = [
         nameShort: "online",
         seoTitle: "Online Utility Is A Lightweight Toolkit Converting Office Files",
         seoDescription:
-          "Online Utility Is A Lightweight Toolkit Converting Office Files To PDF/HTML/Text And Offering Checksum Plus Compression Helpers",
+          "Online Utility Is A Lightweight Toolkit Converting Office Files To PDF HTML Text And Offering Checksum Plus Compression Helpers",
         seoKeywords: [
           "online",
           "utility",
@@ -5030,7 +5030,7 @@ export const menu: Menu[] = [
         nameShort: "pingan",
         seoTitle: "Pingan Ping An Combines Insurance, Banking, And Health Tech To",
         seoDescription:
-          "Pingan - Ping An Combines Insurance, Banking, And Health Tech To Deliver A Financial+Ecosystem Model For Comprehensive Services",
+          "Pingan - Ping An Combines Insurance, Banking, And Health Tech To Deliver A Financial Ecosystem Model For Comprehensive Services",
         seoKeywords: [
           "pingan",
           "finance",
@@ -6111,7 +6111,7 @@ export const menu: Menu[] = [
         nameShort: "compressjpeg",
         seoTitle: "CompressJPEG Lets You Drop 20 Images At A Time, Auto-Detects",
         seoDescription:
-          "CompressJPEG Lets You Drop 20 Images At A Time, Auto-detects JPG/PNG/WEBP Formats, And Exports Zipped Downloads With Adjustable Quality Levels",
+          "CompressJPEG Lets You Drop 20 Images At A Time, Auto-detects JPG PNG WEBP Formats, And Exports Zipped Downloads With Adjustable Quality Levels",
         seoKeywords: [
           "compressjpeg",
           "batch",
@@ -6134,9 +6134,9 @@ export const menu: Menu[] = [
       {
         name: "squoosh-google-image-optimizer",
         nameShort: "squoosh",
-        seoTitle: "Squoosh Is Google’S Open-Source Web App For Tweaking AVIF",
+        seoTitle: "Squoosh Is Google's Open-Source Web App For Tweaking AVIF",
         seoDescription:
-          "Squoosh Is Google’s Open-source Web App For Tweaking AVIF, MozJPEG, And WebP Encoders With Live Side-by-side Previews And Granular Compression Sliders",
+          "Squoosh Is Google's Open-source Web App For Tweaking AVIF, MozJPEG, And WebP Encoders With Live Side-by-side Previews And Granular Compression Sliders",
         seoKeywords: [
           "squoosh",
           "google",
@@ -6219,7 +6219,7 @@ export const menu: Menu[] = [
         nameShort: "tubebuddy",
         seoTitle: "TubeBuddy Is A Certified Browser Extension That Streamlines",
         seoDescription:
-          "TubeBuddy Is A Certified Browser Extension That Streamlines Keyword Research, A/B Tests, And Bulk Metadata Edits For YouTube Channels",
+          "TubeBuddy Is A Certified Browser Extension That Streamlines Keyword Research, A B Tests, And Bulk Metadata Edits For YouTube Channels",
         seoKeywords: [
           "tubebuddy",
           "youtube",
@@ -6267,9 +6267,9 @@ export const menu: Menu[] = [
       {
         name: "canva-youtube-thumbnail-maker",
         nameShort: "canva",
-        seoTitle: "Canva’S YouTube Thumbnail Maker Ships Ready-Made Layouts, Brand",
+        seoTitle: "Canva's YouTube Thumbnail Maker Ships Ready-Made Layouts, Brand",
         seoDescription:
-          "Canva’s YouTube Thumbnail Maker Ships Ready-made Layouts, Brand Kits, And AI Image Tools For Fast, On-brand Cover Art",
+          "Canva's YouTube Thumbnail Maker Ships Ready-made Layouts, Brand Kits, And AI Image Tools For Fast, On-brand Cover Art",
         seoKeywords: [
           "canva",
           "youtube",
@@ -6364,9 +6364,9 @@ export const menu: Menu[] = [
       {
         name: "gartner-2025-tech-trends",
         nameShort: "gartner",
-        seoTitle: "Gartner’S 2025 Tech Trend Briefing Highlights AI Trust, Machine",
+        seoTitle: "Gartner's 2025 Tech Trend Briefing Highlights AI Trust, Machine",
         seoDescription:
-          "Gartner’s 2025 Tech Trend Briefing Highlights AI Trust, Machine Customers, And Platform Engineering Priorities For CIO Roadmaps",
+          "Gartner's 2025 Tech Trend Briefing Highlights AI Trust, Machine Customers, And Platform Engineering Priorities For CIO Roadmaps",
         seoKeywords: [
           "gartner",
           "2025",
@@ -6414,9 +6414,9 @@ export const menu: Menu[] = [
       {
         name: "accenture-2025-tech-vision",
         nameShort: "accenture",
-        seoTitle: "Accenture’S Tech Vision 2025 Report Explores Spatial Computing",
+        seoTitle: "Accenture's Tech Vision 2025 Report Explores Spatial Computing",
         seoDescription:
-          "Accenture’s Tech Vision 2025 Report Explores Spatial Computing, AI Agents, And Cloud Continuum Bets For Enterprise Leaders",
+          "Accenture's Tech Vision 2025 Report Explores Spatial Computing, AI Agents, And Cloud Continuum Bets For Enterprise Leaders",
         seoKeywords: [
           "accenture",
           "2025",
@@ -6511,9 +6511,9 @@ export const menu: Menu[] = [
       {
         name: "deepseek-official-updates",
         nameShort: "deepseek-official",
-        seoTitle: "DeepSeek’S Official Site Shares Release Notes, Pricing, And",
+        seoTitle: "DeepSeek's Official Site Shares Release Notes, Pricing, And",
         seoDescription:
-          "DeepSeek Official - DeepSeek’s Official Site Shares Release Notes, Pricing, And Access To The Grok-inspired DeepSeek-V3 Assistant",
+          "DeepSeek Official - DeepSeek's Official Site Shares Release Notes, Pricing, And Access To The Grok-inspired DeepSeek-V3 Assistant",
         seoKeywords: [
           "deepseek official",
           "deepseek",
@@ -6561,9 +6561,9 @@ export const menu: Menu[] = [
       {
         name: "deepseek-huggingface-hub",
         nameShort: "deepseek-huggingface",
-        seoTitle: "DeepSeek’S Hugging Face Hub Provides Quantized Weights",
+        seoTitle: "DeepSeek's Hugging Face Hub Provides Quantized Weights",
         seoDescription:
-          "DeepSeek Huggingface - DeepSeek’s Hugging Face Hub Provides Quantized Weights, Tokenizer Files, And Evaluation Cards For Community Downloads",
+          "DeepSeek Huggingface - DeepSeek's Hugging Face Hub Provides Quantized Weights, Tokenizer Files, And Evaluation Cards For Community Downloads",
         seoKeywords: [
           "deepseek huggingface",
           "deepseek",
@@ -6684,9 +6684,9 @@ export const menu: Menu[] = [
       {
         name: "pragmatic-slot-updates",
         nameShort: "pragmatic",
-        seoTitle: "Pragmatic Play’S Official Slot Hub Announces New Drop & Wins",
+        seoTitle: "Pragmatic Play's Official Slot Hub Announces New Drop & Wins",
         seoDescription:
-          "Pragmatic Play’s Official Slot Hub Announces New Drop & Wins Campaigns, Paylines, And Demo Modes",
+          "Pragmatic Play's Official Slot Hub Announces New Drop Wins Campaigns, Paylines, And Demo Modes",
         seoKeywords: [
           "pragmatic",
           "slot",
@@ -6883,7 +6883,7 @@ export const menu: Menu[] = [
         nameShort: "notebookcheck",
         seoTitle: "NotebookCheck Dissects Supply-Chain Whispers On BOE Panels",
         seoDescription:
-          "NotebookCheck Dissects Supply-chain Whispers On BOE Panels, Periscope Zoom, And Thermal Redesigns For Apple’s 2025 Flagship",
+          "NotebookCheck Dissects Supply-chain Whispers On BOE Panels, Periscope Zoom, And Thermal Redesigns For Apple's 2025 Flagship",
         seoKeywords: [
           "notebookcheck",
           "iphone17",
@@ -7094,7 +7094,7 @@ export const menu: Menu[] = [
         nameShort: "mahjong333-mobile",
         seoTitle: "Mahjong333 Mobile App Brings Authentic Mahjong Experience To",
         seoDescription:
-          "Mahjong333 Mobile App Brings Authentic Mahjong Experience To IOS/Android Devices, Supporting Offline Play, Custom Rules, And Social Sharing Features",
+          "Mahjong333 Mobile App Brings Authentic Mahjong Experience To IOS Android Devices, Supporting Offline Play, Custom Rules, And Social Sharing Features",
         seoKeywords: [
           "mahjong333 mobile",
           "mahjong333",
@@ -7204,7 +7204,7 @@ export const menu: Menu[] = [
         nameShort: "black-friday2025",
         seoTitle: "Black Friday2025 Amazon Black Friday 2025 Features Early Access",
         seoDescription:
-          "Black Friday2025 - Amazon Black Friday 2025 Features Early Access Deals On Electronics, Home Goods, And Amazon Devices With Up To 70% Off For Prime",
+          "Black Friday2025 - Amazon Black Friday 2025 Features Early Access Deals On Electronics, Home Goods, And Amazon Devices With Up To 70 Off For Prime",
         seoKeywords: [
           "black friday2025",
           "black",
@@ -7398,7 +7398,7 @@ export const menu: Menu[] = [
         nameShort: "spotify-podcasts",
         seoTitle: "Spotify For Podcasters (Anchor) Offers Free Hosting",
         seoDescription:
-          "Spotify Podcasts - Spotify For Podcasters (Anchor) Offers Free Hosting, Distribution, And Monetization Tools For Podcast Creators With Access To",
+          "Spotify Podcasts - Spotify For Podcasters Anchor Offers Free Hosting, Distribution, And Monetization Tools For Podcast Creators With Access To",
         seoKeywords: [
           "spotify podcasts",
           "spotify",
@@ -7494,7 +7494,7 @@ export const menu: Menu[] = [
         nameShort: "chatgpt-plus",
         seoTitle: "ChatGPT Plus ($20/Month) Unlocks GPT-4o Access, Faster Response",
         seoDescription:
-          "ChatGPT Plus ($20/Month) Unlocks GPT-4o Access, Faster Response Times, Browsing Capabilities, DALL·E 3 Integration, And Priority Support From OpenAI",
+          "ChatGPT Plus 20 Month Unlocks GPT-4o Access, Faster Response Times, Browsing Capabilities, DALL E 3 Integration, And Priority Support From OpenAI",
         seoKeywords: [
           "chatgpt plus",
           "chatgpt",
@@ -7566,7 +7566,7 @@ export const menu: Menu[] = [
         nameShort: "chatgpt-plugins",
         seoTitle: "ChatGPT Plugins Marketplace Offers 1000+ Third-Party",
         seoDescription:
-          "ChatGPT Plugins Marketplace Offers 1000+ Third-party Integrations Including Travel Booking, Code Execution, Data Analysis, And Productivity Tools To",
+          "ChatGPT Plugins Marketplace Offers 1000 Third-party Integrations Including Travel Booking, Code Execution, Data Analysis, And Productivity Tools To",
         seoKeywords: [
           "chatgpt plugins",
           "chatgpt",
@@ -7974,7 +7974,7 @@ export const menu: Menu[] = [
         nameShort: "miro",
         seoTitle: "Miro Provides Infinite Canvases For Brainstorming, Agile",
         seoDescription:
-          "Miro Provides Infinite Canvases For Brainstorming, Agile Ceremonies, Workshops, And Diagramming With 500+ Templates",
+          "Miro Provides Infinite Canvases For Brainstorming, Agile Ceremonies, Workshops, And Diagramming With 500 Templates",
         seoKeywords: [
           "miro",
           "collaboration",
@@ -8085,7 +8085,7 @@ export const menu: Menu[] = [
         nameShort: "deepl",
         seoTitle: "DeepL Translator Offers Context-Aware Translations, Glossaries",
         seoDescription:
-          "DeepL Translator Offers Context-aware Translations, Glossaries, And Document Uploads For 30+ Languages",
+          "DeepL Translator Offers Context-aware Translations, Glossaries, And Document Uploads For 30 Languages",
         seoKeywords: [
           "deepl",
           "language",
@@ -8519,7 +8519,7 @@ export const menu: Menu[] = [
         nameShort: "crazyegg",
         seoTitle: "Crazyegg Crazy Egg Offers Scroll Maps, Snapshots, And A/B",
         seoDescription:
-          "Crazyegg - Crazy Egg Offers Scroll Maps, Snapshots, And A/B Testing To Optimize Landing Pages",
+          "Crazyegg - Crazy Egg Offers Scroll Maps, Snapshots, And A B Testing To Optimize Landing Pages",
         seoKeywords: [
           "crazyegg",
           "heatmaps",
@@ -8569,7 +8569,7 @@ export const menu: Menu[] = [
         nameShort: "pingdom",
         seoTitle: "Pingdom Monitors Uptime, Page Speed, And User Experience From",
         seoDescription:
-          "Pingdom Monitors Uptime, Page Speed, And User Experience From 100+ Locations Worldwide",
+          "Pingdom Monitors Uptime, Page Speed, And User Experience From 100 Locations Worldwide",
         seoKeywords: [
           "pingdom",
           "website",
@@ -8744,7 +8744,7 @@ export const menu: Menu[] = [
         nameShort: "smallpdf",
         seoTitle: "Smallpdf Offers 20+ PDF Tools Plus E-Sign, OCR, And Cloud",
         seoDescription:
-          "Smallpdf Offers 20+ PDF Tools Plus E-sign, OCR, And Cloud Storage Integrations",
+          "Smallpdf Offers 20 PDF Tools Plus E-sign, OCR, And Cloud Storage Integrations",
         seoKeywords: [
           "smallpdf",
           "online",
@@ -8926,7 +8926,7 @@ export const menu: Menu[] = [
         nameShort: "synthesia",
         seoTitle: "Synthesia Creates Studio-Quality Presenter Videos With Lifelike",
         seoDescription:
-          "Synthesia Creates Studio-quality Presenter Videos With Lifelike Avatars, Brand Templates, And 120+ Languages Without Cameras Or Actors",
+          "Synthesia Creates Studio-quality Presenter Videos With Lifelike Avatars, Brand Templates, And 120 Languages Without Cameras Or Actors",
         seoKeywords: [
           "synthesia",
           "avatars",
@@ -9232,7 +9232,7 @@ export const menu: Menu[] = [
         nameShort: "rytr",
         seoTitle: "Rytr Creates Emails, Summaries, And Ad Copy In 30+ Languages",
         seoDescription:
-          "Rytr Creates Emails, Summaries, And Ad Copy In 30+ Languages With Tone Controls And Plagiarism Checks",
+          "Rytr Creates Emails, Summaries, And Ad Copy In 30 Languages With Tone Controls And Plagiarism Checks",
         seoKeywords: [
           "rytr",
           "writer",
@@ -9588,9 +9588,9 @@ export const menu: Menu[] = [
       {
         name: "flamengo-vs-ceara",
         nameShort: "flamengo-ceara",
-        seoTitle: "Flamengo Vs Ceará Serie A Live Score",
+        seoTitle: "Flamengo Vs Ceara Serie A Live Score",
         seoDescription:
-          "Serie A Match Listing For Flamengo Vs Ceará With Scoreline And Kickoff Details.",
+          "Serie A Match Listing For Flamengo Vs Ceara With Scoreline And Kickoff Details.",
         seoKeywords: ["flamengo", "ceara", "serie a", "brasileirao", "scores"],
         iframeUrl: "https://www.thesportsdb.com/event/2385404-flamengo-vs-cear%C3%A1",
         bgImg: "",
@@ -9742,7 +9742,7 @@ export const menu: Menu[] = [
         nameShort: "kpop-demon",
         seoTitle: "K-Pop: Demon Hunters Animated Film Overview",
         seoDescription:
-          "K-Pop: Demon Hunters Plot Summary, Cast Notes, Production Updates, And Release Details.",
+          "K-Pop Demon Hunters Plot Summary, Cast Notes, Production Updates, And Release Details.",
         seoKeywords: ["kpop", "demon hunters", "animation", "film", "korean", "movie"],
         iframeUrl: "https://en.wikipedia.org/wiki/K-Pop:_Demon_Hunters",
         bgImg: "",
@@ -11213,6 +11213,2230 @@ export const menu: Menu[] = [
         bgImg: "",
         tags: ["chiefs", "espn", "schedule"],
         updateTime: "2025-12-13",
+      },
+    ],
+  },
+  {
+    name: "pogoda-forecast",
+    nameShort: "pogoda",
+    seoTitle: "Pogoda Weather Sources For Russian Forecasts",
+    seoDescription:
+      "Russian-friendly weather dashboards with hourly forecasts, radar maps, and air quality updates for cities worldwide.",
+    seoKeywords: ["pogoda", "weather", "forecast", "radar", "russia"],
+    children: [
+      {
+        name: "gismeteo-russia-forecast",
+        nameShort: "gismeteo",
+        seoTitle: "Gismeteo 10-Day Weather Forecasts And Radar",
+        seoDescription:
+          "Gismeteo Provides 10-day And Hourly Weather Forecasts With Radar Maps For Cities Across Russia And Europe.",
+        seoKeywords: ["gismeteo", "weather", "forecast", "radar"],
+        iframeUrl: "https://www.gismeteo.ru/",
+        bgImg: "",
+        tags: ["pogoda", "gismeteo", "forecast", "weather"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "yandex-weather-global",
+        nameShort: "yandex",
+        seoTitle: "Yandex Weather Current Conditions And Alerts",
+        seoDescription:
+          "Yandex Weather Shows Current Conditions, Feels-like Temperatures, And Weather Alerts In Russian.",
+        seoKeywords: ["yandex", "pogoda", "weather", "alerts"],
+        iframeUrl: "https://yandex.com/weather/",
+        bgImg: "",
+        tags: ["yandex", "weather", "pogoda", "alerts"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "accuweather-russian",
+        nameShort: "accuweather",
+        seoTitle: "AccuWeather Russian-language Forecast Portal",
+        seoDescription:
+          "AccuWeather Russian Portal With Extended Forecasts, Severe Weather Tracking, And Radar Layers.",
+        seoKeywords: ["accuweather", "pogoda", "forecast", "radar"],
+        iframeUrl: "https://www.accuweather.com/ru",
+        bgImg: "",
+        tags: ["accuweather", "pogoda", "forecast", "radar"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "foreca-forecast",
+        nameShort: "foreca",
+        seoTitle: "Foreca Global Forecasts In Russian",
+        seoDescription:
+          "Foreca Provides Global 10-day Forecasts And Precipitation Maps With Russian-language Interface.",
+        seoKeywords: ["foreca", "pogoda", "forecast", "precipitation"],
+        iframeUrl: "https://www.foreca.com/",
+        bgImg: "",
+        tags: ["foreca", "pogoda", "forecast"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "sinoptik-ua-weather",
+        nameShort: "sinoptik",
+        seoTitle: "Sinoptik UA Detailed City Weather Forecasts",
+        seoDescription:
+          "Sinoptik UA Lists Detailed City Forecasts, Pressure Charts, And Historical Weather In Russian.",
+        seoKeywords: ["sinoptik", "pogoda", "forecast", "ukraine"],
+        iframeUrl: "https://sinoptik.ua/",
+        bgImg: "",
+        tags: ["sinoptik", "pogoda", "forecast"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "laliga-copa-matches",
+    nameShort: "laliga-copa",
+    seoTitle: "LaLiga Fixtures Covering Alavés, Real Madrid, Barcelona",
+    seoDescription:
+      "Live schedules and stats for Alavés vs Real Madrid, Barcelona vs Osasuna, Talavera ties, and Copa del Rey rounds.",
+    seoKeywords: [
+      "alaves real madrid",
+      "barcelona osasuna",
+      "talavera real madrid",
+      "copa del rey",
+      "laliga fixtures",
+    ],
+    children: [
+      {
+        name: "real-madrid-fixtures-espn",
+        nameShort: "rm-fixtures",
+        seoTitle: "Real Madrid Fixtures On ESPN",
+        seoDescription:
+          "ESPN Fixture List For Real Madrid With Dates, Kickoff Times, And Results Across Competitions.",
+        seoKeywords: ["real madrid", "fixtures", "espn", "laliga"],
+        iframeUrl: "https://www.espn.com/soccer/team/fixtures/_/id/86/real-madrid",
+        bgImg: "",
+        tags: ["real-madrid", "fixtures", "espn"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "alaves-fixtures-espn",
+        nameShort: "alaves",
+        seoTitle: "Deportivo Alavés Match Schedule On ESPN",
+        seoDescription:
+          "ESPN Schedule Page For Deportivo Alavés Covering LaLiga Fixtures, Results, And Match Reports.",
+        seoKeywords: ["alaves", "fixtures", "espn", "laliga"],
+        iframeUrl: "https://www.espn.com/soccer/team/fixtures/_/id/106/deportivo-alaves",
+        bgImg: "",
+        tags: ["alaves", "fixtures", "espn"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "laliga-official-calendar",
+        nameShort: "laliga",
+        seoTitle: "LaLiga Official Fixture Calendar",
+        seoDescription:
+          "LaLiga Official Calendar Listing Upcoming Matches, Tables, And Broadcast Info For Every Round.",
+        seoKeywords: ["laliga", "fixtures", "calendar", "schedule"],
+        iframeUrl: "https://www.laliga.com/en-GB/calendar",
+        bgImg: "",
+        tags: ["laliga", "fixtures", "calendar"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "copa-del-rey-rfef",
+        nameShort: "copa-rey",
+        seoTitle: "Copa Del Rey Official Competition Hub",
+        seoDescription:
+          "RFEF Copa Del Rey Hub With Round Draws, Fixtures, And Results Including Talavera And LaLiga Clubs.",
+        seoKeywords: ["copa del rey", "rfef", "fixtures", "results"],
+        iframeUrl: "https://www.rfef.es/en/competition/copa-del-rey",
+        bgImg: "",
+        tags: ["copa-del-rey", "rfef", "fixtures"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "laliga-matches-sofascore",
+        nameShort: "sofascore",
+        seoTitle: "SofaScore LaLiga Live Scores And Stats",
+        seoDescription:
+          "SofaScore LaLiga Center Delivering Live Scores, Lineups, And Stats For Barcelona, Real Madrid, And Osasuna.",
+        seoKeywords: ["laliga", "live scores", "sofascore", "barcelona"],
+        iframeUrl: "https://www.sofascore.com/tournament/football/spain/laliga/8",
+        bgImg: "",
+        tags: ["laliga", "sofascore", "scores"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "psg-international-matches",
+    nameShort: "psg",
+    seoTitle: "PSG Fixtures And Friendlies Including Flamengo Clash",
+    seoDescription:
+      "Trusted pages for PSG fixtures, results, and friendlies such as Flamengo vs PSG with live scores and team news.",
+    seoKeywords: ["psg", "flamengo x psg", "ligue 1", "friendlies", "fixtures"],
+    children: [
+      {
+        name: "psg-official-calendar",
+        nameShort: "psg-calendar",
+        seoTitle: "PSG Official Fixture Calendar And Results",
+        seoDescription:
+          "Paris Saint-Germain Official Fixture Calendar Listing Ligue 1, Champions League, And Friendly Dates.",
+        seoKeywords: ["psg", "calendar", "fixtures", "official"],
+        iframeUrl: "https://en.psg.fr/teams/first-team/calendar",
+        bgImg: "",
+        tags: ["psg", "calendar", "fixtures"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "psg-ligue1-profile",
+        nameShort: "ligue1",
+        seoTitle: "PSG Team Profile On Ligue 1",
+        seoDescription:
+          "Ligue 1 Official Team Page For PSG With Standings, Fixtures, Lineups, And Highlights.",
+        seoKeywords: ["psg", "ligue 1", "fixtures", "standings"],
+        iframeUrl: "https://www.ligue1.com/clubs/Paris%20Saint-Germain",
+        bgImg: "",
+        tags: ["psg", "ligue1", "fixtures"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "psg-fixtures-espn",
+        nameShort: "psg-espn",
+        seoTitle: "PSG Fixtures And Results On ESPN",
+        seoDescription:
+          "ESPN PSG Fixture Hub With Match Previews, Results, And Statistics For Ligue 1 And Europe.",
+        seoKeywords: ["psg", "fixtures", "espn", "results"],
+        iframeUrl: "https://www.espn.com/soccer/team/fixtures/_/id/160/paris-saint-germain",
+        bgImg: "",
+        tags: ["psg", "fixtures", "espn"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "psg-sofascore",
+        nameShort: "psg-sofa",
+        seoTitle: "PSG Live Scores On SofaScore",
+        seoDescription:
+          "SofaScore PSG Team Page With Live Scores, Player Ratings, And Match Stats For Ligue 1 And Friendlies.",
+        seoKeywords: ["psg", "live scores", "sofascore", "stats"],
+        iframeUrl: "https://www.sofascore.com/team/football/paris-saint-germain/1649",
+        bgImg: "",
+        tags: ["psg", "sofascore", "scores"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "flamengo-team-page",
+        nameShort: "flamengo",
+        seoTitle: "Flamengo Official Site And Fixtures",
+        seoDescription:
+          "Clube De Regatas Do Flamengo Official Site Featuring News, Fixtures, And Highlights For Brazilian Champions.",
+        seoKeywords: ["flamengo", "fixtures", "psg friendly", "brazil"],
+        iframeUrl: "https://www.flamengo.com.br/",
+        bgImg: "",
+        tags: ["flamengo", "fixtures", "psg"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "liverpool-brighton-fixture",
+    nameShort: "lfc-brighton",
+    seoTitle: "Liverpool Vs Brighton Fixtures And Stats",
+    seoDescription:
+      "Premier League resources showing Liverpool vs Brighton schedules, live scores, and match stats from trusted sites.",
+    seoKeywords: ["liverpool vs brighton", "premier league", "fixtures", "stats"],
+    children: [
+      {
+        name: "liverpool-match-center",
+        nameShort: "liverpool",
+        seoTitle: "Liverpool FC Official Match Center",
+        seoDescription:
+          "Liverpool FC Match Center With Fixtures, Results, And Live Coverage For All Competitions.",
+        seoKeywords: ["liverpool", "fixtures", "match center", "premier league"],
+        iframeUrl: "https://www.liverpoolfc.com/match",
+        bgImg: "",
+        tags: ["liverpool", "fixtures", "premier-league"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "brighton-fixtures",
+        nameShort: "brighton",
+        seoTitle: "Brighton Fixture List And Results",
+        seoDescription:
+          "Brighton & Hove Albion Official Fixtures Page Covering Premier League And Cup Matches.",
+        seoKeywords: ["brighton", "fixtures", "premier league", "schedule"],
+        iframeUrl: "https://www.brightonandhovealbion.com/matches/fixtures/men",
+        bgImg: "",
+        tags: ["brighton", "fixtures", "premier-league"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "premier-league-fixtures",
+        nameShort: "premier-league",
+        seoTitle: "Premier League Official Fixtures List",
+        seoDescription:
+          "Premier League Official Fixtures Including Liverpool Vs Brighton Dates, Broadcasts, And Results.",
+        seoKeywords: ["premier league", "fixtures", "schedule", "liverpool"],
+        iframeUrl: "https://www.premierleague.com/fixtures",
+        bgImg: "",
+        tags: ["premier-league", "fixtures", "schedule"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "bbc-liverpool-fixtures",
+        nameShort: "bbc-lfc",
+        seoTitle: "BBC Sport Liverpool Fixtures And Results",
+        seoDescription:
+          "BBC Sport Fixture List For Liverpool With Match Reports, Live Text, And Highlights.",
+        seoKeywords: ["bbc sport", "liverpool", "fixtures", "brighton"],
+        iframeUrl: "https://www.bbc.com/sport/football/teams/liverpool/fixtures",
+        bgImg: "",
+        tags: ["bbc", "liverpool", "fixtures"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "sofascore-liverpool-team",
+        nameShort: "sofa-lfc",
+        seoTitle: "SofaScore Liverpool Live Scores",
+        seoDescription:
+          "SofaScore Liverpool Team Page Providing Live Scores, Player Ratings, And Match Statistics.",
+        seoKeywords: ["liverpool", "sofascore", "live scores", "premier league"],
+        iframeUrl: "https://www.sofascore.com/team/football/liverpool/8",
+        bgImg: "",
+        tags: ["liverpool", "sofascore", "scores"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "google-tools-suite",
+    nameShort: "google",
+    seoTitle: "Google Tools For Workspace, Docs, Drive, Calendar",
+    seoDescription:
+      "Google productivity tools overview covering Workspace, Docs, Drive, Keep, and Calendar quick links.",
+    seoKeywords: ["google tools", "workspace", "docs", "drive", "calendar"],
+    children: [
+      {
+        name: "google-workspace",
+        nameShort: "workspace",
+        seoTitle: "Google Workspace Overview For Productivity",
+        seoDescription: "Workspace product hub with Gmail, Drive, Docs, Meet, and admin plans.",
+        seoKeywords: ["google workspace", "productivity", "docs", "drive", "gmail"],
+        iframeUrl: "https://workspace.google.com/",
+        bgImg: "",
+        tags: ["google", "workspace", "productivity"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "google-docs-about",
+        nameShort: "docs",
+        seoTitle: "Google Docs Online Word Processor Overview",
+        seoDescription:
+          "Docs about page detailing online editing, templates, and collaboration for teams.",
+        seoKeywords: ["google docs", "word processor", "online", "collaboration"],
+        iframeUrl: "https://www.google.com/docs/about/",
+        bgImg: "",
+        tags: ["google", "docs", "collaboration"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "google-drive-cloud",
+        nameShort: "drive",
+        seoTitle: "Google Drive Cloud Storage Product Page",
+        seoDescription: "Drive landing for secure cloud storage, sharing, and file backup.",
+        seoKeywords: ["google drive", "cloud storage", "sharing", "backup"],
+        iframeUrl: "https://www.google.com/drive/",
+        bgImg: "",
+        tags: ["google", "drive", "storage"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "google-calendar-schedule",
+        nameShort: "calendar",
+        seoTitle: "Google Calendar Product Tour And Features",
+        seoDescription:
+          "Calendar product page highlighting scheduling, reminders, and Meet integration.",
+        seoKeywords: ["google calendar", "scheduling", "reminders", "meet"],
+        iframeUrl: "https://workspace.google.com/products/calendar/",
+        bgImg: "",
+        tags: ["google", "calendar", "scheduling"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "google-keep-notes",
+        nameShort: "keep",
+        seoTitle: "Google Keep Notes And Lists In Workspace",
+        seoDescription: "Keep product page for fast notes, lists, and reminders across devices.",
+        seoKeywords: ["google keep", "notes", "lists", "reminders"],
+        iframeUrl: "https://workspace.google.com/products/keep/",
+        bgImg: "",
+        tags: ["google", "keep", "notes"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "online-tools-directory",
+    nameShort: "online-tools",
+    seoTitle: "Online Tools Directory For Everyday Tasks",
+    seoDescription:
+      "Fast-loading multi-tool sites for file conversion, generators, and quick utilities.",
+    seoKeywords: ["online tools", "converter", "generator", "utilities"],
+    children: [
+      {
+        name: "tinywow-online-tools",
+        nameShort: "tinywow",
+        seoTitle: "TinyWow Free Online Tools Collection",
+        seoDescription: "TinyWow hub with PDF, image, video, and text utilities in one place.",
+        seoKeywords: ["tinywow", "online tools", "pdf", "image", "video"],
+        iframeUrl: "https://www.tinywow.com/",
+        bgImg: "",
+        tags: ["tinywow", "online-tools", "pdf"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "10015-io-toolkit",
+        nameShort: "10015",
+        seoTitle: "10015.io All-In-One Web Toolkit",
+        seoDescription:
+          "10015.io offers design, SEO, PDF, and writing utilities through a unified launcher.",
+        seoKeywords: ["10015.io", "online tools", "seo", "pdf", "design"],
+        iframeUrl: "https://www.10015.io/",
+        bgImg: "",
+        tags: ["10015", "online-tools", "seo"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "browserling-web-tools",
+        nameShort: "browserling",
+        seoTitle: "Browserling Developer Tools In The Browser",
+        seoDescription:
+          "Browserling tools for encoding, conversions, testing, and text manipulation online.",
+        seoKeywords: ["browserling", "developer tools", "encoding", "testing"],
+        iframeUrl: "https://www.browserling.com/tools",
+        bgImg: "",
+        tags: ["browserling", "developer", "online-tools"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "unitconverters-suite",
+        nameShort: "unitconverters",
+        seoTitle: "UnitConverters.net Calculation Suite",
+        seoDescription:
+          "UnitConverters.net for math, finance, and metric conversions from any browser.",
+        seoKeywords: ["unit converter", "calculator", "finance", "metric"],
+        iframeUrl: "https://www.unitconverters.net/",
+        bgImg: "",
+        tags: ["unit-converter", "calculator", "online-tools"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "dcode-multi-tool",
+        nameShort: "dcode",
+        seoTitle: "dCode Multi-Purpose Cipher And Math Tools",
+        seoDescription: "dCode hosts cryptography, math, and puzzle solvers with quick web UIs.",
+        seoKeywords: ["dcode", "cipher", "math tools", "puzzle solver"],
+        iframeUrl: "https://www.dcode.fr/",
+        bgImg: "",
+        tags: ["dcode", "cipher", "puzzle"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "input-tools-keyboards",
+    nameShort: "input",
+    seoTitle: "Input Tools For Multilingual Typing And Keyboards",
+    seoDescription:
+      "Virtual keyboards, IME downloads, and language input helpers including Google Input Tools.",
+    seoKeywords: ["input tools", "virtual keyboard", "ime", "google input tools"],
+    children: [
+      {
+        name: "google-input-tools",
+        nameShort: "google-input",
+        seoTitle: "Google Input Tools Download And Web Input",
+        seoDescription:
+          "Google Input Tools page for transliteration, handwriting, and keyboard support across languages.",
+        seoKeywords: ["google input tools", "transliteration", "keyboard", "handwriting"],
+        iframeUrl: "https://www.google.com/inputtools/",
+        bgImg: "",
+        tags: ["google-input-tools", "keyboard", "ime"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "keyman-keyboard",
+        nameShort: "keyman",
+        seoTitle: "Keyman Keyboard Manager For Any Language",
+        seoDescription:
+          "Keyman desktop and mobile keyboards with thousands of language layouts and cloud sync.",
+        seoKeywords: ["keyman", "keyboard", "language", "layouts"],
+        iframeUrl: "https://www.keyman.com/",
+        bgImg: "",
+        tags: ["keyman", "keyboard", "ime"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "inputking-online-keyboard",
+        nameShort: "inputking",
+        seoTitle: "InputKing Online Keyboard And IME",
+        seoDescription:
+          "InputKing browser-based keyboards for Chinese, Japanese, and multilingual typing.",
+        seoKeywords: ["inputking", "online keyboard", "ime", "multilingual"],
+        iframeUrl: "https://www.inputking.com/",
+        bgImg: "",
+        tags: ["inputking", "keyboard", "ime"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "lexilogos-virtual-keyboard",
+        nameShort: "lexilogos",
+        seoTitle: "Lexilogos Virtual Keyboards For World Languages",
+        seoDescription:
+          "Lexilogos keyboard widgets covering Arabic, Hindi, Greek, and more scripts online.",
+        seoKeywords: ["lexilogos", "virtual keyboard", "languages", "online typing"],
+        iframeUrl: "https://www.lexilogos.com/keyboard/",
+        bgImg: "",
+        tags: ["lexilogos", "keyboard", "virtual"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "branah-virtual-keyboard",
+        nameShort: "branah",
+        seoTitle: "Branah Virtual Keyboard Collection",
+        seoDescription:
+          "Branah hosts virtual keyboards and character pickers for fast multilingual input.",
+        seoKeywords: ["branah", "virtual keyboard", "multilingual", "typing"],
+        iframeUrl: "https://www.branah.com/keyboard",
+        bgImg: "",
+        tags: ["branah", "keyboard", "typing"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "pdf-tools-online",
+    nameShort: "pdf",
+    seoTitle: "PDF Tools For Merge, Convert, And Compress",
+    seoDescription: "Trusted PDF web apps for merging, compressing, and editing without installs.",
+    seoKeywords: ["pdf tools", "merge", "compress", "convert", "edit"],
+    children: [
+      {
+        name: "ilovepdf-editor",
+        nameShort: "ilovepdf",
+        seoTitle: "iLovePDF Online PDF Editor And Converter",
+        seoDescription:
+          "iLovePDF web suite for merging, splitting, converting, and compressing PDFs quickly.",
+        seoKeywords: ["ilovepdf", "pdf editor", "merge", "compress"],
+        iframeUrl: "https://www.ilovepdf.com/",
+        bgImg: "",
+        tags: ["pdf", "ilovepdf", "converter"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "sejda-pdf-suite",
+        nameShort: "sejda",
+        seoTitle: "Sejda PDF Suite In The Browser",
+        seoDescription:
+          "Sejda online PDF toolkit with edit, sign, compress, and PDF to Word conversion.",
+        seoKeywords: ["sejda", "pdf tools", "edit", "compress"],
+        iframeUrl: "https://www.sejda.com/",
+        bgImg: "",
+        tags: ["sejda", "pdf", "converter"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "pdf24-tools",
+        nameShort: "pdf24",
+        seoTitle: "PDF24 Tools For Quick PDF Tasks",
+        seoDescription:
+          "PDF24 hosts free browser PDF tools for merging, signing, converting, and unlocking files.",
+        seoKeywords: ["pdf24", "pdf tools", "merge", "sign"],
+        iframeUrl: "https://www.pdf24.org/",
+        bgImg: "",
+        tags: ["pdf24", "pdf", "online-tools"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "smallpdf-online",
+        nameShort: "smallpdf",
+        seoTitle: "Smallpdf Web PDF Converter Collection",
+        seoDescription:
+          "Smallpdf provides fast PDF conversions, compression, and signing from any device.",
+        seoKeywords: ["smallpdf", "pdf converter", "compress", "sign"],
+        iframeUrl: "https://www.smallpdf.com/",
+        bgImg: "",
+        tags: ["smallpdf", "pdf", "converter"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "pdfcandy-toolkit",
+        nameShort: "pdfcandy",
+        seoTitle: "PDF Candy Online Toolkit",
+        seoDescription:
+          "PDF Candy browser toolkit for PDF to Word, OCR, page delete, and quick merges.",
+        seoKeywords: ["pdf candy", "pdf tools", "ocr", "merge"],
+        iframeUrl: "https://www.pdfcandy.com/",
+        bgImg: "",
+        tags: ["pdfcandy", "pdf", "ocr"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "seo-tools-suite",
+    nameShort: "seo",
+    seoTitle: "SEO Tools For Audits, Checks, And Monitoring",
+    seoDescription:
+      "Fast SEO checkers covering site audits, on-page metrics, and keyword previews.",
+    seoKeywords: ["seo tools", "audit", "checker", "keywords", "monitoring"],
+    children: [
+      {
+        name: "seobility-site-check",
+        nameShort: "seobility",
+        seoTitle: "Seobility SEO Checker For Websites",
+        seoDescription:
+          "Seobility on-page SEO check with crawl errors, metadata tips, and scoring.",
+        seoKeywords: ["seobility", "seo checker", "on-page", "audit"],
+        iframeUrl: "https://seobility.net/en/seocheck/",
+        bgImg: "",
+        tags: ["seo", "checker", "seobility"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "seoptimer-audit",
+        nameShort: "seoptimer",
+        seoTitle: "SEOptimer Free SEO Audit Tool",
+        seoDescription:
+          "SEOptimer generates site audits with performance, accessibility, and link checks.",
+        seoKeywords: ["seoptimer", "seo audit", "performance", "links"],
+        iframeUrl: "https://www.seoptimer.com/",
+        bgImg: "",
+        tags: ["seo", "audit", "seoptimer"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "seoreviewtools-suite",
+        nameShort: "seoreview",
+        seoTitle: "SEO Review Tools Collection",
+        seoDescription:
+          "SEO Review Tools hosts backlink checks, keyword tools, schema validators, and SERP previews.",
+        seoKeywords: ["seo review tools", "backlink", "keywords", "schema"],
+        iframeUrl: "https://www.seoreviewtools.com/",
+        bgImg: "",
+        tags: ["seo", "backlinks", "keywords"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "siteliner-duplicate-check",
+        nameShort: "siteliner",
+        seoTitle: "Siteliner Duplicate Content Checker",
+        seoDescription:
+          "Siteliner scans for duplicate content, broken links, and site performance metrics.",
+        seoKeywords: ["siteliner", "duplicate content", "broken links", "seo"],
+        iframeUrl: "https://www.siteliner.com/",
+        bgImg: "",
+        tags: ["seo", "duplicate", "siteliner"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "woorank-audit",
+        nameShort: "woorank",
+        seoTitle: "WooRank Website Review And Audit",
+        seoDescription:
+          "WooRank automated website reviews covering SEO basics, performance, and backlinks.",
+        seoKeywords: ["woorank", "seo audit", "performance", "backlinks"],
+        iframeUrl: "https://www.woorank.com/en",
+        bgImg: "",
+        tags: ["seo", "woorank", "audit"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "pro-audio-tools",
+    nameShort: "pro-tools",
+    seoTitle: "Pro Tools Audio Workstation And Learning",
+    seoDescription:
+      "Resources for Avid Pro Tools software, tutorials, plugins, and hardware bundles.",
+    seoKeywords: ["pro tools", "audio", "daw", "avid", "plugins"],
+    children: [
+      {
+        name: "avid-pro-tools",
+        nameShort: "avid",
+        seoTitle: "Avid Pro Tools Official Product Page",
+        seoDescription:
+          "Avid Pro Tools product overview with feature tiers, pricing, and hardware options.",
+        seoKeywords: ["avid", "pro tools", "daw", "pricing"],
+        iframeUrl: "https://www.avid.com/pro-tools",
+        bgImg: "",
+        tags: ["avid", "pro-tools", "audio"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "production-expert-pro-tools",
+        nameShort: "expert",
+        seoTitle: "Production Expert Pro Tools Tutorials And News",
+        seoDescription:
+          "Production Expert Pro Tools section covering tips, reviews, and workflow guides.",
+        seoKeywords: ["pro tools", "tutorials", "news", "production expert"],
+        iframeUrl: "https://www.production-expert.com/pro-tools",
+        bgImg: "",
+        tags: ["pro-tools", "tutorials", "news"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "pro-tools-learning-hub",
+        nameShort: "learn",
+        seoTitle: "Pro Tools Learn And Support Resources",
+        seoDescription:
+          "Avid learn and support hub for Pro Tools with downloads, docs, and training videos.",
+        seoKeywords: ["pro tools", "learn", "support", "docs"],
+        iframeUrl: "https://www.avid.com/learn-and-support/pro-tools",
+        bgImg: "",
+        tags: ["pro-tools", "support", "training"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "pluginboutique-pro-tools-aax",
+        nameShort: "plugins",
+        seoTitle: "AAX Plugins For Pro Tools On Plugin Boutique",
+        seoDescription:
+          "Plugin Boutique catalog filtered for AAX plugins compatible with Avid Pro Tools.",
+        seoKeywords: ["pro tools", "aax plugins", "audio", "effects"],
+        iframeUrl: "https://www.pluginboutique.com/formats/13-Pro-Tools-AAX",
+        bgImg: "",
+        tags: ["pro-tools", "plugins", "aax"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "sweetwater-pro-tools",
+        nameShort: "sweetwater",
+        seoTitle: "Sweetwater Pro Tools Software And Bundles",
+        seoDescription:
+          "Sweetwater landing with Pro Tools software, hardware bundles, and upgrade options.",
+        seoKeywords: ["pro tools", "sweetwater", "audio", "bundles"],
+        iframeUrl: "https://www.sweetwater.com/c695--Avid--Pro_Tools_Software",
+        bgImg: "",
+        tags: ["pro-tools", "sweetwater", "audio"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "platform-and-cd-tools",
+    nameShort: "platform",
+    seoTitle: "Platform Engineering And Continuous Delivery Tools",
+    seoDescription:
+      "CI/CD platforms and deployment engines like Jenkins, GitLab, CircleCI, Argo CD, and Spinnaker.",
+    seoKeywords: ["platform tools", "continuous delivery", "ci/cd", "devops"],
+    children: [
+      {
+        name: "jenkins-automation-server",
+        nameShort: "jenkins",
+        seoTitle: "Jenkins Open Source Automation Server",
+        seoDescription:
+          "Jenkins project site with pipelines, plugins, and guides for building CI/CD.",
+        seoKeywords: ["jenkins", "ci/cd", "automation", "pipelines"],
+        iframeUrl: "https://www.jenkins.io/",
+        bgImg: "",
+        tags: ["jenkins", "automation", "devops"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "gitlab-ci-cd",
+        nameShort: "gitlab",
+        seoTitle: "GitLab CI/CD Platform Overview",
+        seoDescription:
+          "GitLab CI/CD solution page highlighting pipelines, security scans, and deployments.",
+        seoKeywords: ["gitlab", "ci-cd", "pipelines", "security"],
+        iframeUrl: "https://about.gitlab.com/solutions/ci-cd/",
+        bgImg: "",
+        tags: ["gitlab", "ci-cd", "devops"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "circleci-cloud",
+        nameShort: "circleci",
+        seoTitle: "CircleCI Cloud CI/CD Service",
+        seoDescription:
+          "CircleCI platform for automated testing, workflows, and delivery across languages.",
+        seoKeywords: ["circleci", "ci-cd", "cloud", "automation"],
+        iframeUrl: "https://circleci.com/",
+        bgImg: "",
+        tags: ["circleci", "ci-cd", "automation"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "argo-cd-docs",
+        nameShort: "argo-cd",
+        seoTitle: "Argo CD GitOps Delivery Documentation",
+        seoDescription:
+          "Argo CD docs describing GitOps deployments, sync policies, and application health.",
+        seoKeywords: ["argo cd", "gitops", "kubernetes", "delivery"],
+        iframeUrl: "https://argo-cd.readthedocs.io/en/stable/",
+        bgImg: "",
+        tags: ["argo-cd", "gitops", "kubernetes"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "spinnaker-platform",
+        nameShort: "spinnaker",
+        seoTitle: "Spinnaker Multi-Cloud Delivery Platform",
+        seoDescription:
+          "Spinnaker site covering pipelines, canary analysis, and cloud deployment support.",
+        seoKeywords: ["spinnaker", "continuous delivery", "pipelines", "cloud"],
+        iframeUrl: "https://spinnaker.io/",
+        bgImg: "",
+        tags: ["spinnaker", "delivery", "devops"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "macro-automation-tools",
+    nameShort: "macro",
+    seoTitle: "Macro Automation Tools For Windows Productivity",
+    seoDescription:
+      "Desktop automation utilities like Macro Toolworks, AutoHotkey, and macro recorders.",
+    seoKeywords: ["macro tools pro", "automation", "autohotkey", "macro recorder"],
+    children: [
+      {
+        name: "macro-toolworks",
+        nameShort: "toolworks",
+        seoTitle: "Macro Toolworks Automation Suite",
+        seoDescription:
+          "Macro Toolworks provides desktop automation, scripting, and macro recording features.",
+        seoKeywords: ["macro toolworks", "automation", "macro", "windows"],
+        iframeUrl: "https://www.macrotoolworks.com/",
+        bgImg: "",
+        tags: ["macro", "automation", "windows"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "jitbit-macro-recorder",
+        nameShort: "jitbit",
+        seoTitle: "Jitbit Macro Recorder",
+        seoDescription:
+          "Jitbit Macro Recorder for recording keystrokes, mouse actions, and building automations.",
+        seoKeywords: ["jitbit", "macro recorder", "automation", "mouse"],
+        iframeUrl: "https://www.jitbit.com/macro-recorder/",
+        bgImg: "",
+        tags: ["jitbit", "macro", "automation"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "pulovers-macro-creator",
+        nameShort: "pulover",
+        seoTitle: "Pulover'S Macro Creator",
+        seoDescription:
+          "Pulover's Macro Creator for building desktop macros with recording and scripting support.",
+        seoKeywords: ["pulover", "macro creator", "automation", "scripting"],
+        iframeUrl: "https://www.macrocreator.com/",
+        bgImg: "",
+        tags: ["macro", "automation", "pulover"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "tinytask-automation",
+        nameShort: "tinytask",
+        seoTitle: "TinyTask Lightweight Macro Recorder",
+        seoDescription:
+          "TinyTask portable macro recorder for quick playback of repeated desktop actions.",
+        seoKeywords: ["tinytask", "macro recorder", "automation", "windows"],
+        iframeUrl: "https://www.tinytask.net/",
+        bgImg: "",
+        tags: ["tinytask", "macro", "recorder"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "autohotkey-automation",
+        nameShort: "autohotkey",
+        seoTitle: "AutoHotkey Desktop Automation Language",
+        seoDescription:
+          "AutoHotkey scripting language for hotkeys, macros, and UI automation on Windows.",
+        seoKeywords: ["autohotkey", "automation", "scripting", "macros"],
+        iframeUrl: "https://www.autohotkey.com/",
+        bgImg: "",
+        tags: ["autohotkey", "automation", "scripting"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "power-tools-marketplace",
+    nameShort: "power-tools",
+    seoTitle: "Power Tools Retailers And Brand Hubs",
+    seoDescription:
+      "Fast-loading power tool catalogs across major retailers and brand landing pages.",
+    seoKeywords: ["power tools", "retailer", "hardware", "cordless"],
+    children: [
+      {
+        name: "home-depot-power-tools",
+        nameShort: "home-depot",
+        seoTitle: "Home Depot Power Tools Category",
+        seoDescription:
+          "Home Depot listings for drills, saws, combo kits, and cordless power tools.",
+        seoKeywords: ["home depot", "power tools", "cordless", "kits"],
+        iframeUrl: "https://www.homedepot.com/b/Tools-Power-Tools/N-5yc1vZc2cg",
+        bgImg: "",
+        tags: ["power-tools", "home-depot", "hardware"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "lowes-power-tools",
+        nameShort: "lowes",
+        seoTitle: "Lowe'S Power Tools Department",
+        seoDescription:
+          "Lowe's power tools department featuring drills, saws, nailers, and batteries.",
+        seoKeywords: ["lowe's", "power tools", "hardware", "cordless"],
+        iframeUrl: "https://www.lowes.com/c/Power-tools-Tools",
+        bgImg: "",
+        tags: ["power-tools", "lowes", "hardware"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "harbor-freight-power-tools",
+        nameShort: "harbor-freight",
+        seoTitle: "Harbor Freight Power Tools Deals",
+        seoDescription:
+          "Harbor Freight page for budget drills, grinders, saws, and cordless tool deals.",
+        seoKeywords: ["harbor freight", "power tools", "deals", "cordless"],
+        iframeUrl: "https://www.harborfreight.com/power-tools.html",
+        bgImg: "",
+        tags: ["power-tools", "harbor-freight", "deals"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "total-tools-catalog",
+        nameShort: "total-tools",
+        seoTitle: "Total Tools Power Tools Range",
+        seoDescription:
+          "Total Tools power tool catalog including cordless kits, grinders, and saws.",
+        seoKeywords: ["total tools", "power tools", "catalog", "cordless"],
+        iframeUrl: "https://www.totaltools.com.au/power-tools",
+        bgImg: "",
+        tags: ["total-tools", "power-tools", "retail"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "sydney-tools-power",
+        nameShort: "sydney-tools",
+        seoTitle: "Sydney Tools Power Tools Selection",
+        seoDescription:
+          "Sydney Tools landing for power tools, combo kits, and battery platforms in Australia.",
+        seoKeywords: ["sydney tools", "power tools", "australia", "retail"],
+        iframeUrl: "https://www.sydneytools.com.au/power-tools",
+        bgImg: "",
+        tags: ["sydney-tools", "power-tools", "retail"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "tools-near-me-locators",
+    nameShort: "near-me",
+    seoTitle: "Tools Near Me Store Locator Pages",
+    seoDescription:
+      "Store locator pages to quickly find nearby hardware and tool retailers in your area.",
+    seoKeywords: ["tools near me", "store locator", "hardware", "retail"],
+    children: [
+      {
+        name: "home-depot-store-finder",
+        nameShort: "home-depot",
+        seoTitle: "Home Depot Store Finder",
+        seoDescription:
+          "Home Depot store finder for directions, hours, and inventory status near you.",
+        seoKeywords: ["home depot", "store finder", "tools near me", "hours"],
+        iframeUrl: "https://www.homedepot.com/l/search/StoreFinder",
+        bgImg: "",
+        tags: ["home-depot", "locator", "retail"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "lowes-store-locator",
+        nameShort: "lowes",
+        seoTitle: "Lowe'S Store Locator",
+        seoDescription:
+          "Lowe's store locator with addresses, curbside pickup options, and contact info.",
+        seoKeywords: ["lowe's", "store locator", "tools near me", "pickup"],
+        iframeUrl: "https://www.lowes.com/store/",
+        bgImg: "",
+        tags: ["lowes", "locator", "retail"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "ace-hardware-locator",
+        nameShort: "ace",
+        seoTitle: "Ace Hardware Store Locator",
+        seoDescription:
+          "Ace Hardware locator for nearby stores, services, and paint or tool inventory.",
+        seoKeywords: ["ace hardware", "store locator", "hardware", "tools"],
+        iframeUrl: "https://www.acehardware.com/store-locator",
+        bgImg: "",
+        tags: ["ace-hardware", "locator", "tools"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "harbor-freight-locator",
+        nameShort: "harbor-freight",
+        seoTitle: "Harbor Freight Store Locator",
+        seoDescription: "Harbor Freight store locator for coupons, opening hours, and directions.",
+        seoKeywords: ["harbor freight", "store locator", "coupons", "tools"],
+        iframeUrl: "https://www.harborfreight.com/storelocator",
+        bgImg: "",
+        tags: ["harbor-freight", "locator", "tools"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "true-value-locator",
+        nameShort: "true-value",
+        seoTitle: "True Value Hardware Locator",
+        seoDescription:
+          "True Value store locator to find hardware, rental tools, and services nearby.",
+        seoKeywords: ["true value", "store locator", "hardware", "tools"],
+        iframeUrl: "https://www.truevalue.com/store-locator",
+        bgImg: "",
+        tags: ["true-value", "locator", "hardware"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "total-tools-store",
+    nameShort: "total",
+    seoTitle: "Total Tools Official Store Deals And Catalogues",
+    seoDescription:
+      "Total Tools retailer links for power tools, hand tools, clearance, and store catalogue pages.",
+    seoKeywords: ["total tools", "power tools", "hand tools", "catalogue"],
+    children: [
+      {
+        name: "total-tools-home",
+        nameShort: "home",
+        seoTitle: "Total Tools Official Website",
+        seoDescription:
+          "Total Tools homepage with latest promotions, featured tool brands, and account access.",
+        seoKeywords: ["total tools", "retailer", "promotions", "brands"],
+        iframeUrl: "https://www.totaltools.com.au/",
+        bgImg: "",
+        tags: ["total-tools", "retail", "promotions"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "total-tools-power",
+        nameShort: "power",
+        seoTitle: "Total Tools Power Tools Category",
+        seoDescription: "Total Tools power tool range with cordless kits, grinders, and saws.",
+        seoKeywords: ["total tools", "power tools", "cordless", "saws"],
+        iframeUrl: "https://www.totaltools.com.au/power-tools",
+        bgImg: "",
+        tags: ["total-tools", "power-tools", "retail"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "total-tools-hand",
+        nameShort: "hand",
+        seoTitle: "Total Tools Hand Tools Selection",
+        seoDescription: "Total Tools hand tools including sockets, spanners, and measurement gear.",
+        seoKeywords: ["total tools", "hand tools", "sockets", "measurement"],
+        iframeUrl: "https://www.totaltools.com.au/hand-tools",
+        bgImg: "",
+        tags: ["total-tools", "hand-tools", "retail"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "total-tools-clearance",
+        nameShort: "clearance",
+        seoTitle: "Total Tools Clearance Specials",
+        seoDescription:
+          "Clearance and catalogue specials from Total Tools with limited stock discounts.",
+        seoKeywords: ["total tools", "clearance", "deals", "catalogue"],
+        iframeUrl: "https://www.totaltools.com.au/clearance",
+        bgImg: "",
+        tags: ["total-tools", "deals", "clearance"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "total-tools-locator",
+        nameShort: "locator",
+        seoTitle: "Total Tools Store Locator",
+        seoDescription:
+          "Find nearby Total Tools locations, trading hours, and click-and-collect options.",
+        seoKeywords: ["total tools", "store locator", "hours", "locations"],
+        iframeUrl: "https://www.totaltools.com.au/store-locator",
+        bgImg: "",
+        tags: ["total-tools", "locator", "stores"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "milwaukee-tools",
+    nameShort: "milwaukee",
+    seoTitle: "Milwaukee Tools Brand And Retail Pages",
+    seoDescription:
+      "Milwaukee power and hand tool resources including official pages and trusted retailers.",
+    seoKeywords: ["milwaukee tools", "power tools", "hand tools", "retailers"],
+    children: [
+      {
+        name: "milwaukee-official",
+        nameShort: "official",
+        seoTitle: "Milwaukee Tool Official Site",
+        seoDescription:
+          "Milwaukee Tool homepage with latest launches, promotions, and tool registration.",
+        seoKeywords: ["milwaukee", "power tools", "promotions", "warranty"],
+        iframeUrl: "https://www.milwaukeetool.com/",
+        bgImg: "",
+        tags: ["milwaukee", "power-tools", "official"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "milwaukee-power-tools",
+        nameShort: "power",
+        seoTitle: "Milwaukee Power Tools Catalog",
+        seoDescription:
+          "Milwaukee product catalog for drills, impacts, saws, and cordless systems.",
+        seoKeywords: ["milwaukee", "power tools", "cordless", "catalog"],
+        iframeUrl: "https://www.milwaukeetool.com/Products/Power-Tools",
+        bgImg: "",
+        tags: ["milwaukee", "power-tools", "catalog"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "milwaukee-hand-tools",
+        nameShort: "hand",
+        seoTitle: "Milwaukee Hand Tools Range",
+        seoDescription:
+          "Milwaukee hand tools lineup including pliers, wrenches, and measurement tools.",
+        seoKeywords: ["milwaukee", "hand tools", "pliers", "wrenches"],
+        iframeUrl: "https://www.milwaukeetool.com/Products/Hand-Tools",
+        bgImg: "",
+        tags: ["milwaukee", "hand-tools", "catalog"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "milwaukee-home-depot",
+        nameShort: "home-depot",
+        seoTitle: "Milwaukee Tools At Home Depot",
+        seoDescription: "Home Depot brand page for Milwaukee tools, combo kits, and accessories.",
+        seoKeywords: ["milwaukee", "home depot", "power tools", "kits"],
+        iframeUrl: "https://www.homedepot.com/b/Brand/Milwaukee/N-5yc1vZ25ecod",
+        bgImg: "",
+        tags: ["milwaukee", "retail", "home-depot"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "milwaukee-acme-tools",
+        nameShort: "acme",
+        seoTitle: "Milwaukee Tools On Acme Tools",
+        seoDescription:
+          "Acme Tools landing featuring Milwaukee cordless tools, storage, and accessories.",
+        seoKeywords: ["milwaukee", "acme tools", "cordless", "accessories"],
+        iframeUrl: "https://www.acmetools.com/brands/milwaukee",
+        bgImg: "",
+        tags: ["milwaukee", "retail", "acme-tools"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "dewalt-tools-brand",
+    nameShort: "dewalt",
+    seoTitle: "DeWalt Power And Hand Tools Resources",
+    seoDescription: "DeWalt brand links for power tools, hand tools, and retailer listings.",
+    seoKeywords: ["dewalt tools", "power tools", "hand tools", "retailers"],
+    children: [
+      {
+        name: "dewalt-official-uk",
+        nameShort: "official",
+        seoTitle: "DeWalt UK Official Site",
+        seoDescription:
+          "DeWalt UK homepage featuring promotions, tool platforms, and service info.",
+        seoKeywords: ["dewalt", "official", "uk", "tools"],
+        iframeUrl: "https://www.dewalt.co.uk/",
+        bgImg: "",
+        tags: ["dewalt", "official", "uk"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "dewalt-power-tools",
+        nameShort: "power",
+        seoTitle: "DeWalt Power Tools Catalog",
+        seoDescription:
+          "DeWalt catalog for drills, drivers, grinders, and cordless tool platforms.",
+        seoKeywords: ["dewalt", "power tools", "cordless", "catalog"],
+        iframeUrl: "https://www.dewalt.co.uk/products/power-tools",
+        bgImg: "",
+        tags: ["dewalt", "power-tools", "catalog"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "dewalt-hand-tools",
+        nameShort: "hand",
+        seoTitle: "DeWalt Hand Tools Range",
+        seoDescription:
+          "DeWalt hand tools lineup including tapes, wrenches, and jobsite accessories.",
+        seoKeywords: ["dewalt", "hand tools", "jobsite", "accessories"],
+        iframeUrl: "https://www.dewalt.co.uk/products/hand-tools",
+        bgImg: "",
+        tags: ["dewalt", "hand-tools", "catalog"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "dewalt-home-depot",
+        nameShort: "home-depot",
+        seoTitle: "DeWalt Tools At Home Depot",
+        seoDescription:
+          "Home Depot brand page for DeWalt tools, battery platforms, and promotions.",
+        seoKeywords: ["dewalt", "home depot", "power tools", "batteries"],
+        iframeUrl: "https://www.homedepot.com/b/Brand/DEWALT/N-5yc1vZ4f7",
+        bgImg: "",
+        tags: ["dewalt", "retail", "home-depot"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "dewalt-acme-tools",
+        nameShort: "acme",
+        seoTitle: "DeWalt Listings On Acme Tools",
+        seoDescription:
+          "Acme Tools selection of DeWalt cordless kits, hand tools, and accessories.",
+        seoKeywords: ["dewalt", "acme tools", "cordless", "kits"],
+        iframeUrl: "https://www.acmetools.com/brands/dewalt",
+        bgImg: "",
+        tags: ["dewalt", "retail", "acme-tools"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "hand-tools-gear",
+    nameShort: "hand-tools",
+    seoTitle: "Hand Tools Brands And Catalogs",
+    seoDescription:
+      "Hand tool collections from leading brands plus specialty grip solutions like Grip Edge.",
+    seoKeywords: ["hand tools", "pliers", "wrenches", "grip edge", "catalog"],
+    children: [
+      {
+        name: "stanley-hand-tools",
+        nameShort: "stanley",
+        seoTitle: "Stanley Hand Tools Catalog",
+        seoDescription: "Stanley hand tools lineup with tapes, hammers, screwdrivers, and storage.",
+        seoKeywords: ["stanley", "hand tools", "tape", "hammer"],
+        iframeUrl: "https://www.stanleytools.com/products/hand-tools",
+        bgImg: "",
+        tags: ["stanley", "hand-tools", "catalog"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "wiha-hand-tools",
+        nameShort: "wiha",
+        seoTitle: "Wiha Precision Hand Tools",
+        seoDescription:
+          "Wiha hand tools catalog covering insulated drivers, cutters, and precision kits.",
+        seoKeywords: ["wiha", "hand tools", "insulated", "precision"],
+        iframeUrl: "https://www.wihatools.com/hand-tools",
+        bgImg: "",
+        tags: ["wiha", "hand-tools", "precision"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "crescent-hand-tools",
+        nameShort: "crescent",
+        seoTitle: "Crescent Hand Tools Range",
+        seoDescription:
+          "Crescent lineup for wrenches, pliers, socket sets, and mechanics tool kits.",
+        seoKeywords: ["crescent", "hand tools", "wrenches", "sockets"],
+        iframeUrl: "https://www.crescenttool.com/products/hand-tools",
+        bgImg: "",
+        tags: ["crescent", "hand-tools", "wrenches"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "gedore-hand-tools",
+        nameShort: "gedore",
+        seoTitle: "Gedore Professional Hand Tools",
+        seoDescription:
+          "Gedore professional hand tools including torque wrenches, pliers, and tool sets.",
+        seoKeywords: ["gedore", "hand tools", "torque", "pliers"],
+        iframeUrl: "https://www.gedore.com/en/hand-tools",
+        bgImg: "",
+        tags: ["gedore", "hand-tools", "professional"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "grip-edge-tools",
+        nameShort: "grip-edge",
+        seoTitle: "Grip Edge Bolt Removal Tools",
+        seoDescription:
+          "Grip Edge Tools official site showcasing extraction sockets and bolt removal tech.",
+        seoKeywords: ["grip edge", "hand tools", "sockets", "extraction"],
+        iframeUrl: "https://www.gripedgetools.com/",
+        bgImg: "",
+        tags: ["grip-edge", "hand-tools", "sockets"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "sydney-tools-retailer",
+    nameShort: "sydney",
+    seoTitle: "Sydney Tools Retailer Promotions And Stores",
+    seoDescription:
+      "Sydney Tools official shop links for power tool deals, clearance, and store locations.",
+    seoKeywords: ["sydney tools", "power tools", "retailer", "clearance"],
+    children: [
+      {
+        name: "sydney-tools-home",
+        nameShort: "home",
+        seoTitle: "Sydney Tools Official Website",
+        seoDescription:
+          "Sydney Tools homepage with featured brands, promotions, and online ordering.",
+        seoKeywords: ["sydney tools", "retail", "promotions", "brands"],
+        iframeUrl: "https://www.sydneytools.com.au/",
+        bgImg: "",
+        tags: ["sydney-tools", "retail", "promotions"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "sydney-tools-power",
+        nameShort: "power",
+        seoTitle: "Sydney Tools Power Tools Deals",
+        seoDescription:
+          "Sydney Tools power tools selection with combo kits, cordless platforms, and specials.",
+        seoKeywords: ["sydney tools", "power tools", "deals", "cordless"],
+        iframeUrl: "https://www.sydneytools.com.au/power-tools",
+        bgImg: "",
+        tags: ["sydney-tools", "power-tools", "deals"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "sydney-tools-clearance",
+        nameShort: "clearance",
+        seoTitle: "Sydney Tools Clearance Section",
+        seoDescription:
+          "Sydney Tools clearance and outlet bargains across power tools and accessories.",
+        seoKeywords: ["sydney tools", "clearance", "outlet", "bargains"],
+        iframeUrl: "https://www.sydneytools.com.au/clearance",
+        bgImg: "",
+        tags: ["sydney-tools", "clearance", "deals"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "sydney-tools-reviews",
+        nameShort: "reviews",
+        seoTitle: "Sydney Tools Customer Reviews",
+        seoDescription:
+          "ProductReview community page with feedback and ratings for Sydney Tools stores.",
+        seoKeywords: ["sydney tools", "reviews", "ratings", "customers"],
+        iframeUrl: "https://www.productreview.com.au/listings/sydney-tools",
+        bgImg: "",
+        tags: ["sydney-tools", "reviews", "ratings"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "sydney-tools-store-locator",
+        nameShort: "locator",
+        seoTitle: "Sydney Tools Store Locator",
+        seoDescription:
+          "Store locator for Sydney Tools branches with addresses, hours, and directions.",
+        seoKeywords: ["sydney tools", "store locator", "hours", "directions"],
+        iframeUrl: "https://www.sydneytools.com.au/store-locator",
+        bgImg: "",
+        tags: ["sydney-tools", "locator", "stores"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "klein-tools-brand",
+    nameShort: "klein",
+    seoTitle: "Klein Tools Electrical Hand Tools",
+    seoDescription:
+      "Klein Tools resources for electrical hand tools, pro reviews, and distributor pages.",
+    seoKeywords: ["klein tools", "electrical", "hand tools", "distributor"],
+    children: [
+      {
+        name: "klein-tools-official",
+        nameShort: "official",
+        seoTitle: "Klein Tools Official Site",
+        seoDescription:
+          "Klein Tools homepage with product families, innovations, and service info.",
+        seoKeywords: ["klein tools", "official", "electrical", "products"],
+        iframeUrl: "https://www.kleintools.com/",
+        bgImg: "",
+        tags: ["klein-tools", "official", "electrical"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "klein-hand-tools",
+        nameShort: "hand",
+        seoTitle: "Klein Tools Catalog For Hand Tools",
+        seoDescription:
+          "Klein Tools catalog for pliers, screwdrivers, testers, and utility knives.",
+        seoKeywords: ["klein tools", "hand tools", "pliers", "screwdrivers"],
+        iframeUrl: "https://www.kleintools.com/catalog/hand-tools",
+        bgImg: "",
+        tags: ["klein-tools", "hand-tools", "catalog"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "klein-home-depot",
+        nameShort: "home-depot",
+        seoTitle: "Klein Tools At Home Depot",
+        seoDescription: "Home Depot brand page listing Klein Tools electrical gear and hand tools.",
+        seoKeywords: ["klein tools", "home depot", "electrical", "hand tools"],
+        iframeUrl: "https://www.homedepot.com/b/Brand/Klein-Tools/N-5yc1vZ3y9",
+        bgImg: "",
+        tags: ["klein-tools", "retail", "home-depot"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "klein-grainger",
+        nameShort: "grainger",
+        seoTitle: "Klein Tools Distributor Page On Grainger",
+        seoDescription:
+          "Grainger supplier page for Klein Tools electrical hand tools and accessories.",
+        seoKeywords: ["klein tools", "grainger", "electrical", "hand tools"],
+        iframeUrl: "https://www.grainger.com/category/brands/klein-tools",
+        bgImg: "",
+        tags: ["klein-tools", "grainger", "distributor"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "klein-pro-reviews",
+        nameShort: "reviews",
+        seoTitle: "Klein Tools Professional Reviews",
+        seoDescription:
+          "Pro Tool Reviews coverage of Klein Tools launches, testing, and buying advice.",
+        seoKeywords: ["klein tools", "reviews", "testing", "buying guide"],
+        iframeUrl: "https://protoolreviews.com/brand/klein-tools/",
+        bgImg: "",
+        tags: ["klein-tools", "reviews", "testing"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "mac-tools-brand",
+    nameShort: "mac-tools",
+    seoTitle: "Mac Tools Automotive Hand Tools",
+    seoDescription:
+      "Mac Tools official pages for tool trucks, products, franchising, and trusted retailers.",
+    seoKeywords: ["mac tools", "automotive", "hand tools", "franchise"],
+    children: [
+      {
+        name: "mac-tools-official",
+        nameShort: "official",
+        seoTitle: "Mac Tools Official Site",
+        seoDescription:
+          "Mac Tools homepage with latest automotive tool catalogs, promotions, and services.",
+        seoKeywords: ["mac tools", "official", "automotive", "catalog"],
+        iframeUrl: "https://www.mactools.com/",
+        bgImg: "",
+        tags: ["mac-tools", "official", "automotive"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "mac-tools-products",
+        nameShort: "products",
+        seoTitle: "Mac Tools Product Catalog",
+        seoDescription:
+          "Mac Tools product catalog highlighting hand tools, power tools, and storage.",
+        seoKeywords: ["mac tools", "catalog", "hand tools", "storage"],
+        iframeUrl: "https://www.mactools.com/products",
+        bgImg: "",
+        tags: ["mac-tools", "catalog", "products"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "mac-tools-franchise",
+        nameShort: "franchise",
+        seoTitle: "Mac Tools Franchise Information",
+        seoDescription:
+          "Mac Tools franchising details for starting a tool truck route and support resources.",
+        seoKeywords: ["mac tools", "franchise", "tool truck", "business"],
+        iframeUrl: "https://www.mactools.com/franchise",
+        bgImg: "",
+        tags: ["mac-tools", "franchise", "business"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "mac-tools-tool-truck",
+        nameShort: "tool-truck",
+        seoTitle: "Mac Tools Tool Truck Details",
+        seoDescription: "Tool truck overview for Mac Tools mobile stores, inventory, and routes.",
+        seoKeywords: ["mac tools", "tool truck", "mobile store", "inventory"],
+        iframeUrl: "https://www.mactools.com/tool-truck",
+        bgImg: "",
+        tags: ["mac-tools", "tool-truck", "mobile"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "mac-tools-trustpilot",
+        nameShort: "trustpilot",
+        seoTitle: "Mac Tools Customer Ratings",
+        seoDescription: "Trustpilot review page for Mac Tools with customer ratings and feedback.",
+        seoKeywords: ["mac tools", "reviews", "trustpilot", "ratings"],
+        iframeUrl: "https://www.trustpilot.com/review/mactools.com",
+        bgImg: "",
+        tags: ["mac-tools", "reviews", "ratings"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "hair-tools-and-styling",
+    nameShort: "hair-tools",
+    seoTitle: "Hair Tools And Styling Brand Pages",
+    seoDescription:
+      "Hair tool brands including Hot Tools, Dyson, ghd, T3, and Conair for fast-loading product hubs.",
+    seoKeywords: ["hair tools", "hot tools", "styling", "dryer", "curler"],
+    children: [
+      {
+        name: "hot-tools-official",
+        nameShort: "hot-tools",
+        seoTitle: "Hot Tools Professional Styling Tools",
+        seoDescription:
+          "Hot Tools official site showcasing curling irons, dryers, and salon styling gear.",
+        seoKeywords: ["hot tools", "styling", "curling iron", "dryer"],
+        iframeUrl: "https://www.hottools.com/",
+        bgImg: "",
+        tags: ["hot-tools", "styling", "hair"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "ghd-hair-tools",
+        nameShort: "ghd",
+        seoTitle: "ghd Hair Tools Product Hub",
+        seoDescription: "ghd official site with straighteners, hair dryers, and styling guides.",
+        seoKeywords: ["ghd", "hair tools", "straightener", "dryer"],
+        iframeUrl: "https://www.ghdhair.com/",
+        bgImg: "",
+        tags: ["ghd", "hair-tools", "styling"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "t3micro-hair-tools",
+        nameShort: "t3",
+        seoTitle: "T3 Micro Hair Styling Tools",
+        seoDescription: "T3 Micro catalog covering styling irons, dryers, and hot rollers.",
+        seoKeywords: ["t3 micro", "hair tools", "styling", "dryer"],
+        iframeUrl: "https://www.t3micro.com/",
+        bgImg: "",
+        tags: ["t3", "hair-tools", "styling"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "dyson-hair-care",
+        nameShort: "dyson",
+        seoTitle: "Dyson Hair Care Technology",
+        seoDescription:
+          "Dyson hair care page featuring Supersonic dryers, Airwrap stylers, and Corrale straighteners.",
+        seoKeywords: ["dyson", "hair care", "airwrap", "supersonic"],
+        iframeUrl: "https://www.dyson.com/hair-care",
+        bgImg: "",
+        tags: ["dyson", "hair-tools", "styling"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "conair-hair-tools",
+        nameShort: "conair",
+        seoTitle: "Conair Hair Styling Tools",
+        seoDescription: "Conair styling tool lineup with dryers, curling wands, and straighteners.",
+        seoKeywords: ["conair", "hair tools", "styling", "dryer"],
+        iframeUrl: "https://www.conair.com/en/hair/hair-styling-tools/",
+        bgImg: "",
+        tags: ["conair", "hair-tools", "styling"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "garland-tools-database",
+    nameShort: "garland",
+    seoTitle: "Garland Tools And FFXIV Helper Sites",
+    seoDescription:
+      "Garland Tools database links plus related FFXIV helpers and community resources.",
+    seoKeywords: ["garland tools", "ffxiv", "database", "bell", "teamcraft"],
+    children: [
+      {
+        name: "garland-tools-db",
+        nameShort: "db",
+        seoTitle: "Garland Tools Database",
+        seoDescription:
+          "Garland Tools database for FFXIV items, recipes, gathering nodes, and crafting info.",
+        seoKeywords: ["garland tools", "database", "ffxiv", "crafting"],
+        iframeUrl: "https://www.garlandtools.org/db/",
+        bgImg: "",
+        tags: ["garland-tools", "database", "ffxiv"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "garland-bell-timers",
+        nameShort: "bell",
+        seoTitle: "Garland Bell Timers For FFXIV",
+        seoDescription:
+          "Garland Bell timer tool showing ephemeral nodes, hunt marks, and time windows.",
+        seoKeywords: ["garland tools", "bell", "ffxiv", "timers"],
+        iframeUrl: "https://www.garlandtools.org/bell/",
+        bgImg: "",
+        tags: ["garland-tools", "bell", "ffxiv"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "garland-tools-github",
+        nameShort: "github",
+        seoTitle: "Garland Tools GitHub Repository",
+        seoDescription:
+          "Garland Tools open-source repository with data, site code, and change history.",
+        seoKeywords: ["garland tools", "github", "open source", "ffxiv"],
+        iframeUrl: "https://github.com/ufx/GarlandTools",
+        bgImg: "",
+        tags: ["garland-tools", "github", "open-source"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "ffxiv-teamcraft",
+        nameShort: "teamcraft",
+        seoTitle: "FFXIV Teamcraft Crafting Toolkit",
+        seoDescription:
+          "FFXIV Teamcraft for crafting lists, simulators, and market board planning.",
+        seoKeywords: ["teamcraft", "ffxiv", "crafting", "toolkit"],
+        iframeUrl: "https://ffxivteamcraft.com/",
+        bgImg: "",
+        tags: ["ffxiv", "teamcraft", "crafting"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "universalis-market",
+        nameShort: "universalis",
+        seoTitle: "Universalis FFXIV Market Board Tracker",
+        seoDescription: "Universalis real-time market board tracker for FFXIV prices and history.",
+        seoKeywords: ["universalis", "ffxiv", "market board", "prices"],
+        iframeUrl: "https://universalis.app/",
+        bgImg: "",
+        tags: ["ffxiv", "market", "universalis"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "uvic-online-tools",
+    nameShort: "uvic",
+    seoTitle: "UVic Online Tools And Student Services",
+    seoDescription:
+      "University of Victoria online tools hub covering systems status, library access, and registrar resources.",
+    seoKeywords: ["uvic online tools", "university", "library", "systems"],
+    children: [
+      {
+        name: "uvic-tools-index",
+        nameShort: "tools",
+        seoTitle: "UVic Tools Index Page",
+        seoDescription:
+          "UVic tools index linking to course sites, email, registration, and campus services.",
+        seoKeywords: ["uvic", "online tools", "index", "services"],
+        iframeUrl: "https://www.uvic.ca/tools/index.php",
+        bgImg: "",
+        tags: ["uvic", "tools", "services"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "uvic-systems",
+        nameShort: "systems",
+        seoTitle: "UVic Systems And IT Services",
+        seoDescription:
+          "UVic Systems site with IT service catalog, account help, and system notices.",
+        seoKeywords: ["uvic", "systems", "it services", "support"],
+        iframeUrl: "https://www.uvic.ca/systems/",
+        bgImg: "",
+        tags: ["uvic", "systems", "it"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "uvic-library",
+        nameShort: "library",
+        seoTitle: "UVic Library Online Resources",
+        seoDescription:
+          "UVic Library portal for databases, research help, and digital collections.",
+        seoKeywords: ["uvic", "library", "databases", "research"],
+        iframeUrl: "https://www.uvic.ca/library/",
+        bgImg: "",
+        tags: ["uvic", "library", "research"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "uvic-search",
+        nameShort: "search",
+        seoTitle: "UVic Site Search",
+        seoDescription:
+          "UVic search page for quickly finding tools, services, and academic resources.",
+        seoKeywords: ["uvic", "search", "services", "tools"],
+        iframeUrl: "https://www.uvic.ca/search/",
+        bgImg: "",
+        tags: ["uvic", "search", "resources"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "uvic-registrar",
+        nameShort: "registrar",
+        seoTitle: "UVic Registrar And Student Support",
+        seoDescription:
+          "UVic Registrar site for admissions, records, tuition, and academic calendars.",
+        seoKeywords: ["uvic", "registrar", "admissions", "records"],
+        iframeUrl: "https://www.uvic.ca/registrar/",
+        bgImg: "",
+        tags: ["uvic", "registrar", "students"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "jc-tools-concurrency",
+    nameShort: "jc-tools",
+    seoTitle: "JCTools Concurrency Libraries For Java",
+    seoDescription:
+      "JCTools resources with docs, GitHub source, wiki notes, and API references for Java concurrency utilities.",
+    seoKeywords: ["jc tools", "jctools", "java", "concurrency", "library"],
+    children: [
+      {
+        name: "jctools-docs",
+        nameShort: "docs",
+        seoTitle: "JCTools Official Documentation",
+        seoDescription: "JCTools GitHub Pages site with guides, benchmarks, and usage examples.",
+        seoKeywords: ["jctools", "documentation", "java", "concurrency"],
+        iframeUrl: "https://jctools.github.io/JCTools/",
+        bgImg: "",
+        tags: ["jctools", "docs", "java"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "jctools-github",
+        nameShort: "github",
+        seoTitle: "JCTools GitHub Repository",
+        seoDescription: "JCTools GitHub source code with issue tracker, releases, and examples.",
+        seoKeywords: ["jctools", "github", "source code", "java"],
+        iframeUrl: "https://github.com/JCTools/JCTools",
+        bgImg: "",
+        tags: ["jctools", "github", "source"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "jctools-wiki",
+        nameShort: "wiki",
+        seoTitle: "JCTools Project Wiki",
+        seoDescription:
+          "JCTools wiki with design notes, FAQ, and tips for choosing the right queue.",
+        seoKeywords: ["jctools", "wiki", "concurrency", "queues"],
+        iframeUrl: "https://github.com/JCTools/JCTools/wiki",
+        bgImg: "",
+        tags: ["jctools", "wiki", "concurrency"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "jctools-api",
+        nameShort: "api",
+        seoTitle: "JCTools API Reference",
+        seoDescription: "Javadoc site for JCTools core library classes and interfaces.",
+        seoKeywords: ["jctools", "javadoc", "api", "java"],
+        iframeUrl: "https://www.javadoc.io/doc/org.jctools/jctools-core/latest/index.html",
+        bgImg: "",
+        tags: ["jctools", "api", "javadoc"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "jctools-central",
+        nameShort: "central",
+        seoTitle: "JCTools Artifact On Maven Central",
+        seoDescription:
+          "Maven Central page for the jctools-core artifact with versions and coordinates.",
+        seoKeywords: ["jctools", "maven", "artifact", "java"],
+        iframeUrl: "https://central.sonatype.com/artifact/org.jctools/jctools-core",
+        bgImg: "",
+        tags: ["jctools", "maven", "artifact"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "new-music-releases-2025",
+    nameShort: "music-2025",
+    seoTitle: "New Music Releases 2025 Trackers",
+    seoDescription:
+      "Upcoming 2025 album and single release trackers from trusted music news outlets.",
+    seoKeywords: ["new music releases 2025", "albums", "singles", "news"],
+    children: [
+      {
+        name: "albumoftheyear-2025",
+        nameShort: "aoty",
+        seoTitle: "Album Of The Year 2025 Releases",
+        seoDescription:
+          "Album Of The Year calendar listing 2025 album releases with ratings and reviews.",
+        seoKeywords: ["album of the year", "2025 releases", "albums", "ratings"],
+        iframeUrl: "https://www.albumoftheyear.org/2025/releases/",
+        bgImg: "",
+        tags: ["music", "releases", "2025"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "metacritic-2025-music",
+        nameShort: "metacritic",
+        seoTitle: "Metacritic 2025 Music Releases",
+        seoDescription:
+          "Metacritic upcoming 2025 music releases with critic highlights and scores.",
+        seoKeywords: ["metacritic", "2025 music", "albums", "scores"],
+        iframeUrl: "https://www.metacritic.com/music/2025",
+        bgImg: "",
+        tags: ["metacritic", "music", "2025"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "billboard-new-releases",
+        nameShort: "billboard",
+        seoTitle: "Billboard New Music Releases Feed",
+        seoDescription:
+          "Billboard's new music releases feed with weekly single and album highlights.",
+        seoKeywords: ["billboard", "new music", "releases", "singles"],
+        iframeUrl: "https://www.billboard.com/new-releases/",
+        bgImg: "",
+        tags: ["billboard", "music", "releases"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "rolling-stone-music-news",
+        nameShort: "rolling-stone",
+        seoTitle: "Rolling Stone Music News For 2025",
+        seoDescription:
+          "Rolling Stone music news section covering album announcements and release dates.",
+        seoKeywords: ["rolling stone", "music news", "albums", "2025"],
+        iframeUrl: "https://www.rollingstone.com/music/music-news/",
+        bgImg: "",
+        tags: ["rolling-stone", "music", "news"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "pitchfork-new-music",
+        nameShort: "pitchfork",
+        seoTitle: "Pitchfork New Music And Announcements",
+        seoDescription:
+          "Pitchfork news stream with album announcements, singles, and festival updates for 2025.",
+        seoKeywords: ["pitchfork", "new music", "albums", "2025"],
+        iframeUrl: "https://pitchfork.com/news/",
+        bgImg: "",
+        tags: ["pitchfork", "music", "news"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "greg-biffle-nascar",
+    nameShort: "biffle",
+    seoTitle: "Greg Biffle NASCAR Stats And Career Profiles",
+    seoDescription:
+      "NASCAR driver Greg Biffle profiles, stats, race history, and news across official and stats-focused racing sites.",
+    seoKeywords: ["greg biffle", "nascar", "stats", "racing"],
+    children: [
+      {
+        name: "nascar-greg-biffle",
+        nameShort: "nascar",
+        seoTitle: "Greg Biffle Driver Page On NASCAR",
+        seoDescription:
+          "NASCAR Official Profile For Greg Biffle With Career Highlights, News, And Results.",
+        seoKeywords: ["greg biffle", "nascar", "driver profile", "results"],
+        iframeUrl: "https://www.nascar.com/drivers/greg-biffle/",
+        bgImg: "",
+        tags: ["greg-biffle", "nascar", "driver"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "wikipedia-greg-biffle",
+        nameShort: "wikipedia",
+        seoTitle: "Greg Biffle Wikipedia Career Overview",
+        seoDescription:
+          "Wikipedia Entry Detailing Greg Biffle's Racing Career, Teams, Wins, And Championships.",
+        seoKeywords: ["greg biffle", "wikipedia", "career", "wins"],
+        iframeUrl: "https://en.wikipedia.org/wiki/Greg_Biffle",
+        bgImg: "",
+        tags: ["greg-biffle", "wikipedia", "career"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "racing-reference-biffle",
+        nameShort: "racing-ref",
+        seoTitle: "Greg Biffle Racing-Reference Stats",
+        seoDescription:
+          "Racing-Reference Driver Page For Greg Biffle With Race Results, Standings, And Splits.",
+        seoKeywords: ["greg biffle", "racing-reference", "stats", "results"],
+        iframeUrl: "https://www.racing-reference.info/driver/Greg_Biffle/",
+        bgImg: "",
+        tags: ["greg-biffle", "stats", "racing-reference"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "motorsportstats-greg-biffle",
+        nameShort: "motorsportstats",
+        seoTitle: "Greg Biffle Motorsport Stats Profile",
+        seoDescription:
+          "Motorsport Stats Profile For Greg Biffle Covering Series Results, Career Graphs, And Rankings.",
+        seoKeywords: ["greg biffle", "motorsport stats", "profile", "rankings"],
+        iframeUrl: "https://www.motorsportstats.com/driver/greg-biffle",
+        bgImg: "",
+        tags: ["greg-biffle", "motorsport-stats", "profile"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "driver-averages-biffle",
+        nameShort: "averages",
+        seoTitle: "Driver Averages Page For Greg Biffle",
+        seoDescription:
+          "Driver Averages Provides Greg Biffle Race Averages, Track Splits, And Historical Finishes.",
+        seoKeywords: ["greg biffle", "driver averages", "nascar", "stats"],
+        iframeUrl: "https://www.driveraverages.com/nascar/driver.php?drv_id=6",
+        bgImg: "",
+        tags: ["greg-biffle", "averages", "nascar"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "john-cena-showcase",
+    nameShort: "john-cena",
+    seoTitle: "John Cena Profiles, Matches, And Filmography",
+    seoDescription:
+      "Official and fan-favorite resources for John Cena including WWE profile, film credits, and social updates.",
+    seoKeywords: ["john cena", "wwe", "filmography", "profile"],
+    children: [
+      {
+        name: "wwe-john-cena",
+        nameShort: "wwe",
+        seoTitle: "John Cena Official WWE Superstar Page",
+        seoDescription:
+          "WWE Profile For John Cena With Match History, Videos, And Latest WWE Appearances.",
+        seoKeywords: ["john cena", "wwe", "matches", "videos"],
+        iframeUrl: "https://www.wwe.com/superstars/john-cena",
+        bgImg: "",
+        tags: ["john-cena", "wwe", "profile"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "imdb-john-cena",
+        nameShort: "imdb",
+        seoTitle: "John Cena Filmography On IMDb",
+        seoDescription:
+          "IMDb Page Listing John Cena's Films, TV Credits, Trailers, And Upcoming Projects.",
+        seoKeywords: ["john cena", "imdb", "filmography", "movies"],
+        iframeUrl: "https://www.imdb.com/name/nm1078479/",
+        bgImg: "",
+        tags: ["john-cena", "imdb", "movies"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "instagram-john-cena",
+        nameShort: "instagram",
+        seoTitle: "John Cena Instagram Updates",
+        seoDescription:
+          "John Cena's Instagram Feed Featuring Photos, Motivational Posts, And WWE Highlights.",
+        seoKeywords: ["john cena", "instagram", "social", "updates"],
+        iframeUrl: "https://www.instagram.com/johncena/",
+        bgImg: "",
+        tags: ["john-cena", "instagram", "social"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "twitter-john-cena",
+        nameShort: "twitter",
+        seoTitle: "John Cena Official X (Twitter) Feed",
+        seoDescription:
+          "John Cena's Official X (Twitter) Feed With Announcements, Charity Work, And WWE Notes.",
+        seoKeywords: ["john cena", "twitter", "social", "updates"],
+        iframeUrl: "https://twitter.com/JohnCena",
+        bgImg: "",
+        tags: ["john-cena", "twitter", "social"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "biography-john-cena",
+        nameShort: "biography",
+        seoTitle: "John Cena Biography And Career Highlights",
+        seoDescription:
+          "Biography.com Profile Covering John Cena's Early Life, Wrestling Success, And Acting Career.",
+        seoKeywords: ["john cena", "biography", "career", "highlights"],
+        iframeUrl: "https://www.biography.com/athletes/john-cena",
+        bgImg: "",
+        tags: ["john-cena", "biography", "career"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "payal-gaming-trending",
+    nameShort: "payal",
+    seoTitle: "Payal Gaming Viral Video And Creator Channels",
+    seoDescription:
+      "Follow Payal Gaming across YouTube, Instagram, and esports coverage for viral videos and livestream highlights.",
+    seoKeywords: ["payal gaming viral video", "streamer", "youtube", "esports"],
+    children: [
+      {
+        name: "payal-gaming-youtube",
+        nameShort: "youtube",
+        seoTitle: "Payal Gaming Official YouTube Channel",
+        seoDescription:
+          "Payal Gaming YouTube Channel Featuring Livestreams, Shorts, And Viral Gameplay Videos.",
+        seoKeywords: ["payal gaming", "youtube", "viral video", "livestream"],
+        iframeUrl: "https://www.youtube.com/@PayalGamingOfficial",
+        bgImg: "",
+        tags: ["payal-gaming", "youtube", "streamer"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "payal-gaming-instagram",
+        nameShort: "instagram",
+        seoTitle: "Payal Gaming Instagram Reels And Updates",
+        seoDescription:
+          "Payal Gaming Instagram Feed With Reels, Behind-the-scenes Clips, And Creator Updates.",
+        seoKeywords: ["payal gaming", "instagram", "reels", "updates"],
+        iframeUrl: "https://www.instagram.com/payalgaming/",
+        bgImg: "",
+        tags: ["payal-gaming", "instagram", "reels"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "payal-gaming-twitter",
+        nameShort: "twitter",
+        seoTitle: "Payal Gaming Official X (Twitter)",
+        seoDescription:
+          "Payal Gaming's Official X (Twitter) Account Sharing Stream Schedules, Clips, And Community News.",
+        seoKeywords: ["payal gaming", "twitter", "streams", "updates"],
+        iframeUrl: "https://twitter.com/PayalDhare",
+        bgImg: "",
+        tags: ["payal-gaming", "twitter", "streams"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "payal-gaming-facebook",
+        nameShort: "facebook",
+        seoTitle: "Payal Gaming Facebook Clips",
+        seoDescription:
+          "Payal Gaming Facebook Page Hosting Short Clips, Photos, And Community Posts.",
+        seoKeywords: ["payal gaming", "facebook", "clips", "community"],
+        iframeUrl: "https://www.facebook.com/PayalGaming/",
+        bgImg: "",
+        tags: ["payal-gaming", "facebook", "clips"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "payal-gaming-coverage",
+        nameShort: "coverage",
+        seoTitle: "Payal Gaming Esports Coverage On Sportskeeda",
+        seoDescription:
+          "Sportskeeda Coverage Of Payal Gaming Featuring Interviews, Viral Moments, And Tournament Recaps.",
+        seoKeywords: ["payal gaming", "sportskeeda", "esports", "news"],
+        iframeUrl: "https://www.sportskeeda.com/esports/payal-gaming",
+        bgImg: "",
+        tags: ["payal-gaming", "esports", "news"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "avatar-3-updates",
+    nameShort: "avatar3",
+    seoTitle: "Avatar 3 Release Updates And Trailers",
+    seoDescription:
+      "Official and trusted movie sites tracking Avatar 3 news, cast, trailers, and release schedule.",
+    seoKeywords: ["avatar 3", "james cameron", "movie", "release date"],
+    children: [
+      {
+        name: "avatar-official-film",
+        nameShort: "avatar",
+        seoTitle: "Avatar Official Film Site",
+        seoDescription:
+          "Avatar Official Film Hub With Franchise News, Upcoming Avatar 3 Details, And Media Kits.",
+        seoKeywords: ["avatar", "official", "movie", "news"],
+        iframeUrl: "https://www.avatar.com/films/avatar-3",
+        bgImg: "",
+        tags: ["avatar3", "official", "movie"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "imdb-avatar3",
+        nameShort: "imdb",
+        seoTitle: "Avatar 3 IMDb Page",
+        seoDescription:
+          "Avatar 3 IMDb Listing With Cast, Crew, Release Date, And Production Notes.",
+        seoKeywords: ["avatar 3", "imdb", "cast", "release"],
+        iframeUrl: "https://www.imdb.com/title/tt1757678/",
+        bgImg: "",
+        tags: ["avatar3", "imdb", "cast"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "rottentomatoes-avatar3",
+        nameShort: "rt",
+        seoTitle: "Avatar 3 On Rotten Tomatoes",
+        seoDescription:
+          "Rotten Tomatoes Preview Page For Avatar 3 With Synopsis, Buzz, And Related Coverage.",
+        seoKeywords: ["avatar 3", "rotten tomatoes", "preview", "movie"],
+        iframeUrl: "https://www.rottentomatoes.com/m/avatar_the_seed_bearer",
+        bgImg: "",
+        tags: ["avatar3", "rottentomatoes", "preview"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "disney-d23-avatar3",
+        nameShort: "d23",
+        seoTitle: "Disney D23 Avatar 3 Updates",
+        seoDescription:
+          "Disney D23 Hub Sharing Official Avatar 3 Announcements, Panels, And Production Info.",
+        seoKeywords: ["avatar 3", "disney", "d23", "news"],
+        iframeUrl: "https://d23.com/tag/avatar/",
+        bgImg: "",
+        tags: ["avatar3", "disney", "news"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "collider-avatar3",
+        nameShort: "collider",
+        seoTitle: "Avatar 3 Release Tracker On Collider",
+        seoDescription:
+          "Collider Article Tracking Avatar 3 Release Date, Plot Teases, And Trailer Expectations.",
+        seoKeywords: ["avatar 3", "collider", "release date", "news"],
+        iframeUrl: "https://collider.com/avatar-3-release-date/",
+        bgImg: "",
+        tags: ["avatar3", "collider", "release"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "footwear-and-sneakers",
+    nameShort: "footwear",
+    seoTitle: "Shoes, Nike, Adidas, Jordan And Boots Deals",
+    seoDescription:
+      "Top footwear destinations covering Nike, Adidas, Jordan drops, and durable boots with fast-loading shop pages.",
+    seoKeywords: ["shoes", "nike", "adidas", "boots", "jordan"],
+    children: [
+      {
+        name: "nike-official-store",
+        nameShort: "nike",
+        seoTitle: "Nike Official Store And SNKRS Drops",
+        seoDescription:
+          "Nike Store Featuring Latest Footwear, SNKRS Launch Calendar, And Member Exclusives.",
+        seoKeywords: ["nike", "sneakers", "snkrs", "footwear"],
+        iframeUrl: "https://www.nike.com/",
+        bgImg: "",
+        tags: ["nike", "sneakers", "footwear"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "adidas-official-store",
+        nameShort: "adidas",
+        seoTitle: "Adidas Originals And Performance Footwear",
+        seoDescription:
+          "Adidas Official Store Highlighting Originals, Performance Footwear, And Confirmed Drops.",
+        seoKeywords: ["adidas", "footwear", "confirmed", "sneakers"],
+        iframeUrl: "https://www.adidas.com/",
+        bgImg: "",
+        tags: ["adidas", "sneakers", "footwear"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "jordan-brand-store",
+        nameShort: "jordan",
+        seoTitle: "Jordan Brand Retro And Performance Sneakers",
+        seoDescription:
+          "Nike Jordan Brand Hub For Retro Drops, Performance Basketball Shoes, And Apparel.",
+        seoKeywords: ["jordan", "retro", "sneakers", "nike"],
+        iframeUrl: "https://www.nike.com/jordan",
+        bgImg: "",
+        tags: ["jordan", "sneakers", "retro"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "timberland-boots",
+        nameShort: "timberland",
+        seoTitle: "Timberland Boots And Workwear",
+        seoDescription:
+          "Timberland Official Boots Collection Featuring Waterproof, Work, And Hike-ready Styles.",
+        seoKeywords: ["boots", "timberland", "footwear", "workwear"],
+        iframeUrl: "https://www.timberland.com/shop/mens-boots",
+        bgImg: "",
+        tags: ["boots", "timberland", "footwear"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "stockx-sneakers",
+        nameShort: "stockx",
+        seoTitle: "StockX Sneaker Marketplace For Drops",
+        seoDescription:
+          "StockX Marketplace For Authentic Sneakers, Including Nike, Adidas, And Jordan Releases.",
+        seoKeywords: ["stockx", "sneakers", "nike", "adidas"],
+        iframeUrl: "https://stockx.com/sneakers",
+        bgImg: "",
+        tags: ["sneakers", "stockx", "marketplace"],
+        updateTime: "2025-12-19",
+      },
+    ],
+  },
+  {
+    name: "beauty-perfume-sets",
+    nameShort: "beauty",
+    seoTitle: "Perfume And Sephora Favorites Gift Sets",
+    seoDescription:
+      "Curated perfume shops and Sephora Favorites sets with fast-loading product pages and reviews.",
+    seoKeywords: ["perfume", "sephora favorites set", "fragrance", "gift sets"],
+    children: [
+      {
+        name: "sephora-favorites",
+        nameShort: "sephora",
+        seoTitle: "Sephora Favorites Value Sets",
+        seoDescription:
+          "Sephora Favorites Sets With Mini Fragrances, Makeup Samplers, And Member Deals.",
+        seoKeywords: ["sephora favorites", "gift set", "fragrance", "value set"],
+        iframeUrl: "https://www.sephora.com/brand/sephora-collection/favorites",
+        bgImg: "",
+        tags: ["sephora", "favorites", "gift-sets"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "fragrantica-perfume",
+        nameShort: "fragrantica",
+        seoTitle: "Fragrantica Perfume Encyclopedia",
+        seoDescription:
+          "Fragrantica Community Database For Perfume Notes, Reviews, And Fragrance Families.",
+        seoKeywords: ["fragrantica", "perfume", "reviews", "notes"],
+        iframeUrl: "https://www.fragrantica.com/",
+        bgImg: "",
+        tags: ["fragrantica", "perfume", "reviews"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "basenotes-fragrance",
+        nameShort: "basenotes",
+        seoTitle: "Basenotes Fragrance Reviews And News",
+        seoDescription:
+          "Basenotes Community With Fragrance Reviews, Rankings, And New Perfume Releases.",
+        seoKeywords: ["basenotes", "perfume", "reviews", "community"],
+        iframeUrl: "https://www.basenotes.net/",
+        bgImg: "",
+        tags: ["basenotes", "perfume", "community"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "ulta-fragrance",
+        nameShort: "ulta",
+        seoTitle: "Ulta Beauty Fragrance Shop",
+        seoDescription:
+          "Ulta Beauty Fragrance Category Featuring Perfumes, Gift Sets, And Customer Reviews.",
+        seoKeywords: ["ulta", "fragrance", "perfume", "gift sets"],
+        iframeUrl: "https://www.ulta.com/c/fragrance",
+        bgImg: "",
+        tags: ["ulta", "fragrance", "perfume"],
+        updateTime: "2025-12-19",
+      },
+      {
+        name: "perfume-dot-com",
+        nameShort: "perfume",
+        seoTitle: "Perfume.com Discount Fragrances",
+        seoDescription:
+          "Perfume.com Online Store For Discounted Fragrances, Gift Sets, And Top Sellers.",
+        seoKeywords: ["perfume", "discount", "fragrance", "gift sets"],
+        iframeUrl: "https://www.perfume.com/",
+        bgImg: "",
+        tags: ["perfume", "fragrance", "discount"],
+        updateTime: "2025-12-19",
       },
     ],
   },

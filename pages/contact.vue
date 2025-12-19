@@ -9,7 +9,7 @@
 import { ref } from "vue";
 
 const { siteName, webName } = useRuntimeConfig().public;
-const content = ref<string>(`<h1><strong>Contact Us for tools</strong></h1>
+const content = ref<string>(`<h2><strong>Contact Us for tools</strong></h2>
 
 <p>Last Updated: November 29, 2025</p>
 

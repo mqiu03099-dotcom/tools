@@ -43,7 +43,7 @@
 const { toolId } = useRoute().params as any;
 const {
   iframeUrl,
-  seoTitle,
+  seoTitle = "",
   seoDescription,
   tags = [],
   seoKeywords = [],
@@ -51,7 +51,7 @@ const {
 
 usePageSeo({
   canonicalPath: `/tool/${toolId}/`,
-  title: `${seoTitle} Live Preview On Tools.`,
+  title: seoTitle,
   seoDescription: `Launch Or Embed ${seoDescription} Instantly From Tools. Test Features Before Visiting The Official Site.`,
   keywords: [`${seoTitle}`, `${seoTitle} online`, `${seoTitle} demo`, ...tags, ...seoKeywords],
 });

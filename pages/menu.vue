@@ -7,7 +7,7 @@ const { webName } = useRuntimeConfig().public;
 
 usePageSeo({
   canonicalPath: "/menu/",
-  title: `Tools Category Explorer: Browse 37+ AI, Productivity & Utility Tool Categories`,
+  title: `Tools Category Explorer: 37+ AI, Productivity - Utility Tool Category`,
   seoDescription: `Jump Into 37+ Curated Tool Categories On Our Hub, From AI Productivity Boosters To Niche Utility Tools – Explore Trusted Resources By Category.`,
   keywords: [
     "tool categories",

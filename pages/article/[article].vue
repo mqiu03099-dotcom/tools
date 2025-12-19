@@ -6,16 +6,15 @@
 </template>
 
 <script setup lang="ts">
-const { webName } = useRuntimeConfig().public;
 const { article } = useRoute().params;
 const blogDetail = flattenMenu(articles).find((item) => item.nameShort === article);
 const { seoTitle = "", seoDescription = "", seoKeywords = [], richText = "" } = blogDetail || {};
 
 usePageSeo({
   canonicalPath: `/article/${article}/`,
-  title: `${seoTitle} | ${webName}`,
+  title: seoTitle,
   seoDescription,
-  keywords: [...seoKeywords, webName],
+  keywords: [...seoKeywords, "Tools"],
   type: "article",
 });
 </script>

@@ -16,7 +16,7 @@ const {
 
 usePageSeo({
   canonicalPath: `/category/${category}/`,
-  title: `${seoTitle}: ${children?.length || 0} Vetted & Updated Recommendations`,
+  title: seoTitle,
   seoDescription,
   keywords: [...tags, ...seoKeywords],
 });

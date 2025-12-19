@@ -27,7 +27,7 @@ export const articles: Menu[] = [
           "artificial intelligence resources",
         ],
         richText: `
-<h1>The Evolving Landscape of AI: From Productivity Tools to Programming Revolution</h1>
+<h2>The Evolving Landscape of AI: From Productivity Tools to Programming Revolution</h2>
 
 <div>
   <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e" alt="AI Evolution" style="border-radius: 4px; width:100%" />

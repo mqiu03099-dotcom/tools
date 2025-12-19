@@ -10,7 +10,7 @@ import { ref } from "vue";
 
 const { webName } = useRuntimeConfig().public;
 const content = ref<string>(`
-<h1>About Us: tools</h1>
+<h2>About Us: tools</h2>
 
 <p>tools is a one-stop resource hub dedicated to curating and connecting users with high-quality, practical tools from across the web. Our core mission is to simplify the process of finding reliable tools, making efficiency and productivity accessible to everyone—whether you’re navigating work tasks, academic pursuits, creative projects, or daily life needs.</p>
 

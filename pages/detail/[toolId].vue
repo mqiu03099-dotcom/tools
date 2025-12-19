@@ -45,7 +45,7 @@ const { data: moreTools } = await useFetch<Menu[]>("/api/getRandomTools", {
 
 usePageSeo({
   canonicalPath: `/detail/${toolId}/`,
-  title: `${seoTitle} Overview And Alternatives From Tools`,
+  title: seoTitle,
   seoDescription,
   type: "article",
   publishedTime: new Date(updateTime).toISOString(),
