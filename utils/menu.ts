@@ -60,7 +60,7 @@ import handToolsGear from "../menus/hand-tools-gear.json";
 import sydneyToolsRetailer from "../menus/sydney-tools-retailer.json";
 import kleinToolsBrand from "../menus/klein-tools-brand.json";
 import macToolsBrand from "../menus/mac-tools-brand.json";
-import hairToolsAndStyling from "../menus/hair-tools-and-styling.json";
+import hair from "../menus/hair.json";
 import garlandToolsDatabase from "../menus/garland-tools-database.json";
 import uvicOnlineTools from "../menus/uvic-online-tools.json";
 import jcToolsConcurrency from "../menus/jc-tools-concurrency.json";
@@ -134,7 +134,7 @@ export const menu: Menu[] = [
   sydneyToolsRetailer,
   kleinToolsBrand,
   macToolsBrand,
-  hairToolsAndStyling,
+  hair,
   garlandToolsDatabase,
   uvicOnlineTools,
   jcToolsConcurrency,

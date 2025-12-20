@@ -3,7 +3,7 @@
     <MHeader />
     <main
       class="flex-1 w-full flex flex-col overflow-auto bg-base-200"
-      id="appTop"
+      id="app-top"
     >
       <NuxtPage />
     </main>

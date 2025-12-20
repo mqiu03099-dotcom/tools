@@ -16,11 +16,11 @@ const { pathname } = useRequestURL();
 
 const handleBackTop = () => {
   if (pathname === "/") {
-    const el = document.getElementById("homeTop");
+    const el = document.getElementById("home-top");
     el?.scrollTo({ top: 0, behavior: "smooth" });
     return;
   }
-  const el = document.getElementById("appTop");
+  const el = document.getElementById("app-top");
   el?.scrollTo({ top: 0, behavior: "smooth" });
 };
 </script>
