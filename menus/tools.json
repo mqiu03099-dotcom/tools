@@ -1,0 +1,18 @@
+{
+  "name": "tools",
+  "icon": "icon-zhenjing1",
+  "children": [
+    {
+      "name": "hottools",
+      "nameShort": "hottools",
+      "seoTitle": "Hot Tools Professional Styling Tools",
+      "seoDescription": "Hot Tools official site showcasing curling irons, dryers, and salon styling gear.",
+      "seoKeywords": ["hot tools", "styling", "curling iron", "dryer"],
+      "iframeUrl": "https://www.hottools.com/",
+      "bgImg": "",
+      "tags": ["hot-tools", "styling", "hair"],
+      "updateTime": "2025-12-19"
+    }
+  ]
+}
+

@@ -1,11 +1,16 @@
 <template>
   <div class="flex flex-row w-full h-full">
-    <ul class="menu w-56 flex-nowrap overflow-auto hidden md:block">
+    <ul
+      class="menu w-56 flex-nowrap overflow-auto hidden md:block"
+      title="menu"
+    >
       <li
         v-for="({ name = '', icon }, index) in menu"
         :key="index"
+        :title="name"
       >
         <a
+          :title="name"
           @click="handleActiveMenu(name)"
           :href="`#${name}`"
           :class="[activeMenuName === name ? 'menu-active' : '', name]"
@@ -24,27 +29,42 @@
         v-for="({ name, icon, children = [] }, index) in menu"
         :key="index"
       >
-        <div class="flex items-center justify-between gap-3 w-full">
-          <MA
-            class="scroll-mt-3"
-            :href="`/category/${name}`"
-            :id="name"
-          >
-            <button class="btn btn-primary">
-              <MIcon :icon="icon" />
-              <div class="line-clamp-1 break-all">{{ name }}</div>
-            </button>
-          </MA>
-          <MA
-            :href="`/category/${name}`"
-            class="flex justify-between items-center"
-          >
-            <MFromIcon />
-          </MA>
+        <MTools
+          v-if="name === 'tools'"
+          :id="name"
+          class="scroll-mt-3"
+          :tools="children"
+        />
+        <div
+          v-else
+          class="flex flex-col gap-3"
+        >
+          <div class="flex items-center justify-between gap-3 w-full">
+            <MA
+              class="scroll-mt-3"
+              :href="`/category/${name}`"
+              :id="name"
+              :title="name"
+            >
+              <button
+                class="btn btn-primary"
+                :title="name"
+              >
+                <MIcon :icon="icon" />
+                <div class="line-clamp-1 break-all">{{ name }}</div>
+              </button>
+            </MA>
+            <MA
+              :href="`/category/${name}`"
+              class="flex justify-between items-center"
+            >
+              <MFromIcon />
+            </MA>
+          </div>
+          <MGrid>
+            <MCard :data="children.slice(0, 10)" />
+          </MGrid>
         </div>
-        <MGrid>
-          <MCard :data="children.slice(0, 10)" />
-        </MGrid>
       </div>
     </div>
   </div>

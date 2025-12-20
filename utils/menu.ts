@@ -71,8 +71,10 @@ import payalGamingTrending from "../menus/payal-gaming-trending.json";
 import avatar3Updates from "../menus/avatar-3-updates.json";
 import footwearAndSneakers from "../menus/footwear-and-sneakers.json";
 import beautyPerfumeSets from "../menus/beauty-perfume-sets.json";
+import tools from "../menus/tools.json";
 
 export const menu: Menu[] = [
+  tools,
   topAiProductivityTools,
   promptDec16Trending,
   promptDec17Followup,
