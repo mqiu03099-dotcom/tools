@@ -2,14 +2,14 @@
   <MA
     class="flex-none"
     href="/menu"
-    title="分类导航"
+    title="Browse Categories"
   >
     <button
       class="btn btn-square btn-ghost"
-      title="分类导航"
+      title="Browse Categories"
     >
       <svg
-        title="分类导航"
+        title="Browse Categories"
         t="1764593459585"
         class="icon fill-base-content"
         viewBox="0 0 1028 1024"

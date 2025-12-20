@@ -1,14 +1,14 @@
 <template>
   <MA
     href="/theme"
-    title="主题"
+    title="Theme Switcher"
   >
     <button
       class="btn btn-square btn-ghost"
-      title="主题"
+      title="Theme Switcher"
     >
       <svg
-        title="主题"
+        title="Theme Switcher"
         class="icon fill-base-content"
         t="1764338980097"
         viewBox="0 0 1024 1024"

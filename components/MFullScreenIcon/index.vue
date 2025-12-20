@@ -1,11 +1,11 @@
 <template>
   <button
     class="btn btn-square btn-ghost"
-    title="全屏"
+    title="Toggle Fullscreen"
     @click="handleFullScreen"
   >
     <svg
-      title="全屏"
+      title="Toggle Fullscreen"
       t="1764160568173"
       class="icon fill-base-content"
       viewBox="0 0 1024 1024"

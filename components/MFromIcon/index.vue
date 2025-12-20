@@ -1,10 +1,10 @@
 <template>
   <button
     class="btn btn-square btn-ghost"
-    title="更多"
+    title="More Options"
   >
     <svg
-      title="更多"
+      title="More Options"
       t="1764425113171"
       class="icon fill-base-content"
       viewBox="0 0 1024 1024"

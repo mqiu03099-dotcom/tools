@@ -4,7 +4,7 @@
     <label class="input w-full">
       <svg
         t="1764679848970"
-        title="搜索"
+        title="Search Tools"
         class="icon fill-base-content"
         viewBox="0 0 1024 1024"
         version="1.1"

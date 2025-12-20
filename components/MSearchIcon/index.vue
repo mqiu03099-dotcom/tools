@@ -1,15 +1,15 @@
 <template>
   <MA
     href="/search"
-    title="搜索"
+    title="Search Tools"
   >
     <button
       class="btn btn-square btn-ghost"
-      title="搜索"
+      title="Search Tools"
     >
       <svg
         t="1764679848970"
-        title="搜索"
+        title="Search Tools"
         class="icon fill-base-content"
         viewBox="0 0 1024 1024"
         version="1.1"

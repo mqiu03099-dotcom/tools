@@ -11,7 +11,10 @@
         </a>
       </li>
     </ul>
-    <div class="flex flex-col gap-3 p-3 flex-1 overflow-auto scroll-smooth">
+    <div
+      class="flex flex-col gap-3 p-3 flex-1 overflow-auto scroll-smooth"
+      id="homeTop"
+    >
       <div
         class="flex flex-col gap-3"
         v-for="({ name, icon, children = [] }, index) in menu"
