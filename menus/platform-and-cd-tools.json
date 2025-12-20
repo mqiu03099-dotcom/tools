@@ -1,6 +1,7 @@
 {
   "name": "platform-and-cd-tools",
   "nameShort": "platform",
+  "icon": "icon-kexuejia",
   "seoTitle": "Platform Engineering And Continuous Delivery Tools",
   "seoDescription": "CI/CD platforms and deployment engines like Jenkins, GitLab, CircleCI, Argo CD, and Spinnaker.",
   "seoKeywords": ["platform tools", "continuous delivery", "ci/cd", "devops"],

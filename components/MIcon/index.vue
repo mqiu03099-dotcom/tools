@@ -1,5 +1,7 @@
 <template>
-  <i :class="['iconfont', icon]"></i>
+  <svg class="size-3.5 shrink-0">
+    <use :xlink:href="`#${icon}`"></use>
+  </svg>
 </template>
 
 <script lang="ts" setup>

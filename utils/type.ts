@@ -1,5 +1,6 @@
 ﻿export type Menu = Partial<{
   name: string;
+  icon: string;
   nameShort: string;
   tags: string[];
   path: string;

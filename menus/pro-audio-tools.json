@@ -1,6 +1,7 @@
 {
   "name": "pro-audio-tools",
   "nameShort": "pro-tools",
+  "icon": "icon-haidao",
   "seoTitle": "Pro Tools Audio Workstation And Learning",
   "seoDescription": "Resources for Avid Pro Tools software, tutorials, plugins, and hardware bundles.",
   "seoKeywords": ["pro tools", "audio", "daw", "avid", "plugins"],

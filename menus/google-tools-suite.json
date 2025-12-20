@@ -1,6 +1,7 @@
 {
   "name": "google-tools-suite",
   "nameShort": "google",
+  "icon": "icon-zhaoshou",
   "seoTitle": "Google Tools For Workspace, Docs, Drive, Calendar",
   "seoDescription": "Google productivity tools overview covering Workspace, Docs, Drive, Keep, and Calendar quick links.",
   "seoKeywords": ["google tools", "workspace", "docs", "drive", "calendar"],

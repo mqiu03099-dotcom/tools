@@ -1,18 +1,22 @@
 <template>
   <ul class="menu flex-nowrap! menu-md bg-base-200 rounded-none p-3! capitalize">
     <li
-      v-for="({ name, path }, index) in headerMenu"
+      v-for="({ name, path, icon }, index) in headerMenu"
       :key="index"
     >
       <MA
         :href="getHref({ path, name })"
-        class="font-bold"
+        class="font-bold gap-3"
       >
+        <MIcon :icon="icon" />
         {{ name }}
       </MA>
     </li>
     <li
-      v-for="({ name: name1, path: path1, children: children1 }, index1) in [...articles, ...menu]"
+      v-for="({ icon: icon1, name: name1, path: path1, children: children1 }, index1) in [
+        ...articles,
+        ...menu,
+      ]"
       :key="index1"
     >
       <MA
@@ -27,7 +31,12 @@
       >
         <summary>
           <div class="flex items-center justify-start gap-3">
-            <div class="font-bold">{{ name1 }}</div>
+            <div class="font-bold flex items-center gap-3">
+              <MIcon :icon="icon1" />
+              <div class="line-clamp-1 break-all">
+                {{ name1 }}
+              </div>
+            </div>
             <div class="badge badge-secondary badge-outline">{{ children1.length || 0 }}</div>
           </div>
         </summary>
@@ -37,21 +46,22 @@
             :key="index2"
           >
             <MA :href="getHref({ path: path2, name: name2 })">
-              {{ name2 }}
+              <div class="line-clamp-1 break-all">{{ name2 }}</div>
             </MA>
           </li>
         </ul>
       </details>
     </li>
     <li
-      v-for="({ name, path }, index) in footerMenu"
+      v-for="({ name, path, icon }, index) in footerMenu"
       :key="index"
     >
       <MA
         :href="getHref({ path, name })"
-        class="font-bold"
+        class="font-bold gap-3 flex items-center"
       >
-        {{ name }}
+        <MIcon :icon="icon" />
+        <div class="line-clamp-1 break-all">{{ name }}</div>
       </MA>
     </li>
   </ul>

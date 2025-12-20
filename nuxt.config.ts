@@ -126,6 +126,14 @@ export default defineNuxtConfig({
           tagPriority: "critical", // 最高优先级加载
           tagPosition: "head", // 插入到head标签内
         },
+        {
+          src: "/iconfont/iconfont.js",
+          async: true,
+          crossorigin: "anonymous",
+          tagPriority: "critical",
+          tagPosition: "head",
+          type: "text/javascript",
+        },
         process.env.NODE_ENV === "development"
           ? {}
           : {
@@ -170,6 +178,6 @@ export default defineNuxtConfig({
       },
     },
   },
-  css: ["@/assets/css/daisyui.css", "@/assets/css/index.css"],
+  css: ["@/public/css/daisyui.css", "@/public/css/index.css", "@/public/iconfont/iconfont.css"],
 });
 

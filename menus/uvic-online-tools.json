@@ -1,6 +1,7 @@
 {
   "name": "uvic-online-tools",
   "nameShort": "uvic",
+  "icon": "icon-dujia",
   "seoTitle": "UVic Online Tools And Student Services",
   "seoDescription": "University of Victoria online tools hub covering systems status, library access, and registrar resources.",
   "seoKeywords": ["uvic online tools", "university", "library", "systems"],

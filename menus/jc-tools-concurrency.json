@@ -1,6 +1,7 @@
 {
   "name": "jc-tools-concurrency",
   "nameShort": "jc-tools",
+  "icon": "icon-chaoren1",
   "seoTitle": "JCTools Concurrency Libraries For Java",
   "seoDescription": "JCTools resources with docs, GitHub source, wiki notes, and API references for Java concurrency utilities.",
   "seoKeywords": ["jc tools", "jctools", "java", "concurrency", "library"],

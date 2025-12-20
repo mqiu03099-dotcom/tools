@@ -1,6 +1,7 @@
 {
   "name": "pogoda-forecast",
   "nameShort": "pogoda",
+  "icon": "icon-qishi",
   "seoTitle": "Pogoda Weather Sources For Russian Forecasts",
   "seoDescription": "Russian-friendly weather dashboards with hourly forecasts, radar maps, and air quality updates for cities worldwide.",
   "seoKeywords": ["pogoda", "weather", "forecast", "radar", "russia"],

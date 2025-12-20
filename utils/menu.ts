@@ -151,6 +151,7 @@ export const headerMenu: Menu[] = [
   {
     name: "home-top-tool-directory",
     path: "/",
+    icon: "icon-zhong",
   },
 ];
 
@@ -158,14 +159,17 @@ export const footerMenu: Menu[] = [
   {
     name: "privacy-policy-user-rights",
     path: "/privacy",
+    icon: "icon-lvyou",
   },
   {
     name: "contact-team-support",
     path: "/contact",
+    icon: "icon-xiaofangyuan",
   },
   {
     name: "about-tool-directory",
     path: "/about",
+    icon: "icon-tingge1",
   },
 ];
 
