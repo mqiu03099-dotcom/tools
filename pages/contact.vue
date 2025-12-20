@@ -9,7 +9,7 @@
 import { ref } from "vue";
 
 const { shortTitle } = useAppConfig();
-const content = ref<string>(`<h2><strong>Contact Us for tools</strong></h2>
+const content = ref<string>(`<h2><strong>Contact Us for ${useAppConfig().shortTitle}</strong></h2>
 
 <p>Last Updated: November 29, 2025</p>
 

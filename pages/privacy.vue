@@ -8,13 +8,17 @@
 <script setup lang="ts">
 import { ref } from "vue";
 
-const content = ref<string>(`<h2><strong>Privacy Policy for tools</strong></h2>
+const content = ref<string>(`<h2><strong>Privacy Policy for ${
+  useAppConfig().shortTitle
+}</strong></h2>
 
 <p>Last Updated: November 29, 2025</p>
 
 <h2>1. Introduction</h2>
 
-<p>Welcome to tools (&quot;we&quot;, &quot;our&quot;, or &quot;the Service&quot;). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services (collectively, the &quot;Service&quot;).</p>
+<p>Welcome to ${
+  useAppConfig().shortTitle
+} (&quot;we&quot;, &quot;our&quot;, or &quot;the Service&quot;). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services (collectively, the &quot;Service&quot;).</p>
 
 <p>By accessing or using the Service, you acknowledge that you have read, understood, and agree to the terms of this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Service.</p>
 
@@ -60,7 +64,9 @@ const content = ref<string>(`<h2><strong>Privacy Policy for tools</strong></h2>
 
 <ul>
 	<li>With your explicit consent</li>
-	<li>To third-party service providers who assist us in operating the Service (e.g., payment processors, cloud storage providers, analytics tools) &ndash; these providers are obligated to protect your information</li>
+	<li>To third-party service providers who assist us in operating the Service (e.g., payment processors, cloud storage providers, analytics ${
+    useAppConfig().shortTitle
+  }) &ndash; these providers are obligated to protect your information</li>
 	<li>To comply with legal obligations (e.g., respond to subpoenas, court orders, or legal requests)</li>
 	<li>To protect the rights, property, or safety of us, our users, or others</li>
 	<li>In connection with a merger, acquisition, or sale of all or part of our assets &ndash; in such cases, we will notify you before your Personal Information is transferred</li>
