@@ -36,7 +36,6 @@
 <script setup lang="ts">
 const search = ref<string>("");
 const tools = ref<Menu[]>();
-const { webName } = useRuntimeConfig().public;
 
 usePageSeo({
   canonicalPath: "/search/",
@@ -50,7 +49,6 @@ usePageSeo({
     "productivity tool lookup",
     "marketing tool search",
     "curated tool directory search",
-    webName,
   ],
 });
 

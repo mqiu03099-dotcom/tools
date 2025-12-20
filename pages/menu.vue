@@ -3,8 +3,6 @@
 </template>
 
 <script setup lang="ts">
-const { webName } = useRuntimeConfig().public;
-
 usePageSeo({
   canonicalPath: "/menu/",
   title: `Tools Category Explorer: 37+ AI, Productivity - Utility Tool Category`,
@@ -15,7 +13,6 @@ usePageSeo({
     "productivity tool directory",
     "utility tools",
     "curated tools",
-    webName,
   ],
 });
 </script>

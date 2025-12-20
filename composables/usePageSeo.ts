@@ -1,20 +1,20 @@
 import type { UsePageSeoOptions } from "@/utils";
 
 export const usePageSeo = (values: UsePageSeoOptions) => {
-  const { siteName } = useRuntimeConfig().public;
+  const { h1Title, shortTitle } = useAppConfig();
+  const siteBase = `https://${h1Title}`;
   const {
-    title,
-    seoDescription,
+    title = shortTitle,
+    seoDescription = defaultDescription,
     type = "website",
-    canonicalPath,
-    image = `https://${siteName}/logo.png`,
+    canonicalPath = siteBase,
+    image = `${siteBase}/logo.png`,
     publishedTime,
     modifiedTime,
-    keywords,
+    keywords = [],
   } = values;
-  const siteBase = `https://${siteName}`;
   const canonicalUrl = new URL(canonicalPath, siteBase).toString();
-  const keywordList = keywords && keywords.length ? keywords.join(", ") : undefined;
+  const keywordsStr = [h1Title, shortTitle, ...keywords].join(", ");
 
   useSeoMeta({
     title,
@@ -31,7 +31,7 @@ export const usePageSeo = (values: UsePageSeoOptions) => {
     robots: "index, follow",
     articlePublishedTime: type === "article" ? publishedTime : undefined,
     articleModifiedTime: type === "article" ? modifiedTime : undefined,
-    keywords: keywordList,
+    keywords: keywordsStr,
   });
 
   useHead({

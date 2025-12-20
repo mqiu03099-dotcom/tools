@@ -40,9 +40,6 @@
 <script setup lang="ts">
 import { themes } from "@/utils";
 
-const { webName } = useRuntimeConfig().public;
-const themeCount = Array.isArray(themes) ? themes.length : 0;
-
 usePageSeo({
   canonicalPath: "/theme/",
   title: `Tools Theme Gallery: 35 Ready-to-Use Color Palettes - DaisyUI Themes`,
@@ -53,7 +50,6 @@ usePageSeo({
     "color palettes for tools",
     "ready-to-use themes",
     "tool UI customization",
-    webName,
   ],
 });
 

@@ -9,7 +9,7 @@
       class="flex flex-col flex-1 justify-center items-center gap-0 btn btn-ghost"
       :title="menuName"
     >
-      <h1 class="text-center font-bold">{{ webName }}</h1>
+      <h1 class="text-center font-bold">{{ h1Title }}</h1>
       <p
         class="text-[12px] line-clamp-1 break-all"
         style="zoom: 0.8"
@@ -26,7 +26,7 @@
 
 <script lang="ts" setup>
 const { path } = useRoute();
-const webName = useWebName();
+const { h1Title } = useAppConfig();
 
 /** 二级标题 */
 const sencondText = computed(() => {
@@ -54,6 +54,9 @@ const sencondText = computed(() => {
   if (path.startsWith("/search")) {
     return "search";
   }
+  if (path.startsWith("/article")) {
+    return "article";
+  }
   if (path.startsWith("/category/")) {
     const name = path.split("/")?.[2];
     return name;
@@ -71,7 +74,7 @@ const sencondText = computed(() => {
 
 /** 面包屑标题 */
 const menuName = computed(() => {
-  return sencondText.value ? `${webName}-${sencondText.value}` : webName;
+  return sencondText.value ? `${h1Title}-${sencondText.value}` : h1Title;
 });
 </script>
 

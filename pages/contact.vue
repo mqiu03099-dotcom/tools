@@ -8,7 +8,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 
-const { siteName, webName } = useRuntimeConfig().public;
+const { shortTitle } = useAppConfig();
 const content = ref<string>(`<h2><strong>Contact Us for tools</strong></h2>
 
 <p>Last Updated: November 29, 2025</p>
@@ -17,13 +17,13 @@ const content = ref<string>(`<h2><strong>Contact Us for tools</strong></h2>
 
 <p>If you have any questions, please contact us at:</p>
 
-<p><strong>Email:</strong> ${webName}@${siteName}.com</p>`);
+<p><strong>Email:</strong> ${shortTitle}@${shortTitle}.com</p>`);
 
 usePageSeo({
   canonicalPath: "/contact/",
   title: `Contact Tools`,
   seoDescription: `Reach the Tools Team For Submissions, Partnership Requests, Or Updates To Our Curated Tool Listings.`,
-  keywords: ["contact", "support", webName],
+  keywords: ["contact", "support"],
 });
 </script>
 

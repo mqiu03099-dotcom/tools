@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-center gap-1 w-full">
-    <MA href="/">{{ useWebName() }}</MA>
+    <MA href="/">{{ shortTitle }}</MA>
     <MFromIcon class="size-5 shrink-0" />
     <MA
       :href="`/detail/${name}`"
@@ -12,6 +12,7 @@
 </template>
 
 <script setup lang="ts">
+const { shortTitle } = useAppConfig();
 const { name } = defineProps<{
   name: string;
 }>();

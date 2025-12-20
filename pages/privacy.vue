@@ -8,7 +8,6 @@
 <script setup lang="ts">
 import { ref } from "vue";
 
-const { webName } = useRuntimeConfig().public;
 const content = ref<string>(`<h2><strong>Privacy Policy for tools</strong></h2>
 
 <p>Last Updated: November 29, 2025</p>
@@ -111,7 +110,7 @@ usePageSeo({
   canonicalPath: "/privacy/",
   title: `Tools Privacy Policy`,
   seoDescription: `Learn How Tools Collect Analytics Data, Handles Outbound Links, And Keeps Users Informed.`,
-  keywords: ["privacy policy", "data usage", webName],
+  keywords: ["privacy policy", "data usage"],
 });
 </script>
 

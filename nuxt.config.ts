@@ -4,12 +4,15 @@ import { readPublicSubFolders } from "./utils/fun"; // 确保路径正确
 import { normalizeInternalHref } from "./utils/url";
 import { join } from "path";
 
+const h1Title = "toolsbox.vip";
+const shortTitle = "toolsbox";
+
 export default defineNuxtConfig({
   hooks: {
     "nitro:init": async (nitro) => {
       nitro.hooks.hook("prerender:done", async () => {
         console.log("开始生成sitemap.xml文件");
-        const baseUrl = `https://${process.env.NUXT_PUBLIC_SITENAME}`;
+        const baseUrl = `https://${h1Title}`;
         const sitemapUrls = await readPublicSubFolders();
         const sitemaps = sitemapUrls.map((uri: string) => {
           const uriObj = {
@@ -78,9 +81,11 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       env: process.env.NUXT_PUBLIC_ENV,
-      siteName: process.env.NUXT_PUBLIC_SITENAME,
-      webName: process.env.NUXT_PUBLIC_TITLE,
     },
+  },
+  appConfig: {
+    h1Title,
+    shortTitle,
   },
   app: {
     head: {
@@ -88,23 +93,22 @@ export default defineNuxtConfig({
         lang: "en",
         translate: "yes",
       },
-      title: process.env.NUXT_PUBLIC_TITLE,
       link: [
         {
           rel: "icon",
           type: "image/png",
-          href: `https://${process.env.NUXT_PUBLIC_SITENAME}/logo.png`,
+          href: `https://${h1Title}/logo.png`,
         },
       ],
       meta: [
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         {
           name: "baidu-site-verification",
-          content: process.env.NUXT_PUBLIC_BAIDU,
+          content: "codeva-rstPmwEU5w",
         },
         {
           name: "google-adsense-account",
-          content: process.env.NUXT_PUBLIC_ADS,
+          content: "ca-pub-6584635184413581",
         },
         {
           name: "msvalidate.01",
@@ -125,7 +129,7 @@ export default defineNuxtConfig({
         process.env.NODE_ENV === "development"
           ? {}
           : {
-              src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NUXT_PUBLIC_ADS}`,
+              src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6584635184413581`,
               crossorigin: "anonymous",
               async: true,
               tagPriority: "critical",
@@ -140,7 +144,7 @@ export default defineNuxtConfig({
                     c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
                     t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
                     y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-                })(window, document, "clarity", "script", "${process.env.NUXT_PUBLIC_CLARITY}");`,
+                })(window, document, "clarity", "script", "uh9pi3oif4");`,
               tagPriority: "critical",
               tagPosition: "head",
               async: true,

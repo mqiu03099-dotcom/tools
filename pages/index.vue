@@ -26,13 +26,11 @@
 </template>
 
 <script setup lang="ts">
-const { webName } = useRuntimeConfig().public;
-
 usePageSeo({
   canonicalPath: "/",
   title: `Tools Curated Resource Hub: 290+ AI & Productivity Tools`,
   seoDescription: `Discover 290+ Reliable Tools Across 37 Categories On Tools. Updated Daily With Trusted AI, Productivity, And Utility Resources.`,
-  keywords: ["online tools", "ai tools", "productivity resources", "utility directory", webName],
+  keywords: ["online tools", "ai tools", "productivity resources", "utility directory"],
 });
 </script>
 

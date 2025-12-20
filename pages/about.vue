@@ -8,7 +8,6 @@
 <script setup lang="ts">
 import { ref } from "vue";
 
-const { webName } = useRuntimeConfig().public;
 const content = ref<string>(`
 <h2>About Us: tools</h2>
 
@@ -39,7 +38,7 @@ usePageSeo({
   canonicalPath: "/about/",
   title: `About Tools`,
   seoDescription: `Tools Curates Trusted Tools, Explains Our Review Process, And Shares How We Keep Recommendations Fresh.`,
-  keywords: ["about", "tool curator", webName],
+  keywords: ["about", "tool curator"],
 });
 </script>
 

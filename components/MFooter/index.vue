@@ -4,13 +4,13 @@
     style="zoom: 0.8"
   >
     © 2025
-    <MA class="font-bold">{{ siteName }}</MA>
+    <MA class="font-bold">{{ h1Title }}</MA>
     . All rights reserved.
   </footer>
 </template>
 
 <script lang="ts" setup>
-const siteName = useRuntimeConfig().public.siteName;
+const { h1Title } = useAppConfig();
 </script>
 
 <style scoped></style>
