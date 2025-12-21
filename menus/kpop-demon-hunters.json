@@ -77,6 +77,44 @@
       "bgImg": "",
       "tags": ["kpop", "animation", "disney", "announcement", "film"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "deadline-kpop",
+      "nameShort": "deadline",
+      "seoTitle": "Deadline Covers K-Pop: Demon Hunters Release Chatter And Cast",
+      "seoDescription": "Deadline covers K-Pop: Demon Hunters release chatter, production updates, and interviews with the Disney animation team.",
+      "seoKeywords": [
+        "kpop demon hunters",
+        "deadline",
+        "disney animation",
+        "release date",
+        "cast news",
+        "annecy",
+        "movie"
+      ],
+      "iframeUrl": "https://deadline.com/2021/06/k-pop-demon-hunters-disney-animation-film-1234778654/",
+      "bgImg": "",
+      "tags": ["kpop", "deadline", "disney", "release", "movie"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "imdb-kpop",
+      "nameShort": "imdb",
+      "seoTitle": "IMDb Lists K-Pop: Demon Hunters Cast Rumors And Release Buzz",
+      "seoDescription": "IMDb lists K-Pop: Demon Hunters cast rumors, production status, and watchlist momentum ahead of release.",
+      "seoKeywords": [
+        "kpop demon hunters",
+        "imdb",
+        "cast",
+        "release date",
+        "watchlist",
+        "disney",
+        "animated film"
+      ],
+      "iframeUrl": "https://www.imdb.com/find/?q=K-Pop%3A%20Demon%20Hunters",
+      "bgImg": "",
+      "tags": ["kpop", "imdb", "cast", "release", "movie"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

@@ -77,6 +77,44 @@
       "bgImg": "",
       "tags": ["lane-kiffin", "stats", "cfb", "records", "history"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "espn-kiffin",
+      "nameShort": "espn",
+      "seoTitle": "ESPN Coach Page Lists Lane Kiffin Record And Recruiting Buzz",
+      "seoDescription": "ESPN coach page lists Lane Kiffin career record, recruiting class rankings, and latest Ole Miss headlines.",
+      "seoKeywords": [
+        "espn",
+        "lane kiffin",
+        "coach profile",
+        "recruiting",
+        "ole miss",
+        "sec football",
+        "record"
+      ],
+      "iframeUrl": "https://www.espn.com/college-football/coach/_/id/123164/lane-kiffin",
+      "bgImg": "",
+      "tags": ["lane-kiffin", "espn", "recruiting", "sec"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "247sports-kiffin",
+      "nameShort": "247sports",
+      "seoTitle": "247Sports Tracks Lane Kiffin Recruiting, Staff Moves, Portal",
+      "seoDescription": "247Sports tracks Lane Kiffin recruiting classes, staff moves, and transfer portal commits at Ole Miss.",
+      "seoKeywords": [
+        "247sports",
+        "lane kiffin",
+        "recruiting",
+        "transfer portal",
+        "ole miss",
+        "sec",
+        "commits"
+      ],
+      "iframeUrl": "https://247sports.com/Coach/Lane-Kiffin-1987/",
+      "bgImg": "",
+      "tags": ["lane-kiffin", "247sports", "recruiting", "portal"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

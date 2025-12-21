@@ -86,6 +86,44 @@
       "bgImg": "",
       "tags": ["ai-detector", "content", "scale", "rewrites", "tool"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "originality",
+      "nameShort": "originality",
+      "seoTitle": "Originality AI Detector Flags LLM Text With Probability Scores",
+      "seoDescription": "Originality AI detector flags likely LLM text with probability scores, plagiarism checks, and team workspaces for editors.",
+      "seoKeywords": [
+        "originality ai",
+        "ai detector",
+        "plagiarism",
+        "llm content",
+        "probability score",
+        "editor workflow",
+        "2025"
+      ],
+      "iframeUrl": "https://originality.ai/ai-content-detector/",
+      "bgImg": "",
+      "tags": ["ai-detector", "originality", "plagiarism", "editor"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "turnitin",
+      "nameShort": "turnitin",
+      "seoTitle": "Turnitin AI Writing Detection For Academia And LMS Reports",
+      "seoDescription": "Turnitin AI writing detection highlights AI-written sentences with confidence scores for universities and LMS reports.",
+      "seoKeywords": [
+        "turnitin ai",
+        "ai detection",
+        "plagiarism",
+        "academic integrity",
+        "lms reports",
+        "sentence flags",
+        "education"
+      ],
+      "iframeUrl": "https://www.turnitin.com/solutions/ai-writing-detection",
+      "bgImg": "",
+      "tags": ["ai-detector", "turnitin", "education", "plagiarism"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

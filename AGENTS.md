@@ -1,30 +1,39 @@
 # Repository Guidelines
 
-## Codebase Layout & Module Architecture
-- Routes sit in `pages/`; shared UI blocks live in `components/` (PascalCase Vue SFCs); reusable logic belongs in `composables/` as `useThing.ts`.
-- Helpers go in `utils/`, shared typings in `types/`, API or middleware in `server/`, navigation data in `menus/`, and content sources in `articles/`.
-- Static assets stay in `public/`; pipeline-managed items in `assets/`. Avoid touching generated output: `.nuxt/`, `.output/`, `dist/`.
-- Key configuration resides in `nuxt.config.ts` plus env files `.env.development` and `.env.production`.
+## Project Structure & Module Organization
+- `pages/`: Nuxt 3 file-based routes; prefer shallow, descriptive directories for new views.
+- `components/`: Reusable UI (use PascalCase filenames, e.g., `HeroBanner.vue`); colocate style in `<style scoped>`.
+- `composables/`: Reusable composition utilities; export helpers from `useXxx` functions.
+- `utils/` and `types/`: Cross-cutting helpers and shared typings; keep pure and framework-agnostic.
+- `public/`: Static assets (iconfont, CSS, generated `sitemap.xml`); reference with absolute paths.
+- `articles/` and `menus/`: Content/data sources surfaced in pages; update alongside related routes.
+- Env configuration lives in `.env.development` / `.env.production`; `nuxt.config.ts` holds site metadata and prerender hooks.
 
-## Build, Test, and Local Development Workflow
-- Requirements: Node ≥20.19 with pnpm 8 (`corepack enable`).
-- Install dependencies: `pnpm install` (triggers `pnpm postinstall` to prep Nuxt artifacts).
-- Run locally: `pnpm dev` for development env; `pnpm pro` to smoke-test with production env vars.
-- Build outputs: `pnpm buildDev` or `pnpm buildPro`; serve built app with `pnpm preview`.
-- Publish-style check: `pnpm publishDev` / `pnpm publishPro` (serves `dist/` via global `http-server`).
+## Build, Test, and Development Commands
+- `corepack enable && pnpm install` — install using the pinned `pnpm@8.15.0`; Node 20.19.x recommended.
+- `pnpm dev` — start the dev server with `.env.development` on port 6179.
+- `pnpm pro` — run the dev server against `.env.production` for parity checks.
+- `pnpm buildDev` / `pnpm buildPro` — static build with the matching env; outputs to `dist/` with Nitro static preset.
+- `pnpm preview` — preview the last build locally.
+- `pnpm publishDev` / `pnpm publishPro` — build then serve `dist/` via `http-server` (install it globally if missing).
 
 ## Coding Style & Naming Conventions
-- Nuxt 3 + Vue 3 with `<script setup>` and TypeScript preferred over Options API; favor composables over mixins.
-- Styling via Tailwind CSS v4 with DaisyUI; prefer utility classes and shared components over inline styles.
-- Formatting enforced by Prettier (`.prettierrc.json`): 2-space indent, no semicolons; verify with `pnpm dlx prettier --check .`.
-- Naming: components PascalCase, composables `useX`, utilities camelCase, env vars SCREAMING_SNAKE; keep imports shallow using Nuxt aliases.
+- Prettier enforced: 2-space indent, semicolons, double quotes, trailing commas, CRLF line endings. Run `pnpm exec prettier --check .` before pushing.
+- Stick to TypeScript + `<script setup>` in Vue SFCs; prefer explicit types for props/emit.
+- Route files in `pages/` use kebab-case (e.g., `tool-detail.vue`); components use PascalCase.
+- Keep utilities pure; avoid direct DOM access in composables unless guarded for SSR.
 
-## Testing Guidelines & Quality Checks
-- No automated suite yet—perform manual smoke tests on core pages, menus, and dynamic routes in both `pnpm dev` and prod-mode builds; keep the browser console clean.
-- Always run `pnpm buildDev` (or `pnpm buildPro` when prod settings are relevant) before sharing to catch type/SSR/runtime issues.
-- If adding tests, mirror source modules in `tests/unit/**` with `*.spec.ts` following a Vitest-style layout.
+## Testing Guidelines
+- No automated test suite is present yet; add `*.spec.ts` near the code under test or in a future `tests/` folder.
+- When adding tests, favor lightweight unit coverage for utilities/composables and screenshot notes for UI changes.
+- For manual verification, exercise key routes (`/`, `/detail`, `/tool/*`) under both dev and production env files.
 
 ## Commit & Pull Request Guidelines
-- Use Conventional Commits (`feat: …`, `fix: …`, `chore: …`); keep messages concise and imperative.
-- PRs should summarize changes, list env keys touched, and include screenshots/GIFs for UI updates; link issues and flag breaking changes or config migrations.
-- Security & artifacts: keep secrets in env files; do not commit `.nuxt/`, `.output/`, `dist/`. Update `.gitignore` if new build outputs appear.
+- Follow the existing `type: summary` convention (`feat: ...`, `fix: ...`, `chore: ...`, `docs: ...`); keep messages short and imperative.
+- PRs should include: purpose, scope of changes, affected routes/components, env used, and screenshots/gifs for UI-impacting work.
+- Link related issues/tasks when available and call out any config/env changes required for reviewers.
+- Keep diffs minimal; prefer separate PRs for large refactors vs. feature work.
+
+## Environment & Security
+- Do not commit secrets; use the sample env files as references and set sensitive values locally.
+- Production URLs and analytics IDs are set in `nuxt.config.ts`; coordinate before changing them and test both envs.

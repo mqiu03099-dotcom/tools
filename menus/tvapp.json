@@ -77,6 +77,44 @@
       "bgImg": "",
       "tags": ["tvapp", "plex", "fast", "streaming", "live-tv"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "netflix-app",
+      "nameShort": "netflix",
+      "seoTitle": "Netflix App Streams Originals In 4K HDR With Downloads",
+      "seoDescription": "Netflix TV app streams originals in 4K HDR with downloads across smart TVs, Roku, Fire TV, and consoles.",
+      "seoKeywords": [
+        "netflix app",
+        "tv streaming",
+        "4k hdr",
+        "downloads",
+        "smart tv",
+        "roku",
+        "fire tv"
+      ],
+      "iframeUrl": "https://www.netflix.com/global/watch",
+      "bgImg": "",
+      "tags": ["tvapp", "netflix", "4k", "streaming"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "hulu-app",
+      "nameShort": "hulu",
+      "seoTitle": "Hulu App Offers Live TV, DVR, And Disney Bundle Options",
+      "seoDescription": "Hulu app combines on-demand shows, Live TV, cloud DVR, and ESPN+ Disney+ bundle options with profiles.",
+      "seoKeywords": [
+        "hulu app",
+        "live tv",
+        "cloud dvr",
+        "disney bundle",
+        "espn plus",
+        "profiles",
+        "streaming"
+      ],
+      "iframeUrl": "https://www.hulu.com/welcome",
+      "bgImg": "",
+      "tags": ["tvapp", "hulu", "live-tv", "bundle"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

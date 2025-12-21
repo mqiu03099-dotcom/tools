@@ -87,6 +87,44 @@
       "bgImg": "",
       "tags": ["notre-dame", "247sports", "recruiting", "analysis", "cfb"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "on3-notre-dame",
+      "nameShort": "on3",
+      "seoTitle": "On3 Tracks Notre Dame Recruiting, NIL Values, And Portal Moves",
+      "seoDescription": "On3 Notre Dame hub tracks recruiting classes, NIL values, transfer portal commits, and depth charts for the Irish.",
+      "seoKeywords": [
+        "on3",
+        "notre dame",
+        "recruiting",
+        "nil",
+        "transfer portal",
+        "depth chart",
+        "irish football"
+      ],
+      "iframeUrl": "https://www.on3.com/teams/notre-dame-fighting-irish/",
+      "bgImg": "",
+      "tags": ["notre-dame", "on3", "recruiting", "nil"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "rivals-notre-dame",
+      "nameShort": "rivals",
+      "seoTitle": "Rivals Provides Notre Dame Recruiting Scoop And Ranking Movers",
+      "seoDescription": "Rivals Notre Dame provides insider recruiting scoop, camp notes, and rankings movement for Fighting Irish targets.",
+      "seoKeywords": [
+        "rivals",
+        "notre dame",
+        "recruiting",
+        "insider",
+        "camp notes",
+        "rankings",
+        "targets"
+      ],
+      "iframeUrl": "https://notredame.rivals.com/",
+      "bgImg": "",
+      "tags": ["notre-dame", "rivals", "recruiting", "insider"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

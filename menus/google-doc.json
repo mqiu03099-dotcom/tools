@@ -73,6 +73,44 @@
       "bgImg": "",
       "tags": ["google-docs", "api", "developers", "automation", "cloud"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "docs-templates",
+      "nameShort": "templates",
+      "seoTitle": "Google Docs Templates For Resume, Invoice, Proposal, Newsletter",
+      "seoDescription": "Google Docs template gallery offers resume, invoice, proposal, and newsletter layouts ready to copy.",
+      "seoKeywords": [
+        "google docs templates",
+        "resume template",
+        "invoice template",
+        "proposal doc",
+        "newsletter",
+        "workspace",
+        "2025"
+      ],
+      "iframeUrl": "https://workspace.google.com/templates",
+      "bgImg": "",
+      "tags": ["google-docs", "templates", "resume", "proposal"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "docs-addons",
+      "nameShort": "addons",
+      "seoTitle": "Docs Add-Ons Marketplace Lists Grammarly, DocuSign, Mail Merge",
+      "seoDescription": "Workspace Marketplace add-ons for Docs include Grammarly, DocuSign, mail merge, and table of contents builders.",
+      "seoKeywords": [
+        "google docs addons",
+        "workspace marketplace",
+        "grammarly",
+        "docusign",
+        "mail merge",
+        "productivity",
+        "templates"
+      ],
+      "iframeUrl": "https://workspace.google.com/marketplace/category/works-with-docs",
+      "bgImg": "",
+      "tags": ["google-docs", "addons", "marketplace", "productivity"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

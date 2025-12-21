@@ -85,6 +85,44 @@
       "bgImg": "",
       "tags": ["welcome", "derry", "fandom", "stephen-king", "lore"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "variety-derry",
+      "nameShort": "variety",
+      "seoTitle": "Variety Tracks Welcome To Derry Casting And HBO Max Timeline",
+      "seoDescription": "Variety tracks Welcome to Derry casting updates, HBO Max timeline, and how the IT prequel expands Pennywise lore.",
+      "seoKeywords": [
+        "variety",
+        "welcome to derry",
+        "casting",
+        "hbo max",
+        "pennywise",
+        "prequel",
+        "stephen king"
+      ],
+      "iframeUrl": "https://variety.com/t/welcome-to-derry/",
+      "bgImg": "",
+      "tags": ["welcome-to-derry", "variety", "casting", "hbo-max"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "imdb-derry",
+      "nameShort": "imdb",
+      "seoTitle": "IMDb Lists Welcome To Derry Episodes, Cast Rumors, And Ratings",
+      "seoDescription": "IMDb lists Welcome to Derry episodes, cast rumors, and user interest while the series is in production.",
+      "seoKeywords": [
+        "imdb",
+        "welcome to derry",
+        "episodes",
+        "cast",
+        "user ratings",
+        "production",
+        "pennywise"
+      ],
+      "iframeUrl": "https://www.imdb.com/find/?q=Welcome%20to%20Derry",
+      "bgImg": "",
+      "tags": ["welcome-to-derry", "imdb", "cast", "episodes"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

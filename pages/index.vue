@@ -60,8 +60,8 @@
               <MFromIcon />
             </MA>
           </div>
-          <MGrid>
-            <MCard :data="children.slice(0, 10)" />
+          <MGrid :type="index > 5 ? 'flex' : 'grid'">
+            <MCard :data="children.slice(0, 8)" />
           </MGrid>
         </div>
       </div>

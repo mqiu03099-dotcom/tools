@@ -51,6 +51,44 @@
       "bgImg": "",
       "tags": ["tiempo", "meteored", "manana", "clima", "alertas"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "weathercom",
+      "nameShort": "weather",
+      "seoTitle": "Weather.com En Espanol Pronostico De Manana Con Radar Y UV",
+      "seoDescription": "Weather.com en Espanol muestra pronostico de manana, radar interactivo, indice UV y alertas por ciudad.",
+      "seoKeywords": [
+        "weather.com espanol",
+        "pronostico manana",
+        "radar",
+        "indice uv",
+        "alertas",
+        "clima hoy",
+        "2025"
+      ],
+      "iframeUrl": "https://weather.com/es-ES/",
+      "bgImg": "",
+      "tags": ["tiempo", "weather", "radar", "alertas"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "windy",
+      "nameShort": "windy",
+      "seoTitle": "Windy Mapas De Viento Y Lluvia Para El Tiempo De Manana",
+      "seoDescription": "Windy en Espanol ofrece mapas de viento, lluvia y radar con modelos ECMWF y GFS para planificar el tiempo de manana.",
+      "seoKeywords": [
+        "windy espanol",
+        "mapa de viento",
+        "lluvia",
+        "radar",
+        "ecmwf",
+        "gfs",
+        "pronostico manana"
+      ],
+      "iframeUrl": "https://www.windy.com/?lang=es",
+      "bgImg": "",
+      "tags": ["tiempo", "windy", "viento", "radar"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

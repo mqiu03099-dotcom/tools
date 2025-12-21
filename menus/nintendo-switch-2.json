@@ -77,6 +77,44 @@
       "bgImg": "",
       "tags": ["nintendo", "switch2", "gamesradar", "specs", "news"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "verge-switch2",
+      "nameShort": "verge",
+      "seoTitle": "The Verge Tracks Switch 2 Screen Rumors, Joy-Con Redesigns",
+      "seoDescription": "The Verge tracks Switch 2 screen rumors, Joy-Con redesigns, and Nvidia DLSS leaks with weekly news recaps.",
+      "seoKeywords": [
+        "the verge",
+        "switch 2",
+        "dlss",
+        "joy con",
+        "nvidia",
+        "nintendo console",
+        "2025 rumors"
+      ],
+      "iframeUrl": "https://www.theverge.com/nintendo-switch",
+      "bgImg": "",
+      "tags": ["switch2", "verge", "dlss", "joycon"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "ign-switch2",
+      "nameShort": "ign",
+      "seoTitle": "IGN Rumor Watch For Switch 2 Specs And Backward Compatibility",
+      "seoDescription": "IGN rumor watch collects Switch 2 specs, backward compatibility chatter, and dev kit whispers from studios.",
+      "seoKeywords": [
+        "ign",
+        "switch 2",
+        "rumor watch",
+        "backward compatibility",
+        "dev kit",
+        "nintendo",
+        "specs"
+      ],
+      "iframeUrl": "https://www.ign.com/articles/nintendo-switch-2-rumors",
+      "bgImg": "",
+      "tags": ["switch2", "ign", "rumors", "specs"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

@@ -87,6 +87,44 @@
       "bgImg": "",
       "tags": ["ohio-state", "blog", "analysis", "recruiting", "fans"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "on3-ohio-state",
+      "nameShort": "on3",
+      "seoTitle": "On3 Buckeyes Hub Tracks Recruiting, NIL Values, And Portal",
+      "seoDescription": "On3 Buckeyes hub tracks recruiting rankings, NIL values, transfer portal moves, and depth charts for Ohio State.",
+      "seoKeywords": [
+        "on3",
+        "ohio state",
+        "recruiting",
+        "nil",
+        "transfer portal",
+        "depth chart",
+        "buckeyes"
+      ],
+      "iframeUrl": "https://www.on3.com/teams/ohio-state-buckeyes/",
+      "bgImg": "",
+      "tags": ["ohio-state", "on3", "recruiting", "nil"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "247sports-ohio-state",
+      "nameShort": "247sports",
+      "seoTitle": "247Sports Bucknuts Covers Recruiting Scoop And Crystal Ball Picks",
+      "seoDescription": "247Sports Bucknuts covers Ohio State recruiting scoop, crystal ball picks, and insider boards for Buckeye fans.",
+      "seoKeywords": [
+        "247sports",
+        "bucknuts",
+        "ohio state",
+        "recruiting",
+        "crystal ball",
+        "insider",
+        "buckeyes"
+      ],
+      "iframeUrl": "https://247sports.com/college/ohio-state/",
+      "bgImg": "",
+      "tags": ["ohio-state", "247sports", "recruiting", "insider"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

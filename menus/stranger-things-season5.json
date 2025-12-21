@@ -86,6 +86,44 @@
       "bgImg": "",
       "tags": ["stranger-things", "season5", "gamesradar", "news", "tv"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "imdb-stranger5",
+      "nameShort": "imdb",
+      "seoTitle": "IMDb Lists Stranger Things 5 Cast, Episodes, And Watchlist Buzz",
+      "seoDescription": "IMDb tracks Stranger Things 5 cast updates, episode list, and watchlist momentum ahead of the final season.",
+      "seoKeywords": [
+        "imdb",
+        "stranger things 5",
+        "cast",
+        "episodes",
+        "watchlist",
+        "netflix",
+        "final season"
+      ],
+      "iframeUrl": "https://www.imdb.com/title/tt4574334/episodes?season=5",
+      "bgImg": "",
+      "tags": ["stranger-things", "imdb", "episodes", "cast"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "rt-stranger5",
+      "nameShort": "rt",
+      "seoTitle": "Rotten Tomatoes Tracks Stranger Things 5 Tomatometer And Trailers",
+      "seoDescription": "Rotten Tomatoes tracks Stranger Things 5 Tomatometer, trailers, and critic previews for the Netflix finale.",
+      "seoKeywords": [
+        "rotten tomatoes",
+        "stranger things 5",
+        "tomatometer",
+        "trailers",
+        "critic previews",
+        "fan score",
+        "netflix"
+      ],
+      "iframeUrl": "https://www.rottentomatoes.com/tv/stranger_things/s05",
+      "bgImg": "",
+      "tags": ["stranger-things", "rottentomatoes", "trailers", "scores"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

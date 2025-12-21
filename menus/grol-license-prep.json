@@ -87,6 +87,44 @@
       "bgImg": "",
       "tags": ["grol", "study", "guide", "maritime", "license"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "hamstudy",
+      "nameShort": "hamstudy",
+      "seoTitle": "Hamstudy GROL Practice Pools With Instant Grading",
+      "seoDescription": "Hamstudy offers GROL practice pools for Elements 1 and 3 with instant grading and flashcards.",
+      "seoKeywords": [
+        "hamstudy grol",
+        "grol practice",
+        "element 1",
+        "element 3",
+        "instant grading",
+        "flashcards",
+        "fcc license"
+      ],
+      "iframeUrl": "https://hamstudy.org/grol",
+      "bgImg": "",
+      "tags": ["grol", "hamstudy", "practice", "exam"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "quizlet",
+      "nameShort": "quizlet",
+      "seoTitle": "Quizlet GROL Flashcards Cover Elements 1,3,8 With Audio Aids",
+      "seoDescription": "Quizlet flashcards for GROL cover Elements 1, 3, and 8 with spaced repetition and audio aids.",
+      "seoKeywords": [
+        "quizlet grol",
+        "grol flashcards",
+        "element 8",
+        "spaced repetition",
+        "audio study",
+        "fcc exam",
+        "radio license"
+      ],
+      "iframeUrl": "https://quizlet.com/subject/grol/",
+      "bgImg": "",
+      "tags": ["grol", "quizlet", "flashcards", "exam"],
+      "updateTime": "2025-12-21"
     }
   ]
 }

@@ -77,6 +77,44 @@
       "bgImg": "",
       "tags": ["zootopia2", "screenrant", "rumors", "movie", "news"],
       "updateTime": "2025-12-08"
+    },
+    {
+      "name": "variety-zootopia2",
+      "nameShort": "variety",
+      "seoTitle": "Variety Reports On Zootopia 2 Release Window And Directors",
+      "seoDescription": "Variety reports on Zootopia 2 release window, directors, and how Disney Animation is positioning the sequel.",
+      "seoKeywords": [
+        "variety",
+        "zootopia 2",
+        "release window",
+        "disney animation",
+        "directors",
+        "sequel",
+        "news"
+      ],
+      "iframeUrl": "https://variety.com/t/zootopia-2/",
+      "bgImg": "",
+      "tags": ["zootopia2", "variety", "release", "news"],
+      "updateTime": "2025-12-21"
+    },
+    {
+      "name": "imdb-zootopia2",
+      "nameShort": "imdb",
+      "seoTitle": "IMDb Lists Zootopia 2 Cast Updates, Release Tracking, And Trivia",
+      "seoDescription": "IMDb lists Zootopia 2 cast updates, release tracking, trivia, and user interest growth for the sequel.",
+      "seoKeywords": [
+        "imdb",
+        "zootopia 2",
+        "cast",
+        "release",
+        "trivia",
+        "user interest",
+        "disney sequel"
+      ],
+      "iframeUrl": "https://www.imdb.com/find/?q=Zootopia%202",
+      "bgImg": "",
+      "tags": ["zootopia2", "imdb", "cast", "release"],
+      "updateTime": "2025-12-21"
     }
   ]
 }
