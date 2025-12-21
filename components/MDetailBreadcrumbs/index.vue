@@ -13,9 +13,10 @@
 
 <script setup lang="ts">
 const { shortTitle } = useAppConfig();
-const { name } = defineProps<{
-  name: string;
+const { tool = {} } = defineProps<{
+  tool: Menu;
 }>();
+const { name } = tool;
 </script>
 
 <style></style>

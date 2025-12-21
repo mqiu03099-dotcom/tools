@@ -8,7 +8,7 @@
         :title="name"
         :href="`/detail/${name}`"
       >
-        <button :class="['btn btn-sm capitalize', changeTheme(index)]">
+        <button :class="['btn btn-sm capitalize btn-soft', changeTheme(index)]">
           {{ nameShort }}
         </button>
       </MA>

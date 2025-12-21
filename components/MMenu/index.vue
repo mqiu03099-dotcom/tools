@@ -40,7 +40,7 @@
             <div class="badge badge-secondary badge-outline">{{ children1.length || 0 }}</div>
           </div>
         </summary>
-        <ul>
+        <ul class="pl-2.5">
           <li
             v-for="({ name: name2, path: path2 }, index2) in children1"
             :key="index2"

@@ -26,7 +26,7 @@
         </p>
         <div class="card-actions justify-end">
           <button
-            class="btn btn-primary btn-sm"
+            class="btn btn-primary btn-soft btn-sm"
             @click="handleChangeTheme(name)"
           >
             use

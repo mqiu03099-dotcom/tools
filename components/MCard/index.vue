@@ -31,7 +31,7 @@
           <div class="text-[10px] font-bold">{{ updateTime }}</div>
           <MA :href="`/detail/${name}`">
             <button
-              class="btn btn-primary btn-sm"
+              class="btn btn-sm btn-primary btn-soft"
               title="Look"
             >
               Look

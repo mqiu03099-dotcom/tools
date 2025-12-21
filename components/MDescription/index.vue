@@ -52,18 +52,11 @@
 </template>
 
 <script lang="ts" setup>
-const {
-  tags = [],
-  name = "",
-  moreTools = [],
-} = defineProps<{
-  tags?: string[];
-  name?: string;
-  seoTitle?: string;
-  seoDescription?: string;
-  seoKeywords?: string[];
-  moreTools?: Menu[] | null | undefined;
+const { tool = {}, moreTools = [] } = defineProps<{
+  tool: Menu;
+  moreTools: Menu[];
 }>();
+const { tags = [], name = "", seoTitle = "", seoDescription = "", seoKeywords = [] } = tool || {};
 
 const { data: tagsCount } = await useFetch<LabelValue[]>("/api/getTags", {
   method: "POST",

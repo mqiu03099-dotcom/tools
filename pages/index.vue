@@ -12,7 +12,6 @@
         <a
           :title="name"
           @click="handleActiveMenu(name)"
-          :href="`#${name}`"
           :class="[activeMenuName === name ? 'menu-active' : '', name]"
         >
           <MIcon :icon="icon" />
@@ -47,7 +46,7 @@
               :title="name"
             >
               <button
-                class="btn btn-primary"
+                class="btn btn-primary btn-soft"
                 :title="name"
               >
                 <MIcon :icon="icon" />
@@ -71,27 +70,14 @@
 </template>
 
 <script setup lang="ts">
-const activeMenuName = ref<string>("");
+const activeMenuName = ref<string>(menu[0].name || "");
 
 const handleActiveMenu = (name: string) => {
   activeMenuName.value = name;
-  handleScroll();
-};
-
-onMounted(() => {
-  if (import.meta.client) {
-    const { hash } = useRoute();
-    activeMenuName.value = hash.split("#")?.[1] || menu?.[0]?.name || "";
-    handleScroll();
-  }
-});
-
-const handleScroll = () => {
-  const el = document.getElementsByClassName(activeMenuName.value)?.[0] as any;
-  el?.scrollIntoView({ behavior: "smooth", block: "center" });
-  el?.click();
+  const leftMenu = document.getElementsByClassName(activeMenuName.value)?.[0] as any;
+  leftMenu?.scrollIntoView({ behavior: "smooth", block: "center" });
   const targetEl = document.getElementById(activeMenuName.value);
-  targetEl?.blur();
+  targetEl?.scrollIntoView({ behavior: "smooth", block: "center" });
 };
 
 usePageSeo({

@@ -1,6 +1,6 @@
 <template>
   <div
-    class="hero min-h-[400px] sm:min-h-[450px] md:min-h-[500px] rounded-[var(--radius-box)] relative overflow-hidden"
+    class="hero capitalize min-h-[400px] sm:min-h-[450px] md:min-h-[500px] rounded-[var(--radius-box)] relative overflow-hidden"
   >
     <div class="absolute left-0 top-0 w-full h-full">
       <img
@@ -13,10 +13,10 @@
     </div>
     <div class="hero-content p-0! text-neutral-content text-center">
       <div class="max-w-[1000px]">
-        <h2 class="mb-5 px-3 text-3xl capitalize font-bold text-base-content">{{ name }}</h2>
+        <h2 class="mb-5 px-3 text-3xl font-bold text-base-content">{{ seoTitle }}</h2>
         <p class="mb-5 px-3 font-bold text-base-content">{{ seoDescription }}</p>
         <MA :href="`/tool/${name}`">
-          <button class="btn btn-primary">{{ getStarted }}</button>
+          <button class="btn btn-primary btn-soft">{{ getStarted }}</button>
         </MA>
       </div>
     </div>
@@ -24,11 +24,10 @@
 </template>
 
 <script setup lang="ts">
-const { name, seoDescription, bgImg } = defineProps<{
-  name: string;
-  seoDescription: string;
-  bgImg: string;
+const { tool = {} } = defineProps<{
+  tool: Menu;
 }>();
+const { name, seoDescription, bgImg, seoTitle } = tool;
 </script>
 
 <style></style>

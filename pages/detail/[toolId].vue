@@ -1,18 +1,10 @@
 <template>
   <div class="flex flex-col p-3 gap-3">
     <MDetailAlert />
-    <MDetailBreadcrumbs :name="name" />
-    <MDetailCard
-      :name="name"
-      :seoDescription="seoDescription"
-      :bgImg="bgImg"
-    />
+    <MDetailBreadcrumbs :tool="toolDetail" />
+    <MDetailCard :tool="toolDetail" />
     <MDescription
-      :tags="tags"
-      :name="name"
-      :seoTitle="seoTitle"
-      :seoDescription="seoDescription"
-      :seoKeywords="seoKeywords"
+      :tool="toolDetail"
       :moreTools="moreTools"
     />
     <div class="divider divider-primary m-0! text-[12px]!">More Tools</div>
@@ -30,7 +22,6 @@ const {
   name = "",
   tags = [],
   updateTime = "",
-  bgImg = "",
   seoTitle = "",
   seoDescription = "",
   seoKeywords = [],

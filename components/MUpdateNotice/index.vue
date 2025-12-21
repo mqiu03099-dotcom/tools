@@ -1,11 +1,11 @@
 <template>
   <div
     role="alert"
-    class="alert alert-success flex items-center justify-between"
+    class="alert alert-success flex items-center justify-between capitalize"
   >
     <div class="flex flex-col w-full font-bold">
       <div class="line-clamp-1 break-all w-full">
-        {{ newToolName }}
+        {{ tool?.seoTitle }}
       </div>
       <div
         class="text-xs line-clamp-1 break-all w-full"
@@ -15,16 +15,18 @@
       </div>
     </div>
     <MA
-      :href="`/detail/${newToolName}/`"
-      :title="newToolName"
+      :href="`/detail/${tool?.name}/`"
+      :title="tool?.name"
     >
-      <button class="btn btn-sm font-bold">See</button>
+      <button class="btn btn-sm font-bold btn-soft btn-primary">See</button>
     </MA>
   </div>
 </template>
 
 <script lang="ts" setup>
-const newToolName = "doubao-ai-productivity-assistant";
+const { tool = {} } = defineProps<{
+  tool: Menu;
+}>();
 </script>
 
 <style scoped></style>
