@@ -30,3 +30,8 @@
 - node 版本：20.19.4
 - pnpm 版本：8.10.2
 
+# SEO 注意
+
+- seo-title 长度在：50-60 个字符
+- seo-description 长度在：150-160 个字符
+
