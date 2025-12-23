@@ -3,15 +3,15 @@
   "icon": "icon-zhenjing1",
   "children": [
     {
-      "name": "hottools",
-      "nameShort": "hottools",
-      "seoTitle": "Hot Tools Professional Styling Tools",
-      "seoDescription": "Hot Tools official site showcasing curling irons, dryers, and salon styling gear.",
-      "seoKeywords": ["hot tools", "styling", "curling iron", "dryer"],
-      "iframeUrl": "https://www.hottools.com/",
+      "name": "json",
+      "nameShort": "json",
+      "seoTitle": "Online JSON Tools: Format, Validate, Minify - Convert JSON Data Free",
+      "path": "/json/",
+      "seoDescription": "Free online JSON tools to format, validate, minify, and beautify JSON instantly. Convert JSON to XML, CSV, YAML and vice versa. Essential tools for web developers and programmers.",
+      "seoKeywords": ["json", "json formatter", "json validator", "json converter", "json tools"],
       "bgImg": "",
-      "tags": ["hot-tools", "styling", "hair"],
-      "updateTime": "2025-12-19"
+      "tags": ["json", "formatter", "validator", "converter", "developer tools"],
+      "updateTime": "2025-12-22"
     }
   ]
 }

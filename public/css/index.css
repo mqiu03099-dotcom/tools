@@ -5,3 +5,21 @@ img {
 * {
   box-shadow: none;
 }
+
+.hide-x-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide-x-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-y-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide-y-scrollbar::-webkit-scrollbar {
+  display: none;
+}

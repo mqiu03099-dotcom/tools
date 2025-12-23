@@ -1,7 +1,7 @@
 <template>
   <div
     :key="index"
-    v-for="({ name, seoDescription, updateTime, bgImg }, index) in data || []"
+    v-for="({ name, seoDescription, updateTime, bgImg, path }, index) in data || []"
     class="w-full h-full hover:scale-98 transition-all overflow-hidden rounded-[var(--radius-box)]"
   >
     <div class="card bg-base-100 h-full image-full card-sm w-full shadow-sm">
@@ -29,7 +29,7 @@
         </div>
         <div class="card-actions justify-between items-center">
           <div class="text-[10px] font-bold">{{ updateTime }}</div>
-          <MA :href="`/detail/${name}`">
+          <MA :href="path ?? `/detail/${name}`">
             <button
               class="btn btn-sm btn-primary btn-soft"
               title="Look"

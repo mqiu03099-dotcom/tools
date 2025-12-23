@@ -17,6 +17,7 @@ export default defineNuxtConfig({
         const sitemaps = sitemapUrls.map((uri: string) => {
           const uriObj = {
             "": 1.0,
+            json: 0.9,
             detail: 0.9,
             tool: 0.9,
             search: 0.8,

@@ -17,12 +17,4 @@ const { type = "grid" } = defineProps<{
 }>();
 </script>
 
-<style scoped>
-.hide-x-scrollbar {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-.hide-x-scrollbar::-webkit-scrollbar {
-  display: none;
-}
-</style>
+<style scoped></style>
