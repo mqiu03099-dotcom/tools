@@ -4,4 +4,4 @@ export * from "./data";
 export * from "./enum";
 export * from "./menu";
 export * from "./themes";
-export * from "./text";
+

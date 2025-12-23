@@ -5,7 +5,7 @@
     <MDetailCard :tool="toolDetail" />
     <MDescription
       :tool="toolDetail"
-      :moreTools="moreTools"
+      :moreTools="moreTools || []"
     />
     <div class="divider divider-primary m-0! text-[12px]!">More Tools</div>
     <MGrid>

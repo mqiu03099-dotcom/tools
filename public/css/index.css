@@ -23,3 +23,7 @@ img {
 .hide-y-scrollbar::-webkit-scrollbar {
   display: none;
 }
+
+.container-rich a {
+  font-weight: bold !important;
+}

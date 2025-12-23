@@ -7,6 +7,7 @@
         v-if="bgImg"
         :src="bgImg"
         :alt="bgImg"
+        loading="lazy"
         class="absolute left-0 top-0 w-full h-full object-cover blur-xs"
       />
       <div class="bg-base-100 opacity-70 absolute left-0 top-0 w-full h-full"></div>

@@ -10,6 +10,7 @@
   seoKeywords: string[];
   updateTime: string;
   bgImg: string;
+  logo: string;
   richText: string;
   children: Menu[];
 }>;

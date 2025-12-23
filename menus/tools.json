@@ -5,11 +5,13 @@
     {
       "name": "json",
       "nameShort": "json",
-      "seoTitle": "Online JSON Tools: Format, Validate, Minify - Convert JSON Data Free",
+      "seoTitle": "JSON Formatter & Validator Online | Pretty Print & Minify",
       "path": "/json/",
-      "seoDescription": "Free online JSON tools to format, validate, minify, and beautify JSON instantly. Convert JSON to XML, CSV, YAML and vice versa. Essential tools for web developers and programmers.",
+      "iframeUrl": "https://json4u.cn/editor",
+      "seoDescription": "Online JSON toolkit to paste, pretty-print, minify, and validate payloads. Spot errors fast, convert between JSON, CSV, YAML, and keep API responses clean.",
       "seoKeywords": ["json", "json formatter", "json validator", "json converter", "json tools"],
-      "bgImg": "",
+      "bgImg": "https://json4u.cn/example/graph.webp",
+      "logo": "https://json4u.cn/icon.svg",
       "tags": ["json", "formatter", "validator", "converter", "developer tools"],
       "updateTime": "2025-12-22"
     }

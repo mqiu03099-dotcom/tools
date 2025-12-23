@@ -1,7 +1,7 @@
 <template>
   <div
     v-html="richText"
-    class="container p-3 max-w-[800px] mx-auto"
+    class="container p-3 max-w-[800px] mx-auto container-rich"
   ></div>
 </template>
 

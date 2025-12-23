@@ -39,6 +39,9 @@ const sencondText = computed(() => {
   if (path.startsWith("/privacy")) {
     return "privacy-policy";
   }
+  if (path.startsWith("/json/")) {
+    return "json";
+  }
   if (path.startsWith("/about")) {
     return "about-us";
   }

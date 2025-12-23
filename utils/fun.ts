@@ -164,3 +164,12 @@ export const countStringOccurrences = (arr: string[]): LabelValue[] => {
 
   return result;
 };
+
+/**
+ * 单词首写字符大写
+ * @param str
+ * @returns
+ */
+export const filterStrUpperCase = (str: string) => {
+  return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
+};
