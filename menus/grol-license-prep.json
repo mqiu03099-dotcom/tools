@@ -2,8 +2,8 @@
   "name": "grol-license-prep",
   "nameShort": "grol",
   "icon": "icon-chimian",
-  "seoTitle": "Grol Featuring Fcc Grol, Qrz Grol, Grol Guide",
-  "seoDescription": "Grol Directory Featuring Fcc Grol, Qrz Grol, Grol Guide And More.",
+  "seoTitle": "Grol Featuring Fcc Grol, Qrz Grol, Grol Guide | Guides.",
+  "seoDescription": "Grol Directory Featuring Fcc Grol, Qrz Grol, Grol Guide And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips To.",
   "seoKeywords": [
     "grol",
     "license",
@@ -19,8 +19,8 @@
     {
       "name": "fcc-grol-overview",
       "nameShort": "fcc-grol",
-      "seoTitle": "Fcc Grol The FCC's Commercial Operator Portal Lists General",
-      "seoDescription": "Fcc Grol - The FCC's Commercial Operator Portal Lists General Radiotelephone Operator License Eligibility, Element 1 3 8 Requirements, And All",
+      "seoTitle": "Fcc Grol The Fcc's Commercial Operator Portal Lists General.",
+      "seoDescription": "Fcc Grol - The Fcc's Commercial Operator Portal Lists General Radiotelephone Operator License Eligibility, Element 1 3 8 Requirements, And All Explore.",
       "seoKeywords": [
         "fcc grol",
         "fcc",
@@ -37,14 +37,20 @@
       ],
       "iframeUrl": "https://www.fcc.gov/commercial-radio-operator-license-program",
       "bgImg": "",
-      "tags": ["grol", "fcc", "license", "element", "guide"],
+      "tags": [
+        "grol",
+        "fcc",
+        "license",
+        "element",
+        "guide"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "qrz-grol-practice",
       "nameShort": "qrz-grol",
-      "seoTitle": "QRZ's Browser-Based Simulator Lets You Drill The Entire Question",
-      "seoDescription": "Qrz Grol - QRZ's Browser-based Simulator Lets You Drill The Entire Question Pool For GROL Elements 1, 3, And 8 With Instant Grading And Answer",
+      "seoTitle": "Qrz's Browser-Based Simulator Lets You Drill The Entire.",
+      "seoDescription": "Qrz Grol - Qrz's Browser-Based Simulator Lets You Drill The Entire Question Pool For GROL Elements 1, 3, And 8 With Instant Grading And Answer Explore.",
       "seoKeywords": [
         "qrz grol",
         "qrz",
@@ -61,14 +67,20 @@
       ],
       "iframeUrl": "https://www.qrz.com/hamtest/grol",
       "bgImg": "",
-      "tags": ["grol", "practice", "exam", "qrz", "radio"],
+      "tags": [
+        "grol",
+        "practice",
+        "exam",
+        "qrz",
+        "radio"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "coastguardexams-grol-guide",
       "nameShort": "grol-guide",
-      "seoTitle": "Grol Guide Coast Guard Exams Outlines Study Schedules",
-      "seoDescription": "Grol Guide - Coast Guard Exams Outlines Study Schedules, Recommended Texts, And In-person Test Center Logistics For Mariners Earning The FCC GROL",
+      "seoTitle": "Grol Guide Coast Guard Exams Outlines Study Schedules.",
+      "seoDescription": "Grol Guide - Coast Guard Exams Outlines Study Schedules, Recommended Texts, And In-Person Test Center Logistics For Mariners Earning The FCC GROL Explore.",
       "seoKeywords": [
         "grol guide",
         "coastguardexams",
@@ -85,14 +97,20 @@
       ],
       "iframeUrl": "https://www.coastguardexams.com/grol-license.html",
       "bgImg": "",
-      "tags": ["grol", "study", "guide", "maritime", "license"],
+      "tags": [
+        "grol",
+        "study",
+        "guide",
+        "maritime",
+        "license"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "hamstudy",
       "nameShort": "hamstudy",
-      "seoTitle": "Hamstudy GROL Practice Pools With Instant Grading",
-      "seoDescription": "Hamstudy offers GROL practice pools for Elements 1 and 3 with instant grading and flashcards.",
+      "seoTitle": "Hamstudy GROL Practice Pools With Instant Grading | Guides.",
+      "seoDescription": "Hamstudy Offers GROL Practice Pools For Elements 1 And 3 With Instant Grading And Flashcards. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
       "seoKeywords": [
         "hamstudy grol",
         "grol practice",
@@ -104,14 +122,19 @@
       ],
       "iframeUrl": "https://hamstudy.org/grol",
       "bgImg": "",
-      "tags": ["grol", "hamstudy", "practice", "exam"],
+      "tags": [
+        "grol",
+        "hamstudy",
+        "practice",
+        "exam"
+      ],
       "updateTime": "2025-12-21"
     },
     {
       "name": "quizlet",
       "nameShort": "quizlet",
-      "seoTitle": "Quizlet GROL Flashcards Cover Elements 1,3,8 With Audio Aids",
-      "seoDescription": "Quizlet flashcards for GROL cover Elements 1, 3, and 8 with spaced repetition and audio aids.",
+      "seoTitle": "Quizlet GROL Flashcards Cover Elements 1,3,8 With Audio.",
+      "seoDescription": "Quizlet Flashcards For GROL Cover Elements 1, 3, And 8 With Spaced Repetition And Audio Aids. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
       "seoKeywords": [
         "quizlet grol",
         "grol flashcards",
@@ -123,9 +146,13 @@
       ],
       "iframeUrl": "https://quizlet.com/subject/grol/",
       "bgImg": "",
-      "tags": ["grol", "quizlet", "flashcards", "exam"],
+      "tags": [
+        "grol",
+        "quizlet",
+        "flashcards",
+        "exam"
+      ],
       "updateTime": "2025-12-21"
     }
   ]
 }
-

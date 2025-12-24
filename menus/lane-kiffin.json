@@ -2,15 +2,23 @@
   "name": "lane-kiffin",
   "nameShort": "kiffin",
   "icon": "icon-haiyuan",
-  "seoTitle": "Kiffin Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats",
-  "seoDescription": "Kiffin Directory Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats And More.",
-  "seoKeywords": ["kiffin", "lane", "wikipedia", "olemiss", "staff", "sports", "reference"],
+  "seoTitle": "Kiffin Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats.",
+  "seoDescription": "Kiffin Directory Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+  "seoKeywords": [
+    "kiffin",
+    "lane",
+    "wikipedia",
+    "olemiss",
+    "staff",
+    "sports",
+    "reference"
+  ],
   "children": [
     {
       "name": "lane-kiffin-wikipedia",
       "nameShort": "kiffin-wiki",
-      "seoTitle": "Kiffin Wiki Lane Kiffin's Wikipedia Profile Covers Every Stop On",
-      "seoDescription": "Kiffin Wiki - Lane Kiffin's Wikipedia Profile Covers Every Stop On His Coaching Tree, Head-coaching Record, And Notable Scheme Changes",
+      "seoTitle": "Kiffin Wiki Lane Kiffin's Wikipedia Profile Covers Every.",
+      "seoDescription": "Kiffin Wiki - Lane Kiffin's Wikipedia Profile Covers Every Stop On His Coaching Tree, Head-Coaching Record, And Notable Scheme Changes Explore Features, Use.",
       "seoKeywords": [
         "kiffin wiki",
         "lane",
@@ -27,14 +35,20 @@
       ],
       "iframeUrl": "https://en.wikipedia.org/wiki/Lane_Kiffin",
       "bgImg": "",
-      "tags": ["lane-kiffin", "wiki", "coach", "college", "football"],
+      "tags": [
+        "lane-kiffin",
+        "wiki",
+        "coach",
+        "college",
+        "football"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "olemiss-staff-lane-kiffin",
       "nameShort": "kiffin-olemiss",
-      "seoTitle": "Kiffin Olemiss Ole Miss Athletics Lists Kiffin's Current",
-      "seoDescription": "Kiffin Olemiss - Ole Miss Athletics Lists Kiffin's Current Responsibilities, Contract Milestones, And Contact Details Inside The University Directory",
+      "seoTitle": "Kiffin Olemiss Ole Miss Athletics Lists Kiffin's Current.",
+      "seoDescription": "Kiffin Olemiss - Ole Miss Athletics Lists Kiffin's Current Responsibilities, Contract Milestones, And Contact Details Inside The University Directory Explore.",
       "seoKeywords": [
         "kiffin olemiss",
         "olemiss",
@@ -51,14 +65,20 @@
       ],
       "iframeUrl": "https://olemisssports.com/staff-directory/lane-kiffin/3386",
       "bgImg": "",
-      "tags": ["lane-kiffin", "ole-miss", "staff", "sec", "profile"],
+      "tags": [
+        "lane-kiffin",
+        "ole-miss",
+        "staff",
+        "sec",
+        "profile"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "sports-reference-lane-kiffin",
       "nameShort": "kiffin-stats",
-      "seoTitle": "Kiffin Stats Sports Reference Breaks Down Kiffin's Year-By-Year",
-      "seoDescription": "Kiffin Stats - Sports Reference Breaks Down Kiffin's Year-by-year Records, Bowl Appearances, And Offensive Rankings Across His Head-coaching Tenure",
+      "seoTitle": "Kiffin Stats Sports Reference Breaks Down Kiffin's.",
+      "seoDescription": "Kiffin Stats - Sports Reference Breaks Down Kiffin's Year-By-Year Records, Bowl Appearances, And Offensive Rankings Across His Head-Coaching Tenure Explore.",
       "seoKeywords": [
         "kiffin stats",
         "sports",
@@ -75,14 +95,20 @@
       ],
       "iframeUrl": "https://www.sports-reference.com/cfb/coaches/lane-kiffin-1.html",
       "bgImg": "",
-      "tags": ["lane-kiffin", "stats", "cfb", "records", "history"],
+      "tags": [
+        "lane-kiffin",
+        "stats",
+        "cfb",
+        "records",
+        "history"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "espn-kiffin",
       "nameShort": "espn",
-      "seoTitle": "ESPN Coach Page Lists Lane Kiffin Record And Recruiting Buzz",
-      "seoDescription": "ESPN coach page lists Lane Kiffin career record, recruiting class rankings, and latest Ole Miss headlines.",
+      "seoTitle": "ESPN Coach Page Lists Lane Kiffin Record And Recruiting.",
+      "seoDescription": "ESPN Coach Page Lists Lane Kiffin Career Record, Recruiting Class Rankings, And Latest Ole Miss Headlines. Explore Features, Use Cases, Pricing, Alternatives.",
       "seoKeywords": [
         "espn",
         "lane kiffin",
@@ -94,14 +120,19 @@
       ],
       "iframeUrl": "https://www.espn.com/college-football/coach/_/id/123164/lane-kiffin",
       "bgImg": "",
-      "tags": ["lane-kiffin", "espn", "recruiting", "sec"],
+      "tags": [
+        "lane-kiffin",
+        "espn",
+        "recruiting",
+        "sec"
+      ],
       "updateTime": "2025-12-21"
     },
     {
       "name": "247sports-kiffin",
       "nameShort": "247sports",
-      "seoTitle": "247Sports Tracks Lane Kiffin Recruiting, Staff Moves, Portal",
-      "seoDescription": "247Sports tracks Lane Kiffin recruiting classes, staff moves, and transfer portal commits at Ole Miss.",
+      "seoTitle": "247Sports Tracks Lane Kiffin Recruiting, Staff Moves.",
+      "seoDescription": "247Sports Tracks Lane Kiffin Recruiting Classes, Staff Moves, And Transfer Portal Commits At Ole Miss. Explore Features, Use Cases, Pricing, Alternatives.",
       "seoKeywords": [
         "247sports",
         "lane kiffin",
@@ -113,9 +144,13 @@
       ],
       "iframeUrl": "https://247sports.com/Coach/Lane-Kiffin-1987/",
       "bgImg": "",
-      "tags": ["lane-kiffin", "247sports", "recruiting", "portal"],
+      "tags": [
+        "lane-kiffin",
+        "247sports",
+        "recruiting",
+        "portal"
+      ],
       "updateTime": "2025-12-21"
     }
   ]
 }
-

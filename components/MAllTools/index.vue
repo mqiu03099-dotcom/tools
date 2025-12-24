@@ -3,10 +3,10 @@
     <div class="divider divider-primary m-0! text-[12px]!">All Tools</div>
     <div class="flex flex-wrap gap-3">
       <MA
-        v-for="({ nameShort, name }, index) in blockTools"
+        v-for="({ nameShort, name, path }, index) in blockTools"
         :key="index"
         :title="name"
-        :href="`/detail/${name}`"
+        :href="path ?? `/detail/${name}`"
       >
         <button :class="['btn btn-sm capitalize btn-soft', changeTheme(index)]">
           {{ nameShort }}

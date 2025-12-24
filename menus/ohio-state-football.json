@@ -2,8 +2,8 @@
   "name": "ohio-state-football",
   "nameShort": "ohio-state",
   "icon": "icon-banan",
-  "seoTitle": "Ohio State Featuring Buckeyes Official, Ohio State Espn",
-  "seoDescription": "Ohio State Directory Featuring Buckeyes Official, Ohio State Espn, Elevenwarriors And More.",
+  "seoTitle": "Ohio State Featuring Buckeyes Official, Ohio State Espn.",
+  "seoDescription": "Ohio State Directory Featuring Buckeyes Official, Ohio State Espn, Elevenwarriors And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
   "seoKeywords": [
     "ohio state",
     "ohio",
@@ -19,8 +19,8 @@
     {
       "name": "buckeyes-official-football",
       "nameShort": "buckeyes-official",
-      "seoTitle": "Buckeyes Official Ohio State's Athletics Site Features Ryan Day",
-      "seoDescription": "Buckeyes Official - Ohio State's Athletics Site Features Ryan Day Press Conferences, Roster Bios, And Scarlet Gray Ticket Info",
+      "seoTitle": "Buckeyes Official Ohio State's Athletics Site Features Ryan.",
+      "seoDescription": "Buckeyes Official - Ohio State's Athletics Site Features Ryan Day Press Conferences, Roster Bios, And Scarlet Gray Ticket Info Explore Features, Use Cases.",
       "seoKeywords": [
         "buckeyes official",
         "buckeyes",
@@ -37,14 +37,20 @@
       ],
       "iframeUrl": "https://ohiostatebuckeyes.com/sports/m-footbl/",
       "bgImg": "",
-      "tags": ["ohio-state", "football", "official", "schedule", "news"],
+      "tags": [
+        "ohio-state",
+        "football",
+        "official",
+        "schedule",
+        "news"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "espn-ohio-state-team",
       "nameShort": "ohio-state-espn",
-      "seoTitle": "Ohio State Espn ESPN's Buckeyes Page Tracks Standings, Injury",
-      "seoDescription": "Ohio State Espn - ESPN's Buckeyes Page Tracks Standings, Injury Reports, And Live Win Probabilities For Every Matchup",
+      "seoTitle": "Ohio State Espn Espn's Buckeyes Page Tracks Standings.",
+      "seoDescription": "Ohio State Espn - Espn's Buckeyes Page Tracks Standings, Injury Reports, And Live Win Probabilities For Every Matchup Explore Features, Use Cases, Pricing.",
       "seoKeywords": [
         "ohio state espn",
         "espn",
@@ -61,14 +67,20 @@
       ],
       "iframeUrl": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
       "bgImg": "",
-      "tags": ["ohio-state", "espn", "stats", "schedule", "cfb"],
+      "tags": [
+        "ohio-state",
+        "espn",
+        "stats",
+        "schedule",
+        "cfb"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "elevenwarriors-ohio-state",
       "nameShort": "elevenwarriors",
-      "seoTitle": "Elevenwarriors Eleven Warriors Provides Daily Ohio State",
-      "seoDescription": "Elevenwarriors - Eleven Warriors Provides Daily Ohio State Analysis, Film Rooms, Recruiting Scoops, And Rapid Game Reactions",
+      "seoTitle": "Elevenwarriors Eleven Warriors Provides Daily Ohio State.",
+      "seoDescription": "Elevenwarriors - Eleven Warriors Provides Daily Ohio State Analysis, Film Rooms, Recruiting Scoops, And Rapid Game Reactions Explore Features, Use Cases.",
       "seoKeywords": [
         "elevenwarriors",
         "ohio",
@@ -85,14 +97,20 @@
       ],
       "iframeUrl": "https://www.elevenwarriors.com/",
       "bgImg": "",
-      "tags": ["ohio-state", "blog", "analysis", "recruiting", "fans"],
+      "tags": [
+        "ohio-state",
+        "blog",
+        "analysis",
+        "recruiting",
+        "fans"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "on3-ohio-state",
       "nameShort": "on3",
-      "seoTitle": "On3 Buckeyes Hub Tracks Recruiting, NIL Values, And Portal",
-      "seoDescription": "On3 Buckeyes hub tracks recruiting rankings, NIL values, transfer portal moves, and depth charts for Ohio State.",
+      "seoTitle": "On3 Buckeyes Hub Tracks Recruiting, NIL Values, And Portal.",
+      "seoDescription": "On3 Buckeyes Hub Tracks Recruiting Rankings, NIL Values, Transfer Portal Moves, And Depth Charts For Ohio State. Explore Features, Use Cases, Pricing Get Key.",
       "seoKeywords": [
         "on3",
         "ohio state",
@@ -104,14 +122,19 @@
       ],
       "iframeUrl": "https://www.on3.com/teams/ohio-state-buckeyes/",
       "bgImg": "",
-      "tags": ["ohio-state", "on3", "recruiting", "nil"],
+      "tags": [
+        "ohio-state",
+        "on3",
+        "recruiting",
+        "nil"
+      ],
       "updateTime": "2025-12-21"
     },
     {
       "name": "247sports-ohio-state",
       "nameShort": "247sports",
-      "seoTitle": "247Sports Bucknuts Covers Recruiting Scoop And Crystal Ball Picks",
-      "seoDescription": "247Sports Bucknuts covers Ohio State recruiting scoop, crystal ball picks, and insider boards for Buckeye fans.",
+      "seoTitle": "247Sports Bucknuts Covers Recruiting Scoop And Crystal Ball.",
+      "seoDescription": "247Sports Bucknuts Covers Ohio State Recruiting Scoop, Crystal Ball Picks, And Insider Boards For Buckeye Fans. Explore Features, Use Cases, Pricing Explore.",
       "seoKeywords": [
         "247sports",
         "bucknuts",
@@ -123,9 +146,13 @@
       ],
       "iframeUrl": "https://247sports.com/college/ohio-state/",
       "bgImg": "",
-      "tags": ["ohio-state", "247sports", "recruiting", "insider"],
+      "tags": [
+        "ohio-state",
+        "247sports",
+        "recruiting",
+        "insider"
+      ],
       "updateTime": "2025-12-21"
     }
   ]
 }
-

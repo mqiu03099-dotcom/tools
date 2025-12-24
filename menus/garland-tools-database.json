@@ -2,65 +2,115 @@
   "name": "garland-tools-database",
   "nameShort": "garland",
   "icon": "icon-chaoren",
-  "seoTitle": "Garland Tools And FFXIV Helper Sites",
-  "seoDescription": "Garland Tools database links plus related FFXIV helpers and community resources.",
-  "seoKeywords": ["garland tools", "ffxiv", "database", "bell", "teamcraft"],
+  "seoTitle": "Garland Tools And Ffxiv Helper Sites | Guides, Tips &.",
+  "seoDescription": "Garland Tools Database Links Plus Related Ffxiv Helpers And Community Resources. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+  "seoKeywords": [
+    "garland tools",
+    "ffxiv",
+    "database",
+    "bell",
+    "teamcraft"
+  ],
   "children": [
     {
       "name": "garland-tools-db",
       "nameShort": "db",
-      "seoTitle": "Garland Tools Database",
-      "seoDescription": "Garland Tools database for FFXIV items, recipes, gathering nodes, and crafting info.",
-      "seoKeywords": ["garland tools", "database", "ffxiv", "crafting"],
+      "seoTitle": "Garland Tools Database | Guides, Tips & Updates Guides.",
+      "seoDescription": "Garland Tools Database For Ffxiv Items, Recipes, Gathering Nodes, And Crafting Info. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
+      "seoKeywords": [
+        "garland tools",
+        "database",
+        "ffxiv",
+        "crafting"
+      ],
       "iframeUrl": "https://www.garlandtools.org/db/",
       "bgImg": "",
-      "tags": ["garland-tools", "database", "ffxiv"],
+      "tags": [
+        "garland-tools",
+        "database",
+        "ffxiv"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "garland-bell-timers",
       "nameShort": "bell",
-      "seoTitle": "Garland Bell Timers For FFXIV",
-      "seoDescription": "Garland Bell timer tool showing ephemeral nodes, hunt marks, and time windows.",
-      "seoKeywords": ["garland tools", "bell", "ffxiv", "timers"],
+      "seoTitle": "Garland Bell Timers For Ffxiv | Guides, Tips & Updates.",
+      "seoDescription": "Garland Bell Timer Tool Showing Ephemeral Nodes, Hunt Marks, And Time Windows. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "garland tools",
+        "bell",
+        "ffxiv",
+        "timers"
+      ],
       "iframeUrl": "https://www.garlandtools.org/bell/",
       "bgImg": "",
-      "tags": ["garland-tools", "bell", "ffxiv"],
+      "tags": [
+        "garland-tools",
+        "bell",
+        "ffxiv"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "garland-tools-github",
       "nameShort": "github",
-      "seoTitle": "Garland Tools GitHub Repository",
-      "seoDescription": "Garland Tools open-source repository with data, site code, and change history.",
-      "seoKeywords": ["garland tools", "github", "open source", "ffxiv"],
+      "seoTitle": "Garland Tools Github Repository | Guides, Tips & Updates.",
+      "seoDescription": "Garland Tools Open-Source Repository With Data, Site Code, And Change History. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "garland tools",
+        "github",
+        "open source",
+        "ffxiv"
+      ],
       "iframeUrl": "https://github.com/ufx/GarlandTools",
       "bgImg": "",
-      "tags": ["garland-tools", "github", "open-source"],
+      "tags": [
+        "garland-tools",
+        "github",
+        "open-source"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "ffxiv-teamcraft",
       "nameShort": "teamcraft",
-      "seoTitle": "FFXIV Teamcraft Crafting Toolkit",
-      "seoDescription": "FFXIV Teamcraft for crafting lists, simulators, and market board planning.",
-      "seoKeywords": ["teamcraft", "ffxiv", "crafting", "toolkit"],
+      "seoTitle": "Ffxiv Teamcraft Crafting Toolkit | Guides, Tips & Updates.",
+      "seoDescription": "Ffxiv Teamcraft For Crafting Lists, Simulators, And Market Board Planning. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert.",
+      "seoKeywords": [
+        "teamcraft",
+        "ffxiv",
+        "crafting",
+        "toolkit"
+      ],
       "iframeUrl": "https://ffxivteamcraft.com/",
       "bgImg": "",
-      "tags": ["ffxiv", "teamcraft", "crafting"],
+      "tags": [
+        "ffxiv",
+        "teamcraft",
+        "crafting"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "universalis-market",
       "nameShort": "universalis",
-      "seoTitle": "Universalis FFXIV Market Board Tracker",
-      "seoDescription": "Universalis real-time market board tracker for FFXIV prices and history.",
-      "seoKeywords": ["universalis", "ffxiv", "market board", "prices"],
+      "seoTitle": "Universalis Ffxiv Market Board Tracker | Guides, Tips &.",
+      "seoDescription": "Universalis Real-Time Market Board Tracker For Ffxiv Prices And History. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert.",
+      "seoKeywords": [
+        "universalis",
+        "ffxiv",
+        "market board",
+        "prices"
+      ],
       "iframeUrl": "https://universalis.app/",
       "bgImg": "",
-      "tags": ["ffxiv", "market", "universalis"],
+      "tags": [
+        "ffxiv",
+        "market",
+        "universalis"
+      ],
       "updateTime": "2025-12-19"
     }
   ]
 }
-

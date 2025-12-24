@@ -2,8 +2,8 @@
   "name": "prompt-dec15-topics",
   "nameShort": "dec15",
   "icon": "icon-zhongzi",
-  "seoTitle": "Prompt Batch Featuring Powerball, Christmas, Vikings Vs Cowboys",
-  "seoDescription": "Requested Categories Covering Lottery, Holidays, NFL Rivalries, Travel Spots, And Profile Lookups.",
+  "seoTitle": "Prompt Batch Featuring Powerball, Christmas, Vikings Vs.",
+  "seoDescription": "Requested Categories Covering Lottery, Holidays, NFL Rivalries, Travel Spots, And Profile Lookups. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
   "seoKeywords": [
     "powerball",
     "christmas",
@@ -20,8 +20,8 @@
     {
       "name": "powerball-lottery-drawings",
       "nameShort": "powerball",
-      "seoTitle": "Powerball Lottery Numbers, Jackpot, And Drawing Schedule",
-      "seoDescription": "Official Powerball Feed With Current Jackpot, Winning Numbers, And Drawing Calendar For Lottery Players.",
+      "seoTitle": "Powerball Lottery Numbers, Jackpot, And Drawing Schedule.",
+      "seoDescription": "Official Powerball Feed With Current Jackpot, Winning Numbers, And Drawing Calendar For Lottery Players. Explore Features, Use Cases, Pricing, Alternatives.",
       "seoKeywords": [
         "powerball",
         "lottery",
@@ -32,14 +32,20 @@
       ],
       "iframeUrl": "https://www.powerball.com/games/powerball",
       "bgImg": "",
-      "tags": ["powerball", "lottery", "jackpot", "drawings", "numbers"],
+      "tags": [
+        "powerball",
+        "lottery",
+        "jackpot",
+        "drawings",
+        "numbers"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "christmas-holiday-guide",
       "nameShort": "christmas",
-      "seoTitle": "Christmas Ideas Covering Santa, Trees, Lights, And Gift Lists",
-      "seoDescription": "Holiday Hub For Christmas Decor, Santa Traditions, Tree And Light Guides, Elf Fun, Reindeer Facts, And Gift Lists.",
+      "seoTitle": "Christmas Ideas Covering Santa, Trees, Lights, And Gift.",
+      "seoDescription": "Holiday Hub For Christmas Decor, Santa Traditions, Tree And Light Guides, Elf Fun, Reindeer Facts, And Gift Lists. Explore Features, Use Cases, Pricing.",
       "seoKeywords": [
         "christmas",
         "santa",
@@ -51,14 +57,23 @@
       ],
       "iframeUrl": "https://www.goodhousekeeping.com/holidays/christmas-ideas/",
       "bgImg": "",
-      "tags": ["christmas", "santa", "decor", "tree", "lights", "gifts", "elf", "reindeer"],
+      "tags": [
+        "christmas",
+        "santa",
+        "decor",
+        "tree",
+        "lights",
+        "gifts",
+        "elf",
+        "reindeer"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "hanukkah-2025-guide",
       "nameShort": "hanukkah",
-      "seoTitle": "Hanukkah 2025 Dates, First Night, Blessings, And Traditions",
-      "seoDescription": "Overview Of Hanukkah 2025 Including First Night Timing, Blessings, Happy Hanukkah Greetings, And Prayer References.",
+      "seoTitle": "Hanukkah 2025 Dates, First Night, Blessings, And Traditions.",
+      "seoDescription": "Overview Of Hanukkah 2025 Including First Night Timing, Blessings, Happy Hanukkah Greetings, And Prayer References. Explore Features, Use Cases, Pricing.",
       "seoKeywords": [
         "hanukkah",
         "hannukah",
@@ -68,25 +83,43 @@
       ],
       "iframeUrl": "https://www.chabad.org/holidays/chanukah/default_cdo/jewish/Hanukkah-2025.htm",
       "bgImg": "",
-      "tags": ["hanukkah", "prayer", "blessings", "first-night", "happy-hanukkah"],
+      "tags": [
+        "hanukkah",
+        "prayer",
+        "blessings",
+        "first-night",
+        "happy-hanukkah"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "mailbox-rental-near-me",
       "nameShort": "mailbox",
-      "seoTitle": "Mailbox Rental Near Me With UPS Store Locator",
-      "seoDescription": "Find Nearby Mailbox Rental Options, Street Addresses, And PO Box Alternatives Using The UPS Store Locator.",
-      "seoKeywords": ["mailbox rental near me", "mailbox", "ups store", "po box", "address"],
+      "seoTitle": "Mailbox Rental Near Me With UPS Store Locator | Guides.",
+      "seoDescription": "Find Nearby Mailbox Rental Options, Street Addresses, And PO Box Alternatives Using The UPS Store Locator. Explore Features, Use Cases, Pricing, Alternatives.",
+      "seoKeywords": [
+        "mailbox rental near me",
+        "mailbox",
+        "ups store",
+        "po box",
+        "address"
+      ],
       "iframeUrl": "https://www.theupsstore.com/tools/find-a-store",
       "bgImg": "",
-      "tags": ["mailbox", "rental", "ups-store", "po-box", "locator"],
+      "tags": [
+        "mailbox",
+        "rental",
+        "ups-store",
+        "po-box",
+        "locator"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "bondi-beach-guide",
       "nameShort": "bondi-beach",
-      "seoTitle": "Bondi Beach Travel Guide, Surf, And Coastal Walks",
-      "seoDescription": "Visitor Guide For Bondi Beach Covering Surf Spots, Coastal Walk Highlights, Cafes, And Safety Tips.",
+      "seoTitle": "Bondi Beach Travel Guide, Surf, And Coastal Walks | Guides.",
+      "seoDescription": "Visitor Guide For Bondi Beach Covering Surf Spots, Coastal Walk Highlights, Cafes, And Safety Tips. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
       "seoKeywords": [
         "bondi beach",
         "sydney",
@@ -98,179 +131,344 @@
       ],
       "iframeUrl": "https://www.sydney.com/destinations/sydney/sydney-east/bondi/bondi-beach",
       "bgImg": "",
-      "tags": ["bondi", "beach", "sydney", "travel", "surf"],
+      "tags": [
+        "bondi",
+        "beach",
+        "sydney",
+        "travel",
+        "surf"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "honolulu-marathon-2025",
       "nameShort": "honolulu-marathon",
-      "seoTitle": "Honolulu Marathon 2025 Registration, Course Map, And Results",
-      "seoDescription": "Official Honolulu Marathon Site With 2025 Registration, Course Maps, Race Day Details, And Results Links.",
-      "seoKeywords": ["honolulu marathon 2025", "race", "registration", "course map", "results"],
+      "seoTitle": "Honolulu Marathon 2025 Registration, Course Map, And.",
+      "seoDescription": "Official Honolulu Marathon Site With 2025 Registration, Course Maps, Race Day Details, And Results Links. Explore Features, Use Cases, Pricing, Alternatives.",
+      "seoKeywords": [
+        "honolulu marathon 2025",
+        "race",
+        "registration",
+        "course map",
+        "results"
+      ],
       "iframeUrl": "https://www.honolulumarathon.org/",
       "bgImg": "",
-      "tags": ["honolulu-marathon", "2025", "race", "registration"],
+      "tags": [
+        "honolulu-marathon",
+        "2025",
+        "race",
+        "registration"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "brown-university-safety",
       "nameShort": "brown-university",
-      "seoTitle": "Brown University Alerts, Safety Notices, And Incident Updates",
-      "seoDescription": "Brown University Safety Portal For Alerts, Including Active Shooter Notices, Emergency Contacts, And Campus Updates.",
-      "seoKeywords": ["brown university", "active shooter", "alerts", "campus safety", "security"],
+      "seoTitle": "Brown University Alerts, Safety Notices, And Incident.",
+      "seoDescription": "Brown University Safety Portal For Alerts, Including Active Shooter Notices, Emergency Contacts, And Campus Updates. Explore Features, Use Cases, Pricing.",
+      "seoKeywords": [
+        "brown university",
+        "active shooter",
+        "alerts",
+        "campus safety",
+        "security"
+      ],
       "iframeUrl": "https://alert.brown.edu/",
       "bgImg": "",
-      "tags": ["brown-university", "alerts", "safety", "active-shooter", "security"],
+      "tags": [
+        "brown-university",
+        "alerts",
+        "safety",
+        "active-shooter",
+        "security"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "gpt-chatgpt-overview",
       "nameShort": "gpt",
-      "seoTitle": "GPT Overview With ChatGPT Access And Updates",
-      "seoDescription": "ChatGPT Landing Page Covering GPT Access, Product Overview, And How To Start A New Chat Session.",
-      "seoKeywords": ["gpt", "chat gpt", "chatgpt", "openai", "ai chatbot"],
+      "seoTitle": "GPT Overview With Chatgpt Access And Updates | Guides, Tips.",
+      "seoDescription": "Chatgpt Landing Page Covering GPT Access, Product Overview, And How To Start A New Chat Session. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "gpt",
+        "chat gpt",
+        "chatgpt",
+        "openai",
+        "ai chatbot"
+      ],
       "iframeUrl": "https://openai.com/chatgpt",
       "bgImg": "",
-      "tags": ["gpt", "chatgpt", "openai", "ai"],
+      "tags": [
+        "gpt",
+        "chatgpt",
+        "openai",
+        "ai"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "clownfish-marine-facts",
       "nameShort": "clownfish",
-      "seoTitle": "Clownfish Facts, Habitat, And Reef Care",
-      "seoDescription": "Marine Life Guide Explaining Clownfish Species, Reef Habitats, Diet, And Symbiosis With Anemones.",
-      "seoKeywords": ["clownfish", "marine life", "reef", "anemone", "fish facts"],
+      "seoTitle": "Clownfish Facts, Habitat, And Reef Care | Guides, Tips &.",
+      "seoDescription": "Marine Life Guide Explaining Clownfish Species, Reef Habitats, Diet, And Symbiosis With Anemones. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
+      "seoKeywords": [
+        "clownfish",
+        "marine life",
+        "reef",
+        "anemone",
+        "fish facts"
+      ],
       "iframeUrl": "https://www.nationalgeographic.com/animals/fish/facts/clownfish",
       "bgImg": "",
-      "tags": ["clownfish", "marine", "reef", "anemone"],
+      "tags": [
+        "clownfish",
+        "marine",
+        "reef",
+        "anemone"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "pet-care-dogs-cats",
       "nameShort": "dogs-cats",
-      "seoTitle": "Dog And Cat Care Basics, Nutrition, And Adoption Tips",
-      "seoDescription": "ASPCA Pet Care Hub Covering Dog And Cat Nutrition, Training, Safety, And Adoption Resources.",
-      "seoKeywords": ["dog", "dogs", "cat", "cats", "pet care", "aspca"],
+      "seoTitle": "Dog And Cat Care Basics, Nutrition, And Adoption Tips.",
+      "seoDescription": "Aspca Pet Care Hub Covering Dog And Cat Nutrition, Training, Safety, And Adoption Resources. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "dog",
+        "dogs",
+        "cat",
+        "cats",
+        "pet care",
+        "aspca"
+      ],
       "iframeUrl": "https://www.aspca.org/pet-care",
       "bgImg": "",
-      "tags": ["dog", "dogs", "cat", "cats", "pet-care"],
+      "tags": [
+        "dog",
+        "dogs",
+        "cat",
+        "cats",
+        "pet-care"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "snake-care-basics",
       "nameShort": "snake",
-      "seoTitle": "Snake Care Basics For New Keepers",
-      "seoDescription": "Beginner Guide To Pet Snake Care Including Habitat Setup, Temperature Control, And Feeding Schedules.",
-      "seoKeywords": ["snake", "pet snake", "care guide", "habitat", "feeding"],
+      "seoTitle": "Snake Care Basics For New Keepers | Guides, Tips & Updates.",
+      "seoDescription": "Beginner Guide To Pet Snake Care Including Habitat Setup, Temperature Control, And Feeding Schedules. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
+      "seoKeywords": [
+        "snake",
+        "pet snake",
+        "care guide",
+        "habitat",
+        "feeding"
+      ],
       "iframeUrl": "https://www.thesprucepets.com/how-to-take-care-of-pet-snakes-1239049",
       "bgImg": "",
-      "tags": ["snake", "pet-care", "habitat", "feeding"],
+      "tags": [
+        "snake",
+        "pet-care",
+        "habitat",
+        "feeding"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "iphone-14-15-compare",
       "nameShort": "iphone",
-      "seoTitle": "iPhone 14 Vs 15 Comparison, Specs, And Upgrade Notes",
-      "seoDescription": "Apple Comparison Tool Detailing iPhone 14 And iPhone 15 Specs, Cameras, And Upgrade Guidance.",
-      "seoKeywords": ["iphone 14", "iphone 15", "compare", "apple", "specs"],
+      "seoTitle": "Iphone 14 Vs 15 Comparison, Specs, And Upgrade Notes.",
+      "seoDescription": "Apple Comparison Tool Detailing Iphone 14 And Iphone 15 Specs, Cameras, And Upgrade Guidance. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "iphone 14",
+        "iphone 15",
+        "compare",
+        "apple",
+        "specs"
+      ],
       "iframeUrl": "https://www.apple.com/iphone/compare/",
       "bgImg": "",
-      "tags": ["iphone14", "iphone15", "apple", "compare"],
+      "tags": [
+        "iphone14",
+        "iphone15",
+        "apple",
+        "compare"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "google-search-home",
       "nameShort": "google",
-      "seoTitle": "Google Search Homepage And Shortcuts",
-      "seoDescription": "Direct Link To Google Search For Quick Queries, Images, And Web Results.",
-      "seoKeywords": ["google", "search", "homepage", "queries"],
+      "seoTitle": "Google Search Homepage And Shortcuts | Guides, Tips &.",
+      "seoDescription": "Direct Link To Google Search For Quick Queries, Images, And Web Results. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert.",
+      "seoKeywords": [
+        "google",
+        "search",
+        "homepage",
+        "queries"
+      ],
       "iframeUrl": "https://www.google.com/",
       "bgImg": "",
-      "tags": ["google", "search", "homepage"],
+      "tags": [
+        "google",
+        "search",
+        "homepage"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "camera-buyers-guide",
       "nameShort": "camera",
-      "seoTitle": "Camera Buyer'S Guide For Beginners",
-      "seoDescription": "DPReview Buyer'S Guide Highlighting Beginner-friendly Cameras, Key Specs, And Pricing Tips.",
-      "seoKeywords": ["camera", "buyers guide", "beginner cameras", "photography"],
+      "seoTitle": "Camera Buyer's Guide For Beginners | Guides, Tips & Updates.",
+      "seoDescription": "Dpreview Buyer's Guide Highlighting Beginner-Friendly Cameras, Key Specs, And Pricing Tips. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "camera",
+        "buyers guide",
+        "beginner cameras",
+        "photography"
+      ],
       "iframeUrl": "https://www.dpreview.com/reviews/buying-guide-best-cameras-for-beginners",
       "bgImg": "",
-      "tags": ["camera", "guide", "photography", "beginner"],
+      "tags": [
+        "camera",
+        "guide",
+        "photography",
+        "beginner"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "flowers-delivery-ideas",
       "nameShort": "flowers",
-      "seoTitle": "Flowers Delivery And Bouquet Ideas",
-      "seoDescription": "1-800-Flowers Catalog With Delivery Options, Occasions, And Bouquet Ideas For Gifts.",
-      "seoKeywords": ["flowers", "delivery", "bouquet", "gift"],
+      "seoTitle": "Flowers Delivery And Bouquet Ideas | Guides, Tips & Updates.",
+      "seoDescription": "1-800-Flowers Catalog With Delivery Options, Occasions, And Bouquet Ideas For Gifts. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
+      "seoKeywords": [
+        "flowers",
+        "delivery",
+        "bouquet",
+        "gift"
+      ],
       "iframeUrl": "https://www.1800flowers.com/",
       "bgImg": "",
-      "tags": ["flowers", "delivery", "bouquet", "gift"],
+      "tags": [
+        "flowers",
+        "delivery",
+        "bouquet",
+        "gift"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "amazon-walmart-hobbylobby-deals",
       "nameShort": "retail-deals",
-      "seoTitle": "Amazon, Walmart, And Hobby Lobby Deals Hub",
-      "seoDescription": "Retail Deals Hub Linking Amazon Gold Box, With Walmart And Hobby Lobby Savings In Keywords For Quick Lookups.",
-      "seoKeywords": ["amazon", "walmart", "hobby lobby", "deals", "shopping"],
+      "seoTitle": "Amazon, Walmart, And Hobby Lobby Deals Hub | Guides, Tips &.",
+      "seoDescription": "Retail Deals Hub Linking Amazon Gold Box, With Walmart And Hobby Lobby Savings In Keywords For Quick Lookups. Explore Features, Use Cases, Pricing, Alternative.",
+      "seoKeywords": [
+        "amazon",
+        "walmart",
+        "hobby lobby",
+        "deals",
+        "shopping"
+      ],
       "iframeUrl": "https://www.amazon.com/gp/goldbox",
       "bgImg": "",
-      "tags": ["amazon", "walmart", "hobby-lobby", "deals", "shopping"],
+      "tags": [
+        "amazon",
+        "walmart",
+        "hobby-lobby",
+        "deals",
+        "shopping"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "youtube-trending-watch",
       "nameShort": "youtube",
-      "seoTitle": "YouTube Trending And Popular Videos",
-      "seoDescription": "YouTube Trending Feed For Quick Access To Popular Videos And Live Streams.",
-      "seoKeywords": ["youtube", "trending", "videos", "popular"],
+      "seoTitle": "Youtube Trending And Popular Videos | Guides, Tips &.",
+      "seoDescription": "Youtube Trending Feed For Quick Access To Popular Videos And Live Streams. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert.",
+      "seoKeywords": [
+        "youtube",
+        "trending",
+        "videos",
+        "popular"
+      ],
       "iframeUrl": "https://www.youtube.com/feed/trending",
       "bgImg": "",
-      "tags": ["youtube", "trending", "videos"],
+      "tags": [
+        "youtube",
+        "trending",
+        "videos"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "nobel-prize-categories",
       "nameShort": "nobel-prize",
-      "seoTitle": "Nobel Prize Categories And Disciplines",
-      "seoDescription": "Nobel Prize Official Page Listing Prize Categories, Disciplines, And Selection Notes.",
-      "seoKeywords": ["nobel prize categories", "nobel", "physics", "chemistry", "peace"],
+      "seoTitle": "Nobel Prize Categories And Disciplines | Guides, Tips &.",
+      "seoDescription": "Nobel Prize Official Page Listing Prize Categories, Disciplines, And Selection Notes. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
+      "seoKeywords": [
+        "nobel prize categories",
+        "nobel",
+        "physics",
+        "chemistry",
+        "peace"
+      ],
       "iframeUrl": "https://www.nobelprize.org/prizes/facts/prize-categories/",
       "bgImg": "",
-      "tags": ["nobel-prize", "categories", "disciplines"],
+      "tags": [
+        "nobel-prize",
+        "categories",
+        "disciplines"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "made-in-america-gift-guide",
       "nameShort": "made-in-america",
-      "seoTitle": "Made In America Gift Guide For Holiday Shopping",
-      "seoDescription": "Curated Made-in-America Gift Guide With Product Ideas For Holiday And Christmas Shopping.",
-      "seoKeywords": ["made in america gift guide", "gift guide", "usa made", "holiday gifts"],
+      "seoTitle": "Made In America Gift Guide For Holiday Shopping | Guides.",
+      "seoDescription": "Curated Made-In-America Gift Guide With Product Ideas For Holiday And Christmas Shopping. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "made in america gift guide",
+        "gift guide",
+        "usa made",
+        "holiday gifts"
+      ],
       "iframeUrl": "https://www.countryliving.com/shopping/gifts/g27557185/made-in-america-gift-guide/",
       "bgImg": "",
-      "tags": ["made-in-america", "gift-guide", "holiday"],
+      "tags": [
+        "made-in-america",
+        "gift-guide",
+        "holiday"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "dicks-sporting-goods-deals",
       "nameShort": "dicks-deals",
-      "seoTitle": "Dick'S Sporting Goods Deals And Weekly Savings",
-      "seoDescription": "Dick'S Sporting Goods Deals Page For Coupons, Clearance, And Sporting Equipment Discounts.",
-      "seoKeywords": ["dicks sporting goods", "deals", "sporting goods", "coupon"],
+      "seoTitle": "Dick's Sporting Goods Deals And Weekly Savings | Guides.",
+      "seoDescription": "Dick's Sporting Goods Deals Page For Coupons, Clearance, And Sporting Equipment Discounts. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "dicks sporting goods",
+        "deals",
+        "sporting goods",
+        "coupon"
+      ],
       "iframeUrl": "https://www.dickssportinggoods.com/c/deals",
       "bgImg": "",
-      "tags": ["dicks", "sporting-goods", "deals", "coupons"],
+      "tags": [
+        "dicks",
+        "sporting-goods",
+        "deals",
+        "coupons"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "kevin-costner-the-first-christmas",
       "nameShort": "kevin-costner",
-      "seoTitle": "Kevin Costner The First Christmas Coverage",
-      "seoDescription": "Search Digest For Kevin Costner Project The First Christmas Including News And Rumors.",
+      "seoTitle": "Kevin Costner The First Christmas Coverage | Guides, Tips &.",
+      "seoDescription": "Search Digest For Kevin Costner Project The First Christmas Including News And Rumors. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
       "seoKeywords": [
         "kevin costner the first christmas",
         "kevin costner",
@@ -279,36 +477,58 @@
       ],
       "iframeUrl": "https://www.bing.com/search?q=Kevin+Costner+The+First+Christmas",
       "bgImg": "",
-      "tags": ["kevin-costner", "first-christmas", "movie"],
+      "tags": [
+        "kevin-costner",
+        "first-christmas",
+        "movie"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "knives-out-2-glass-onion",
       "nameShort": "knives-out-2",
-      "seoTitle": "Knives Out 2 Glass Onion Overview",
-      "seoDescription": "Glass Onion A Knives Out Mystery Page Covering Cast, Plot, And Release Details.",
-      "seoKeywords": ["knives out 2", "glass onion", "knives out", "film"],
+      "seoTitle": "Knives Out 2 Glass Onion Overview | Guides, Tips & Updates.",
+      "seoDescription": "Glass Onion A Knives Out Mystery Page Covering Cast, Plot, And Release Details. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "knives out 2",
+        "glass onion",
+        "knives out",
+        "film"
+      ],
       "iframeUrl": "https://en.wikipedia.org/wiki/Glass_Onion:_A_Knives_Out_Mystery",
       "bgImg": "",
-      "tags": ["knives-out-2", "glass-onion", "film"],
+      "tags": [
+        "knives-out-2",
+        "glass-onion",
+        "film"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "knives-out-3-updates",
       "nameShort": "knives-out-3",
-      "seoTitle": "Knives Out 3 Development News",
-      "seoDescription": "Upcoming Knives Out 3 Page With Development Status, Casting Rumors, And Release Tracking.",
-      "seoKeywords": ["knives out 3", "knives out", "film", "sequel"],
+      "seoTitle": "Knives Out 3 Development News | Guides, Tips & Updates.",
+      "seoDescription": "Upcoming Knives Out 3 Page With Development Status, Casting Rumors, And Release Tracking. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "knives out 3",
+        "knives out",
+        "film",
+        "sequel"
+      ],
       "iframeUrl": "https://en.wikipedia.org/wiki/Knives_Out_3",
       "bgImg": "",
-      "tags": ["knives-out-3", "sequel", "film"],
+      "tags": [
+        "knives-out-3",
+        "sequel",
+        "film"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "rob-reiner-profile",
       "nameShort": "rob-reiner",
-      "seoTitle": "Rob Reiner Filmography And Biography",
-      "seoDescription": "Rob Reiner Biography With Directing Credits, Filmography, And Family Notes Including Nick Reiner.",
+      "seoTitle": "Rob Reiner Filmography And Biography | Guides, Tips &.",
+      "seoDescription": "Rob Reiner Biography With Directing Credits, Filmography, And Family Notes Including Nick Reiner. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
       "seoKeywords": [
         "rob reiner",
         "director",
@@ -321,190 +541,354 @@
       ],
       "iframeUrl": "https://en.wikipedia.org/wiki/Rob_Reiner",
       "bgImg": "",
-      "tags": ["rob-reiner", "director", "filmography"],
+      "tags": [
+        "rob-reiner",
+        "director",
+        "filmography"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "nick-reiner-profile",
       "nameShort": "nick-reiner",
-      "seoTitle": "Nick Reiner Writer Profile",
-      "seoDescription": "Nick Reiner Biography Highlighting Writing Credits, Family Background, And Notable Projects.",
-      "seoKeywords": ["nick reiner", "writer", "rob reiner", "biography"],
+      "seoTitle": "Nick Reiner Writer Profile | Guides, Tips & Updates.",
+      "seoDescription": "Nick Reiner Biography Highlighting Writing Credits, Family Background, And Notable Projects. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "nick reiner",
+        "writer",
+        "rob reiner",
+        "biography"
+      ],
       "iframeUrl": "https://en.wikipedia.org/wiki/Nick_Reiner",
       "bgImg": "",
-      "tags": ["nick-reiner", "writer", "biography"],
+      "tags": [
+        "nick-reiner",
+        "writer",
+        "biography"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "peter-greene-actor-profile",
       "nameShort": "peter-greene",
-      "seoTitle": "Peter Greene Actor Filmography",
-      "seoDescription": "Peter Greene Biography And Filmography Including Roles In The Mask And Pulp Fiction.",
-      "seoKeywords": ["peter greene", "actor", "filmography", "the mask", "pulp fiction"],
+      "seoTitle": "Peter Greene Actor Filmography | Guides, Tips & Updates.",
+      "seoDescription": "Peter Greene Biography And Filmography Including Roles In The Mask And Pulp Fiction. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
+      "seoKeywords": [
+        "peter greene",
+        "actor",
+        "filmography",
+        "the mask",
+        "pulp fiction"
+      ],
       "iframeUrl": "https://en.wikipedia.org/wiki/Peter_Greene_(actor)",
       "bgImg": "",
-      "tags": ["peter-greene", "actor", "filmography"],
+      "tags": [
+        "peter-greene",
+        "actor",
+        "filmography"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "alexa-blatt-ucla-trainer",
       "nameShort": "alexa-blatt",
-      "seoTitle": "Alexa Blatt UCLA Athletic Trainer Profile",
-      "seoDescription": "UCLA Athletics Profile For Athletic Trainer Alexa Blatt Including Role And Background.",
-      "seoKeywords": ["alexa blatt", "ucla", "trainer", "viral", "basketball"],
+      "seoTitle": "Alexa Blatt UCLA Athletic Trainer Profile | Guides, Tips &.",
+      "seoDescription": "UCLA Athletics Profile For Athletic Trainer Alexa Blatt Including Role And Background. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
+      "seoKeywords": [
+        "alexa blatt",
+        "ucla",
+        "trainer",
+        "viral",
+        "basketball"
+      ],
       "iframeUrl": "https://uclabruins.com/sports/mens-basketball/roster/staff/alexa-blatt/382",
       "bgImg": "",
-      "tags": ["alexa-blatt", "ucla", "trainer"],
+      "tags": [
+        "alexa-blatt",
+        "ucla",
+        "trainer"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "achuapa-municipal-club",
       "nameShort": "achuapa",
-      "seoTitle": "Achuapa Municipal Football Club Fixtures And Results",
-      "seoDescription": "Achuapa Municipal Team Page With Fixtures, Results, And Squad Details From Soccerway.",
-      "seoKeywords": ["achuapa municipal", "football", "fixtures", "results", "soccer"],
+      "seoTitle": "Achuapa Municipal Football Club Fixtures And Results.",
+      "seoDescription": "Achuapa Municipal Team Page With Fixtures, Results, And Squad Details From Soccerway. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
+      "seoKeywords": [
+        "achuapa municipal",
+        "football",
+        "fixtures",
+        "results",
+        "soccer"
+      ],
       "iframeUrl": "https://int.soccerway.com/teams/guatemala/achuapa/18845/",
       "bgImg": "",
-      "tags": ["achuapa", "football", "fixtures", "results"],
+      "tags": [
+        "achuapa",
+        "football",
+        "fixtures",
+        "results"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "vikings-vs-cowboys-record",
       "nameShort": "vikings-cowboys",
-      "seoTitle": "Vikings Vs Cowboys Head-To-Head Record",
-      "seoDescription": "Statmuse Query Showing Minnesota Vikings Vs Dallas Cowboys Head-to-head Record And Scores.",
-      "seoKeywords": ["vikings vs cowboys", "record", "nfl", "head to head"],
+      "seoTitle": "Vikings Vs Cowboys Head-To-Head Record | Guides, Tips &.",
+      "seoDescription": "Statmuse Query Showing Minnesota Vikings Vs Dallas Cowboys Head-To-Head Record And Scores. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "vikings vs cowboys",
+        "record",
+        "nfl",
+        "head to head"
+      ],
       "iframeUrl": "https://www.statmuse.com/nfl/ask?q=vikings+vs+cowboys+record",
       "bgImg": "",
-      "tags": ["vikings", "cowboys", "nfl", "record"],
+      "tags": [
+        "vikings",
+        "cowboys",
+        "nfl",
+        "record"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "chargers-vs-chiefs-record",
       "nameShort": "chargers-chiefs",
-      "seoTitle": "Chargers Vs Chiefs Rivalry Stats",
-      "seoDescription": "Statmuse Head-to-head For Los Angeles Chargers Against Kansas City Chiefs Including Wins And Points.",
-      "seoKeywords": ["chargers vs chiefs", "nfl", "rivalry", "record", "afc west"],
+      "seoTitle": "Chargers Vs Chiefs Rivalry Stats | Guides, Tips & Updates.",
+      "seoDescription": "Statmuse Head-To-Head For Los Angeles Chargers Against Kansas City Chiefs Including Wins And Points. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
+      "seoKeywords": [
+        "chargers vs chiefs",
+        "nfl",
+        "rivalry",
+        "record",
+        "afc west"
+      ],
       "iframeUrl": "https://www.statmuse.com/nfl/ask?q=chargers+vs+chiefs+record",
       "bgImg": "",
-      "tags": ["chargers", "chiefs", "nfl", "afc-west"],
+      "tags": [
+        "chargers",
+        "chiefs",
+        "nfl",
+        "afc-west"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "bills-vs-patriots-record",
       "nameShort": "bills-patriots",
-      "seoTitle": "Bills Vs Patriots Series History",
-      "seoDescription": "Statmuse Head-to-head History For Buffalo Bills And New England Patriots With Score Trends.",
-      "seoKeywords": ["bills vs patriots", "nfl", "record", "afc east", "rivalry"],
+      "seoTitle": "Bills Vs Patriots Series History | Guides, Tips & Updates.",
+      "seoDescription": "Statmuse Head-To-Head History For Buffalo Bills And New England Patriots With Score Trends. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "bills vs patriots",
+        "nfl",
+        "record",
+        "afc east",
+        "rivalry"
+      ],
       "iframeUrl": "https://www.statmuse.com/nfl/ask?q=bills+vs+patriots+record",
       "bgImg": "",
-      "tags": ["bills", "patriots", "nfl", "record"],
+      "tags": [
+        "bills",
+        "patriots",
+        "nfl",
+        "record"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "raiders-vs-eagles-record",
       "nameShort": "raiders-eagles",
-      "seoTitle": "Raiders Vs Eagles Matchup History",
-      "seoDescription": "Statmuse Query For Las Vegas Raiders Versus Philadelphia Eagles Record And Point Totals.",
-      "seoKeywords": ["raiders vs eagles", "nfl", "record", "afc nfc"],
+      "seoTitle": "Raiders Vs Eagles Matchup History | Guides, Tips & Updates.",
+      "seoDescription": "Statmuse Query For Las Vegas Raiders Versus Philadelphia Eagles Record And Point Totals. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "raiders vs eagles",
+        "nfl",
+        "record",
+        "afc nfc"
+      ],
       "iframeUrl": "https://www.statmuse.com/nfl/ask?q=raiders+vs+eagles+record",
       "bgImg": "",
-      "tags": ["raiders", "eagles", "nfl", "record"],
+      "tags": [
+        "raiders",
+        "eagles",
+        "nfl",
+        "record"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "lions-vs-rams-record",
       "nameShort": "lions-rams",
-      "seoTitle": "Lions Vs Rams Head-To-Head Results",
-      "seoDescription": "Statmuse Head-to-head Summary For Detroit Lions Against Los Angeles Rams With Win-loss Totals.",
-      "seoKeywords": ["lions vs rams", "nfl", "record", "head to head"],
+      "seoTitle": "Lions Vs Rams Head-To-Head Results | Guides, Tips & Updates.",
+      "seoDescription": "Statmuse Head-To-Head Summary For Detroit Lions Against Los Angeles Rams With Win-Loss Totals. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "lions vs rams",
+        "nfl",
+        "record",
+        "head to head"
+      ],
       "iframeUrl": "https://www.statmuse.com/nfl/ask?q=lions+vs+rams+record",
       "bgImg": "",
-      "tags": ["lions", "rams", "nfl", "record"],
+      "tags": [
+        "lions",
+        "rams",
+        "nfl",
+        "record"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "packers-vs-broncos-record",
       "nameShort": "packers-broncos",
-      "seoTitle": "Packers Vs Broncos Series Record",
-      "seoDescription": "Statmuse Head-to-head For Green Bay Packers And Denver Broncos With Win Totals And Scores.",
-      "seoKeywords": ["packers vs broncos", "nfl", "record", "head to head"],
+      "seoTitle": "Packers Vs Broncos Series Record | Guides, Tips & Updates.",
+      "seoDescription": "Statmuse Head-To-Head For Green Bay Packers And Denver Broncos With Win Totals And Scores. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "packers vs broncos",
+        "nfl",
+        "record",
+        "head to head"
+      ],
       "iframeUrl": "https://www.statmuse.com/nfl/ask?q=packers+vs+broncos+record",
       "bgImg": "",
-      "tags": ["packers", "broncos", "nfl", "record"],
+      "tags": [
+        "packers",
+        "broncos",
+        "nfl",
+        "record"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "browns-vs-bears-record",
       "nameShort": "browns-bears",
-      "seoTitle": "Browns Vs Bears Head-To-Head History",
-      "seoDescription": "Statmuse Summary For Cleveland Browns Vs Chicago Bears Including Scores And Margins.",
-      "seoKeywords": ["browns vs bears", "nfl", "record", "history"],
+      "seoTitle": "Browns Vs Bears Head-To-Head History | Guides, Tips &.",
+      "seoDescription": "Statmuse Summary For Cleveland Browns Vs Chicago Bears Including Scores And Margins. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
+      "seoKeywords": [
+        "browns vs bears",
+        "nfl",
+        "record",
+        "history"
+      ],
       "iframeUrl": "https://www.statmuse.com/nfl/ask?q=browns+vs+bears+record",
       "bgImg": "",
-      "tags": ["browns", "bears", "nfl", "record"],
+      "tags": [
+        "browns",
+        "bears",
+        "nfl",
+        "record"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "colts-vs-seahawks-record",
       "nameShort": "colts-seahawks",
-      "seoTitle": "Colts Vs Seahawks Series Results",
-      "seoDescription": "Statmuse Head-to-head For Indianapolis Colts And Seattle Seahawks With Win-loss Data.",
-      "seoKeywords": ["colts vs seahawks", "nfl", "record", "head to head"],
+      "seoTitle": "Colts Vs Seahawks Series Results | Guides, Tips & Updates.",
+      "seoDescription": "Statmuse Head-To-Head For Indianapolis Colts And Seattle Seahawks With Win-Loss Data. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
+      "seoKeywords": [
+        "colts vs seahawks",
+        "nfl",
+        "record",
+        "head to head"
+      ],
       "iframeUrl": "https://www.statmuse.com/nfl/ask?q=colts+vs+seahawks+record",
       "bgImg": "",
-      "tags": ["colts", "seahawks", "nfl", "record"],
+      "tags": [
+        "colts",
+        "seahawks",
+        "nfl",
+        "record"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "bayern-vs-mainz-fixture",
       "nameShort": "bayern-mainz",
-      "seoTitle": "Bayern Munich Vs Mainz Head-To-Head",
-      "seoDescription": "FC Tables Head-to-head Page For Bayern Munich Against Mainz With Recent Results.",
-      "seoKeywords": ["bayern vs mainz", "bundesliga", "head to head", "fixture"],
+      "seoTitle": "Bayern Munich Vs Mainz Head-To-Head | Guides, Tips &.",
+      "seoDescription": "FC Tables Head-To-Head Page For Bayern Munich Against Mainz With Recent Results. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "bayern vs mainz",
+        "bundesliga",
+        "head to head",
+        "fixture"
+      ],
       "iframeUrl": "https://www.fctables.com/h2h/bayern-munich/mainz/",
       "bgImg": "",
-      "tags": ["bayern", "mainz", "bundesliga", "fixture"],
+      "tags": [
+        "bayern",
+        "mainz",
+        "bundesliga",
+        "fixture"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "alaves-vs-real-madrid-fixture",
       "nameShort": "alaves-real-madrid",
-      "seoTitle": "Alaves Vs Real Madrid Head-To-Head",
-      "seoDescription": "FC Tables Head-to-head Page For Deportivo Alaves Against Real Madrid With Match Results.",
-      "seoKeywords": ["alaves real madrid", "la liga", "head to head", "fixture"],
+      "seoTitle": "Alaves Vs Real Madrid Head-To-Head | Guides, Tips & Updates.",
+      "seoDescription": "FC Tables Head-To-Head Page For Deportivo Alaves Against Real Madrid With Match Results. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "alaves real madrid",
+        "la liga",
+        "head to head",
+        "fixture"
+      ],
       "iframeUrl": "https://www.fctables.com/h2h/deportivo-alaves/real-madrid/",
       "bgImg": "",
-      "tags": ["alaves", "real-madrid", "la-liga", "fixture"],
+      "tags": [
+        "alaves",
+        "real-madrid",
+        "la-liga",
+        "fixture"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "army-navy-game-central",
       "nameShort": "army-navy",
-      "seoTitle": "Army Navy Game Central With Tickets And History",
-      "seoDescription": "Official Army-Navy Game Hub Covering Tickets, History, And Game-day Information.",
-      "seoKeywords": ["army navy game", "college football", "rivalry", "tickets"],
+      "seoTitle": "Army Navy Game Central With Tickets And History | Guides.",
+      "seoDescription": "Official Army-Navy Game Hub Covering Tickets, History, And Game-Day Information. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "army navy game",
+        "college football",
+        "rivalry",
+        "tickets"
+      ],
       "iframeUrl": "https://armynavygame.com/",
       "bgImg": "",
-      "tags": ["army-navy", "college-football", "rivalry"],
+      "tags": [
+        "army-navy",
+        "college-football",
+        "rivalry"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "australia-shooting-updates",
       "nameShort": "australia-shooting",
-      "seoTitle": "Australia Shooting News Updates",
-      "seoDescription": "ABC Australia Topic Page Aggregating Shooting-related News And Safety Updates.",
-      "seoKeywords": ["australia shooting", "news", "abc", "safety"],
+      "seoTitle": "Australia Shooting News Updates | Guides, Tips & Updates.",
+      "seoDescription": "ABC Australia Topic Page Aggregating Shooting-Related News And Safety Updates. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "australia shooting",
+        "news",
+        "abc",
+        "safety"
+      ],
       "iframeUrl": "https://www.abc.net.au/news/topic/shooting",
       "bgImg": "",
-      "tags": ["australia", "shooting", "news"],
+      "tags": [
+        "australia",
+        "shooting",
+        "news"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "powerball-jackpot-tracker",
       "nameShort": "powerball-jackpot",
-      "seoTitle": "Powerball Jackpot, Winning Numbers, And Payouts",
-      "seoDescription": "LotteryUSA Powerball Page Listing Current Jackpot, Winning Numbers Archive, And Payout Breakdowns.",
+      "seoTitle": "Powerball Jackpot, Winning Numbers, And Payouts | Guides.",
+      "seoDescription": "Lotteryusa Powerball Page Listing Current Jackpot, Winning Numbers Archive, And Payout Breakdowns. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
       "seoKeywords": [
         "powerball jackpot",
         "lottery powerball jackpot",
@@ -513,14 +897,19 @@
       ],
       "iframeUrl": "https://www.lotteryusa.com/powerball/",
       "bgImg": "",
-      "tags": ["powerball", "jackpot", "winning-numbers", "lottery"],
+      "tags": [
+        "powerball",
+        "jackpot",
+        "winning-numbers",
+        "lottery"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "powerball-drawing-schedule",
       "nameShort": "powerball-drawing",
-      "seoTitle": "Powerball Drawing Days And Next Drawing Time",
-      "seoDescription": "Drawing Schedule For Powerball Showing Drawing Days, Cutoff Times, And Next Powerball Drawing.",
+      "seoTitle": "Powerball Drawing Days And Next Drawing Time | Guides, Tips.",
+      "seoDescription": "Drawing Schedule For Powerball Showing Drawing Days, Cutoff Times, And Next Powerball Drawing. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
       "seoKeywords": [
         "powerball drawing",
         "powerball drawing days",
@@ -529,108 +918,199 @@
       ],
       "iframeUrl": "https://www.lotteryusa.com/powerball/drawing-schedule/",
       "bgImg": "",
-      "tags": ["powerball", "drawing", "schedule", "next-drawing"],
+      "tags": [
+        "powerball",
+        "drawing",
+        "schedule",
+        "next-drawing"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "powerball-numbers-archive",
       "nameShort": "powerball-numbers",
-      "seoTitle": "Powerball Numbers Archive And Past Draws",
-      "seoDescription": "Official Powerball Numbers Archive Listing Recent Draw Results And Payouts.",
-      "seoKeywords": ["powerball numbers", "powerball drawing", "powerball archive", "lottery"],
+      "seoTitle": "Powerball Numbers Archive And Past Draws | Guides, Tips &.",
+      "seoDescription": "Official Powerball Numbers Archive Listing Recent Draw Results And Payouts. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert.",
+      "seoKeywords": [
+        "powerball numbers",
+        "powerball drawing",
+        "powerball archive",
+        "lottery"
+      ],
       "iframeUrl": "https://www.powerball.com/games/history",
       "bgImg": "",
-      "tags": ["powerball", "numbers", "archive", "lottery"],
+      "tags": [
+        "powerball",
+        "numbers",
+        "archive",
+        "lottery"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "christmas-tree-ideas",
       "nameShort": "christmas-tree",
-      "seoTitle": "Christmas Tree Decorating And Buying Guide",
-      "seoDescription": "Better Homes And Gardens Guide For Choosing And Decorating Christmas Trees With Style Tips.",
-      "seoKeywords": ["christmas tree", "decorating", "holiday", "guide"],
+      "seoTitle": "Christmas Tree Decorating And Buying Guide | Guides, Tips &.",
+      "seoDescription": "Better Homes And Gardens Guide For Choosing And Decorating Christmas Trees With Style Tips. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "christmas tree",
+        "decorating",
+        "holiday",
+        "guide"
+      ],
       "iframeUrl": "https://www.bhg.com/christmas-trees/",
       "bgImg": "",
-      "tags": ["christmas", "tree", "decorating", "holiday"],
+      "tags": [
+        "christmas",
+        "tree",
+        "decorating",
+        "holiday"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "christmas-lights-guide",
       "nameShort": "christmas-lights",
-      "seoTitle": "Christmas Lights Ideas And Outdoor Displays",
-      "seoDescription": "House Beautiful Roundup Of Christmas Lights Ideas For Indoor And Outdoor Displays.",
-      "seoKeywords": ["christmas lights", "holiday lights", "decor", "outdoor"],
+      "seoTitle": "Christmas Lights Ideas And Outdoor Displays | Guides, Tips.",
+      "seoDescription": "House Beautiful Roundup Of Christmas Lights Ideas For Indoor And Outdoor Displays. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "christmas lights",
+        "holiday lights",
+        "decor",
+        "outdoor"
+      ],
       "iframeUrl": "https://www.housebeautiful.com/room-decorating/outdoor-ideas/g27538521/best-christmas-lights/",
       "bgImg": "",
-      "tags": ["christmas", "lights", "decor"],
+      "tags": [
+        "christmas",
+        "lights",
+        "decor"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "elf-on-the-shelf-ideas",
       "nameShort": "elf-ideas",
-      "seoTitle": "Elf On The Shelf Ideas And Printables",
-      "seoDescription": "Elf On The Shelf Official Ideas Hub With Daily Prompts, Printables, And Family Activities.",
-      "seoKeywords": ["elf", "elf on the shelf", "christmas elf", "ideas"],
+      "seoTitle": "Elf On The Shelf Ideas And Printables | Guides, Tips &.",
+      "seoDescription": "Elf On The Shelf Official Ideas Hub With Daily Prompts, Printables, And Family Activities. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "elf",
+        "elf on the shelf",
+        "christmas elf",
+        "ideas"
+      ],
       "iframeUrl": "https://www.elfontheshelf.com/ideas",
       "bgImg": "",
-      "tags": ["elf", "christmas", "ideas"],
+      "tags": [
+        "elf",
+        "christmas",
+        "ideas"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "reindeer-facts-guide",
       "nameShort": "reindeer",
-      "seoTitle": "Reindeer Facts And Habitat Basics",
-      "seoDescription": "National Geographic Reindeer Guide Covering Species Facts, Habitat, Diet, And Migration.",
-      "seoKeywords": ["reindeer", "facts", "christmas reindeer", "wildlife"],
+      "seoTitle": "Reindeer Facts And Habitat Basics | Guides, Tips & Updates.",
+      "seoDescription": "National Geographic Reindeer Guide Covering Species Facts, Habitat, Diet, And Migration. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "reindeer",
+        "facts",
+        "christmas reindeer",
+        "wildlife"
+      ],
       "iframeUrl": "https://www.nationalgeographic.com/animals/mammals/facts/reindeer",
       "bgImg": "",
-      "tags": ["reindeer", "wildlife", "christmas"],
+      "tags": [
+        "reindeer",
+        "wildlife",
+        "christmas"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "hobby-lobby-weekly-ad",
       "nameShort": "hobby-lobby",
-      "seoTitle": "Hobby Lobby Weekly Ad And Coupons",
-      "seoDescription": "Hobby Lobby Weekly Ad With Current Coupons And Promotions For Crafts And Decor.",
-      "seoKeywords": ["hobby lobby", "weekly ad", "coupon", "crafts", "decor"],
+      "seoTitle": "Hobby Lobby Weekly Ad And Coupons | Guides, Tips & Updates.",
+      "seoDescription": "Hobby Lobby Weekly Ad With Current Coupons And Promotions For Crafts And Decor. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "hobby lobby",
+        "weekly ad",
+        "coupon",
+        "crafts",
+        "decor"
+      ],
       "iframeUrl": "https://www.hobbylobby.com/weeklyad",
       "bgImg": "",
-      "tags": ["hobby-lobby", "weekly-ad", "coupons"],
+      "tags": [
+        "hobby-lobby",
+        "weekly-ad",
+        "coupons"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "real-madrid-vs-man-city",
       "nameShort": "realmadrid-mancity-h2h",
-      "seoTitle": "Real Madrid Vs Manchester City Head-To-Head",
-      "seoDescription": "FC Tables Head-to-head For Real Madrid Against Manchester City With Recent Matches And Results.",
-      "seoKeywords": ["real madrid vs man city", "champions league", "head to head", "fixtures"],
+      "seoTitle": "Real Madrid Vs Manchester City Head-To-Head | Guides, Tips.",
+      "seoDescription": "FC Tables Head-To-Head For Real Madrid Against Manchester City With Recent Matches And Results. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "real madrid vs man city",
+        "champions league",
+        "head to head",
+        "fixtures"
+      ],
       "iframeUrl": "https://www.fctables.com/h2h/manchester-city/real-madrid/",
       "bgImg": "",
-      "tags": ["real-madrid", "man-city", "champions-league", "fixture"],
+      "tags": [
+        "real-madrid",
+        "man-city",
+        "champions-league",
+        "fixture"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "brown-university-emergency",
       "nameShort": "brown-emergency",
-      "seoTitle": "Brown University Emergency Updates",
-      "seoDescription": "Brown Emergency Page Listing Active Alerts, Including Active Shooter Notices And Safety Resources.",
-      "seoKeywords": ["brown university active shooter", "brown university", "emergency", "alerts"],
+      "seoTitle": "Brown University Emergency Updates | Guides, Tips & Updates.",
+      "seoDescription": "Brown Emergency Page Listing Active Alerts, Including Active Shooter Notices And Safety Resources. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
+      "seoKeywords": [
+        "brown university active shooter",
+        "brown university",
+        "emergency",
+        "alerts"
+      ],
       "iframeUrl": "https://emergency.brown.edu/",
       "bgImg": "",
-      "tags": ["brown-university", "emergency", "active-shooter", "alerts"],
+      "tags": [
+        "brown-university",
+        "emergency",
+        "active-shooter",
+        "alerts"
+      ],
       "updateTime": "2025-12-15"
     },
     {
       "name": "michigan-football-coach-profile",
       "nameShort": "michigan-coach",
-      "seoTitle": "Michigan Football Head Coach Profile",
-      "seoDescription": "Official Michigan Football Coaching Staff Page Featuring Head Coach Sherrone Moore Bio And Staff Contacts.",
-      "seoKeywords": ["michigan football coach", "sherrone moore", "coach", "bio"],
+      "seoTitle": "Michigan Football Head Coach Profile | Guides, Tips &.",
+      "seoDescription": "Official Michigan Football Coaching Staff Page Featuring Head Coach Sherrone Moore Bio And Staff Contacts. Explore Features, Use Cases, Pricing, Alternatives.",
+      "seoKeywords": [
+        "michigan football coach",
+        "sherrone moore",
+        "coach",
+        "bio"
+      ],
       "iframeUrl": "https://mgoblue.com/sports/football/coaches",
       "bgImg": "",
-      "tags": ["michigan", "football", "coach", "sherrone-moore"],
+      "tags": [
+        "michigan",
+        "football",
+        "coach",
+        "sherrone-moore"
+      ],
       "updateTime": "2025-12-15"
     }
   ]
 }
-

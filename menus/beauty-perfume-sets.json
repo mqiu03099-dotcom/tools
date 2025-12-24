@@ -2,65 +2,114 @@
   "name": "beauty-perfume-sets",
   "nameShort": "beauty",
   "icon": "icon-xuexi",
-  "seoTitle": "Perfume And Sephora Favorites Gift Sets",
-  "seoDescription": "Curated perfume shops and Sephora Favorites sets with fast-loading product pages and reviews.",
-  "seoKeywords": ["perfume", "sephora favorites set", "fragrance", "gift sets"],
+  "seoTitle": "Perfume And Sephora Favorites Gift Sets | Guides, Tips &.",
+  "seoDescription": "Curated Perfume Shops And Sephora Favorites Sets With Fast-Loading Product Pages And Reviews. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+  "seoKeywords": [
+    "perfume",
+    "sephora favorites set",
+    "fragrance",
+    "gift sets"
+  ],
   "children": [
     {
       "name": "sephora-favorites",
       "nameShort": "sephora",
-      "seoTitle": "Sephora Favorites Value Sets",
-      "seoDescription": "Sephora Favorites Sets With Mini Fragrances, Makeup Samplers, And Member Deals.",
-      "seoKeywords": ["sephora favorites", "gift set", "fragrance", "value set"],
+      "seoTitle": "Sephora Favorites Value Sets | Guides, Tips & Updates.",
+      "seoDescription": "Sephora Favorites Sets With Mini Fragrances, Makeup Samplers, And Member Deals. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "sephora favorites",
+        "gift set",
+        "fragrance",
+        "value set"
+      ],
       "iframeUrl": "https://www.sephora.com/brand/sephora-collection/favorites",
       "bgImg": "",
-      "tags": ["sephora", "favorites", "gift-sets"],
+      "tags": [
+        "sephora",
+        "favorites",
+        "gift-sets"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "fragrantica-perfume",
       "nameShort": "fragrantica",
-      "seoTitle": "Fragrantica Perfume Encyclopedia",
-      "seoDescription": "Fragrantica Community Database For Perfume Notes, Reviews, And Fragrance Families.",
-      "seoKeywords": ["fragrantica", "perfume", "reviews", "notes"],
+      "seoTitle": "Fragrantica Perfume Encyclopedia | Guides, Tips & Updates.",
+      "seoDescription": "Fragrantica Community Database For Perfume Notes, Reviews, And Fragrance Families. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "fragrantica",
+        "perfume",
+        "reviews",
+        "notes"
+      ],
       "iframeUrl": "https://www.fragrantica.com/",
       "bgImg": "",
-      "tags": ["fragrantica", "perfume", "reviews"],
+      "tags": [
+        "fragrantica",
+        "perfume",
+        "reviews"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "basenotes-fragrance",
       "nameShort": "basenotes",
-      "seoTitle": "Basenotes Fragrance Reviews And News",
-      "seoDescription": "Basenotes Community With Fragrance Reviews, Rankings, And New Perfume Releases.",
-      "seoKeywords": ["basenotes", "perfume", "reviews", "community"],
+      "seoTitle": "Basenotes Fragrance Reviews And News | Guides, Tips &.",
+      "seoDescription": "Basenotes Community With Fragrance Reviews, Rankings, And New Perfume Releases. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "basenotes",
+        "perfume",
+        "reviews",
+        "community"
+      ],
       "iframeUrl": "https://www.basenotes.net/",
       "bgImg": "",
-      "tags": ["basenotes", "perfume", "community"],
+      "tags": [
+        "basenotes",
+        "perfume",
+        "community"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "ulta-fragrance",
       "nameShort": "ulta",
-      "seoTitle": "Ulta Beauty Fragrance Shop",
-      "seoDescription": "Ulta Beauty Fragrance Category Featuring Perfumes, Gift Sets, And Customer Reviews.",
-      "seoKeywords": ["ulta", "fragrance", "perfume", "gift sets"],
+      "seoTitle": "Ulta Beauty Fragrance Shop | Guides, Tips & Updates.",
+      "seoDescription": "Ulta Beauty Fragrance Category Featuring Perfumes, Gift Sets, And Customer Reviews. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "ulta",
+        "fragrance",
+        "perfume",
+        "gift sets"
+      ],
       "iframeUrl": "https://www.ulta.com/c/fragrance",
       "bgImg": "",
-      "tags": ["ulta", "fragrance", "perfume"],
+      "tags": [
+        "ulta",
+        "fragrance",
+        "perfume"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "perfume-dot-com",
       "nameShort": "perfume",
-      "seoTitle": "Perfume.com Discount Fragrances",
-      "seoDescription": "Perfume.com Online Store For Discounted Fragrances, Gift Sets, And Top Sellers.",
-      "seoKeywords": ["perfume", "discount", "fragrance", "gift sets"],
+      "seoTitle": "Perfume.com Discount Fragrances | Guides, Tips & Updates.",
+      "seoDescription": "Perfume.com Online Store For Discounted Fragrances, Gift Sets, And Top Sellers. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "perfume",
+        "discount",
+        "fragrance",
+        "gift sets"
+      ],
       "iframeUrl": "https://www.perfume.com/",
       "bgImg": "",
-      "tags": ["perfume", "fragrance", "discount"],
+      "tags": [
+        "perfume",
+        "fragrance",
+        "discount"
+      ],
       "updateTime": "2025-12-19"
     }
   ]
 }
-

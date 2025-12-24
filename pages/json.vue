@@ -27,7 +27,7 @@ const {
 usePageSeo({
   canonicalPath: path,
   title: seoTitle,
-  seoDescription: seoDescription,
+  seoDescription,
   keywords: seoKeywords,
 });
 </script>

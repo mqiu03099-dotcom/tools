@@ -2,8 +2,8 @@
   "name": "deepseek-updates-resources",
   "nameShort": "deepseek-updates",
   "icon": "icon-jiamei",
-  "seoTitle": "DeepSeek Updates Featuring DeepSeek Official, DeepSeek GitHub",
-  "seoDescription": "DeepSeek Updates Directory Featuring DeepSeek Official, DeepSeek GitHub, DeepSeek Huggingface, DeepSeek Research And More.",
+  "seoTitle": "Deepseek Updates Featuring Deepseek Official, Deepseek.",
+  "seoDescription": "Deepseek Updates Directory Featuring Deepseek Official, Deepseek Github, Deepseek Huggingface, Deepseek Research And More. Explore Features, Use Cases.",
   "seoKeywords": [
     "deepseek updates",
     "deepseek",
@@ -21,8 +21,8 @@
     {
       "name": "deepseek-official-updates",
       "nameShort": "deepseek-official",
-      "seoTitle": "DeepSeek's Official Site Shares Release Notes, Pricing, And",
-      "seoDescription": "DeepSeek Official - DeepSeek's Official Site Shares Release Notes, Pricing, And Access To The Grok-inspired DeepSeek-V3 Assistant",
+      "seoTitle": "Deepseek's Official Site Shares Release Notes, Pricing, And.",
+      "seoDescription": "Deepseek Official - Deepseek's Official Site Shares Release Notes, Pricing, And Access To The Grok-Inspired Deepseek-V3 Assistant Explore Features, Use Cases.",
       "seoKeywords": [
         "deepseek official",
         "deepseek",
@@ -39,14 +39,20 @@
       ],
       "iframeUrl": "https://www.deepseek.com/",
       "bgImg": "",
-      "tags": ["deepseek", "official", "updates", "tool", "platform"],
+      "tags": [
+        "deepseek",
+        "official",
+        "updates",
+        "tool",
+        "platform"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "deepseek-github-models",
       "nameShort": "deepseek-github",
-      "seoTitle": "DeepSeek GitHub The DeepSeek GitHub Organization Hosts",
-      "seoDescription": "The DeepSeek GitHub Organization Hosts Mixtral-based Checkpoints, Fine-tuning Scripts, And Inference Examples",
+      "seoTitle": "Deepseek Github The Deepseek Github Organization Hosts.",
+      "seoDescription": "The Deepseek Github Organization Hosts Mixtral-Based Checkpoints, Fine-Tuning Scripts, And Inference Examples Explore Features, Use Cases, Pricing, Alternative.",
       "seoKeywords": [
         "deepseek github",
         "deepseek",
@@ -63,14 +69,20 @@
       ],
       "iframeUrl": "https://github.com/deepseek-ai",
       "bgImg": "",
-      "tags": ["deepseek", "github", "models", "tool", "platform"],
+      "tags": [
+        "deepseek",
+        "github",
+        "models",
+        "tool",
+        "platform"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "deepseek-huggingface-hub",
       "nameShort": "deepseek-huggingface",
-      "seoTitle": "DeepSeek's Hugging Face Hub Provides Quantized Weights",
-      "seoDescription": "DeepSeek Huggingface - DeepSeek's Hugging Face Hub Provides Quantized Weights, Tokenizer Files, And Evaluation Cards For Community Downloads",
+      "seoTitle": "Deepseek's Hugging Face Hub Provides Quantized Weights.",
+      "seoDescription": "Deepseek Huggingface - Deepseek's Hugging Face Hub Provides Quantized Weights, Tokenizer Files, And Evaluation Cards For Community Downloads Explore Features.",
       "seoKeywords": [
         "deepseek huggingface",
         "deepseek",
@@ -87,14 +99,20 @@
       ],
       "iframeUrl": "https://huggingface.co/deepseek-ai",
       "bgImg": "",
-      "tags": ["deepseek", "huggingface", "hub", "tool", "platform"],
+      "tags": [
+        "deepseek",
+        "huggingface",
+        "hub",
+        "tool",
+        "platform"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "deepseek-research-papers",
       "nameShort": "deepseek-research",
-      "seoTitle": "DeepSeek Research The DeepSeek Research Paper Outlines",
-      "seoDescription": "The DeepSeek Research Paper Outlines Architecture Innovations, Training Data, And Benchmark Results For V2 And Beyond",
+      "seoTitle": "Deepseek Research The Deepseek Research Paper Outlines.",
+      "seoDescription": "The Deepseek Research Paper Outlines Architecture Innovations, Training Data, And Benchmark Results For V2 And Beyond Explore Features, Use Cases, Pricing.",
       "seoKeywords": [
         "deepseek research",
         "deepseek",
@@ -111,9 +129,14 @@
       ],
       "iframeUrl": "https://arxiv.org/abs/2402.03300",
       "bgImg": "",
-      "tags": ["deepseek", "research", "papers", "tool", "platform"],
+      "tags": [
+        "deepseek",
+        "research",
+        "papers",
+        "tool",
+        "platform"
+      ],
       "updateTime": "2025-12-03"
     }
   ]
 }
-

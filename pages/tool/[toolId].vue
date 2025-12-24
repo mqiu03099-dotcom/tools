@@ -25,7 +25,7 @@ const {
 } = getToolDetail(toolId) || {};
 
 usePageSeo({
-  canonicalPath: `/tool/${toolId}/`,
+  canonicalPath: `/detail/${toolId}/`,
   title: seoTitle,
   seoDescription,
   keywords: [`${seoTitle}`, `${seoTitle} online`, `${seoTitle} demo`, ...tags, ...seoKeywords],

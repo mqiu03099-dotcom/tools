@@ -2,15 +2,22 @@
   "name": "nintendo-switch-2",
   "nameShort": "switch2",
   "icon": "icon-sheshou",
-  "seoTitle": "Switch2 Featuring Tomsguide Switch2, Vgc Switch2, Gamesradar",
-  "seoDescription": "Switch2 Directory Featuring Tomsguide Switch2, Vgc Switch2, Gamesradar Switch2 And More.",
-  "seoKeywords": ["switch2", "nintendo", "switch", "tomsguide", "vgc", "gamesradar"],
+  "seoTitle": "Switch2 Featuring Tomsguide Switch2, Vgc Switch2 Guides.",
+  "seoDescription": "Switch2 Directory Featuring Tomsguide Switch2, Vgc Switch2, Gamesradar Switch2 And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+  "seoKeywords": [
+    "switch2",
+    "nintendo",
+    "switch",
+    "tomsguide",
+    "vgc",
+    "gamesradar"
+  ],
   "children": [
     {
       "name": "tomsguide-nintendo-switch-2",
       "nameShort": "tomsguide-switch2",
-      "seoTitle": "Tomsguide Switch2 Tom's Guide Tracks Every Switch 2 Leak, From",
-      "seoDescription": "Tomsguide Switch2 - Tom's Guide Tracks Every Switch 2 Leak, From Rumored Release Windows To Nvidia Silicon Chatter And Developer Kits Spotted In",
+      "seoTitle": "Tomsguide Switch2 Tom's Guide Tracks Every Switch 2 Leak.",
+      "seoDescription": "Tomsguide Switch2 - Tom's Guide Tracks Every Switch 2 Leak, From Rumored Release Windows To Nvidia Silicon Chatter And Developer Kits Spotted In Explore.",
       "seoKeywords": [
         "tomsguide switch2",
         "tomsguide",
@@ -27,14 +34,20 @@
       ],
       "iframeUrl": "https://www.tomsguide.com/news/nintendo-switch-2",
       "bgImg": "",
-      "tags": ["nintendo", "switch2", "rumors", "tomsguide", "console"],
+      "tags": [
+        "nintendo",
+        "switch2",
+        "rumors",
+        "tomsguide",
+        "console"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "vgc-nintendo-switch-2",
       "nameShort": "vgc-switch2",
-      "seoTitle": "Vgc Switch2 Video Games Chronicle's Hub Aggregates Insider",
-      "seoDescription": "Vgc Switch2 - Video Games Chronicle's Hub Aggregates Insider Reporting On Switch Successor Specs, Backwards Compatibility, And Partner Studios Already",
+      "seoTitle": "Vgc Switch2 Video Games Chronicle's Hub Aggregates Insider.",
+      "seoDescription": "Vgc Switch2 - Video Games Chronicle's Hub Aggregates Insider Reporting On Switch Successor Specs, Backwards Compatibility, And Partner Studios Already.",
       "seoKeywords": [
         "vgc switch2",
         "vgc",
@@ -51,14 +64,20 @@
       ],
       "iframeUrl": "https://www.videogameschronicle.com/features/nintendo-switch-2/",
       "bgImg": "",
-      "tags": ["nintendo", "switch2", "vgc", "hardware", "leaks"],
+      "tags": [
+        "nintendo",
+        "switch2",
+        "vgc",
+        "hardware",
+        "leaks"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "gamesradar-nintendo-switch-2",
       "nameShort": "gamesradar-switch2",
-      "seoTitle": "GamesRadar Keeps A Running FAQ Covering Switch 2 Design Patents",
-      "seoDescription": "Gamesradar Switch2 - GamesRadar Keeps A Running FAQ Covering Switch 2 Design Patents, Joy-Con Revamps, Dev Comments, And How It Stacks Up Against",
+      "seoTitle": "Gamesradar Keeps A Running FAQ Covering Switch 2 Design.",
+      "seoDescription": "Gamesradar Switch2 - Gamesradar Keeps A Running FAQ Covering Switch 2 Design Patents, Joy-Con Revamps, Dev Comments, And How It Stacks Up Against Explore.",
       "seoKeywords": [
         "gamesradar switch2",
         "gamesradar",
@@ -75,14 +94,20 @@
       ],
       "iframeUrl": "https://www.gamesradar.com/nintendo-switch-2/",
       "bgImg": "",
-      "tags": ["nintendo", "switch2", "gamesradar", "specs", "news"],
+      "tags": [
+        "nintendo",
+        "switch2",
+        "gamesradar",
+        "specs",
+        "news"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "verge-switch2",
       "nameShort": "verge",
-      "seoTitle": "The Verge Tracks Switch 2 Screen Rumors, Joy-Con Redesigns",
-      "seoDescription": "The Verge tracks Switch 2 screen rumors, Joy-Con redesigns, and Nvidia DLSS leaks with weekly news recaps.",
+      "seoTitle": "The Verge Tracks Switch 2 Screen Rumors, Joy-Con Redesigns.",
+      "seoDescription": "The Verge Tracks Switch 2 Screen Rumors, Joy-Con Redesigns, And Nvidia DLSS Leaks With Weekly News Recaps. Explore Features, Use Cases, Pricing, Alternatives.",
       "seoKeywords": [
         "the verge",
         "switch 2",
@@ -94,14 +119,19 @@
       ],
       "iframeUrl": "https://www.theverge.com/nintendo-switch",
       "bgImg": "",
-      "tags": ["switch2", "verge", "dlss", "joycon"],
+      "tags": [
+        "switch2",
+        "verge",
+        "dlss",
+        "joycon"
+      ],
       "updateTime": "2025-12-21"
     },
     {
       "name": "ign-switch2",
       "nameShort": "ign",
-      "seoTitle": "IGN Rumor Watch For Switch 2 Specs And Backward Compatibility",
-      "seoDescription": "IGN rumor watch collects Switch 2 specs, backward compatibility chatter, and dev kit whispers from studios.",
+      "seoTitle": "IGN Rumor Watch For Switch 2 Specs And Backward Compatibili.",
+      "seoDescription": "IGN Rumor Watch Collects Switch 2 Specs, Backward Compatibility Chatter, And Dev Kit Whispers From Studios. Explore Features, Use Cases, Pricing, Alternatives.",
       "seoKeywords": [
         "ign",
         "switch 2",
@@ -113,9 +143,13 @@
       ],
       "iframeUrl": "https://www.ign.com/articles/nintendo-switch-2-rumors",
       "bgImg": "",
-      "tags": ["switch2", "ign", "rumors", "specs"],
+      "tags": [
+        "switch2",
+        "ign",
+        "rumors",
+        "specs"
+      ],
       "updateTime": "2025-12-21"
     }
   ]
 }
-

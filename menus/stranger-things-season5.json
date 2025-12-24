@@ -2,8 +2,8 @@
   "name": "stranger-things-season5",
   "nameShort": "stranger-things",
   "icon": "icon-chaokaixin1",
-  "seoTitle": "Stranger Things Featuring St5 Wiki, St5 Tudum, St5 Gamesradar",
-  "seoDescription": "Stranger Things Directory Featuring St5 Wiki, St5 Tudum, St5 Gamesradar And More.",
+  "seoTitle": "Stranger Things Featuring St5 Wiki, St5 Tudum, St5.",
+  "seoDescription": "Stranger Things Directory Featuring St5 Wiki, St5 Tudum, St5 Gamesradar And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
     "stranger things",
     "stranger",
@@ -18,8 +18,8 @@
     {
       "name": "stranger-things-season5-wikipedia",
       "nameShort": "st5-wiki",
-      "seoTitle": "St5 Wiki Wikipedia Details The Final Season's Episode List",
-      "seoDescription": "St5 Wiki - Wikipedia Details The Final Season's Episode List, Filming Schedule, And Confirmed Directors, Keeping Tabs On Production Pauses",
+      "seoTitle": "St5 Wiki Wikipedia Details The Final Season's Episode List.",
+      "seoDescription": "St5 Wiki - Wikipedia Details The Final Season's Episode List, Filming Schedule, And Confirmed Directors, Keeping Tabs On Production Pauses Explore Features.",
       "seoKeywords": [
         "st5 wiki",
         "stranger",
@@ -36,14 +36,20 @@
       ],
       "iframeUrl": "https://en.wikipedia.org/wiki/Stranger_Things_(season_5)",
       "bgImg": "",
-      "tags": ["stranger-things", "season5", "wiki", "netflix", "tv"],
+      "tags": [
+        "stranger-things",
+        "season5",
+        "wiki",
+        "netflix",
+        "tv"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "netflix-tudum-stranger-things",
       "nameShort": "st5-tudum",
-      "seoTitle": "St5 Tudum Netflix Tudum's Guide Posts Official Teasers",
-      "seoDescription": "St5 Tudum - Netflix Tudum's Guide Posts Official Teasers, Table-read Photos, And Quotes From The Duffer Brothers About How The Finale Is Structured",
+      "seoTitle": "St5 Tudum Netflix Tudum's Guide Posts Official Teasers.",
+      "seoDescription": "St5 Tudum - Netflix Tudum's Guide Posts Official Teasers, Table-Read Photos, And Quotes From The Duffer Brothers About How The Finale Is Structured Explore.",
       "seoKeywords": [
         "st5 tudum",
         "netflix",
@@ -60,14 +66,20 @@
       ],
       "iframeUrl": "https://www.netflix.com/tudum/articles/stranger-things-season-5-guide",
       "bgImg": "",
-      "tags": ["stranger-things", "season5", "netflix", "tudum", "insights"],
+      "tags": [
+        "stranger-things",
+        "season5",
+        "netflix",
+        "tudum",
+        "insights"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "gamesradar-stranger-things-season5",
       "nameShort": "st5-gamesradar",
-      "seoTitle": "St5 Gamesradar GamesRadar Aggregates Spoiler-Free Set Reports",
-      "seoDescription": "St5 Gamesradar - GamesRadar Aggregates Spoiler-free Set Reports, Casting Scoops, And Timeline Predictions For The Stranger Things Finale",
+      "seoTitle": "St5 Gamesradar Gamesradar Aggregates Spoiler-Free Set.",
+      "seoDescription": "St5 Gamesradar - Gamesradar Aggregates Spoiler-Free Set Reports, Casting Scoops, And Timeline Predictions For The Stranger Things Finale Explore Features, Use.",
       "seoKeywords": [
         "st5 gamesradar",
         "gamesradar",
@@ -84,14 +96,20 @@
       ],
       "iframeUrl": "https://www.gamesradar.com/stranger-things-season-5/",
       "bgImg": "",
-      "tags": ["stranger-things", "season5", "gamesradar", "news", "tv"],
+      "tags": [
+        "stranger-things",
+        "season5",
+        "gamesradar",
+        "news",
+        "tv"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "imdb-stranger5",
       "nameShort": "imdb",
-      "seoTitle": "IMDb Lists Stranger Things 5 Cast, Episodes, And Watchlist Buzz",
-      "seoDescription": "IMDb tracks Stranger Things 5 cast updates, episode list, and watchlist momentum ahead of the final season.",
+      "seoTitle": "Imdb Lists Stranger Things 5 Cast, Episodes, And Watchlist.",
+      "seoDescription": "Imdb Tracks Stranger Things 5 Cast Updates, Episode List, And Watchlist Momentum Ahead Of The Final Season. Explore Features, Use Cases, Pricing, Alternatives.",
       "seoKeywords": [
         "imdb",
         "stranger things 5",
@@ -103,14 +121,19 @@
       ],
       "iframeUrl": "https://www.imdb.com/title/tt4574334/episodes?season=5",
       "bgImg": "",
-      "tags": ["stranger-things", "imdb", "episodes", "cast"],
+      "tags": [
+        "stranger-things",
+        "imdb",
+        "episodes",
+        "cast"
+      ],
       "updateTime": "2025-12-21"
     },
     {
       "name": "rt-stranger5",
       "nameShort": "rt",
-      "seoTitle": "Rotten Tomatoes Tracks Stranger Things 5 Tomatometer And Trailers",
-      "seoDescription": "Rotten Tomatoes tracks Stranger Things 5 Tomatometer, trailers, and critic previews for the Netflix finale.",
+      "seoTitle": "Rotten Tomatoes Tracks Stranger Things 5 Tomatometer And.",
+      "seoDescription": "Rotten Tomatoes Tracks Stranger Things 5 Tomatometer, Trailers, And Critic Previews For The Netflix Finale. Explore Features, Use Cases, Pricing, Alternatives.",
       "seoKeywords": [
         "rotten tomatoes",
         "stranger things 5",
@@ -122,9 +145,13 @@
       ],
       "iframeUrl": "https://www.rottentomatoes.com/tv/stranger_things/s05",
       "bgImg": "",
-      "tags": ["stranger-things", "rottentomatoes", "trailers", "scores"],
+      "tags": [
+        "stranger-things",
+        "rottentomatoes",
+        "trailers",
+        "scores"
+      ],
       "updateTime": "2025-12-21"
     }
   ]
 }
-

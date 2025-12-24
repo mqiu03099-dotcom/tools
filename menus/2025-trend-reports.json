@@ -2,8 +2,8 @@
   "name": "2025-trend-reports",
   "nameShort": "trend",
   "icon": "icon-guoshengri",
-  "seoTitle": "Trend Featuring Gartner, Mckinsey, Accenture",
-  "seoDescription": "Trend Directory Featuring Gartner, Mckinsey, Accenture, Wef And More.",
+  "seoTitle": "Trend Featuring Gartner, Mckinsey, Accenture | Guides, Tips.",
+  "seoDescription": "Trend Directory Featuring Gartner, Mckinsey, Accenture, Wef And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips.",
   "seoKeywords": [
     "trend",
     "2025",
@@ -22,8 +22,8 @@
     {
       "name": "gartner-2025-tech-trends",
       "nameShort": "gartner",
-      "seoTitle": "Gartner's 2025 Tech Trend Briefing Highlights AI Trust, Machine",
-      "seoDescription": "Gartner's 2025 Tech Trend Briefing Highlights AI Trust, Machine Customers, And Platform Engineering Priorities For CIO Roadmaps",
+      "seoTitle": "Gartner's 2025 Tech Trend Briefing Highlights AI Trust.",
+      "seoDescription": "Gartner's 2025 Tech Trend Briefing Highlights AI Trust, Machine Customers, And Platform Engineering Priorities For CIO Roadmaps Explore Features, Use Cases.",
       "seoKeywords": [
         "gartner",
         "2025",
@@ -40,14 +40,20 @@
       ],
       "iframeUrl": "https://www.gartner.com/en/articles/top-strategic-technology-trends-2025",
       "bgImg": "",
-      "tags": ["gartner", "tech", "trends", "tool", "platform"],
+      "tags": [
+        "gartner",
+        "tech",
+        "trends",
+        "tool",
+        "platform"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "mckinsey-2025-economic-outlook",
       "nameShort": "mckinsey",
-      "seoTitle": "McKinsey Global Institute Publishes 2025 Macroeconomic Scenarios",
-      "seoDescription": "McKinsey Global Institute Publishes 2025 Macroeconomic Scenarios Covering Productivity, Energy Transitions, And Labor Shifts",
+      "seoTitle": "Mckinsey Global Institute Publishes 2025 Macroeconomic.",
+      "seoDescription": "Mckinsey Global Institute Publishes 2025 Macroeconomic Scenarios Covering Productivity, Energy Transitions, And Labor Shifts Explore Features, Use Cases.",
       "seoKeywords": [
         "mckinsey",
         "2025",
@@ -64,14 +70,20 @@
       ],
       "iframeUrl": "https://www.mckinsey.com/capabilities/mckinsey-global-institute/our-insights",
       "bgImg": "",
-      "tags": ["mckinsey", "economic", "outlook", "tool", "platform"],
+      "tags": [
+        "mckinsey",
+        "economic",
+        "outlook",
+        "tool",
+        "platform"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "accenture-2025-tech-vision",
       "nameShort": "accenture",
-      "seoTitle": "Accenture's Tech Vision 2025 Report Explores Spatial Computing",
-      "seoDescription": "Accenture's Tech Vision 2025 Report Explores Spatial Computing, AI Agents, And Cloud Continuum Bets For Enterprise Leaders",
+      "seoTitle": "Accenture's Tech Vision 2025 Report Explores Spatial.",
+      "seoDescription": "Accenture's Tech Vision 2025 Report Explores Spatial Computing, AI Agents, And Cloud Continuum Bets For Enterprise Leaders Explore Features, Use Cases.",
       "seoKeywords": [
         "accenture",
         "2025",
@@ -88,14 +100,20 @@
       ],
       "iframeUrl": "https://www.accenture.com/us-en/insights/technology",
       "bgImg": "",
-      "tags": ["accenture", "tech", "vision", "tool", "platform"],
+      "tags": [
+        "accenture",
+        "tech",
+        "vision",
+        "tool",
+        "platform"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "wef-2025-future-jobs",
       "nameShort": "wef",
-      "seoTitle": "Wef The World Economic Forum Future Of Jobs Update Details 2025",
-      "seoDescription": "Wef - The World Economic Forum Future Of Jobs Update Details 2025 Skill Gaps, Automation Exposure, And Green Job Creation Forecasts",
+      "seoTitle": "Wef The World Economic Forum Future Of Jobs Update Details.",
+      "seoDescription": "Wef - The World Economic Forum Future Of Jobs Update Details 2025 Skill Gaps, Automation Exposure, And Green Job Creation Forecasts Explore Features, Use.",
       "seoKeywords": [
         "wef",
         "2025",
@@ -112,14 +130,20 @@
       ],
       "iframeUrl": "https://www.weforum.org/reports/",
       "bgImg": "",
-      "tags": ["wef", "future", "jobs", "tool", "platform"],
+      "tags": [
+        "wef",
+        "future",
+        "jobs",
+        "tool",
+        "platform"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "statista-2025-market-data",
       "nameShort": "statista",
-      "seoTitle": "Statista Aggregates 2025-Ready Datasets On AI Adoption, Consumer",
-      "seoDescription": "Statista Aggregates 2025-Ready Datasets On AI Adoption, Consumer Devices, And Digital Advertising Spends With Downloadable Charts",
+      "seoTitle": "Statista Aggregates 2025-Ready Datasets On AI Adoption.",
+      "seoDescription": "Statista Aggregates 2025-Ready Datasets On AI Adoption, Consumer Devices, And Digital Advertising Spends With Downloadable Charts Explore Features, Use Cases.",
       "seoKeywords": [
         "statista",
         "2025",
@@ -136,9 +160,14 @@
       ],
       "iframeUrl": "https://www.statista.com/topics/8935/future-of-work/",
       "bgImg": "",
-      "tags": ["statista", "market", "data", "tool", "platform"],
+      "tags": [
+        "statista",
+        "market",
+        "data",
+        "tool",
+        "platform"
+      ],
       "updateTime": "2025-12-03"
     }
   ]
 }
-

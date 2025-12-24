@@ -2,15 +2,23 @@
   "name": "google-doc",
   "nameShort": "google-doc",
   "icon": "icon-ku",
-  "seoTitle": "Google Doc Featuring Docs Product, Docs Support, Docs API",
-  "seoDescription": "Google Doc Directory Featuring Docs Product, Docs Support, Docs API And More.",
-  "seoKeywords": ["google doc", "google", "doc", "docs", "product", "support", "api"],
+  "seoTitle": "Google Doc Featuring Docs Product, Docs Support, Docs API.",
+  "seoDescription": "Google Doc Directory Featuring Docs Product, Docs Support, Docs API And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+  "seoKeywords": [
+    "google doc",
+    "google",
+    "doc",
+    "docs",
+    "product",
+    "support",
+    "api"
+  ],
   "children": [
     {
       "name": "google-docs-product",
       "nameShort": "docs-product",
-      "seoTitle": "Docs Product Google Workspace's Docs Page Explains Templates",
-      "seoDescription": "Docs Product - Google Workspace's Docs Page Explains Templates, Smart Chips, And Collaboration Controls For Enterprise Rollouts",
+      "seoTitle": "Docs Product Google Workspace's Docs Page Explains.",
+      "seoDescription": "Docs Product - Google Workspace's Docs Page Explains Templates, Smart Chips, And Collaboration Controls For Enterprise Rollouts Explore Features, Use Cases.",
       "seoKeywords": [
         "docs product",
         "google",
@@ -27,14 +35,20 @@
       ],
       "iframeUrl": "https://workspace.google.com/products/docs/",
       "bgImg": "",
-      "tags": ["google-docs", "workspace", "product", "collaboration", "suite"],
+      "tags": [
+        "google-docs",
+        "workspace",
+        "product",
+        "collaboration",
+        "suite"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "google-docs-support",
       "nameShort": "docs-support",
-      "seoTitle": "Docs Support The Docs Help Center Provides Troubleshooting",
-      "seoDescription": "Docs Support - The Docs Help Center Provides Troubleshooting Guides, Keyboard Shortcuts, And Rollout Notes For New Editor Features",
+      "seoTitle": "Docs Support The Docs Help Center Provides Troubleshooting.",
+      "seoDescription": "Docs Support - The Docs Help Center Provides Troubleshooting Guides, Keyboard Shortcuts, And Rollout Notes For New Editor Features Explore Features, Use Cases.",
       "seoKeywords": [
         "docs support",
         "google",
@@ -51,14 +65,20 @@
       ],
       "iframeUrl": "https://support.google.com/docs/",
       "bgImg": "",
-      "tags": ["google-docs", "support", "help", "guides", "faq"],
+      "tags": [
+        "google-docs",
+        "support",
+        "help",
+        "guides",
+        "faq"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "google-docs-api",
       "nameShort": "docs-api",
-      "seoTitle": "Docs API Developers",
-      "seoDescription": "Docs API - Developers",
+      "seoTitle": "Docs API Developers | Guides, Tips & Updates Guides, Tips &.",
+      "seoDescription": "Docs API - Developers Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips To Compare Options, Implement Quickly, And.",
       "seoKeywords": [
         "docs api",
         "google",
@@ -71,14 +91,20 @@
       ],
       "iframeUrl": "https://developers.google.com/docs/api",
       "bgImg": "",
-      "tags": ["google-docs", "api", "developers", "automation", "cloud"],
+      "tags": [
+        "google-docs",
+        "api",
+        "developers",
+        "automation",
+        "cloud"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "docs-templates",
       "nameShort": "templates",
-      "seoTitle": "Google Docs Templates For Resume, Invoice, Proposal, Newsletter",
-      "seoDescription": "Google Docs template gallery offers resume, invoice, proposal, and newsletter layouts ready to copy.",
+      "seoTitle": "Google Docs Templates For Resume, Invoice, Proposal.",
+      "seoDescription": "Google Docs Template Gallery Offers Resume, Invoice, Proposal, And Newsletter Layouts Ready To Copy. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
       "seoKeywords": [
         "google docs templates",
         "resume template",
@@ -90,14 +116,19 @@
       ],
       "iframeUrl": "https://workspace.google.com/templates",
       "bgImg": "",
-      "tags": ["google-docs", "templates", "resume", "proposal"],
+      "tags": [
+        "google-docs",
+        "templates",
+        "resume",
+        "proposal"
+      ],
       "updateTime": "2025-12-21"
     },
     {
       "name": "docs-addons",
       "nameShort": "addons",
-      "seoTitle": "Docs Add-Ons Marketplace Lists Grammarly, DocuSign, Mail Merge",
-      "seoDescription": "Workspace Marketplace add-ons for Docs include Grammarly, DocuSign, mail merge, and table of contents builders.",
+      "seoTitle": "Docs Add-Ons Marketplace Lists Grammarly, Docusign, Mail.",
+      "seoDescription": "Workspace Marketplace Add-Ons For Docs Include Grammarly, Docusign, Mail Merge, And Table Of Contents Builders. Explore Features, Use Cases, Pricing Explore.",
       "seoKeywords": [
         "google docs addons",
         "workspace marketplace",
@@ -109,9 +140,13 @@
       ],
       "iframeUrl": "https://workspace.google.com/marketplace/category/works-with-docs",
       "bgImg": "",
-      "tags": ["google-docs", "addons", "marketplace", "productivity"],
+      "tags": [
+        "google-docs",
+        "addons",
+        "marketplace",
+        "productivity"
+      ],
       "updateTime": "2025-12-21"
     }
   ]
 }
-

@@ -2,8 +2,8 @@
   "name": "eagles-vs-cowboys",
   "nameShort": "eagles-cowboys",
   "icon": "icon-tingge",
-  "seoTitle": "Eagles Cowboys Featuring Statmuse Rivalry, Pfr Rivalry, Nfl",
-  "seoDescription": "Eagles Cowboys Directory Featuring Statmuse Rivalry, Pfr Rivalry, Nfl Highlights And More.",
+  "seoTitle": "Eagles Cowboys Featuring Statmuse Rivalry, Pfr Rivalry, Nfl.",
+  "seoDescription": "Eagles Cowboys Directory Featuring Statmuse Rivalry, Pfr Rivalry, Nfl Highlights And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
   "seoKeywords": [
     "eagles cowboys",
     "eagles",
@@ -19,8 +19,8 @@
     {
       "name": "statmuse-eagles-cowboys-record",
       "nameShort": "statmuse-rivalry",
-      "seoTitle": "Statmuse Generates Instant Head-To-Head Charts, Margins, And",
-      "seoDescription": "Statmuse Rivalry - Statmuse Generates Instant Head-to-head Charts, Margins, And Season Splits For Every Eagles Vs",
+      "seoTitle": "Statmuse Generates Instant Head-To-Head Charts, Margins.",
+      "seoDescription": "Statmuse Rivalry - Statmuse Generates Instant Head-To-Head Charts, Margins, And Season Splits For Every Eagles Vs Explore Features, Use Cases, Pricing.",
       "seoKeywords": [
         "statmuse rivalry",
         "statmuse",
@@ -37,14 +37,20 @@
       ],
       "iframeUrl": "https://www.statmuse.com/nfl/ask?q=eagles+vs+cowboys+record",
       "bgImg": "",
-      "tags": ["eagles", "cowboys", "statmuse", "record", "rivalry"],
+      "tags": [
+        "eagles",
+        "cowboys",
+        "statmuse",
+        "record",
+        "rivalry"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "pfr-eagles-cowboys-history",
       "nameShort": "pfr-rivalry",
-      "seoTitle": "Pfr Rivalry Pro Football Reference Lists Every Box Score Between",
-      "seoDescription": "Pfr Rivalry - Pro Football Reference Lists Every Box Score Between Dallas And Philadelphia With Filters For Playoffs, Primetime, Or Location",
+      "seoTitle": "Pfr Rivalry Pro Football Reference Lists Every Box Score.",
+      "seoDescription": "Pfr Rivalry - Pro Football Reference Lists Every Box Score Between Dallas And Philadelphia With Filters For Playoffs, Primetime, Or Location Explore Features.",
       "seoKeywords": [
         "pfr rivalry",
         "pfr",
@@ -61,25 +67,44 @@
       ],
       "iframeUrl": "https://www.pro-football-reference.com/boxscores/game_query.cgi?tm1=dal&tm2=phi&yr=all",
       "bgImg": "",
-      "tags": ["eagles", "cowboys", "pfr", "history", "stats"],
+      "tags": [
+        "eagles",
+        "cowboys",
+        "pfr",
+        "history",
+        "stats"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "nfl-eagles-cowboys-highlights",
       "nameShort": "nfl-highlights",
-      "seoTitle": "NFL",
-      "seoDescription": "Nfl Highlights - NFL",
-      "seoKeywords": ["nfl highlights", "nfl", "eagles", "cowboys", "highlights", "video"],
+      "seoTitle": "NFL | Guides, Tips & Updates Guides, Tips & Updates.",
+      "seoDescription": "Nfl Highlights - NFL Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips To Compare Options, Implement Quickly, And.",
+      "seoKeywords": [
+        "nfl highlights",
+        "nfl",
+        "eagles",
+        "cowboys",
+        "highlights",
+        "video"
+      ],
       "iframeUrl": "https://www.nfl.com/videos/eagles-vs-cowboys-highlights",
       "bgImg": "",
-      "tags": ["eagles", "cowboys", "nfl", "highlights", "video"],
+      "tags": [
+        "eagles",
+        "cowboys",
+        "nfl",
+        "highlights",
+        "video"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "espn-eagles",
       "nameShort": "espn",
-      "seoTitle": "ESPN Gamecast Tracks Eagles Cowboys Live Score And Win Prob",
-      "seoDescription": "ESPN Gamecast tracks Eagles Cowboys live score, win probability, injury updates, and NFC East standings impact.",
+      "seoTitle": "ESPN Gamecast Tracks Eagles Cowboys Live Score And Win Prob.",
+      "seoDescription": "ESPN Gamecast Tracks Eagles Cowboys Live Score, Win Probability, Injury Updates, And NFC East Standings Impact. Explore Features, Use Cases, Pricing Explore.",
       "seoKeywords": [
         "espn",
         "eagles cowboys",
@@ -91,14 +116,20 @@
       ],
       "iframeUrl": "https://www.espn.com/search/_/q/eagles%20cowboys",
       "bgImg": "",
-      "tags": ["eagles", "cowboys", "espn", "live", "nfc-east"],
+      "tags": [
+        "eagles",
+        "cowboys",
+        "espn",
+        "live",
+        "nfc-east"
+      ],
       "updateTime": "2025-12-21"
     },
     {
       "name": "yahoo-eagles",
       "nameShort": "yahoo",
-      "seoTitle": "Yahoo Odds And Play-By-Play For Eagles Cowboys Rivalry Games",
-      "seoDescription": "Yahoo Sports lists Eagles Cowboys odds, play-by-play, fantasy notes, and betting trends for each matchup.",
+      "seoTitle": "Yahoo Odds And Play-By-Play For Eagles Cowboys Rivalry.",
+      "seoDescription": "Yahoo Sports Lists Eagles Cowboys Odds, Play-By-Play, Fantasy Notes, And Betting Trends For Each Matchup. Explore Features, Use Cases, Pricing, Alternatives.",
       "seoKeywords": [
         "yahoo sports",
         "eagles cowboys odds",
@@ -110,9 +141,14 @@
       ],
       "iframeUrl": "https://sports.yahoo.com/nfl/teams/phi/dal/",
       "bgImg": "",
-      "tags": ["eagles", "cowboys", "yahoo", "odds", "fantasy"],
+      "tags": [
+        "eagles",
+        "cowboys",
+        "yahoo",
+        "odds",
+        "fantasy"
+      ],
       "updateTime": "2025-12-21"
     }
   ]
 }
-

@@ -2,65 +2,115 @@
   "name": "seo-tools-suite",
   "nameShort": "seo",
   "icon": "icon-cibingqiling",
-  "seoTitle": "SEO Tools For Audits, Checks, And Monitoring",
-  "seoDescription": "Fast SEO checkers covering site audits, on-page metrics, and keyword previews.",
-  "seoKeywords": ["seo tools", "audit", "checker", "keywords", "monitoring"],
+  "seoTitle": "SEO Tools For Audits, Checks, And Monitoring | Guides, Tips.",
+  "seoDescription": "Fast SEO Checkers Covering Site Audits, On-Page Metrics, And Keyword Previews. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+  "seoKeywords": [
+    "seo tools",
+    "audit",
+    "checker",
+    "keywords",
+    "monitoring"
+  ],
   "children": [
     {
       "name": "seobility-site-check",
       "nameShort": "seobility",
-      "seoTitle": "Seobility SEO Checker For Websites",
-      "seoDescription": "Seobility on-page SEO check with crawl errors, metadata tips, and scoring.",
-      "seoKeywords": ["seobility", "seo checker", "on-page", "audit"],
+      "seoTitle": "Seobility SEO Checker For Websites | Guides, Tips & Updates.",
+      "seoDescription": "Seobility On-Page SEO Check With Crawl Errors, Metadata Tips, And Scoring. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert.",
+      "seoKeywords": [
+        "seobility",
+        "seo checker",
+        "on-page",
+        "audit"
+      ],
       "iframeUrl": "https://seobility.net/en/seocheck/",
       "bgImg": "",
-      "tags": ["seo", "checker", "seobility"],
+      "tags": [
+        "seo",
+        "checker",
+        "seobility"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "seoptimer-audit",
       "nameShort": "seoptimer",
-      "seoTitle": "SEOptimer Free SEO Audit Tool",
-      "seoDescription": "SEOptimer generates site audits with performance, accessibility, and link checks.",
-      "seoKeywords": ["seoptimer", "seo audit", "performance", "links"],
+      "seoTitle": "Seoptimer Free SEO Audit Tool | Guides, Tips & Updates.",
+      "seoDescription": "Seoptimer Generates Site Audits With Performance, Accessibility, And Link Checks. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "seoptimer",
+        "seo audit",
+        "performance",
+        "links"
+      ],
       "iframeUrl": "https://www.seoptimer.com/",
       "bgImg": "",
-      "tags": ["seo", "audit", "seoptimer"],
+      "tags": [
+        "seo",
+        "audit",
+        "seoptimer"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "seoreviewtools-suite",
       "nameShort": "seoreview",
-      "seoTitle": "SEO Review Tools Collection",
-      "seoDescription": "SEO Review Tools hosts backlink checks, keyword tools, schema validators, and SERP previews.",
-      "seoKeywords": ["seo review tools", "backlink", "keywords", "schema"],
+      "seoTitle": "SEO Review Tools Collection | Guides, Tips & Updates.",
+      "seoDescription": "SEO Review Tools Hosts Backlink Checks, Keyword Tools, Schema Validators, And SERP Previews. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "seo review tools",
+        "backlink",
+        "keywords",
+        "schema"
+      ],
       "iframeUrl": "https://www.seoreviewtools.com/",
       "bgImg": "",
-      "tags": ["seo", "backlinks", "keywords"],
+      "tags": [
+        "seo",
+        "backlinks",
+        "keywords"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "siteliner-duplicate-check",
       "nameShort": "siteliner",
-      "seoTitle": "Siteliner Duplicate Content Checker",
-      "seoDescription": "Siteliner scans for duplicate content, broken links, and site performance metrics.",
-      "seoKeywords": ["siteliner", "duplicate content", "broken links", "seo"],
+      "seoTitle": "Siteliner Duplicate Content Checker | Guides, Tips &.",
+      "seoDescription": "Siteliner Scans For Duplicate Content, Broken Links, And Site Performance Metrics. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "siteliner",
+        "duplicate content",
+        "broken links",
+        "seo"
+      ],
       "iframeUrl": "https://www.siteliner.com/",
       "bgImg": "",
-      "tags": ["seo", "duplicate", "siteliner"],
+      "tags": [
+        "seo",
+        "duplicate",
+        "siteliner"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "woorank-audit",
       "nameShort": "woorank",
-      "seoTitle": "WooRank Website Review And Audit",
-      "seoDescription": "WooRank automated website reviews covering SEO basics, performance, and backlinks.",
-      "seoKeywords": ["woorank", "seo audit", "performance", "backlinks"],
+      "seoTitle": "Woorank Website Review And Audit | Guides, Tips & Updates.",
+      "seoDescription": "Woorank Automated Website Reviews Covering SEO Basics, Performance, And Backlinks. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "woorank",
+        "seo audit",
+        "performance",
+        "backlinks"
+      ],
       "iframeUrl": "https://www.woorank.com/en",
       "bgImg": "",
-      "tags": ["seo", "woorank", "audit"],
+      "tags": [
+        "seo",
+        "woorank",
+        "audit"
+      ],
       "updateTime": "2025-12-19"
     }
   ]
 }
-

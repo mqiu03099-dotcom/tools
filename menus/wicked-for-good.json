@@ -2,8 +2,8 @@
   "name": "wicked-for-good",
   "nameShort": "for-good",
   "icon": "icon-tingyinle",
-  "seoTitle": "For Good Featuring Wicked Site, For Good Wiki, For Good Genius",
-  "seoDescription": "For Good Directory Featuring Wicked Site, For Good Wiki, For Good Genius And More.",
+  "seoTitle": "For Good Featuring Wicked Site, For Good Wiki, For Good.",
+  "seoDescription": "For Good Directory Featuring Wicked Site, For Good Wiki, For Good Genius And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
     "for good",
     "wicked",
@@ -18,8 +18,8 @@
     {
       "name": "wicked-official-site",
       "nameShort": "wicked-site",
-      "seoTitle": "Wicked Site The Official Wicked Site Posts Touring Schedules",
-      "seoDescription": "The Official Wicked Site Posts Touring Schedules, Behind-the-scenes Clips, And Performance Notes For For Good ahead Of The Two-part Film Release",
+      "seoTitle": "Wicked Site The Official Wicked Site Posts Touring.",
+      "seoDescription": "The Official Wicked Site Posts Touring Schedules, Behind-The-Scenes Clips, And Performance Notes For For Good Ahead Of The Two-Part Film Release Explore.",
       "seoKeywords": [
         "wicked site",
         "wicked",
@@ -36,14 +36,20 @@
       ],
       "iframeUrl": "https://wickedthemusical.com/",
       "bgImg": "",
-      "tags": ["wicked", "for-good", "musical", "broadway", "official"],
+      "tags": [
+        "wicked",
+        "for-good",
+        "musical",
+        "broadway",
+        "official"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "for-good-wikipedia",
       "nameShort": "for-good-wiki",
-      "seoTitle": "For Good Wiki Wikipedia's 'For Good' Entry Outlines The Song's",
-      "seoDescription": "For Good Wiki - Wikipedia's For Good entry Outlines The Song's Context In Act II, Lyrical Themes, And Key Recordings By Idina Menzel And Kristin",
+      "seoTitle": "For Good Wiki Wikipedia's 'For Good' Entry Outlines The.",
+      "seoDescription": "For Good Wiki - Wikipedia's For Good Entry Outlines The Song's Context In Act II, Lyrical Themes, And Key Recordings By Idina Menzel And Kristin Explore.",
       "seoKeywords": [
         "for good wiki",
         "good",
@@ -60,14 +66,20 @@
       ],
       "iframeUrl": "https://en.wikipedia.org/wiki/For_Good",
       "bgImg": "",
-      "tags": ["wicked", "for-good", "wiki", "lyrics", "history"],
+      "tags": [
+        "wicked",
+        "for-good",
+        "wiki",
+        "lyrics",
+        "history"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "for-good-genius-lyrics",
       "nameShort": "for-good-genius",
-      "seoTitle": "For Good Genius Genius Provides Annotated 'For Good' Lyrics With",
-      "seoDescription": "For Good Genius - Genius Provides Annotated For Good lyrics With Community Notes On Harmonies, Chord Progressions, And How The Duet Has Evolved In",
+      "seoTitle": "For Good Genius Genius Provides Annotated 'For Good' Lyrics.",
+      "seoDescription": "For Good Genius - Genius Provides Annotated For Good Lyrics With Community Notes On Harmonies, Chord Progressions, And How The Duet Has Evolved In Explore.",
       "seoKeywords": [
         "for good genius",
         "good",
@@ -84,14 +96,20 @@
       ],
       "iframeUrl": "https://genius.com/Idina-menzel-and-kristin-chenoweth-for-good-lyrics",
       "bgImg": "",
-      "tags": ["wicked", "for-good", "lyrics", "genius", "music"],
+      "tags": [
+        "wicked",
+        "for-good",
+        "lyrics",
+        "genius",
+        "music"
+      ],
       "updateTime": "2025-12-08"
     },
     {
       "name": "imdb-wicked",
       "nameShort": "imdb",
-      "seoTitle": "IMDb Lists Wicked Movie Cast, Release Dates, And Trivia",
-      "seoDescription": "IMDb lists Wicked movie cast, release dates for Part One and Two, trailers, and trivia for For Good fans.",
+      "seoTitle": "Imdb Lists Wicked Movie Cast, Release Dates, And Trivia.",
+      "seoDescription": "Imdb Lists Wicked Movie Cast, Release Dates For Part One And Two, Trailers, And Trivia For For Good Fans. Explore Features, Use Cases, Pricing, Alternatives.",
       "seoKeywords": [
         "imdb",
         "wicked movie",
@@ -103,14 +121,19 @@
       ],
       "iframeUrl": "https://www.imdb.com/title/tt1262426/",
       "bgImg": "",
-      "tags": ["wicked", "imdb", "movie", "cast"],
+      "tags": [
+        "wicked",
+        "imdb",
+        "movie",
+        "cast"
+      ],
       "updateTime": "2025-12-21"
     },
     {
       "name": "rt-wicked",
       "nameShort": "rt",
-      "seoTitle": "Rotten Tomatoes Tracks Wicked Film Tomatometer And Trailers",
-      "seoDescription": "Rotten Tomatoes tracks Wicked film Tomatometer, fan buzz, trailers, and critic reactions to For Good on screen.",
+      "seoTitle": "Rotten Tomatoes Tracks Wicked Film Tomatometer And Trailers.",
+      "seoDescription": "Rotten Tomatoes Tracks Wicked Film Tomatometer, Fan Buzz, Trailers, And Critic Reactions To For Good On Screen. Explore Features, Use Cases, Pricing Explore.",
       "seoKeywords": [
         "rotten tomatoes",
         "wicked movie",
@@ -122,9 +145,13 @@
       ],
       "iframeUrl": "https://www.rottentomatoes.com/search?search=Wicked",
       "bgImg": "",
-      "tags": ["wicked", "rottentomatoes", "movie", "trailers"],
+      "tags": [
+        "wicked",
+        "rottentomatoes",
+        "movie",
+        "trailers"
+      ],
       "updateTime": "2025-12-21"
     }
   ]
 }
-

@@ -2,65 +2,114 @@
   "name": "macro-automation-tools",
   "nameShort": "macro",
   "icon": "icon-nongmin",
-  "seoTitle": "Macro Automation Tools For Windows Productivity",
-  "seoDescription": "Desktop automation utilities like Macro Toolworks, AutoHotkey, and macro recorders.",
-  "seoKeywords": ["macro tools pro", "automation", "autohotkey", "macro recorder"],
+  "seoTitle": "Macro Automation Tools For Windows Productivity | Guides.",
+  "seoDescription": "Desktop Automation Utilities Like Macro Toolworks, Autohotkey, And Macro Recorders. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+  "seoKeywords": [
+    "macro tools pro",
+    "automation",
+    "autohotkey",
+    "macro recorder"
+  ],
   "children": [
     {
       "name": "macro-toolworks",
       "nameShort": "toolworks",
-      "seoTitle": "Macro Toolworks Automation Suite",
-      "seoDescription": "Macro Toolworks provides desktop automation, scripting, and macro recording features.",
-      "seoKeywords": ["macro toolworks", "automation", "macro", "windows"],
+      "seoTitle": "Macro Toolworks Automation Suite | Guides, Tips & Updates.",
+      "seoDescription": "Macro Toolworks Provides Desktop Automation, Scripting, And Macro Recording Features. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
+      "seoKeywords": [
+        "macro toolworks",
+        "automation",
+        "macro",
+        "windows"
+      ],
       "iframeUrl": "https://www.macrotoolworks.com/",
       "bgImg": "",
-      "tags": ["macro", "automation", "windows"],
+      "tags": [
+        "macro",
+        "automation",
+        "windows"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "jitbit-macro-recorder",
       "nameShort": "jitbit",
-      "seoTitle": "Jitbit Macro Recorder",
-      "seoDescription": "Jitbit Macro Recorder for recording keystrokes, mouse actions, and building automations.",
-      "seoKeywords": ["jitbit", "macro recorder", "automation", "mouse"],
+      "seoTitle": "Jitbit Macro Recorder | Guides, Tips & Updates Guides, Tips.",
+      "seoDescription": "Jitbit Macro Recorder For Recording Keystrokes, Mouse Actions, And Building Automations. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "jitbit",
+        "macro recorder",
+        "automation",
+        "mouse"
+      ],
       "iframeUrl": "https://www.jitbit.com/macro-recorder/",
       "bgImg": "",
-      "tags": ["jitbit", "macro", "automation"],
+      "tags": [
+        "jitbit",
+        "macro",
+        "automation"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "pulovers-macro-creator",
       "nameShort": "pulover",
-      "seoTitle": "Pulover'S Macro Creator",
-      "seoDescription": "Pulover's Macro Creator for building desktop macros with recording and scripting support.",
-      "seoKeywords": ["pulover", "macro creator", "automation", "scripting"],
+      "seoTitle": "Pulover's Macro Creator | Guides, Tips & Updates Guides.",
+      "seoDescription": "Pulover's Macro Creator For Building Desktop Macros With Recording And Scripting Support. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
+      "seoKeywords": [
+        "pulover",
+        "macro creator",
+        "automation",
+        "scripting"
+      ],
       "iframeUrl": "https://www.macrocreator.com/",
       "bgImg": "",
-      "tags": ["macro", "automation", "pulover"],
+      "tags": [
+        "macro",
+        "automation",
+        "pulover"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "tinytask-automation",
       "nameShort": "tinytask",
-      "seoTitle": "TinyTask Lightweight Macro Recorder",
-      "seoDescription": "TinyTask portable macro recorder for quick playback of repeated desktop actions.",
-      "seoKeywords": ["tinytask", "macro recorder", "automation", "windows"],
+      "seoTitle": "Tinytask Lightweight Macro Recorder | Guides, Tips &.",
+      "seoDescription": "Tinytask Portable Macro Recorder For Quick Playback Of Repeated Desktop Actions. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "tinytask",
+        "macro recorder",
+        "automation",
+        "windows"
+      ],
       "iframeUrl": "https://www.tinytask.net/",
       "bgImg": "",
-      "tags": ["tinytask", "macro", "recorder"],
+      "tags": [
+        "tinytask",
+        "macro",
+        "recorder"
+      ],
       "updateTime": "2025-12-19"
     },
     {
       "name": "autohotkey-automation",
       "nameShort": "autohotkey",
-      "seoTitle": "AutoHotkey Desktop Automation Language",
-      "seoDescription": "AutoHotkey scripting language for hotkeys, macros, and UI automation on Windows.",
-      "seoKeywords": ["autohotkey", "automation", "scripting", "macros"],
+      "seoTitle": "Autohotkey Desktop Automation Language | Guides, Tips &.",
+      "seoDescription": "Autohotkey Scripting Language For Hotkeys, Macros, And UI Automation On Windows. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
+      "seoKeywords": [
+        "autohotkey",
+        "automation",
+        "scripting",
+        "macros"
+      ],
       "iframeUrl": "https://www.autohotkey.com/",
       "bgImg": "",
-      "tags": ["autohotkey", "automation", "scripting"],
+      "tags": [
+        "autohotkey",
+        "automation",
+        "scripting"
+      ],
       "updateTime": "2025-12-19"
     }
   ]
 }
-

@@ -2,8 +2,8 @@
   "name": "top-ai-productivity-tools",
   "nameShort": "top",
   "icon": "icon-chaoren3",
-  "seoTitle": "Top Featuring Doubao, GitHub, ChatGPT",
-  "seoDescription": "Top Directory Featuring Doubao, GitHub, ChatGPT, DeepSeek And More.",
+  "seoTitle": "Top Featuring Doubao, Github, Chatgpt | Guides, Tips &.",
+  "seoDescription": "Top Directory Featuring Doubao, Github, Chatgpt, Deepseek And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips To.",
   "seoKeywords": [
     "top",
     "productivity",
@@ -22,8 +22,8 @@
     {
       "name": "doubao-ai-productivity-assistant",
       "nameShort": "doubao",
-      "seoTitle": "Doubao Is An Intelligent AI Assistant Developed By ByteDance",
-      "seoDescription": "Doubao Is An Intelligent AI Assistant Developed By ByteDance, Offering Conversational Interaction, Content Creation, Problem-solving, And Productivity",
+      "seoTitle": "Doubao Is An Intelligent AI Assistant Developed By.",
+      "seoDescription": "Doubao Is An Intelligent AI Assistant Developed By Bytedance, Offering Conversational Interaction, Content Creation, Problem-Solving, And Productivity.",
       "seoKeywords": [
         "doubao",
         "productivity",
@@ -40,14 +40,20 @@
       ],
       "iframeUrl": "https://www.doubao.com",
       "bgImg": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png",
-      "tags": ["doubao", "ai", "productivity", "assistant", "tool"],
+      "tags": [
+        "doubao",
+        "ai",
+        "productivity",
+        "assistant",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "github-copilot-code-autocomplete",
       "nameShort": "github",
-      "seoTitle": "GitHub Copilot Is An AI Pair Programmer From GitHub And OpenAI",
-      "seoDescription": "GitHub Copilot Is An AI Pair Programmer From GitHub And OpenAI That Autocompletes Multi-line Code, Writes Tests, And Converts Natural Language Prompts",
+      "seoTitle": "Github Copilot Is An AI Pair Programmer From Github And.",
+      "seoDescription": "Github Copilot Is An AI Pair Programmer From Github And Openai That Autocompletes Multi-Line Code, Writes Tests, And Converts Natural Language Prompts.",
       "seoKeywords": [
         "github",
         "copilot",
@@ -64,14 +70,20 @@
       ],
       "iframeUrl": "https://github.com/features/copilot",
       "bgImg": "",
-      "tags": ["github", "copilot", "code", "autocomplete", "tool"],
+      "tags": [
+        "github",
+        "copilot",
+        "code",
+        "autocomplete",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "chatgpt-openai-writing-coding",
       "nameShort": "chatgpt",
-      "seoTitle": "ChatGPT Is An AI-Powered Chatbot By OpenAI, Generating",
-      "seoDescription": "ChatGPT Is An AI-powered Chatbot By OpenAI, Generating Human-like Responses, Writing Essays, Coding, And Answering Complex Questions Using Advanced",
+      "seoTitle": "Chatgpt Is An AI-Powered Chatbot By Openai, Generating.",
+      "seoDescription": "Chatgpt Is An AI-Powered Chatbot By Openai, Generating Human-Like Responses, Writing Essays, Coding, And Answering Complex Questions Using Advanced Explore.",
       "seoKeywords": [
         "chatgpt",
         "openai",
@@ -88,14 +100,20 @@
       ],
       "iframeUrl": "https://openai.com/chatgpt",
       "bgImg": "",
-      "tags": ["chatgpt", "openai", "writing", "coding", "tool"],
+      "tags": [
+        "chatgpt",
+        "openai",
+        "writing",
+        "coding",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "deepseek-open-source-reasoning",
       "nameShort": "deepseek",
-      "seoTitle": "DeepSeek Is A High-Performance Open-Source AI Model And",
-      "seoDescription": "DeepSeek Is A High-performance Open-source AI Model And Assistant Specializing In Code Generation, Mathematical Reasoning, And Multi-language Support",
+      "seoTitle": "Deepseek Is A High-Performance Open-Source AI Model And.",
+      "seoDescription": "Deepseek Is A High-Performance Open-Source AI Model And Assistant Specializing In Code Generation, Mathematical Reasoning, And Multi-Language Support Explore.",
       "seoKeywords": [
         "deepseek",
         "open",
@@ -112,14 +130,20 @@
       ],
       "iframeUrl": "https://www.deepseek.com",
       "bgImg": "",
-      "tags": ["deepseek", "open", "source", "reasoning", "tool"],
+      "tags": [
+        "deepseek",
+        "open",
+        "source",
+        "reasoning",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "baidu-wenxin-chinese-ai",
       "nameShort": "baidu",
-      "seoTitle": "Baidu Wenxin Yiyan Is A Generative AI Developed By Baidu",
-      "seoDescription": "Baidu Wenxin Yiyan Is A Generative AI Developed By Baidu, Integrating Large Language Models With Chinese Cultural Understanding For Content Creation",
+      "seoTitle": "Baidu Wenxin Yiyan Is A Generative AI Developed By Baidu.",
+      "seoDescription": "Baidu Wenxin Yiyan Is A Generative AI Developed By Baidu, Integrating Large Language Models With Chinese Cultural Understanding For Content Creation Explore.",
       "seoKeywords": [
         "baidu",
         "wenxin",
@@ -136,14 +160,20 @@
       ],
       "iframeUrl": "https://yiyan.baidu.com",
       "bgImg": "",
-      "tags": ["baidu", "wenxin", "chinese", "ai", "tool"],
+      "tags": [
+        "baidu",
+        "wenxin",
+        "chinese",
+        "ai",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "baidu-ernie-enterprise-assistant",
       "nameShort": "baidu-ernie",
-      "seoTitle": "Baidu ERNIE Bot Is An Enhanced AI Assistant Based On Baidu'S",
-      "seoDescription": "Baidu ERNIE Bot Is An Enhanced AI Assistant Based On Baidu's ERNIE Large Model, Providing Professional Knowledge, Creative Content Generation, And",
+      "seoTitle": "Baidu Ernie Bot Is An Enhanced AI Assistant Based On.",
+      "seoDescription": "Baidu Ernie Bot Is An Enhanced AI Assistant Based On Baidu's Ernie Large Model, Providing Professional Knowledge, Creative Content Generation, And Explore.",
       "seoKeywords": [
         "baidu ernie",
         "baidu",
@@ -160,14 +190,20 @@
       ],
       "iframeUrl": "https://ernie-bot.chat",
       "bgImg": "",
-      "tags": ["baidu", "ernie", "enterprise", "assistant", "tool"],
+      "tags": [
+        "baidu",
+        "ernie",
+        "enterprise",
+        "assistant",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "claude-anthropic-safe-ai",
       "nameShort": "claude",
-      "seoTitle": "Claude Is An AI Assistant By Anthropic Focused On Safety And",
-      "seoDescription": "Claude Is An AI Assistant By Anthropic Focused On Safety And Transparency, Handling Long Documents, Generating Accurate Responses, And Integrating",
+      "seoTitle": "Claude Is An AI Assistant By Anthropic Focused On Safety.",
+      "seoDescription": "Claude Is An AI Assistant By Anthropic Focused On Safety And Transparency, Handling Long Documents, Generating Accurate Responses, And Integrating Explore.",
       "seoKeywords": [
         "claude",
         "anthropic",
@@ -184,14 +220,20 @@
       ],
       "iframeUrl": "https://www.anthropic.com/index/claude",
       "bgImg": "",
-      "tags": ["claude", "anthropic", "safe", "ai", "tool"],
+      "tags": [
+        "claude",
+        "anthropic",
+        "safe",
+        "ai",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "google-gemini-multimodal-ai",
       "nameShort": "google",
-      "seoTitle": "Google Gemini Is A Multimodal AI Model Supporting Text, Image",
-      "seoDescription": "Google Gemini Is A Multimodal AI Model Supporting Text, Image, Audio, And Video Interactions, Designed For Seamless Integration With Google Services",
+      "seoTitle": "Google Gemini Is A Multimodal AI Model Supporting Text.",
+      "seoDescription": "Google Gemini Is A Multimodal AI Model Supporting Text, Image, Audio, And Video Interactions, Designed For Seamless Integration With Google Services Explore.",
       "seoKeywords": [
         "google",
         "gemini",
@@ -208,14 +250,20 @@
       ],
       "iframeUrl": "https://gemini.google.com",
       "bgImg": "",
-      "tags": ["google", "gemini", "multimodal", "ai", "tool"],
+      "tags": [
+        "google",
+        "gemini",
+        "multimodal",
+        "ai",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "dalle3-openai-image-generator",
       "nameShort": "dalle3",
-      "seoTitle": "DALL-E 3 DALL-E Is An AI Image Generation Tool By OpenAI That",
-      "seoDescription": "DALL-E 3 - DALL E Is An AI Image Generation Tool By OpenAI That Transforms Natural Language Prompts Into High-quality Creative Images With Style",
+      "seoTitle": "DALL-E 3 DALL-E Is An AI Image Generation Tool By Openai.",
+      "seoDescription": "DALL-E 3 - DALL E Is An AI Image Generation Tool By Openai That Transforms Natural Language Prompts Into High-Quality Creative Images With Style Explore.",
       "seoKeywords": [
         "dall-e 3",
         "dalle3",
@@ -232,14 +280,20 @@
       ],
       "iframeUrl": "https://openai.com/dall-e-3",
       "bgImg": "https://images.ctfassets.net/kftzwdyauwt9/5JZsznv2kZBJhcntpSLEL9/fbe72de7edaceb8a44176170312ccf2a/picnic-cherry-tree.jpeg?w=1920&q=90&fm=webp",
-      "tags": ["dalle3", "openai", "image", "generator", "tool"],
+      "tags": [
+        "dalle3",
+        "openai",
+        "image",
+        "generator",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "midjourney-ai-art-generator",
       "nameShort": "midjourney",
-      "seoTitle": "MidJourney Is An AI Image Generation Platform Specializing In",
-      "seoDescription": "MidJourney Is An AI Image Generation Platform Specializing In Artistic And Creative Visuals, Generating High-resolution Images From Text Prompts With",
+      "seoTitle": "Midjourney Is An AI Image Generation Platform Specializing.",
+      "seoDescription": "Midjourney Is An AI Image Generation Platform Specializing In Artistic And Creative Visuals, Generating High-Resolution Images From Text Prompts With Explore.",
       "seoKeywords": [
         "midjourney",
         "art",
@@ -256,14 +310,20 @@
       ],
       "iframeUrl": "https://www.midjourney.com",
       "bgImg": "",
-      "tags": ["midjourney", "ai", "art", "generator", "tool"],
+      "tags": [
+        "midjourney",
+        "ai",
+        "art",
+        "generator",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "zhihu-chart-data-assistant",
       "nameShort": "zhihu",
-      "seoTitle": "Zhihu Chart AI Is Zhihu'S AI Assistant For Data Visualization",
-      "seoDescription": "Zhihu Chart AI Is Zhihu's AI Assistant For Data Visualization And Content Analysis, Helping Users Create Charts, Analyze Data, And Generate Insights",
+      "seoTitle": "Zhihu Chart AI Is Zhihu's AI Assistant For Data Visualizati.",
+      "seoDescription": "Zhihu Chart AI Is Zhihu's AI Assistant For Data Visualization And Content Analysis, Helping Users Create Charts, Analyze Data, And Generate Insights Explore.",
       "seoKeywords": [
         "zhihu",
         "chart",
@@ -280,14 +340,20 @@
       ],
       "iframeUrl": "https://www.zhihu.com/chart-ai",
       "bgImg": "",
-      "tags": ["zhihu", "chart", "data", "assistant", "tool"],
+      "tags": [
+        "zhihu",
+        "chart",
+        "data",
+        "assistant",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "iflytek-speech-nlp-platform",
       "nameShort": "iflytek",
-      "seoTitle": "IFlytek AI Is A Comprehensive Platform Offering Speech",
-      "seoDescription": "IFlytek AI Is A Comprehensive Platform Offering Speech Recognition, Natural Language Processing, Computer Vision, And Intelligent Hardware Solutions",
+      "seoTitle": "Iflytek AI Is A Comprehensive Platform Offering Speech.",
+      "seoDescription": "Iflytek AI Is A Comprehensive Platform Offering Speech Recognition, Natural Language Processing, Computer Vision, And Intelligent Hardware Solutions Explore.",
       "seoKeywords": [
         "iflytek",
         "speech",
@@ -304,14 +370,20 @@
       ],
       "iframeUrl": "https://www.iflytek.com/",
       "bgImg": "",
-      "tags": ["iflytek", "speech", "nlp", "platform", "tool"],
+      "tags": [
+        "iflytek",
+        "speech",
+        "nlp",
+        "platform",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "tongyi-qianwen-enterprise-ai",
       "nameShort": "tongyi",
-      "seoTitle": "Tongyi Alibaba Tongyi Qianwen Is A Generative AI Integrating",
-      "seoDescription": "Alibaba Tongyi Qianwen Is A Generative AI Integrating Large Language Models With E-commerce, Cloud Services, And Enterprise Applications, Supporting",
+      "seoTitle": "Tongyi Alibaba Tongyi Qianwen Is A Generative AI Integratin.",
+      "seoDescription": "Alibaba Tongyi Qianwen Is A Generative AI Integrating Large Language Models With E-Commerce, Cloud Services, And Enterprise Applications, Supporting Explore.",
       "seoKeywords": [
         "tongyi",
         "qianwen",
@@ -328,14 +400,20 @@
       ],
       "iframeUrl": "https://tongyi.aliyun.com/",
       "bgImg": "",
-      "tags": ["tongyi", "qianwen", "enterprise", "ai", "tool"],
+      "tags": [
+        "tongyi",
+        "qianwen",
+        "enterprise",
+        "ai",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "adobe-firefly-creative-suite",
       "nameShort": "adobe",
-      "seoTitle": "Adobe Firefly Is An AI Creative Tool Designed For Ethical",
-      "seoDescription": "Adobe Firefly Is An AI Creative Tool Designed For Ethical Content Generation, Including Images, Text Effects, And Vector Graphics, Seamlessly",
+      "seoTitle": "Adobe Firefly Is An AI Creative Tool Designed For Ethical.",
+      "seoDescription": "Adobe Firefly Is An AI Creative Tool Designed For Ethical Content Generation, Including Images, Text Effects, And Vector Graphics, Seamlessly Explore Features.",
       "seoKeywords": [
         "adobe",
         "firefly",
@@ -352,14 +430,20 @@
       ],
       "iframeUrl": "https://www.adobe.com/uk/products/firefly.html",
       "bgImg": "",
-      "tags": ["adobe", "firefly", "creative", "suite", "tool"],
+      "tags": [
+        "adobe",
+        "firefly",
+        "creative",
+        "suite",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "bing-ai-search-copilot",
       "nameShort": "bing",
-      "seoTitle": "Bing AI Is Microsoft'S AI-Powered Search Assistant Combining",
-      "seoDescription": "Bing AI Is Microsoft's AI-powered Search Assistant Combining Search Capabilities With Conversational Interaction, Content Generation, And Real-time",
+      "seoTitle": "Bing AI Is Microsoft's AI-Powered Search Assistant.",
+      "seoDescription": "Bing AI Is Microsoft's AI-Powered Search Assistant Combining Search Capabilities With Conversational Interaction, Content Generation, And Real-Time Explore.",
       "seoKeywords": [
         "bing",
         "search",
@@ -376,14 +460,20 @@
       ],
       "iframeUrl": "https://www.bing.com/new",
       "bgImg": "",
-      "tags": ["bing", "ai", "search", "copilot", "tool"],
+      "tags": [
+        "bing",
+        "ai",
+        "search",
+        "copilot",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "cohere-enterprise-nlp-platform",
       "nameShort": "cohere",
-      "seoTitle": "Cohere Is An AI Platform Specializing In Natural Language",
-      "seoDescription": "Cohere Is An AI Platform Specializing In Natural Language Processing, Offering Models For Text Classification, Summarization, Translation, And",
+      "seoTitle": "Cohere Is An AI Platform Specializing In Natural Language.",
+      "seoDescription": "Cohere Is An AI Platform Specializing In Natural Language Processing, Offering Models For Text Classification, Summarization, Translation, And Explore.",
       "seoKeywords": [
         "cohere",
         "enterprise",
@@ -400,14 +490,20 @@
       ],
       "iframeUrl": "https://cohere.com",
       "bgImg": "",
-      "tags": ["cohere", "enterprise", "nlp", "platform", "tool"],
+      "tags": [
+        "cohere",
+        "enterprise",
+        "nlp",
+        "platform",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "perplexity-ai-search-assistant",
       "nameShort": "perplexity",
-      "seoTitle": "Perplexity AI Is An AI Search And Knowledge Assistant Providing",
-      "seoDescription": "Perplexity AI Is An AI Search And Knowledge Assistant Providing Accurate, Cited Answers To Complex Questions, Integrating Real-time Data And Deep",
+      "seoTitle": "Perplexity AI Is An AI Search And Knowledge Assistant.",
+      "seoDescription": "Perplexity AI Is An AI Search And Knowledge Assistant Providing Accurate, Cited Answers To Complex Questions, Integrating Real-Time Data And Deep Explore.",
       "seoKeywords": [
         "perplexity",
         "search",
@@ -424,14 +520,20 @@
       ],
       "iframeUrl": "https://www.perplexity.ai",
       "bgImg": "",
-      "tags": ["perplexity", "ai", "search", "assistant", "tool"],
+      "tags": [
+        "perplexity",
+        "ai",
+        "search",
+        "assistant",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "notion-ai-workspace-automation",
       "nameShort": "notion",
-      "seoTitle": "Notion AI Is An AI Assistant Integrated Into Notion, Enhancing",
-      "seoDescription": "Notion AI Is An AI Assistant Integrated Into Notion, Enhancing Productivity With Text Generation, Summarization, Editing, And Task Automation Within",
+      "seoTitle": "Notion AI Is An AI Assistant Integrated Into Notion.",
+      "seoDescription": "Notion AI Is An AI Assistant Integrated Into Notion, Enhancing Productivity With Text Generation, Summarization, Editing, And Task Automation Within Explore.",
       "seoKeywords": [
         "notion",
         "workspace",
@@ -448,14 +550,20 @@
       ],
       "iframeUrl": "https://www.notion.so/product/ai",
       "bgImg": "",
-      "tags": ["notion", "ai", "workspace", "automation", "tool"],
+      "tags": [
+        "notion",
+        "ai",
+        "workspace",
+        "automation",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "stable-diffusion-image-model",
       "nameShort": "stable",
-      "seoTitle": "Stable Diffusion Is An Open-Source AI Image Generation Model",
-      "seoDescription": "Stable Diffusion Is An Open-source AI Image Generation Model, Allowing Users To Generate Custom Images From Text Prompts, With Extensive",
+      "seoTitle": "Stable Diffusion Is An Open-Source AI Image Generation.",
+      "seoDescription": "Stable Diffusion Is An Open-Source AI Image Generation Model, Allowing Users To Generate Custom Images From Text Prompts, With Extensive Explore Features, Use.",
       "seoKeywords": [
         "stable",
         "diffusion",
@@ -472,14 +580,20 @@
       ],
       "iframeUrl": "https://stability.ai/stable-diffusion",
       "bgImg": "",
-      "tags": ["stable", "diffusion", "image", "model", "tool"],
+      "tags": [
+        "stable",
+        "diffusion",
+        "image",
+        "model",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "meta-llama-language-model",
       "nameShort": "meta",
-      "seoTitle": "Meta Llama Is An Open-Source Large Language Model By Meta",
-      "seoDescription": "Meta Llama Is An Open-source Large Language Model By Meta, Designed For Research And Commercial Use, Supporting Customization, Fine-tuning, And",
+      "seoTitle": "Meta Llama Is An Open-Source Large Language Model By Meta.",
+      "seoDescription": "Meta Llama Is An Open-Source Large Language Model By Meta, Designed For Research And Commercial Use, Supporting Customization, Fine-Tuning, And Explore.",
       "seoKeywords": [
         "meta",
         "llama",
@@ -496,14 +610,20 @@
       ],
       "iframeUrl": "https://ai.meta.com/llama/",
       "bgImg": "",
-      "tags": ["meta", "llama", "language", "model", "tool"],
+      "tags": [
+        "meta",
+        "llama",
+        "language",
+        "model",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "cursor-ide-ai-editor",
       "nameShort": "cursor",
-      "seoTitle": "Cursor IDE Is An AI-Native Editor That Lets You Chat With Your",
-      "seoDescription": "Cursor IDE Is An AI-native Editor That Lets You Chat With Your Repo, Refactor Entire Files, And Review Diff Previews Using Claude 3",
+      "seoTitle": "Cursor IDE Is An AI-Native Editor That Lets You Chat With.",
+      "seoDescription": "Cursor IDE Is An AI-Native Editor That Lets You Chat With Your Repo, Refactor Entire Files, And Review Diff Previews Using Claude 3 Explore Features, Use.",
       "seoKeywords": [
         "cursor",
         "ide",
@@ -520,14 +640,20 @@
       ],
       "iframeUrl": "https://cursor.com/cn",
       "bgImg": "",
-      "tags": ["cursor", "ide", "ai", "editor", "tool"],
+      "tags": [
+        "cursor",
+        "ide",
+        "ai",
+        "editor",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "amazon-q-developer-copilot",
       "nameShort": "amazon",
-      "seoTitle": "Amazon Q Developer Is AWS's Coding Copilot That Drafts",
-      "seoDescription": "Amazon Q Developer Is AWS's Coding Copilot That Drafts Infrastructure As Code, Fixes Vulnerabilities, And Can Run Commands Directly In CloudShell And",
+      "seoTitle": "Amazon Q Developer Is Aws's Coding Copilot That Drafts.",
+      "seoDescription": "Amazon Q Developer Is Aws's Coding Copilot That Drafts Infrastructure As Code, Fixes Vulnerabilities, And Can Run Commands Directly In Cloudshell And Explore.",
       "seoKeywords": [
         "amazon",
         "developer",
@@ -544,14 +670,20 @@
       ],
       "iframeUrl": "https://aws.amazon.com/q/developer/",
       "bgImg": "",
-      "tags": ["amazon", "q", "developer", "copilot", "tool"],
+      "tags": [
+        "amazon",
+        "q",
+        "developer",
+        "copilot",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "sourcegraph-cody-code-assistant",
       "nameShort": "sourcegraph",
-      "seoTitle": "Sourcegraph Cody Is A Deep-Code AI Assistant With",
-      "seoDescription": "Sourcegraph Cody Is A Deep-code AI Assistant With Repository-aware Context, Structural Search, And Precise Answers Grounded In Sourcegraph's Code",
+      "seoTitle": "Sourcegraph Cody Is A Deep-Code AI Assistant With | Guides.",
+      "seoDescription": "Sourcegraph Cody Is A Deep-Code AI Assistant With Repository-Aware Context, Structural Search, And Precise Answers Grounded In Sourcegraph's Code Explore.",
       "seoKeywords": [
         "sourcegraph",
         "cody",
@@ -568,14 +700,20 @@
       ],
       "iframeUrl": "https://sourcegraph.com/cody",
       "bgImg": "",
-      "tags": ["sourcegraph", "cody", "code", "assistant", "tool"],
+      "tags": [
+        "sourcegraph",
+        "cody",
+        "code",
+        "assistant",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "codeium-free-coding-toolkit",
       "nameShort": "codeium",
-      "seoTitle": "Codeium Is A Free-For-Dev AI Toolkit From Exafunction That",
-      "seoDescription": "Codeium Is A Free-for-dev AI Toolkit From Exafunction That Offers Autocomplete, Chat, And Refactor Actions For 70 Languages Across JetBrains, VS",
+      "seoTitle": "Codeium Is A Free-For-Dev AI Toolkit From Exafunction That.",
+      "seoDescription": "Codeium Is A Free-For-Dev AI Toolkit From Exafunction That Offers Autocomplete, Chat, And Refactor Actions For 70 Languages Across Jetbrains, VS Explore.",
       "seoKeywords": [
         "codeium",
         "free",
@@ -592,14 +730,20 @@
       ],
       "iframeUrl": "https://codeium.com/",
       "bgImg": "",
-      "tags": ["codeium", "free", "coding", "toolkit", "tool"],
+      "tags": [
+        "codeium",
+        "free",
+        "coding",
+        "toolkit",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "gitlab-duo-pair-programmer",
       "nameShort": "gitlab",
-      "seoTitle": "GitLab Duo Is GitLab's Native AI Pair Programmer That Comments",
-      "seoDescription": "GitLab Duo Is GitLab's Native AI Pair Programmer That Comments On Merge Requests, Generates Secure Code In The Web IDE, And Triages CI Issues With",
+      "seoTitle": "Gitlab Duo Is Gitlab's Native AI Pair Programmer That.",
+      "seoDescription": "Gitlab Duo Is Gitlab's Native AI Pair Programmer That Comments On Merge Requests, Generates Secure Code In The Web IDE, And Triages CI Issues With Explore.",
       "seoKeywords": [
         "gitlab",
         "duo",
@@ -616,14 +760,20 @@
       ],
       "iframeUrl": "https://about.gitlab.com/gitlab-duo/",
       "bgImg": "",
-      "tags": ["gitlab", "duo", "pair", "programmer", "tool"],
+      "tags": [
+        "gitlab",
+        "duo",
+        "pair",
+        "programmer",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "replit-ghostwriter-ai-teammate",
       "nameShort": "replit",
-      "seoTitle": "Replit Ghostwriter Is An AI Teammate Inside Replit That",
-      "seoDescription": "Replit Ghostwriter Is An AI Teammate Inside Replit That Completes Functions, Explains Runtime Errors, And Can Edit Whole Files Through Conversational",
+      "seoTitle": "Replit Ghostwriter Is An AI Teammate Inside Replit That.",
+      "seoDescription": "Replit Ghostwriter Is An AI Teammate Inside Replit That Completes Functions, Explains Runtime Errors, And Can Edit Whole Files Through Conversational Explore.",
       "seoKeywords": [
         "replit",
         "ghostwriter",
@@ -640,14 +790,20 @@
       ],
       "iframeUrl": "https://replit.com/site/ghostwriter",
       "bgImg": "",
-      "tags": ["replit", "ghostwriter", "ai", "teammate", "tool"],
+      "tags": [
+        "replit",
+        "ghostwriter",
+        "ai",
+        "teammate",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "gemini-code-assist-copilot",
       "nameShort": "gemini",
-      "seoTitle": "Gemini Code Assist Is Google Cloud's Gemini-Based Coding Partner",
-      "seoDescription": "Gemini Code Assist Is Google Cloud's Gemini-based Coding Partner That Understands Multi-file Context, Fixes IaC Policies, And Can Run Remediation",
+      "seoTitle": "Gemini Code Assist Is Google Cloud's Gemini-Based Coding.",
+      "seoDescription": "Gemini Code Assist Is Google Cloud's Gemini-Based Coding Partner That Understands Multi-File Context, Fixes Iac Policies, And Can Run Remediation Explore.",
       "seoKeywords": [
         "gemini",
         "code",
@@ -664,14 +820,20 @@
       ],
       "iframeUrl": "https://cloud.google.com/gemini/docs/code-assist",
       "bgImg": "",
-      "tags": ["gemini", "code", "assist", "copilot", "tool"],
+      "tags": [
+        "gemini",
+        "code",
+        "assist",
+        "copilot",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "tabnine-secure-code-completion",
       "nameShort": "tabnine",
-      "seoTitle": "Tabnine Is An Enterprise-Grade AI Completion Engine That Can Run",
-      "seoDescription": "Tabnine Is An Enterprise-grade AI Completion Engine That Can Run Fully On-prem, Trains On Your Private Repositories, And Plugs Into JetBrains, VS",
+      "seoTitle": "Tabnine Is An Enterprise-Grade AI Completion Engine That.",
+      "seoDescription": "Tabnine Is An Enterprise-Grade AI Completion Engine That Can Run Fully On-Prem, Trains On Your Private Repositories, And Plugs Into Jetbrains, VS Explore.",
       "seoKeywords": [
         "tabnine",
         "secure",
@@ -688,25 +850,43 @@
       ],
       "iframeUrl": "https://www.tabnine.com/",
       "bgImg": "",
-      "tags": ["tabnine", "secure", "code", "completion", "tool"],
+      "tags": [
+        "tabnine",
+        "secure",
+        "code",
+        "completion",
+        "tool"
+      ],
       "updateTime": "2025-11-30"
     },
     {
       "name": "grok-ai-chatbot",
       "nameShort": "grok",
-      "seoTitle": "Grok Is X",
-      "seoDescription": "Grok Is X",
-      "seoKeywords": ["grok", "chatbot", "ai", "tool", "platform"],
+      "seoTitle": "Grok Is X | Guides, Tips & Updates Guides, Tips & Updates.",
+      "seoDescription": "Grok Is X Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips To Compare Options, Implement Quickly, And Optimize Results.",
+      "seoKeywords": [
+        "grok",
+        "chatbot",
+        "ai",
+        "tool",
+        "platform"
+      ],
       "iframeUrl": "https://x.ai/",
       "bgImg": "",
-      "tags": ["grok", "ai", "chatbot", "tool", "platform"],
+      "tags": [
+        "grok",
+        "ai",
+        "chatbot",
+        "tool",
+        "platform"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "mistral-large-language-model",
       "nameShort": "mistral",
-      "seoTitle": "Mistral AI Ships High-Performance Large Language Models Like",
-      "seoDescription": "Mistral AI Ships High-performance Large Language Models Like Mixtral And Le Chat, Optimized For Multilingual Reasoning, Coding Help, And",
+      "seoTitle": "Mistral AI Ships High-Performance Large Language Models.",
+      "seoDescription": "Mistral AI Ships High-Performance Large Language Models Like Mixtral And Le Chat, Optimized For Multilingual Reasoning, Coding Help, And Explore Features, Use.",
       "seoKeywords": [
         "mistral",
         "large",
@@ -723,14 +903,20 @@
       ],
       "iframeUrl": "https://mistral.ai/",
       "bgImg": "",
-      "tags": ["mistral", "large", "language", "model", "tool"],
+      "tags": [
+        "mistral",
+        "large",
+        "language",
+        "model",
+        "tool"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "suno-ai-music-generator",
       "nameShort": "suno",
-      "seoTitle": "Suno AI Turns Plain Text Prompts Into Full Songs With Vocals",
-      "seoDescription": "Suno AI Turns Plain Text Prompts Into Full Songs With Vocals, Styles, And Downloadable Stems, Making Rapid Music Prototyping Accessible To",
+      "seoTitle": "Suno AI Turns Plain Text Prompts Into Full Songs With.",
+      "seoDescription": "Suno AI Turns Plain Text Prompts Into Full Songs With Vocals, Styles, And Downloadable Stems, Making Rapid Music Prototyping Accessible To Explore Features.",
       "seoKeywords": [
         "suno",
         "music",
@@ -747,14 +933,20 @@
       ],
       "iframeUrl": "https://suno.com/",
       "bgImg": "",
-      "tags": ["suno", "ai", "music", "generator", "tool"],
+      "tags": [
+        "suno",
+        "ai",
+        "music",
+        "generator",
+        "tool"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "blackbox-ai-code-assistant",
       "nameShort": "blackbox",
-      "seoTitle": "Blackbox AI Is A Coding Copilot For Browser And IDE Workflows",
-      "seoDescription": "Blackbox AI Is A Coding Copilot For Browser And IDE Workflows, Supporting Repo-aware Chat, Code Search, And Autocomplete For 200 Languages",
+      "seoTitle": "Blackbox AI Is A Coding Copilot For Browser And IDE.",
+      "seoDescription": "Blackbox AI Is A Coding Copilot For Browser And IDE Workflows, Supporting Repo-Aware Chat, Code Search, And Autocomplete For 200 Languages Explore Features.",
       "seoKeywords": [
         "blackbox",
         "code",
@@ -771,14 +963,20 @@
       ],
       "iframeUrl": "https://www.blackbox.ai/",
       "bgImg": "",
-      "tags": ["blackbox", "ai", "code", "assistant", "tool"],
+      "tags": [
+        "blackbox",
+        "ai",
+        "code",
+        "assistant",
+        "tool"
+      ],
       "updateTime": "2025-12-03"
     },
     {
       "name": "phind-ai-coding-search",
       "nameShort": "phind",
-      "seoTitle": "Phind Is An AI Search Engine For Developers That Pairs Fast Web",
-      "seoDescription": "Phind Is An AI Search Engine For Developers That Pairs Fast Web Answers With Claude And GPT Reasoning To Debug, Explain, And Scaffold Code",
+      "seoTitle": "Phind Is An AI Search Engine For Developers That Pairs Fast.",
+      "seoDescription": "Phind Is An AI Search Engine For Developers That Pairs Fast Web Answers With Claude And GPT Reasoning To Debug, Explain, And Scaffold Code Explore Features.",
       "seoKeywords": [
         "phind",
         "coding",
@@ -795,9 +993,14 @@
       ],
       "iframeUrl": "https://www.phind.com/",
       "bgImg": "",
-      "tags": ["phind", "ai", "coding", "search", "tool"],
+      "tags": [
+        "phind",
+        "ai",
+        "coding",
+        "search",
+        "tool"
+      ],
       "updateTime": "2025-12-03"
     }
   ]
 }
-
