@@ -13,30 +13,82 @@ export default defineNuxtConfig({
       nitro.hooks.hook("prerender:done", async () => {
         console.log("开始生成sitemap.xml文件");
         const baseUrl = `https://${h1Title}`;
+        const wwwbaseUrl = `https://www.${h1Title}`;
         const sitemapUrls = await readPublicSubFolders();
-        const sitemaps = sitemapUrls.map((uri: string) => {
-          const uriObj = {
-            "": 1.0,
-            json: 0.9,
-            detail: 0.9,
-            tool: 0.9,
-            search: 0.8,
-            category: 0.8,
-            tag: 0.8,
-            menu: 0.8,
-            theme: 0.7,
-            about: 0.6,
-            contact: 0.6,
-            privacy: 0.6,
-          };
-          const priority = uriObj[uri.split("/")[1] as keyof typeof uriObj] || 0.5;
-          return {
-            loc: `${baseUrl}${normalizeInternalHref(uri)}`,
-            lastmod: new Date().toISOString(),
-            changefreq: "weekly",
-            priority,
-          };
-        });
+        // /** bing搜索引擎推送 */
+        // const bingRes = await fetch("https://api.indexnow.org/IndexNow", {
+        //   method: "POST",
+        //   headers: {
+        //     "Content-Type": "application/json; charset=utf-8",
+        //   },
+        //   body: JSON.stringify({
+        //     host: "toolsbox.vip",
+        //     key: "9b3702331a224a05bf2659b07de227e4",
+        //     keyLocation: "https://toolsbox.vip/9b3702331a224a05bf2659b07de227e4.txt",
+        //     urlList: [
+        //       ...sitemapUrls.map((uri) => {
+        //         return `${baseUrl}${normalizeInternalHref(uri)}`;
+        //       }),
+        //       ...sitemapUrls.map((uri) => {
+        //         return `${wwwbaseUrl}${normalizeInternalHref(uri)}`;
+        //       }),
+        //     ],
+        //   }),
+        // });
+        // console.log("qmbingRes", bingRes);
+        // /** 百度搜索引擎推送 */
+        // const baiduRes = await fetch(
+        //   "http://data.zz.baidu.com/urls?site=https://www.toolsbox.vip&token=UkZv4kLAqigXdvGl",
+        //   {
+        //     method: "POST",
+        //     headers: {
+        //       "Content-Type": "text/plain",
+        //       "User-Agent": "curl/7.12.1",
+        //     },
+        //     body: JSON.stringify(
+        //       sitemapUrls
+        //         .map((uri) => {
+        //           return `${wwwbaseUrl}${normalizeInternalHref(uri)}`;
+        //         })
+        //         .join("\n"),
+        //     ),
+        //   },
+        // );
+        // console.log("qmbaiduRes", baiduRes);
+        const uriObj = {
+          "": 1.0,
+          json: 0.9,
+          detail: 0.9,
+          tool: 0.9,
+          search: 0.8,
+          category: 0.8,
+          tag: 0.8,
+          menu: 0.8,
+          theme: 0.7,
+          about: 0.6,
+          contact: 0.6,
+          privacy: 0.6,
+        };
+        const sitemaps = [
+          ...sitemapUrls.map((uri: string) => {
+            const priority = uriObj[uri.split("/")[1] as keyof typeof uriObj] || 0.5;
+            return {
+              loc: `${baseUrl}${normalizeInternalHref(uri)}`,
+              lastmod: new Date().toISOString(),
+              changefreq: "weekly",
+              priority,
+            };
+          }),
+          ...sitemapUrls.map((uri: string) => {
+            const priority = uriObj[uri.split("/")[1] as keyof typeof uriObj] || 0.5;
+            return {
+              loc: `${wwwbaseUrl}${normalizeInternalHref(uri)}`,
+              lastmod: new Date().toISOString(),
+              changefreq: "weekly",
+              priority,
+            };
+          }),
+        ];
         const xmlContent = `<?xml version="1.0" encoding="UTF-8"?>
           <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
           ${sitemaps
