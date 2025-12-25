@@ -17,7 +17,7 @@
       ></path>
     </svg>
     <span>
-      If the page fails to load, you can click the button on the right.&nbsp;
+      If The Page Fails To Load, You Can Click The Button On The Right.&nbsp;
       <a
         :title="seoTitle"
         :href="iframeUrl"

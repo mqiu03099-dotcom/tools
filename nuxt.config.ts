@@ -217,6 +217,28 @@ export default defineNuxtConfig({
   vite: {
     plugins: [tailwindcss()],
     clearScreen: true, // 启动时清空控制台
+    resolve: {
+      dedupe: [
+        "@codemirror/state",
+        "@codemirror/view",
+        "@codemirror/search",
+        "@codemirror/language",
+        "@codemirror/lang-json",
+        "@codemirror/commands",
+        "vue-codemirror",
+      ],
+    },
+    optimizeDeps: {
+      include: [
+        "@codemirror/state",
+        "@codemirror/view",
+        "@codemirror/search",
+        "@codemirror/language",
+        "@codemirror/lang-json",
+        "@codemirror/commands",
+        "vue-codemirror",
+      ],
+    },
     build: {
       minify: "esbuild", // 构建时是否进行代码压缩
       sourcemap: false, // 打包时是否生成 sourcemap 文件

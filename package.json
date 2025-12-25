@@ -18,6 +18,11 @@
     "nuxt": "3.17.5",
     "tailwindcss": "4.1.18",
     "vue": "3.5.18",
+    "vue-codemirror": "6.1.1",
+    "@codemirror/commands": "6.3.2",
+    "@codemirror/lang-json": "6.0.1",
+    "@codemirror/search": "6.5.5",
+    "@codemirror/state": "6.4.1",
     "vue-router": "4.5.1",
     "wrangler": "4.53.0",
     "daisyui": "5.5.14"
