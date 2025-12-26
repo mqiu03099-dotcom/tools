@@ -169,12 +169,12 @@
     class="bg-base-100 p-3 m-3 rounded-[var(--radius-box)] flex flex-col gap-3"
     itemprop="about"
   >
-    <h1
+    <h2
       class="text-lg font-bold leading-tight"
       itemprop="name"
     >
       {{ seoTitle }}
-    </h1>
+    </h2>
     <p
       class="text-sm text-base-content/70"
       itemprop="description"
