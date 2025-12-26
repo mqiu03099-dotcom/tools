@@ -30,19 +30,27 @@
     {
       "name": "png-to-jpg",
       "nameShort": "png-to-jpg",
-      "seoTitle": "JSON Formatter & Validator Online | Pretty Print & Minify.",
+      "seoTitle": "PNG To JPG & JPG To PNG Converter | Fast Online Tool",
       "path": "/png-to-jpg/",
-      "iframeUrl": "https://json4u.cn/editor",
-      "seoDescription": "Online JSON Toolkit To Paste, Pretty-Print, Minify, And Validate Payloads. Spot Errors Fast, Convert Between Json, CSV, Yaml, And Keep API Responses Clean.",
+      "iframeUrl": "https://convert.town/png-to-jpg",
+      "seoDescription": "Upload An Image And Convert Between PNG And JPG Instantly. Drag And Drop, Pick Format, Adjust JPG Quality And Background, Then Download Without Server Uploads.",
       "seoKeywords": [
-        "png-to-jpg",
-        "png",
-        "jpg",
-        "svg"
+        "png to jpg",
+        "jpg to png",
+        "image converter",
+        "online image converter",
+        "background color fill",
+        "jpg quality slider"
       ],
       "bgImg": "/img/png-to-jpg-bg.png",
       "logo": "/img/png-to-jpg.svg",
-      "tags": ["png-to-jpg"],
+      "tags": [
+        "png-to-jpg",
+        "jpg-to-png",
+        "image-converter",
+        "background-fill",
+        "quality-control"
+      ],
       "updateTime": "2025-12-26"
     }
   ]
