@@ -42,6 +42,9 @@ const sencondText = computed(() => {
   if (path.startsWith("/json/")) {
     return "json";
   }
+  if (path.startsWith("/png-to-jpg/")) {
+    return "png-to-jpg";
+  }
   if (path.startsWith("/about")) {
     return "about-us";
   }
