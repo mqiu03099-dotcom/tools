@@ -2,13 +2,13 @@
   <div
     class="hero capitalize min-h-[400px] sm:min-h-[450px] md:min-h-[500px] rounded-[var(--radius-box)] relative overflow-hidden"
   >
-    <div class="absolute left-0 top-0 w-full h-full">
+    <div class="absolute left-0 top-0 w-full h-full flex">
       <img
         v-if="bgImg"
         :src="bgImg"
         :alt="bgImg"
         loading="lazy"
-        class="absolute left-0 top-0 w-full h-full object-cover blur-xs"
+        class="absolute left-1/2 top-1/2 -translate-1/2 size-auto object-cover blur-xs"
       />
       <div class="bg-base-100 opacity-70 absolute left-0 top-0 w-full h-full"></div>
     </div>

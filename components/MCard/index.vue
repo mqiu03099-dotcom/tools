@@ -11,7 +11,7 @@
           :src="bgImg"
           :alt="bgImg"
           loading="lazy"
-          class="absolute left-0 top-0 w-full h-auto object-cover blur-xs"
+          class="absolute left-0 top-0 left-1/2 top-1/2 -translate-1/2 object-cover blur-xs"
         />
         <div class="bg-[#00000090] absolute left-0 top-0 w-full h-full"></div>
       </figure>

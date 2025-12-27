@@ -1,7 +1,7 @@
 <template>
   <div
     class="hero min-h-[400px] sm:min-h-[450px] md:min-h-[500px] rounded-[var(--radius-box)] overflow-hidden capitalize"
-    :style="`background-image: url(${tool?.bgImg})`"
+    :style="`background: url(${tool?.bgImg}) no-repeat;`"
   >
     <div class="hero-overlay"></div>
     <div class="hero-content text-neutral-content text-center">
