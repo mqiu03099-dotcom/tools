@@ -18,7 +18,7 @@
 
 <script lang="ts" setup>
 const tools = flattenMenu(menu);
-const blockTools = tools.slice(0, tools.length - 3);
+const blockTools = getRandomElements(tools.slice(0, tools.length - 3), 250);
 
 const changeTheme = (index: number) => {
   if (index % 7 == 0) {

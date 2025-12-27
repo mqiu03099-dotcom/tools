@@ -42,8 +42,8 @@
         "background color fill",
         "jpg quality slider"
       ],
-      "bgImg": "/img/png-to-jpg-bg.png",
-      "logo": "/img/png-to-jpg.svg",
+      "bgImg": "/png-to-jpg-bg.png",
+      "logo": "/png-to-jpg.png",
       "tags": [
         "png-to-jpg",
         "jpg-to-png",

@@ -179,22 +179,12 @@ export default defineNuxtConfig({
           tagPriority: "critical", // 最高优先级加载
           tagPosition: "head", // 插入到head标签内
         },
-        {
-          src: "/iconfont/iconfont.js",
-          async: true,
-          crossorigin: "anonymous",
-          tagPriority: "critical",
-          tagPosition: "head",
-          type: "text/javascript",
-        },
         process.env.NODE_ENV === "development"
           ? {}
           : {
               src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6584635184413581`,
               crossorigin: "anonymous",
-              async: true,
-              tagPriority: "critical",
-              tagPosition: "head",
+              defer: true,
               type: "text/javascript",
             },
         process.env.NODE_ENV === "development"
@@ -206,9 +196,7 @@ export default defineNuxtConfig({
                     t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
                     y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
                 })(window, document, "clarity", "script", "uh9pi3oif4");`,
-              tagPriority: "critical",
-              tagPosition: "head",
-              async: true,
+              defer: true,
               type: "text/javascript",
             },
       ],
@@ -258,6 +246,6 @@ export default defineNuxtConfig({
       },
     },
   },
-  css: ["@/public/css/daisyui.css", "@/public/css/index.css", "@/public/iconfont/iconfont.css"],
+  css: ["@/assets/daisyui.css"],
 });
 
