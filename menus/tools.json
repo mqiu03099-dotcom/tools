@@ -16,7 +16,7 @@
         "json converter",
         "json tools"
       ],
-      "bgImg": "https://json4u.cn/example/graph.webp",
+      "bgImg": "/graph.webp",
       "tags": [
         "json",
         "formatter",
