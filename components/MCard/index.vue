@@ -1,7 +1,7 @@
 <template>
   <div
     :key="index"
-    v-for="({ name, seoDescription, updateTime, bgImg, path, logo, icon }, index) in data || []"
+    v-for="({ name, seoDescription, updateTime, bgImg, path, icon }, index) in data || []"
     class="w-full h-full hover:scale-98 transition-all overflow-hidden rounded-[var(--radius-box)]"
   >
     <div class="card bg-base-100 h-full image-full card-sm w-full shadow-sm">
@@ -16,21 +16,12 @@
         <div class="bg-[#00000090] absolute left-0 top-0 w-full h-full"></div>
       </figure>
       <div class="card-body">
-        <div class="flex items-center gap-3 w-full">
-          <img
-            v-if="logo"
-            :src="logo"
-            :alt="logo"
-            loading="lazy"
-            class="size-6 object-cover"
-          />
-          <h2
-            class="card-title line-clamp-1 break-all flex-1 font-bold"
-            :title="name"
-          >
-            {{ icon }} {{ name }}
-          </h2>
-        </div>
+        <h2
+          class="card-title line-clamp-1 break-all flex-1 font-bold"
+          :title="name"
+        >
+          {{ icon }} {{ name }}
+        </h2>
         <div
           :title="seoDescription"
           class="line-clamp-3 h-[54px]"

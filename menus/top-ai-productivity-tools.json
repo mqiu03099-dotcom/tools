@@ -39,7 +39,7 @@
         "content"
       ],
       "iframeUrl": "https://www.doubao.com",
-      "bgImg": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png",
+      "bgImg": "/logo-icon-white-bg.webp",
       "tags": [
         "doubao",
         "ai",

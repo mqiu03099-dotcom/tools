@@ -38,7 +38,7 @@
         "launch"
       ],
       "iframeUrl": "https://www.macrumors.com/roundup/iphone-17/",
-      "bgImg": "https://images.macrumors.com/t/B-OH6huBi4ps9IbiRKadZxSPmP4=/800x0/smart/article-new/2025/09/iphone-17-models.jpg",
+      "bgImg": "/iphone-17-models.webp",
       "tags": [
         "macrumors",
         "iphone17",

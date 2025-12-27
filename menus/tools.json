@@ -17,7 +17,6 @@
         "json tools"
       ],
       "bgImg": "https://json4u.cn/example/graph.webp",
-      "logo": "https://json4u.cn/icon.svg",
       "tags": [
         "json",
         "formatter",
@@ -44,7 +43,6 @@
         "jpg quality slider"
       ],
       "bgImg": "/png-to-jpg-bg.webp",
-      "logo": "/png-to-jpg.webp",
       "tags": [
         "png-to-jpg",
         "jpg-to-png",
