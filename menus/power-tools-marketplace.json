@@ -1,7 +1,7 @@
 {
   "name": "power-tools-marketplace",
   "nameShort": "power-tools",
-  "icon": "icon-niuzige",
+  "icon": "🚀",
   "seoTitle": "Power Tools Retailers And Brand Hubs | Guides, Tips &.",
   "seoDescription": "Fast-Loading Power Tool Catalogs Across Major Retailers And Brand Landing Pages. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "home-depot",
         "hardware"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⚡"
     },
     {
       "name": "lowes-power-tools",
@@ -49,7 +50,8 @@
         "lowes",
         "hardware"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌊"
     },
     {
       "name": "harbor-freight-power-tools",
@@ -69,7 +71,8 @@
         "harbor-freight",
         "deals"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🔬"
     },
     {
       "name": "total-tools-catalog",
@@ -89,7 +92,8 @@
         "power-tools",
         "retail"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌊"
     },
     {
       "name": "sydney-tools-power",
@@ -109,7 +113,8 @@
         "power-tools",
         "retail"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌊"
     }
   ]
 }

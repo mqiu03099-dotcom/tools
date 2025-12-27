@@ -1,7 +1,7 @@
 {
   "name": "grol-license-prep",
   "nameShort": "grol",
-  "icon": "icon-chimian",
+  "icon": "🎬",
   "seoTitle": "Grol Featuring Fcc Grol, Qrz Grol, Grol Guide | Guides.",
   "seoDescription": "Grol Directory Featuring Fcc Grol, Qrz Grol, Grol Guide And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips To.",
   "seoKeywords": [
@@ -44,7 +44,8 @@
         "element",
         "guide"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "📐"
     },
     {
       "name": "qrz-grol-practice",
@@ -74,7 +75,8 @@
         "qrz",
         "radio"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "📡"
     },
     {
       "name": "coastguardexams-grol-guide",
@@ -104,7 +106,8 @@
         "maritime",
         "license"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🧠"
     },
     {
       "name": "hamstudy",
@@ -128,7 +131,8 @@
         "practice",
         "exam"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🧳"
     },
     {
       "name": "quizlet",
@@ -152,7 +156,8 @@
         "flashcards",
         "exam"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🧭"
     }
   ]
 }

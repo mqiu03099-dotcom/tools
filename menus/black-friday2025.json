@@ -1,7 +1,7 @@
 {
   "name": "black-friday2025",
   "nameShort": "black",
-  "icon": "icon-kending",
+  "icon": "🧪",
   "seoTitle": "Black Featuring Black Friday2025, Black Friday2025 Bestbuy.",
   "seoDescription": "Black Directory Featuring Black Friday2025, Black Friday2025 Bestbuy, Black Friday2025 Walmart, Black Friday2025 Target And More. Explore Features, Use Cases.",
   "seoKeywords": [
@@ -42,7 +42,8 @@
         "deals",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🌊"
     },
     {
       "name": "black-friday2025-bestbuy-deals",
@@ -71,7 +72,8 @@
         "deals",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🛠"
     },
     {
       "name": "black-friday2025-walmart-deals",
@@ -101,7 +103,8 @@
         "deals",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🧳"
     },
     {
       "name": "black-friday2025-target-deals",
@@ -131,7 +134,8 @@
         "deals",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "📚"
     },
     {
       "name": "black-friday2025-tech-deals-tracker",
@@ -161,7 +165,8 @@
         "deals",
         "tracker"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🧾"
     }
   ]
 }

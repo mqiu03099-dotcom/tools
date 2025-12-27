@@ -14,10 +14,7 @@
           @click="handleActiveMenu(name)"
           :class="[activeMenuName === name ? 'menu-active' : '', name]"
         >
-          <MIcon :icon="icon" />
-          <div class="line-clamp-1 break-all">
-            {{ name }}
-          </div>
+          <div class="line-clamp-1 break-all">{{ icon }} {{ name }}</div>
         </a>
       </li>
     </ul>
@@ -51,10 +48,7 @@
                 class="btn btn-primary btn-soft"
                 :title="name"
               >
-                <MIcon :icon="icon" />
-                <div class="line-clamp-1 break-all">
-                  {{ name }}
-                </div>
+                <div class="line-clamp-1 break-all">{{ icon }} {{ name }}</div>
               </button>
             </MA>
             <MA

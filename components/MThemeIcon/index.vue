@@ -7,8 +7,9 @@
       class="btn btn-square btn-ghost"
       title="Theme Switcher"
     >
-      <MIcon
-        icon="icon-zhuti"
+      <img
+        src="/theme.png"
+        alt="theme.png"
         class="size-5"
       />
     </button>
@@ -18,3 +19,4 @@
 <script lang="ts" setup></script>
 
 <style scoped></style>
+

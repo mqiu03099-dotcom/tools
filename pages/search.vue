@@ -2,10 +2,12 @@
   <div class="p-3 flex flex-col gap-3">
     <MSearchAlert :total="tools?.length" />
     <label class="input w-full">
-      <MIcon
-        icon="icon-huajia"
-        class="size-4"
-      />
+      <span
+        class="textarea-md"
+        aria-hidden="true"
+      >
+        🔍
+      </span>
       <input
         v-model="search"
         type="search"

@@ -1,7 +1,7 @@
 {
   "name": "prompt-dec16-trending",
   "nameShort": "dec16",
-  "icon": "icon-chushi1",
+  "icon": "🚀",
   "seoTitle": "Prompt Batch Featuring Roblox, Minecraft, Game Awards.",
   "seoDescription": "Requested Categories Covering Gaming Hits, Holiday Music, Pop Culture Trailers, And News Hubs For Reddit, NBA, And More. Explore Features, Use Cases, Pricing.",
   "seoKeywords": [
@@ -37,7 +37,8 @@
         "wikihow",
         "tutorial"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "📚"
     },
     {
       "name": "christmas-music-and-songs",
@@ -60,7 +61,8 @@
         "holiday",
         "playlist"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🎯"
     },
     {
       "name": "karaoke-library-karafun",
@@ -82,7 +84,8 @@
         "sing",
         "songs"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🪄"
     },
     {
       "name": "asmr-and-lullaby-sounds",
@@ -104,7 +107,8 @@
         "sleep",
         "white-noise"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🛫"
     },
     {
       "name": "roblox-games-discover",
@@ -125,7 +129,8 @@
         "games",
         "discover"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🧭"
     },
     {
       "name": "minecraft-official-site",
@@ -146,7 +151,8 @@
         "survival",
         "sandbox"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🎧"
     },
     {
       "name": "fortnite-official-site",
@@ -167,7 +173,8 @@
         "battle-royale",
         "epic-games"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🛫"
     },
     {
       "name": "five-nights-at-freddys-wiki",
@@ -189,7 +196,8 @@
         "horror",
         "freddy"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🌟"
     },
     {
       "name": "bluey-official-site",
@@ -211,7 +219,8 @@
         "series",
         "activities"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🖼"
     },
     {
       "name": "sonic-the-hedgehog-official",
@@ -232,7 +241,8 @@
         "sega",
         "games"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🍀"
     },
     {
       "name": "anime-streaming-crunchyroll",
@@ -253,7 +263,8 @@
         "streaming",
         "crunchyroll"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "💡"
     },
     {
       "name": "the-game-awards-2025",
@@ -275,7 +286,8 @@
         "nominees",
         "trailers"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🎵"
     },
     {
       "name": "street-fighter-6-launch-trailer",
@@ -297,7 +309,8 @@
         "capcom",
         "sf6"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🛰"
     },
     {
       "name": "divinity-trailer-updates",
@@ -318,7 +331,8 @@
         "larian",
         "trailer"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🔥"
     },
     {
       "name": "supergirl-woman-of-tomorrow-film",
@@ -340,7 +354,8 @@
         "trailer",
         "movie"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🧪"
     },
     {
       "name": "avengers-doomsday-rumors",
@@ -363,7 +378,8 @@
         "marvel",
         "rumor"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🧰"
     },
     {
       "name": "amazing-digital-circus-wiki",
@@ -384,7 +400,8 @@
         "tadc",
         "episode-7"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🔬"
     },
     {
       "name": "say-the-word-on-beat-challenge",
@@ -406,7 +423,8 @@
         "react-to",
         "challenge"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🧠"
     },
     {
       "name": "imdb-top-movies-trending",
@@ -427,7 +445,8 @@
         "imdb",
         "trending"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🧾"
     },
     {
       "name": "reddit-popular-feed",
@@ -448,7 +467,8 @@
         "popular",
         "news"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🎬"
     },
     {
       "name": "breaking-news-today-ap",
@@ -474,7 +494,8 @@
         "world",
         "headlines"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🛫"
     },
     {
       "name": "weather-radar-us",
@@ -495,7 +516,8 @@
         "forecast",
         "ice"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🪐"
     },
     {
       "name": "nba-official",
@@ -516,7 +538,8 @@
         "basketball",
         "scores"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🖼"
     },
     {
       "name": "nba-youngboy-profile",
@@ -537,7 +560,8 @@
         "rapper",
         "discography"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "📰"
     },
     {
       "name": "pooh-shiesty-profile",
@@ -559,7 +583,8 @@
         "rapper",
         "discography"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🍀"
     },
     {
       "name": "coco-chanel-biography",
@@ -580,7 +605,8 @@
         "fashion",
         "biography"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🎯"
     },
     {
       "name": "baby-care-center",
@@ -601,7 +627,8 @@
         "parenting",
         "sleep"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🪄"
     },
     {
       "name": "funny-viral-stories",
@@ -622,7 +649,8 @@
         "memes",
         "viral"
       ],
-      "updateTime": "2025-12-16"
+      "updateTime": "2025-12-16",
+      "icon": "🔥"
     }
   ]
 }

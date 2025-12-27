@@ -1,7 +1,7 @@
 {
   "name": "jc-tools-concurrency",
   "nameShort": "jc-tools",
-  "icon": "icon-chaoren1",
+  "icon": "🌟",
   "seoTitle": "Jctools Concurrency Libraries For Java | Guides, Tips &.",
   "seoDescription": "Jctools Resources With Docs, Github Source, Wiki Notes, And API References For Java Concurrency Utilities. Explore Features, Use Cases, Pricing, Alternatives.",
   "seoKeywords": [
@@ -30,7 +30,8 @@
         "docs",
         "java"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🖼"
     },
     {
       "name": "jctools-github",
@@ -50,7 +51,8 @@
         "github",
         "source"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🚀"
     },
     {
       "name": "jctools-wiki",
@@ -70,7 +72,8 @@
         "wiki",
         "concurrency"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎬"
     },
     {
       "name": "jctools-api",
@@ -90,7 +93,8 @@
         "api",
         "javadoc"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌊"
     },
     {
       "name": "jctools-central",
@@ -110,7 +114,8 @@
         "maven",
         "artifact"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🖼"
     }
   ]
 }

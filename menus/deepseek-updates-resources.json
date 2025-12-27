@@ -1,7 +1,7 @@
 {
   "name": "deepseek-updates-resources",
   "nameShort": "deepseek-updates",
-  "icon": "icon-jiamei",
+  "icon": "⭐",
   "seoTitle": "Deepseek Updates Featuring Deepseek Official, Deepseek.",
   "seoDescription": "Deepseek Updates Directory Featuring Deepseek Official, Deepseek Github, Deepseek Huggingface, Deepseek Research And More. Explore Features, Use Cases.",
   "seoKeywords": [
@@ -46,7 +46,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🪐"
     },
     {
       "name": "deepseek-github-models",
@@ -76,7 +77,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "📚"
     },
     {
       "name": "deepseek-huggingface-hub",
@@ -106,7 +108,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🏆"
     },
     {
       "name": "deepseek-research-papers",
@@ -136,7 +139,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🧰"
     }
   ]
 }

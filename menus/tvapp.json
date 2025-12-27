@@ -1,7 +1,7 @@
 {
   "name": "tvapp",
   "nameShort": "tvapp",
-  "icon": "icon-taikongyuan1",
+  "icon": "🛫",
   "seoTitle": "Tvapp Featuring Apple Tv, Youtube Tv, Plex Tv | Guides.",
   "seoDescription": "Tvapp Directory Featuring Apple Tv, Youtube Tv, Plex Tv And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips To.",
   "seoKeywords": [
@@ -39,7 +39,8 @@
         "tv",
         "app"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🎨"
     },
     {
       "name": "youtube-tvapp",
@@ -69,7 +70,8 @@
         "cloud-dvr",
         "streaming"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🍀"
     },
     {
       "name": "plex-tvapp",
@@ -99,7 +101,8 @@
         "streaming",
         "live-tv"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🔥"
     },
     {
       "name": "netflix-app",
@@ -123,7 +126,8 @@
         "4k",
         "streaming"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "💡"
     },
     {
       "name": "hulu-app",
@@ -147,7 +151,8 @@
         "live-tv",
         "bundle"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "📚"
     }
   ]
 }

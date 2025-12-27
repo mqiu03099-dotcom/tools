@@ -1,7 +1,7 @@
 {
   "name": "youtube-growth-tools",
   "nameShort": "youtube",
-  "icon": "icon-zhenjing1",
+  "icon": "📐",
   "seoTitle": "Youtube Featuring Tubebuddy, Vidiq, Canva | Guides, Tips &.",
   "seoDescription": "Youtube Directory Featuring Tubebuddy, Vidiq, Canva, Epidemic And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🧰"
     },
     {
       "name": "vidiq-channel-analytics",
@@ -77,7 +78,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "📐"
     },
     {
       "name": "canva-youtube-thumbnail-maker",
@@ -107,7 +109,8 @@
         "maker",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "⭐"
     },
     {
       "name": "epidemic-sound-youtube-music",
@@ -137,7 +140,8 @@
         "music",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🪐"
     },
     {
       "name": "socialblade-youtube-stats",
@@ -167,7 +171,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🧾"
     }
   ]
 }

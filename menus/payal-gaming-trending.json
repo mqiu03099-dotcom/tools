@@ -1,7 +1,7 @@
 {
   "name": "payal-gaming-trending",
   "nameShort": "payal",
-  "icon": "icon-leshou",
+  "icon": "🧩",
   "seoTitle": "Payal Gaming Viral Video And Creator Channels | Guides.",
   "seoDescription": "Follow Payal Gaming Across Youtube, Instagram, And Esports Coverage For Viral Videos And Livestream Highlights. Explore Features, Use Cases, Pricing Explore.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "youtube",
         "streamer"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📐"
     },
     {
       "name": "payal-gaming-instagram",
@@ -49,7 +50,8 @@
         "instagram",
         "reels"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📚"
     },
     {
       "name": "payal-gaming-twitter",
@@ -69,7 +71,8 @@
         "twitter",
         "streams"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🏆"
     },
     {
       "name": "payal-gaming-facebook",
@@ -89,7 +92,8 @@
         "facebook",
         "clips"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛒"
     },
     {
       "name": "payal-gaming-coverage",
@@ -109,7 +113,8 @@
         "esports",
         "news"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎯"
     }
   ]
 }

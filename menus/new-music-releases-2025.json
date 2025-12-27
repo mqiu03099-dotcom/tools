@@ -1,7 +1,7 @@
 {
   "name": "new-music-releases-2025",
   "nameShort": "music-2025",
-  "icon": "icon-shiyanyuan",
+  "icon": "🗺",
   "seoTitle": "New Music Releases 2025 Trackers | Guides, Tips & Updates.",
   "seoDescription": "Upcoming 2025 Album And Single Release Trackers From Trusted Music News Outlets. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "releases",
         "2025"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛠"
     },
     {
       "name": "metacritic-2025-music",
@@ -49,7 +50,8 @@
         "music",
         "2025"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📐"
     },
     {
       "name": "billboard-new-releases",
@@ -69,7 +71,8 @@
         "music",
         "releases"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧾"
     },
     {
       "name": "rolling-stone-music-news",
@@ -89,7 +92,8 @@
         "music",
         "news"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📰"
     },
     {
       "name": "pitchfork-new-music",
@@ -109,7 +113,8 @@
         "music",
         "news"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⚡"
     }
   ]
 }

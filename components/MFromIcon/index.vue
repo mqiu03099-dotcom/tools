@@ -3,8 +3,9 @@
     class="btn btn-square btn-ghost"
     title="More Options"
   >
-    <MIcon
-      icon="icon-youjiantou"
+    <img
+      src="/right.png"
+      alt="right.png"
       class="size-5"
     />
   </button>
@@ -13,3 +14,4 @@
 <script lang="ts" setup></script>
 
 <style scoped></style>
+

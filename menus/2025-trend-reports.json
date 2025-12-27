@@ -1,7 +1,7 @@
 {
   "name": "2025-trend-reports",
   "nameShort": "trend",
-  "icon": "icon-guoshengri",
+  "icon": "📐",
   "seoTitle": "Trend Featuring Gartner, Mckinsey, Accenture | Guides, Tips.",
   "seoDescription": "Trend Directory Featuring Gartner, Mckinsey, Accenture, Wef And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🛫"
     },
     {
       "name": "mckinsey-2025-economic-outlook",
@@ -77,7 +78,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🏆"
     },
     {
       "name": "accenture-2025-tech-vision",
@@ -107,7 +109,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🌊"
     },
     {
       "name": "wef-2025-future-jobs",
@@ -137,7 +140,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "💡"
     },
     {
       "name": "statista-2025-market-data",
@@ -167,7 +171,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "📰"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "welcome-to-derry",
   "nameShort": "derry",
-  "icon": "icon-huahua",
+  "icon": "📡",
   "seoTitle": "Derry Featuring Derry Wiki, Derry Thr, Derry Fandom.",
   "seoDescription": "Derry Directory Featuring Derry Wiki, Derry Thr, Derry Fandom And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips.",
   "seoKeywords": [
@@ -42,7 +42,8 @@
         "it",
         "series"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🗺"
     },
     {
       "name": "hollywood-reporter-welcome-to-derry",
@@ -72,7 +73,8 @@
         "hbo",
         "news"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🎨"
     },
     {
       "name": "stephenking-fandom-welcome-to-derry",
@@ -102,7 +104,8 @@
         "stephen-king",
         "lore"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🎲"
     },
     {
       "name": "variety-derry",
@@ -126,7 +129,8 @@
         "casting",
         "hbo-max"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🔧"
     },
     {
       "name": "imdb-derry",
@@ -150,7 +154,8 @@
         "cast",
         "episodes"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🔧"
     }
   ]
 }

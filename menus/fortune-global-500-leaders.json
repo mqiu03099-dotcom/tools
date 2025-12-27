@@ -1,7 +1,7 @@
 {
   "name": "fortune-global-500-leaders",
   "nameShort": "fortune",
-  "icon": "icon-zhende",
+  "icon": "🌟",
   "seoTitle": "Fortune Featuring Walmart, Saudi, Amazon Ecommerce.",
   "seoDescription": "Fortune Directory Featuring Walmart, Saudi, Amazon Ecommerce, Apple And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "leader",
         "tool"
       ],
-      "updateTime": "2025-11-19"
+      "updateTime": "2025-11-19",
+      "icon": "🔥"
     },
     {
       "name": "saudi-aramco-energy-giant",
@@ -77,7 +78,8 @@
         "giant",
         "tool"
       ],
-      "updateTime": "2025-11-18"
+      "updateTime": "2025-11-18",
+      "icon": "🪄"
     },
     {
       "name": "amazon-ecommerce-cloud-powerhouse",
@@ -107,7 +109,8 @@
         "powerhouse",
         "tool"
       ],
-      "updateTime": "2025-11-16"
+      "updateTime": "2025-11-16",
+      "icon": "🛫"
     },
     {
       "name": "apple-consumer-electronics-leader",
@@ -137,7 +140,8 @@
         "leader",
         "tool"
       ],
-      "updateTime": "2025-11-15"
+      "updateTime": "2025-11-15",
+      "icon": "⚡"
     },
     {
       "name": "exxonmobil-integrated-energy-major",
@@ -167,7 +171,8 @@
         "major",
         "tool"
       ],
-      "updateTime": "2025-11-14"
+      "updateTime": "2025-11-14",
+      "icon": "🛰"
     }
   ]
 }

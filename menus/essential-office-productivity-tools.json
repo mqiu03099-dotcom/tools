@@ -1,7 +1,7 @@
 {
   "name": "essential-office-productivity-tools",
   "nameShort": "essential",
-  "icon": "icon-shouliwu",
+  "icon": "🧰",
   "seoTitle": "Essential Featuring Microsoft, Microsoft Word, Microsoft.",
   "seoDescription": "Essential Directory Featuring Microsoft, Microsoft Word, Microsoft Powerpoint, Microsoft Outlook And More. Explore Features, Use Cases, Pricing, Alternatives.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "analysis",
         "tool"
       ],
-      "updateTime": "2025-10-30"
+      "updateTime": "2025-10-30",
+      "icon": "🧭"
     },
     {
       "name": "microsoft-word-document-editor",
@@ -77,7 +78,8 @@
         "editor",
         "tool"
       ],
-      "updateTime": "2025-10-28"
+      "updateTime": "2025-10-28",
+      "icon": "🗺"
     },
     {
       "name": "microsoft-powerpoint-presentation",
@@ -107,7 +109,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-10-25"
+      "updateTime": "2025-10-25",
+      "icon": "🎮"
     },
     {
       "name": "microsoft-outlook-email-calendar",
@@ -137,7 +140,8 @@
         "calendar",
         "tool"
       ],
-      "updateTime": "2025-10-22"
+      "updateTime": "2025-10-22",
+      "icon": "🧰"
     },
     {
       "name": "microsoft-onenote-digital-notes",
@@ -167,7 +171,8 @@
         "notes",
         "tool"
       ],
-      "updateTime": "2025-10-18"
+      "updateTime": "2025-10-18",
+      "icon": "🏆"
     },
     {
       "name": "microsoft-project-enterprise-planning",
@@ -197,7 +202,8 @@
         "planning",
         "tool"
       ],
-      "updateTime": "2025-10-05"
+      "updateTime": "2025-10-05",
+      "icon": "🛒"
     }
   ]
 }

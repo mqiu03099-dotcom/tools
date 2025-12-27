@@ -1,7 +1,7 @@
 {
   "name": "mac-tools-brand",
   "nameShort": "mac-tools",
-  "icon": "icon-renzhe",
+  "icon": "🗺",
   "seoTitle": "Mac Tools Automotive Hand Tools | Guides, Tips & Updates.",
   "seoDescription": "Mac Tools Official Pages For Tool Trucks, Products, Franchising, And Trusted Retailers. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "official",
         "automotive"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧪"
     },
     {
       "name": "mac-tools-products",
@@ -49,7 +50,8 @@
         "catalog",
         "products"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎯"
     },
     {
       "name": "mac-tools-franchise",
@@ -69,7 +71,8 @@
         "franchise",
         "business"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🏆"
     },
     {
       "name": "mac-tools-tool-truck",
@@ -89,7 +92,8 @@
         "tool-truck",
         "mobile"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎯"
     },
     {
       "name": "mac-tools-trustpilot",
@@ -109,7 +113,8 @@
         "reviews",
         "ratings"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⚡"
     }
   ]
 }

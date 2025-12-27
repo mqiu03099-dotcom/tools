@@ -1,7 +1,7 @@
 {
   "name": "best-backend-api-frameworks",
   "nameShort": "best",
-  "icon": "icon-aixin",
+  "icon": "📡",
   "seoTitle": "Best Featuring Spring, Laravel, Fastapi | Guides, Tips &.",
   "seoDescription": "Best Directory Featuring Spring, Laravel, Fastapi, Nestjs And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips To.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "generator",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🧾"
     },
     {
       "name": "laravel-elegant-php-framework",
@@ -77,7 +78,8 @@
         "framework",
         "tool"
       ],
-      "updateTime": "2025-11-27"
+      "updateTime": "2025-11-27",
+      "icon": "🛡"
     },
     {
       "name": "fastapi-python-api-framework",
@@ -107,7 +109,8 @@
         "framework",
         "tool"
       ],
-      "updateTime": "2025-11-26"
+      "updateTime": "2025-11-26",
+      "icon": "🎲"
     },
     {
       "name": "nestjs-typescript-backend-framework",
@@ -132,7 +135,8 @@
         "framework",
         "tool"
       ],
-      "updateTime": "2025-11-25"
+      "updateTime": "2025-11-25",
+      "icon": "🛡"
     },
     {
       "name": "expressjs-node-api-framework",
@@ -156,7 +160,8 @@
         "framework",
         "tool"
       ],
-      "updateTime": "2025-11-24"
+      "updateTime": "2025-11-24",
+      "icon": "🧳"
     }
   ]
 }

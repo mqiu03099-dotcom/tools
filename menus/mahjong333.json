@@ -1,7 +1,7 @@
 {
   "name": "mahjong333",
   "nameShort": "mahjong333",
-  "icon": "icon-xiaofang",
+  "icon": "🛰",
   "seoTitle": "Mahjong333 Featuring Mahjong333 Online, Mahjong333 Mobile.",
   "seoDescription": "Mahjong333 Directory Featuring Mahjong333 Online, Mahjong333 Mobile, Mahjong333 Strategy, Mahjong333 Tournament And More. Explore Features, Use Cases, Pricing.",
   "seoKeywords": [
@@ -43,7 +43,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🛡"
     },
     {
       "name": "mahjong333-mobile-app",
@@ -73,7 +74,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "⚡"
     },
     {
       "name": "mahjong333-strategy-guide",
@@ -103,7 +105,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "📐"
     },
     {
       "name": "mahjong333-tournament-center",
@@ -133,7 +136,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🧳"
     },
     {
       "name": "mahjong333-vip-membership",
@@ -163,7 +167,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🎧"
     }
   ]
 }

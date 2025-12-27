@@ -1,7 +1,7 @@
 {
   "name": "macro-automation-tools",
   "nameShort": "macro",
-  "icon": "icon-nongmin",
+  "icon": "⚡",
   "seoTitle": "Macro Automation Tools For Windows Productivity | Guides.",
   "seoDescription": "Desktop Automation Utilities Like Macro Toolworks, Autohotkey, And Macro Recorders. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "automation",
         "windows"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🔧"
     },
     {
       "name": "jitbit-macro-recorder",
@@ -49,7 +50,8 @@
         "macro",
         "automation"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📚"
     },
     {
       "name": "pulovers-macro-creator",
@@ -69,7 +71,8 @@
         "automation",
         "pulover"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📐"
     },
     {
       "name": "tinytask-automation",
@@ -89,7 +92,8 @@
         "macro",
         "recorder"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧠"
     },
     {
       "name": "autohotkey-automation",
@@ -109,7 +113,8 @@
         "automation",
         "scripting"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📐"
     }
   ]
 }

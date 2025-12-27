@@ -1,7 +1,7 @@
 {
   "name": "ohio-state-football",
   "nameShort": "ohio-state",
-  "icon": "icon-banan",
+  "icon": "📐",
   "seoTitle": "Ohio State Featuring Buckeyes Official, Ohio State Espn.",
   "seoDescription": "Ohio State Directory Featuring Buckeyes Official, Ohio State Espn, Elevenwarriors And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
   "seoKeywords": [
@@ -44,7 +44,8 @@
         "schedule",
         "news"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🛰"
     },
     {
       "name": "espn-ohio-state-team",
@@ -74,7 +75,8 @@
         "schedule",
         "cfb"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🎲"
     },
     {
       "name": "elevenwarriors-ohio-state",
@@ -104,7 +106,8 @@
         "recruiting",
         "fans"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🧰"
     },
     {
       "name": "on3-ohio-state",
@@ -128,7 +131,8 @@
         "recruiting",
         "nil"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🪐"
     },
     {
       "name": "247sports-ohio-state",
@@ -152,7 +156,8 @@
         "recruiting",
         "insider"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🔥"
     }
   ]
 }

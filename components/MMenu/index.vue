@@ -8,8 +8,7 @@
         :href="getHref({ path, name })"
         class="font-bold gap-3"
       >
-        <MIcon :icon="icon" />
-        {{ name }}
+        {{ icon }} {{ name }}
       </MA>
     </li>
     <li
@@ -31,22 +30,19 @@
       >
         <summary>
           <div class="flex items-center justify-start gap-3">
-            <div class="font-bold flex items-center gap-3">
-              <MIcon :icon="icon1" />
-              <div class="line-clamp-1 break-all">
-                {{ name1 }}
-              </div>
+            <div class="font-bold flex items-center gap-3 line-clamp-1 break-all">
+              {{ icon1 }} {{ name1 }}
             </div>
             <div class="badge badge-secondary badge-outline">{{ children1.length || 0 }}</div>
           </div>
         </summary>
-        <ul class="pl-2.5">
+        <ul>
           <li
-            v-for="({ name: name2, path: path2 }, index2) in children1"
+            v-for="({ name: name2, path: path2, icon: icon2 }, index2) in children1"
             :key="index2"
           >
             <MA :href="getHref({ path: path2, name: name2 })">
-              <div class="line-clamp-1 break-all">{{ name2 }}</div>
+              <div class="line-clamp-1 break-all">{{ icon2 }} {{ name2 }}</div>
             </MA>
           </li>
         </ul>
@@ -58,10 +54,9 @@
     >
       <MA
         :href="getHref({ path, name })"
-        class="font-bold gap-3 flex items-center"
+        class="font-bold gap-3 flex items-center line-clamp-1 break-all"
       >
-        <MIcon :icon="icon" />
-        <div class="line-clamp-1 break-all">{{ name }}</div>
+        {{ icon }} {{ name }}
       </MA>
     </li>
   </ul>

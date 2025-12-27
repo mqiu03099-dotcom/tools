@@ -1,7 +1,7 @@
 {
   "name": "klein-tools-brand",
   "nameShort": "klein",
-  "icon": "icon-gongren",
+  "icon": "🌟",
   "seoTitle": "Klein Tools Electrical Hand Tools | Guides, Tips & Updates.",
   "seoDescription": "Klein Tools Resources For Electrical Hand Tools, Pro Reviews, And Distributor Pages. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "official",
         "electrical"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧪"
     },
     {
       "name": "klein-hand-tools",
@@ -49,7 +50,8 @@
         "hand-tools",
         "catalog"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌟"
     },
     {
       "name": "klein-home-depot",
@@ -69,7 +71,8 @@
         "retail",
         "home-depot"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⚡"
     },
     {
       "name": "klein-grainger",
@@ -89,7 +92,8 @@
         "grainger",
         "distributor"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧠"
     },
     {
       "name": "klein-pro-reviews",
@@ -109,7 +113,8 @@
         "reviews",
         "testing"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛰"
     }
   ]
 }

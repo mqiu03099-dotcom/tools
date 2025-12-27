@@ -1,7 +1,7 @@
 {
   "name": "nintendo-switch-2",
   "nameShort": "switch2",
-  "icon": "icon-sheshou",
+  "icon": "🔬",
   "seoTitle": "Switch2 Featuring Tomsguide Switch2, Vgc Switch2 Guides.",
   "seoDescription": "Switch2 Directory Featuring Tomsguide Switch2, Vgc Switch2, Gamesradar Switch2 And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
   "seoKeywords": [
@@ -41,7 +41,8 @@
         "tomsguide",
         "console"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "⚡"
     },
     {
       "name": "vgc-nintendo-switch-2",
@@ -71,7 +72,8 @@
         "hardware",
         "leaks"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🎧"
     },
     {
       "name": "gamesradar-nintendo-switch-2",
@@ -101,7 +103,8 @@
         "specs",
         "news"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🔥"
     },
     {
       "name": "verge-switch2",
@@ -125,7 +128,8 @@
         "dlss",
         "joycon"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🎵"
     },
     {
       "name": "ign-switch2",
@@ -149,7 +153,8 @@
         "rumors",
         "specs"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "📦"
     }
   ]
 }

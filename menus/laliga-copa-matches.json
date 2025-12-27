@@ -1,7 +1,7 @@
 {
   "name": "laliga-copa-matches",
   "nameShort": "laliga-copa",
-  "icon": "icon-moshushi",
+  "icon": "💡",
   "seoTitle": "Laliga Fixtures Covering Alavés, Real Madrid, Barcelona.",
   "seoDescription": "Live Schedules And Stats For Alavés Vs Real Madrid, Barcelona Vs Osasuna, Talavera Ties, And Copa Del Rey Rounds. Explore Features, Use Cases, Pricing.",
   "seoKeywords": [
@@ -30,7 +30,8 @@
         "fixtures",
         "espn"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📦"
     },
     {
       "name": "alaves-fixtures-espn",
@@ -50,7 +51,8 @@
         "fixtures",
         "espn"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎬"
     },
     {
       "name": "laliga-official-calendar",
@@ -70,7 +72,8 @@
         "fixtures",
         "calendar"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎮"
     },
     {
       "name": "copa-del-rey-rfef",
@@ -90,7 +93,8 @@
         "rfef",
         "fixtures"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🔥"
     },
     {
       "name": "laliga-matches-sofascore",
@@ -110,7 +114,8 @@
         "sofascore",
         "scores"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛠"
     }
   ]
 }

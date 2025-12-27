@@ -1,7 +1,7 @@
 {
   "name": "free-online-file-converters",
   "nameShort": "free",
-  "icon": "icon-zhenjing",
+  "icon": "🎮",
   "seoTitle": "Free Featuring Aconvert, Freefileconvert, Filesconversion.",
   "seoDescription": "Free Directory Featuring Aconvert, Freefileconvert, Filesconversion, Docspal And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "converter",
         "tool"
       ],
-      "updateTime": "2025-11-14"
+      "updateTime": "2025-11-14",
+      "icon": "🛒"
     },
     {
       "name": "freefileconvert-online-converter",
@@ -77,7 +78,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-11-13"
+      "updateTime": "2025-11-13",
+      "icon": "🚀"
     },
     {
       "name": "filesconversion-simple-format-tool",
@@ -107,7 +109,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-11-12"
+      "updateTime": "2025-11-12",
+      "icon": "🖼"
     },
     {
       "name": "docspal-legacy-modern-converter",
@@ -137,7 +140,8 @@
         "converter",
         "tool"
       ],
-      "updateTime": "2025-11-11"
+      "updateTime": "2025-11-11",
+      "icon": "🧭"
     },
     {
       "name": "online-utility-file-toolkit",
@@ -167,7 +171,8 @@
         "toolkit",
         "tool"
       ],
-      "updateTime": "2025-11-10"
+      "updateTime": "2025-11-10",
+      "icon": "🛠"
     }
   ]
 }

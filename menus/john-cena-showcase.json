@@ -1,7 +1,7 @@
 {
   "name": "john-cena-showcase",
   "nameShort": "john-cena",
-  "icon": "icon-jiaojing",
+  "icon": "🚀",
   "seoTitle": "John Cena Profiles, Matches, And Filmography | Guides, Tips.",
   "seoDescription": "Official And Fan-Favorite Resources For John Cena Including WWE Profile, Film Credits, And Social Updates. Explore Features, Use Cases, Pricing, Alternatives.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "wwe",
         "profile"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧾"
     },
     {
       "name": "imdb-john-cena",
@@ -49,7 +50,8 @@
         "imdb",
         "movies"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🔧"
     },
     {
       "name": "instagram-john-cena",
@@ -69,7 +71,8 @@
         "instagram",
         "social"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📚"
     },
     {
       "name": "twitter-john-cena",
@@ -89,7 +92,8 @@
         "twitter",
         "social"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🏆"
     },
     {
       "name": "biography-john-cena",
@@ -109,7 +113,8 @@
         "biography",
         "career"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛠"
     }
   ]
 }

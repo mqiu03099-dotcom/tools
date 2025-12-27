@@ -7,8 +7,9 @@
       class="btn btn-square btn-ghost"
       title="Search Tools"
     >
-      <MIcon
-        icon="icon-sousuo"
+      <img
+        src="/search.png"
+        alt="search.png"
         class="size-5"
       />
     </button>
@@ -18,3 +19,4 @@
 <script lang="ts" setup></script>
 
 <style scoped></style>
+

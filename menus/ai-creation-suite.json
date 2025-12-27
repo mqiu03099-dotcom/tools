@@ -1,7 +1,7 @@
 {
   "name": "ai-creation-suite",
   "nameShort": "ai-suite",
-  "icon": "icon-zuofan",
+  "icon": "⭐",
   "seoTitle": "AI Suite Featuring Runway, Heygen, Pika | Guides, Tips &.",
   "seoDescription": "AI Suite Directory Featuring Runway, Heygen, Pika, Synthesia And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "generation",
         "ai"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📦"
     },
     {
       "name": "heygen-avatar-studio",
@@ -77,7 +78,8 @@
         "ai",
         "studio"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🔥"
     },
     {
       "name": "pika-labs-video-studio",
@@ -107,7 +109,8 @@
         "ai",
         "animation"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📐"
     },
     {
       "name": "synthesia-ai-avatars",
@@ -137,7 +140,8 @@
         "ai",
         "presenter"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎲"
     },
     {
       "name": "fliki-ai-video-maker",
@@ -167,7 +171,8 @@
         "ai",
         "creator"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧠"
     },
     {
       "name": "opusclip-video-repurposer",
@@ -197,7 +202,8 @@
         "shorts",
         "ai"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧳"
     },
     {
       "name": "descript-ai-editor",
@@ -227,7 +233,8 @@
         "ai",
         "video"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧭"
     },
     {
       "name": "podcastle-ai-studio",
@@ -257,7 +264,8 @@
         "ai",
         "audio"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧳"
     },
     {
       "name": "elevenlabs-voice-ai",
@@ -287,7 +295,8 @@
         "ai",
         "audio"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎵"
     },
     {
       "name": "playht-ai-voice",
@@ -311,7 +320,8 @@
         "ai",
         "audio"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎮"
     },
     {
       "name": "leonardo-ai-art-studio",
@@ -341,7 +351,8 @@
         "design",
         "generator"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🔧"
     },
     {
       "name": "ideogram-ai-typography",
@@ -371,7 +382,8 @@
         "typography",
         "ai"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🔥"
     },
     {
       "name": "recraft-ai-design-lab",
@@ -401,7 +413,8 @@
         "ai",
         "illustration"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🛡"
     },
     {
       "name": "writesonic-ai-writer",
@@ -431,7 +444,8 @@
         "content",
         "marketing"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧩"
     },
     {
       "name": "jasper-ai-marketing-studio",
@@ -461,7 +475,8 @@
         "ai",
         "assistant"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🛠"
     },
     {
       "name": "copyai-marketing-assistant",
@@ -487,7 +502,8 @@
         "ai",
         "sales"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🛠"
     },
     {
       "name": "rytr-ai-writer",
@@ -517,7 +533,8 @@
         "copy",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🖼"
     },
     {
       "name": "anyword-ai-copy",
@@ -547,7 +564,8 @@
         "optimization",
         "marketing"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🔧"
     },
     {
       "name": "tome-ai-presentation-maker",
@@ -577,7 +595,8 @@
         "slides",
         "story"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📰"
     },
     {
       "name": "gamma-ai-slide-studio",
@@ -607,7 +626,8 @@
         "documents",
         "builder"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🛫"
     },
     {
       "name": "character-ai-chat-lab",
@@ -632,7 +652,8 @@
         "personas",
         "assistant"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📐"
     },
     {
       "name": "playground-ai-image-lab",
@@ -662,7 +683,8 @@
         "ai",
         "creative"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🛰"
     },
     {
       "name": "eagles-vs-chargers",
@@ -686,7 +708,8 @@
         "schedule",
         "scores"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "📰"
     },
     {
       "name": "ohio-state-vs-indiana",
@@ -709,7 +732,8 @@
         "indiana",
         "big-ten"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🪐"
     },
     {
       "name": "texans-vs-chiefs",
@@ -733,7 +757,8 @@
         "afc",
         "scoreboard"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "⚡"
     },
     {
       "name": "cowboys-vs-lions",
@@ -756,7 +781,8 @@
         "lions",
         "game-center"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🧰"
     },
     {
       "name": "rostrum-records",
@@ -779,7 +805,8 @@
         "rostrum",
         "artists"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🎬"
     },
     {
       "name": "georgia-vs-alabama",
@@ -802,7 +829,8 @@
         "alabama",
         "sec"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "💡"
     },
     {
       "name": "world-cup-draw",
@@ -825,7 +853,8 @@
         "draw",
         "football"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🔥"
     },
     {
       "name": "bears-vs-packers",
@@ -848,7 +877,8 @@
         "packers",
         "rivalry"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🛫"
     },
     {
       "name": "steelers-vs-ravens",
@@ -871,7 +901,8 @@
         "ravens",
         "afc-north"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🌟"
     },
     {
       "name": "bengals-vs-bills",
@@ -894,7 +925,8 @@
         "bills",
         "afc"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🗺"
     },
     {
       "name": "real-betis-vs-barcelona",
@@ -917,7 +949,8 @@
         "la-liga",
         "scores"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🛠"
     },
     {
       "name": "barcelona-vs-eintracht-frankfurt",
@@ -939,7 +972,8 @@
         "champions-league",
         "scores"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🎨"
     },
     {
       "name": "england-vs-australia",
@@ -961,7 +995,8 @@
         "international",
         "friendly"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🧰"
     },
     {
       "name": "real-madrid-vs-celta-vigo",
@@ -983,7 +1018,8 @@
         "la-liga",
         "scores"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🌟"
     },
     {
       "name": "athletic-real-madrid",
@@ -1006,7 +1042,8 @@
         "la-liga",
         "scores"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🗺"
     },
     {
       "name": "mirassol-vs-flamengo",
@@ -1029,7 +1066,8 @@
         "brasileirao",
         "serie-a"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🔥"
     },
     {
       "name": "wolves-vs-man-united",
@@ -1051,7 +1089,8 @@
         "premier-league",
         "scores"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "💡"
     },
     {
       "name": "leeds-united-vs-liverpool",
@@ -1073,7 +1112,8 @@
         "premier-league",
         "scores"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "📦"
     },
     {
       "name": "flamengo-vs-ceara",
@@ -1095,7 +1135,8 @@
         "brasileirao",
         "serie-a"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🌊"
     },
     {
       "name": "manchester-united-vs-west-ham",
@@ -1117,7 +1158,8 @@
         "premier-league",
         "summer-series"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🧳"
     },
     {
       "name": "inter-vs-liverpool",
@@ -1139,7 +1181,8 @@
         "champions-league",
         "scores"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🧾"
     },
     {
       "name": "nava999-slot-hub",
@@ -1161,7 +1204,8 @@
         "casino",
         "thai"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🎧"
     },
     {
       "name": "pggroup777-slot",
@@ -1183,7 +1227,8 @@
         "casino",
         "thai"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🎵"
     },
     {
       "name": "deva555-slot",
@@ -1205,7 +1250,8 @@
         "casino",
         "thai"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🧩"
     },
     {
       "name": "siamwin555-slot",
@@ -1227,7 +1273,8 @@
         "casino",
         "thai"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🧳"
     },
     {
       "name": "slotolympus77-online",
@@ -1249,7 +1296,8 @@
         "casino",
         "mirror"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🎧"
     },
     {
       "name": "fievel-character-guide",
@@ -1271,7 +1319,8 @@
         "character",
         "animation"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🛫"
     },
     {
       "name": "pars-football-news",
@@ -1293,7 +1342,8 @@
         "pars",
         "news"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "📦"
     },
     {
       "name": "matt-campbell-coach",
@@ -1314,7 +1364,8 @@
         "coach",
         "matt-campbell"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🛫"
     },
     {
       "name": "broncos-vs-raiders",
@@ -1337,7 +1388,8 @@
         "raiders",
         "afc-west"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🧪"
     },
     {
       "name": "paul-dano-filmography",
@@ -1360,7 +1412,8 @@
         "paul-dano",
         "reviews"
       ],
-      "updateTime": "2025-12-10"
+      "updateTime": "2025-12-10",
+      "icon": "🎵"
     },
     {
       "name": "kpop-demon-hunters",
@@ -1383,7 +1436,8 @@
         "animation",
         "film"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🎮"
     },
     {
       "name": "real-madrid-vs-man-city",
@@ -1405,7 +1459,8 @@
         "champions-league",
         "scores"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🧠"
     },
     {
       "name": "sophie-kinsella",
@@ -1428,7 +1483,8 @@
         "books",
         "shopaholic"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🎲"
     },
     {
       "name": "club-brugge-vs-arsenal",
@@ -1450,7 +1506,8 @@
         "champions-league",
         "scores"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🛡"
     },
     {
       "name": "aston-villa-vs-arsenal",
@@ -1472,7 +1529,8 @@
         "premier-league",
         "scores"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🚀"
     },
     {
       "name": "im-a-celeb-2025-winner",
@@ -1495,7 +1553,8 @@
         "winner",
         "itv"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🎲"
     },
     {
       "name": "atalanta-vs-chelsea",
@@ -1517,7 +1576,8 @@
         "champions-league",
         "scores"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🧰"
     },
     {
       "name": "fulham-vs-crystal-palace",
@@ -1539,7 +1599,8 @@
         "premier-league",
         "scores"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "📈"
     },
     {
       "name": "world-cup-draw-2026",
@@ -1562,7 +1623,8 @@
         "fifa",
         "tournament"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "📰"
     },
     {
       "name": "mo-salah-profile",
@@ -1584,7 +1646,8 @@
         "premier-league",
         "forward"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🛒"
     },
     {
       "name": "leverkusen-vs-newcastle",
@@ -1606,7 +1669,8 @@
         "champions-league",
         "scores"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🛡"
     },
     {
       "name": "lando-norris-driver-profile",
@@ -1629,7 +1693,8 @@
         "mclaren",
         "driver"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🔥"
     },
     {
       "name": "man-city-vs-sunderland",
@@ -1651,7 +1716,8 @@
         "premier-league",
         "scores"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🌊"
     },
     {
       "name": "world-cup-2026",
@@ -1674,7 +1740,8 @@
         "soccer",
         "tournament"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🧠"
     },
     {
       "name": "brighton-vs-west-ham",
@@ -1696,7 +1763,8 @@
         "premier-league",
         "scores"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🏆"
     },
     {
       "name": "uefa-champions-league",
@@ -1719,7 +1787,8 @@
         "ucl",
         "scores"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "🎯"
     },
     {
       "name": "bbc-cricket",
@@ -1741,7 +1810,8 @@
         "scores",
         "news"
       ],
-      "updateTime": "2025-12-11"
+      "updateTime": "2025-12-11",
+      "icon": "⭐"
     },
     {
       "name": "philip-rivers-quarterback-profile",
@@ -1764,7 +1834,8 @@
         "quarterback",
         "chargers"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📦"
     },
     {
       "name": "sherrone-moore-michigan-head-coach",
@@ -1787,7 +1858,8 @@
         "head-coach",
         "bio"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📐"
     },
     {
       "name": "dorothy-gale-wizard-of-oz",
@@ -1808,7 +1880,8 @@
         "wizard-of-oz",
         "character"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🗺"
     },
     {
       "name": "falcons-vs-buccaneers",
@@ -1831,7 +1904,8 @@
         "buccaneers",
         "nfc-south"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📦"
     },
     {
       "name": "pars-meaning-definition",
@@ -1853,7 +1927,8 @@
         "meaning",
         "dictionary"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎮"
     },
     {
       "name": "paige-shiver-michigan-football-staffer",
@@ -1875,7 +1950,8 @@
         "staffer",
         "news"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🍀"
     },
     {
       "name": "mulholland-drive-film",
@@ -1897,7 +1973,8 @@
         "film",
         "david-lynch"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🪐"
     },
     {
       "name": "iron-lung-movie",
@@ -1919,7 +1996,8 @@
         "horror",
         "film"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🚀"
     },
     {
       "name": "kansas-city-chiefs",
@@ -1942,7 +2020,8 @@
         "kansas-city",
         "schedule"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛒"
     },
     {
       "name": "philadelphia-eagles-games",
@@ -1964,7 +2043,8 @@
         "philadelphia",
         "schedule"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🔥"
     },
     {
       "name": "lakers-vs-76ers",
@@ -1987,7 +2067,8 @@
         "76ers",
         "scores"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📚"
     },
     {
       "name": "green-bay-packers",
@@ -2010,7 +2091,8 @@
         "green-bay",
         "schedule"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🖼"
     },
     {
       "name": "philip-rivers-stats-reference",
@@ -2032,7 +2114,8 @@
         "nfl",
         "chargers"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "💡"
     },
     {
       "name": "philip-rivers-nfl-profile",
@@ -2053,7 +2136,8 @@
         "nfl",
         "profile"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🪐"
     },
     {
       "name": "sherrone-moore-mgoblue-bio",
@@ -2075,7 +2159,8 @@
         "coach",
         "bio"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧭"
     },
     {
       "name": "sherrone-moore-on3-profile",
@@ -2097,7 +2182,8 @@
         "coach",
         "news"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🏆"
     },
     {
       "name": "sherrone-moore-wife-ashley",
@@ -2118,7 +2204,8 @@
         "ashley-moore",
         "michigan"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎮"
     },
     {
       "name": "michigan-football-program",
@@ -2139,7 +2226,8 @@
         "coach",
         "wolverines"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧰"
     },
     {
       "name": "paige-shiver-mensjournal",
@@ -2161,7 +2249,8 @@
         "staff",
         "news"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🔬"
     },
     {
       "name": "paige-shiver-marca",
@@ -2182,7 +2271,8 @@
         "news",
         "marca"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📐"
     },
     {
       "name": "texans-vs-chiefs-playoffs-2020",
@@ -2204,7 +2294,8 @@
         "chiefs",
         "playoffs"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🌟"
     },
     {
       "name": "falcons-vs-buccaneers-espn",
@@ -2226,7 +2317,8 @@
         "buccaneers",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧾"
     },
     {
       "name": "steelers-vs-ravens-rivalry",
@@ -2248,7 +2340,8 @@
         "ravens",
         "rivalry"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎧"
     },
     {
       "name": "georgia-vs-alabama-espn",
@@ -2270,7 +2363,8 @@
         "alabama",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛠"
     },
     {
       "name": "bengals-vs-bills-rivalry",
@@ -2291,7 +2385,8 @@
         "bills",
         "rivalry"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛰"
     },
     {
       "name": "real-madrid-vs-man-city-uefa",
@@ -2312,7 +2407,8 @@
         "champions-league",
         "uefa"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧪"
     },
     {
       "name": "bears-vs-packers-rivalry",
@@ -2333,7 +2429,8 @@
         "packers",
         "rivalry"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎵"
     },
     {
       "name": "broncos-vs-raiders-rivalry",
@@ -2354,7 +2451,8 @@
         "raiders",
         "rivalry"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🌟"
     },
     {
       "name": "falcons-buccaneers-rivalry",
@@ -2375,7 +2473,8 @@
         "buccaneers",
         "rivalry"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📦"
     },
     {
       "name": "champions-league-uefa-official",
@@ -2397,7 +2496,8 @@
         "fixtures",
         "standings"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📦"
     },
     {
       "name": "champions-league-espn",
@@ -2418,7 +2518,8 @@
         "espn",
         "scores"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧠"
     },
     {
       "name": "chiefs-team-espn",
@@ -2434,8 +2535,13 @@
       ],
       "iframeUrl": "https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs",
       "bgImg": "",
-      "tags": ["nfl", "chiefs", "espn"],
-      "updateTime": "2025-12-13"
+      "tags": [
+        "nfl",
+        "chiefs",
+        "espn"
+      ],
+      "updateTime": "2025-12-13",
+      "icon": "🧪"
     },
     {
       "name": "eagles-team-espn",
@@ -2451,8 +2557,13 @@
       ],
       "iframeUrl": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
       "bgImg": "",
-      "tags": ["nfl", "eagles", "espn"],
-      "updateTime": "2025-12-13"
+      "tags": [
+        "nfl",
+        "eagles",
+        "espn"
+      ],
+      "updateTime": "2025-12-13",
+      "icon": "🔬"
     },
     {
       "name": "packers-team-espn",
@@ -2473,7 +2584,8 @@
         "packers",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🔬"
     },
     {
       "name": "lakers-vs-76ers-espn",
@@ -2495,7 +2607,8 @@
         "76ers",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎨"
     },
     {
       "name": "indiana-vs-ohio-state-rivalry",
@@ -2516,7 +2629,8 @@
         "ohio-state",
         "rivalry"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🪄"
     },
     {
       "name": "georgia-vs-alabama-rivalry",
@@ -2537,7 +2651,8 @@
         "alabama",
         "rivalry"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎲"
     },
     {
       "name": "bengals-vs-bills-espn",
@@ -2559,7 +2674,8 @@
         "bills",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🌊"
     },
     {
       "name": "real-madrid-vs-man-city-espn",
@@ -2580,7 +2696,8 @@
         "espn",
         "champions-league"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "⚡"
     },
     {
       "name": "broncos-vs-raiders-espn",
@@ -2601,7 +2718,8 @@
         "raiders",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🪐"
     },
     {
       "name": "steelers-vs-ravens-espn",
@@ -2622,7 +2740,8 @@
         "ravens",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🪄"
     },
     {
       "name": "bears-vs-packers-espn",
@@ -2643,7 +2762,8 @@
         "packers",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📦"
     },
     {
       "name": "texans-vs-chiefs-espn",
@@ -2664,7 +2784,8 @@
         "chiefs",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛰"
     },
     {
       "name": "indiana-vs-ohio-state-espn",
@@ -2685,7 +2806,8 @@
         "ohio-state",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛫"
     },
     {
       "name": "dorothy-gale-fandom",
@@ -2706,7 +2828,8 @@
         "character",
         "wiki"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🖼"
     },
     {
       "name": "fievel-wikipedia",
@@ -2727,7 +2850,8 @@
         "character",
         "wikipedia"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎬"
     },
     {
       "name": "mulholland-drive-review",
@@ -2748,7 +2872,8 @@
         "roger-ebert",
         "film"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧩"
     },
     {
       "name": "iron-lung-film-imdb",
@@ -2769,7 +2894,8 @@
         "imdb",
         "film"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🍀"
     },
     {
       "name": "pars-meaning-merriam-webster",
@@ -2790,7 +2916,8 @@
         "dictionary",
         "merriam-webster"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🗺"
     },
     {
       "name": "sherrone-moore-espn-profile",
@@ -2812,7 +2939,8 @@
         "michigan",
         "coach"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎧"
     },
     {
       "name": "michigan-football-head-coaches-list",
@@ -2833,7 +2961,8 @@
         "coaches",
         "history"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎬"
     },
     {
       "name": "mulholland-drive-imdb",
@@ -2854,7 +2983,8 @@
         "imdb",
         "film"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎨"
     },
     {
       "name": "iron-lung-game-wiki",
@@ -2874,7 +3004,8 @@
         "video-game",
         "wikipedia"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎮"
     },
     {
       "name": "philip-rivers-espn",
@@ -2896,7 +3027,8 @@
         "nfl",
         "stats"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📡"
     },
     {
       "name": "philip-rivers-statmuse",
@@ -2918,7 +3050,8 @@
         "statmuse",
         "passing"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📦"
     },
     {
       "name": "philip-rivers-career-highlights",
@@ -2938,7 +3071,8 @@
         "highlights",
         "milestones"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧾"
     },
     {
       "name": "sherrone-moore-cbs",
@@ -2960,7 +3094,8 @@
         "michigan",
         "coach"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🏆"
     },
     {
       "name": "sherrone-moore-sports-reference",
@@ -2981,7 +3116,8 @@
         "coach",
         "record"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎲"
     },
     {
       "name": "sherrone-moore-si-profile",
@@ -3002,7 +3138,8 @@
         "michigan",
         "coach"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧩"
     },
     {
       "name": "paige-shiver-yahoo",
@@ -3023,7 +3160,8 @@
         "michigan",
         "staff"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎨"
     },
     {
       "name": "paige-shiver-nypost",
@@ -3044,7 +3182,8 @@
         "michigan",
         "staff"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📡"
     },
     {
       "name": "paige-shiver-hollywoodlife",
@@ -3064,7 +3203,8 @@
         "hollywood-life",
         "michigan"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📰"
     },
     {
       "name": "paige-shiver-timesofindia",
@@ -3085,7 +3225,8 @@
         "michigan",
         "news"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📰"
     },
     {
       "name": "michigan-football-wikipedia",
@@ -3105,7 +3246,8 @@
         "wolverines",
         "wikipedia"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎧"
     },
     {
       "name": "michigan-football-espn-team",
@@ -3126,7 +3268,8 @@
         "football",
         "schedule"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛫"
     },
     {
       "name": "michigan-football-schedule",
@@ -3147,7 +3290,8 @@
         "football",
         "wolverines"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "💡"
     },
     {
       "name": "champions-league-wikipedia",
@@ -3167,7 +3311,8 @@
         "wikipedia",
         "uefa"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛠"
     },
     {
       "name": "champions-league-bbc",
@@ -3187,7 +3332,8 @@
         "bbc",
         "scores"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎲"
     },
     {
       "name": "champions-league-goal",
@@ -3207,7 +3353,8 @@
         "goal",
         "fixtures"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🔬"
     },
     {
       "name": "chiefs-official-site",
@@ -3228,7 +3375,8 @@
         "nfl",
         "team-site"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🍀"
     },
     {
       "name": "chiefs-pro-football-reference",
@@ -3249,7 +3397,8 @@
         "stats",
         "records"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧳"
     },
     {
       "name": "eagles-official-site",
@@ -3270,7 +3419,8 @@
         "nfl",
         "schedule"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧾"
     },
     {
       "name": "eagles-pro-football-reference",
@@ -3291,7 +3441,8 @@
         "stats",
         "records"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📦"
     },
     {
       "name": "packers-official-site",
@@ -3312,7 +3463,8 @@
         "nfl",
         "team-site"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧾"
     },
     {
       "name": "packers-pro-football-reference",
@@ -3333,7 +3485,8 @@
         "stats",
         "records"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📦"
     },
     {
       "name": "texans-vs-chiefs-pfr",
@@ -3354,7 +3507,8 @@
         "pfr",
         "playoffs"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛡"
     },
     {
       "name": "falcons-vs-buccaneers-nfl-game",
@@ -3375,7 +3529,8 @@
         "buccaneers",
         "game-center"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📐"
     },
     {
       "name": "falcons-vs-buccaneers-cbssports",
@@ -3396,7 +3551,8 @@
         "cbs",
         "recap"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛰"
     },
     {
       "name": "steelers-vs-ravens-pfr",
@@ -3417,7 +3573,8 @@
         "pfr",
         "box-score"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎲"
     },
     {
       "name": "steelers-vs-ravens-nfl-game",
@@ -3438,7 +3595,8 @@
         "nfl",
         "game-center"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📈"
     },
     {
       "name": "georgia-vs-alabama-espn-game",
@@ -3459,7 +3617,8 @@
         "espn",
         "college-football"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧩"
     },
     {
       "name": "georgia-vs-alabama-2022-cfp",
@@ -3480,7 +3639,8 @@
         "cfp",
         "championship"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🔥"
     },
     {
       "name": "bengals-vs-bills-2023-playoff",
@@ -3501,7 +3661,8 @@
         "playoffs",
         "nfl"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛫"
     },
     {
       "name": "bengals-vs-bills-pfr",
@@ -3522,7 +3683,8 @@
         "pfr",
         "box-score"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎯"
     },
     {
       "name": "real-madrid-vs-man-city-guardian",
@@ -3543,7 +3705,8 @@
         "guardian",
         "champions-league"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧩"
     },
     {
       "name": "real-madrid-vs-man-city-bbc",
@@ -3564,7 +3727,8 @@
         "bbc",
         "champions-league"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🏆"
     },
     {
       "name": "bears-vs-packers-nfl-game",
@@ -3585,7 +3749,8 @@
         "nfl",
         "game-center"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "⚡"
     },
     {
       "name": "bears-vs-packers-pfr",
@@ -3606,7 +3771,8 @@
         "pfr",
         "box-score"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧰"
     },
     {
       "name": "broncos-vs-raiders-nfl-game",
@@ -3627,7 +3793,8 @@
         "nfl",
         "game-center"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎯"
     },
     {
       "name": "broncos-vs-raiders-pfr",
@@ -3648,7 +3815,8 @@
         "pfr",
         "box-score"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "💡"
     },
     {
       "name": "indiana-vs-ohio-state-espn",
@@ -3669,7 +3837,8 @@
         "espn",
         "recap"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🛠"
     },
     {
       "name": "indiana-vs-ohio-state-preview",
@@ -3690,7 +3859,8 @@
         "preview",
         "college-football"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧠"
     },
     {
       "name": "lakers-vs-76ers-basketball-reference",
@@ -3711,7 +3881,8 @@
         "basketball-reference",
         "box-score"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "⭐"
     },
     {
       "name": "lakers-vs-76ers-espn-recap",
@@ -3732,7 +3903,8 @@
         "76ers",
         "espn"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🧾"
     },
     {
       "name": "dorothy-gale-britannica",
@@ -3752,7 +3924,8 @@
         "britannica",
         "wizard-of-oz"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎧"
     },
     {
       "name": "fievel-universal-fandom",
@@ -3773,7 +3946,8 @@
         "character",
         "wiki"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🖼"
     },
     {
       "name": "mulholland-drive-analysis",
@@ -3793,7 +3967,8 @@
         "analysis",
         "collider"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🖼"
     },
     {
       "name": "mulholland-drive-soundtrack",
@@ -3813,7 +3988,8 @@
         "soundtrack",
         "music"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🚀"
     },
     {
       "name": "iron-lung-ign",
@@ -3833,7 +4009,8 @@
         "ign",
         "movie"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📚"
     },
     {
       "name": "iron-lung-fandom",
@@ -3853,7 +4030,8 @@
         "fandom",
         "film"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "📰"
     },
     {
       "name": "pars-meaning-vocabulary",
@@ -3873,7 +4051,8 @@
         "definition",
         "vocabulary"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🚀"
     },
     {
       "name": "champions-league-sky-sports",
@@ -3893,7 +4072,8 @@
         "sky-sports",
         "fixtures"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🪐"
     },
     {
       "name": "chiefs-espn-schedule",
@@ -3913,7 +4093,8 @@
         "espn",
         "schedule"
       ],
-      "updateTime": "2025-12-13"
+      "updateTime": "2025-12-13",
+      "icon": "🎧"
     }
   ]
 }

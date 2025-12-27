@@ -1,6 +1,6 @@
 {
   "name": "tools",
-  "icon": "icon-zhenjing1",
+  "icon": "⭐",
   "children": [
     {
       "name": "json",
@@ -25,7 +25,8 @@
         "converter",
         "developer tools"
       ],
-      "updateTime": "2025-12-22"
+      "updateTime": "2025-12-22",
+      "icon": "💡"
     },
     {
       "name": "png-to-jpg",
@@ -51,7 +52,8 @@
         "background-fill",
         "quality-control"
       ],
-      "updateTime": "2025-12-26"
+      "updateTime": "2025-12-26",
+      "icon": "🚀"
     }
   ]
 }

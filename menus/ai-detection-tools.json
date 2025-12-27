@@ -1,7 +1,7 @@
 {
   "name": "ai-detection-tools",
   "nameShort": "ai-detector",
-  "icon": "icon-paizhao",
+  "icon": "🖼",
   "seoTitle": "AI Detector Featuring Gptzero, Zerogpt, Contentatscale.",
   "seoDescription": "AI Detector Directory Featuring Gptzero, Zerogpt, Contentatscale And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert.",
   "seoKeywords": [
@@ -43,7 +43,8 @@
         "education",
         "tool"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🧾"
     },
     {
       "name": "zerogpt-ai-checker",
@@ -73,7 +74,8 @@
         "compliance",
         "tool"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🧾"
     },
     {
       "name": "content-at-scale-ai-detector",
@@ -103,7 +105,8 @@
         "rewrites",
         "tool"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "📈"
     },
     {
       "name": "originality",
@@ -127,7 +130,8 @@
         "plagiarism",
         "editor"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🛫"
     },
     {
       "name": "turnitin",
@@ -151,7 +155,8 @@
         "education",
         "plagiarism"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🛰"
     }
   ]
 }

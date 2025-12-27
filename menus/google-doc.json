@@ -1,7 +1,7 @@
 {
   "name": "google-doc",
   "nameShort": "google-doc",
-  "icon": "icon-ku",
+  "icon": "🪐",
   "seoTitle": "Google Doc Featuring Docs Product, Docs Support, Docs API.",
   "seoDescription": "Google Doc Directory Featuring Docs Product, Docs Support, Docs API And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -42,7 +42,8 @@
         "collaboration",
         "suite"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🧳"
     },
     {
       "name": "google-docs-support",
@@ -72,7 +73,8 @@
         "guides",
         "faq"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🏆"
     },
     {
       "name": "google-docs-api",
@@ -98,7 +100,8 @@
         "automation",
         "cloud"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🎲"
     },
     {
       "name": "docs-templates",
@@ -122,7 +125,8 @@
         "resume",
         "proposal"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🧩"
     },
     {
       "name": "docs-addons",
@@ -146,7 +150,8 @@
         "marketplace",
         "productivity"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🎧"
     }
   ]
 }

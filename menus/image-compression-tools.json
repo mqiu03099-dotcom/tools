@@ -1,7 +1,7 @@
 {
   "name": "image-compression-tools",
   "nameShort": "image",
-  "icon": "icon-yuhangyuan",
+  "icon": "🛫",
   "seoTitle": "Image Featuring Tinypng, Compressjpeg, Squoosh | Guides.",
   "seoDescription": "Image Directory Featuring Tinypng, Compressjpeg, Squoosh, Kraken And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "compression",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎵"
     },
     {
       "name": "compressjpeg-batch-photo-tool",
@@ -77,7 +78,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎮"
     },
     {
       "name": "squoosh-google-image-optimizer",
@@ -107,7 +109,8 @@
         "optimizer",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🛒"
     },
     {
       "name": "kraken-io-lossy-image-optimizer",
@@ -130,7 +133,8 @@
         "image",
         "optimizer"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎬"
     },
     {
       "name": "tinywow-image-compressor",
@@ -160,7 +164,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "⭐"
     }
   ]
 }

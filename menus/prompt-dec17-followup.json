@@ -1,7 +1,7 @@
 {
   "name": "prompt-dec17-followup",
   "nameShort": "dec17",
-  "icon": "icon-bangong",
+  "icon": "🎯",
   "seoTitle": "Prompt Follow-Up With Whatsapp, Europa League, Epic Games.",
   "seoDescription": "Requested Follow-Up Batch Adding Messaging Staples, Translation Tools, Football Fixtures, Calculators, And Trending Profiles. Explore Features, Use Cases.",
   "seoKeywords": [
@@ -34,7 +34,8 @@
         "messaging",
         "encrypted"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🪐"
     },
     {
       "name": "facebook-company-profile",
@@ -55,7 +56,8 @@
         "social",
         "meta"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🛒"
     },
     {
       "name": "deepl-translate",
@@ -76,7 +78,8 @@
         "deepl",
         "language"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🪄"
     },
     {
       "name": "gmail-overview",
@@ -97,7 +100,8 @@
         "email",
         "google"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "💡"
     },
     {
       "name": "pogoda-forecast-map",
@@ -118,7 +122,8 @@
         "weather",
         "windy"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🌊"
     },
     {
       "name": "real-madrid-fixtures",
@@ -139,7 +144,8 @@
         "fixtures",
         "laliga"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "⚡"
     },
     {
       "name": "barcelona-fixtures",
@@ -160,7 +166,8 @@
         "fixtures",
         "laliga"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🧩"
     },
     {
       "name": "brazilian-seriesa-corinthians",
@@ -181,7 +188,8 @@
         "copa-do-brasil",
         "fixtures"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🛒"
     },
     {
       "name": "premier-league-scores-and-fixtures",
@@ -201,7 +209,8 @@
         "scores",
         "fixtures"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🔬"
     },
     {
       "name": "europa-league-official",
@@ -222,7 +231,8 @@
         "uefa",
         "fenerbahce"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🎯"
     },
     {
       "name": "epic-games-store",
@@ -243,7 +253,8 @@
         "store",
         "games"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🏆"
     },
     {
       "name": "desmos-scientific-calculator",
@@ -263,7 +274,8 @@
         "desmos",
         "math"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🛒"
     },
     {
       "name": "costco-company-overview",
@@ -283,7 +295,8 @@
         "retail",
         "membership"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🌟"
     },
     {
       "name": "wordle-online-game",
@@ -303,7 +316,8 @@
         "word-game",
         "puzzle"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🛰"
     },
     {
       "name": "dolphins-vs-steelers-record",
@@ -324,7 +338,8 @@
         "nfl",
         "statmuse"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "📐"
     },
     {
       "name": "chimera-definition",
@@ -344,7 +359,8 @@
         "definition",
         "vocabulary"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🎨"
     },
     {
       "name": "candace-owens-profile",
@@ -364,7 +380,8 @@
         "biography",
         "commentator"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🎲"
     },
     {
       "name": "fdo-acronym-meanings",
@@ -384,7 +401,8 @@
         "acronym",
         "definition"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🎧"
     },
     {
       "name": "disclosure-day-trailer",
@@ -404,7 +422,8 @@
         "trailer",
         "youtube"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🧰"
     },
     {
       "name": "whatsapp-web-qr",
@@ -424,7 +443,8 @@
         "qr",
         "desktop"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🛫"
     },
     {
       "name": "google-translate",
@@ -444,7 +464,8 @@
         "google",
         "language"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "📈"
     },
     {
       "name": "fenerbahce-club-hub",
@@ -464,7 +485,8 @@
         "europa-league",
         "club"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🏆"
     },
     {
       "name": "europa-league-table-bbc",
@@ -484,7 +506,8 @@
         "table",
         "bbc"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🎵"
     },
     {
       "name": "arsenal-vs-wolves-match-center",
@@ -505,7 +528,8 @@
         "premier-league",
         "match"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🧾"
     },
     {
       "name": "you-com-private-search",
@@ -526,7 +550,8 @@
         "search",
         "ai"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🧪"
     },
     {
       "name": "google-search-homepage",
@@ -546,7 +571,8 @@
         "search",
         "homepage"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "📰"
     },
     {
       "name": "weather-underground-radar",
@@ -567,7 +593,8 @@
         "radar",
         "forecast"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🌊"
     },
     {
       "name": "whatsapp-business-platform",
@@ -587,7 +614,8 @@
         "business",
         "api"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🎧"
     },
     {
       "name": "facebook-help-center-login",
@@ -607,7 +635,8 @@
         "help",
         "login"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "📈"
     },
     {
       "name": "instagram-web-profile",
@@ -627,7 +656,8 @@
         "social",
         "photos"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "📚"
     },
     {
       "name": "reddit-home-feed",
@@ -647,7 +677,8 @@
         "home",
         "popular"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🛒"
     },
     {
       "name": "tiktok-trending-page",
@@ -667,7 +698,8 @@
         "trending",
         "videos"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🧭"
     },
     {
       "name": "google-maps-directions",
@@ -687,7 +719,8 @@
         "directions",
         "traffic"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🎧"
     },
     {
       "name": "mapquest-directions",
@@ -707,7 +740,8 @@
         "directions",
         "mapquest"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🔥"
     },
     {
       "name": "europa-league-live-scores",
@@ -727,7 +761,8 @@
         "live",
         "scores"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🎨"
     },
     {
       "name": "epic-games-newsroom",
@@ -747,7 +782,8 @@
         "news",
         "updates"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🏆"
     },
     {
       "name": "corinthians-official-site",
@@ -767,7 +803,8 @@
         "official",
         "fixtures"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🍀"
     },
     {
       "name": "vasco-da-gama-fixtures",
@@ -787,7 +824,8 @@
         "fixtures",
         "results"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🍀"
     },
     {
       "name": "google-scientific-calculator",
@@ -807,7 +845,8 @@
         "google",
         "math"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🔬"
     },
     {
       "name": "wordle-nyt-official",
@@ -827,7 +866,8 @@
         "nyt",
         "puzzle"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🛠"
     },
     {
       "name": "dolphins-steelers-espn-recap",
@@ -848,7 +888,8 @@
         "espn",
         "recap"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🎲"
     },
     {
       "name": "rob-reiner-imdb-filmography",
@@ -868,7 +909,8 @@
         "imdb",
         "filmography"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "📡"
     },
     {
       "name": "crystal-palace-vs-man-city",
@@ -888,7 +930,8 @@
         "man-city",
         "premier-league"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "📐"
     },
     {
       "name": "cardiff-city-vs-chelsea",
@@ -909,7 +952,8 @@
         "chelsea",
         "premier-league"
       ],
-      "updateTime": "2025-12-17"
+      "updateTime": "2025-12-17",
+      "icon": "🎨"
     }
   ]
 }

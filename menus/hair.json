@@ -1,7 +1,7 @@
 {
   "name": "hair",
   "nameShort": "hair",
-  "icon": "icon-buhaochi",
+  "icon": "🍀",
   "seoTitle": "Hair Tools And Styling Brand Pages | Guides, Tips & Updates.",
   "seoDescription": "Hair Tool Brands Including Hot Tools, Dyson, Ghd, T3, And Conair For Fast-Loading Product Hubs. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
   "seoKeywords": [
@@ -31,7 +31,8 @@
         "styling",
         "hair"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🔧"
     },
     {
       "name": "ghdhair",
@@ -51,7 +52,8 @@
         "hair-tools",
         "styling"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧠"
     },
     {
       "name": "t3micro",
@@ -71,7 +73,8 @@
         "hair-tools",
         "styling"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🖼"
     },
     {
       "name": "dyson",
@@ -91,7 +94,8 @@
         "hair-tools",
         "styling"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📰"
     },
     {
       "name": "conair",
@@ -111,7 +115,8 @@
         "hair-tools",
         "styling"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎬"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "online-tools-directory",
   "nameShort": "online-tools",
-  "icon": "icon-jingcha",
+  "icon": "🌟",
   "seoTitle": "Online Tools Directory For Everyday Tasks | Guides, Tips &.",
   "seoDescription": "Fast-Loading Multi-Tool Sites For File Conversion, Generators, And Quick Utilities. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -30,7 +30,8 @@
         "online-tools",
         "pdf"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⭐"
     },
     {
       "name": "10015-io-toolkit",
@@ -51,7 +52,8 @@
         "online-tools",
         "seo"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧠"
     },
     {
       "name": "browserling-web-tools",
@@ -71,7 +73,8 @@
         "developer",
         "online-tools"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📦"
     },
     {
       "name": "unitconverters-suite",
@@ -91,7 +94,8 @@
         "calculator",
         "online-tools"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🏆"
     },
     {
       "name": "dcode-multi-tool",
@@ -111,7 +115,8 @@
         "cipher",
         "puzzle"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🗺"
     }
   ]
 }

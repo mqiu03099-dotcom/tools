@@ -1,7 +1,7 @@
 {
   "name": "prompt-dec15-topics",
   "nameShort": "dec15",
-  "icon": "icon-zhongzi",
+  "icon": "💡",
   "seoTitle": "Prompt Batch Featuring Powerball, Christmas, Vikings Vs.",
   "seoDescription": "Requested Categories Covering Lottery, Holidays, NFL Rivalries, Travel Spots, And Profile Lookups. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
   "seoKeywords": [
@@ -39,7 +39,8 @@
         "drawings",
         "numbers"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🧰"
     },
     {
       "name": "christmas-holiday-guide",
@@ -67,7 +68,8 @@
         "elf",
         "reindeer"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🪄"
     },
     {
       "name": "hanukkah-2025-guide",
@@ -90,7 +92,8 @@
         "first-night",
         "happy-hanukkah"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🚀"
     },
     {
       "name": "mailbox-rental-near-me",
@@ -113,7 +116,8 @@
         "po-box",
         "locator"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🔬"
     },
     {
       "name": "bondi-beach-guide",
@@ -138,7 +142,8 @@
         "travel",
         "surf"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🔬"
     },
     {
       "name": "honolulu-marathon-2025",
@@ -160,7 +165,8 @@
         "race",
         "registration"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🧪"
     },
     {
       "name": "brown-university-safety",
@@ -183,7 +189,8 @@
         "active-shooter",
         "security"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🧳"
     },
     {
       "name": "gpt-chatgpt-overview",
@@ -205,7 +212,8 @@
         "openai",
         "ai"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🌟"
     },
     {
       "name": "clownfish-marine-facts",
@@ -227,7 +235,8 @@
         "reef",
         "anemone"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🛰"
     },
     {
       "name": "pet-care-dogs-cats",
@@ -251,7 +260,8 @@
         "cats",
         "pet-care"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📐"
     },
     {
       "name": "snake-care-basics",
@@ -273,7 +283,8 @@
         "habitat",
         "feeding"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "⚡"
     },
     {
       "name": "iphone-14-15-compare",
@@ -295,7 +306,8 @@
         "apple",
         "compare"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🚀"
     },
     {
       "name": "google-search-home",
@@ -315,7 +327,8 @@
         "search",
         "homepage"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📰"
     },
     {
       "name": "camera-buyers-guide",
@@ -336,7 +349,8 @@
         "photography",
         "beginner"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🎵"
     },
     {
       "name": "flowers-delivery-ideas",
@@ -357,7 +371,8 @@
         "bouquet",
         "gift"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "⚡"
     },
     {
       "name": "amazon-walmart-hobbylobby-deals",
@@ -380,7 +395,8 @@
         "deals",
         "shopping"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🧠"
     },
     {
       "name": "youtube-trending-watch",
@@ -400,7 +416,8 @@
         "trending",
         "videos"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📐"
     },
     {
       "name": "nobel-prize-categories",
@@ -421,7 +438,8 @@
         "categories",
         "disciplines"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🧠"
     },
     {
       "name": "made-in-america-gift-guide",
@@ -441,7 +459,8 @@
         "gift-guide",
         "holiday"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🌊"
     },
     {
       "name": "dicks-sporting-goods-deals",
@@ -462,7 +481,8 @@
         "deals",
         "coupons"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🔧"
     },
     {
       "name": "kevin-costner-the-first-christmas",
@@ -482,7 +502,8 @@
         "first-christmas",
         "movie"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🪐"
     },
     {
       "name": "knives-out-2-glass-onion",
@@ -502,7 +523,8 @@
         "glass-onion",
         "film"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🍀"
     },
     {
       "name": "knives-out-3-updates",
@@ -522,7 +544,8 @@
         "sequel",
         "film"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📐"
     },
     {
       "name": "rob-reiner-profile",
@@ -546,7 +569,8 @@
         "director",
         "filmography"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🛰"
     },
     {
       "name": "nick-reiner-profile",
@@ -566,7 +590,8 @@
         "writer",
         "biography"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🗺"
     },
     {
       "name": "peter-greene-actor-profile",
@@ -587,7 +612,8 @@
         "actor",
         "filmography"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🧾"
     },
     {
       "name": "alexa-blatt-ucla-trainer",
@@ -608,7 +634,8 @@
         "ucla",
         "trainer"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🛡"
     },
     {
       "name": "achuapa-municipal-club",
@@ -630,7 +657,8 @@
         "fixtures",
         "results"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🚀"
     },
     {
       "name": "vikings-vs-cowboys-record",
@@ -651,7 +679,8 @@
         "nfl",
         "record"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🧭"
     },
     {
       "name": "chargers-vs-chiefs-record",
@@ -673,7 +702,8 @@
         "nfl",
         "afc-west"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📦"
     },
     {
       "name": "bills-vs-patriots-record",
@@ -695,7 +725,8 @@
         "nfl",
         "record"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🖼"
     },
     {
       "name": "raiders-vs-eagles-record",
@@ -716,7 +747,8 @@
         "nfl",
         "record"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📈"
     },
     {
       "name": "lions-vs-rams-record",
@@ -737,7 +769,8 @@
         "nfl",
         "record"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🧪"
     },
     {
       "name": "packers-vs-broncos-record",
@@ -758,7 +791,8 @@
         "nfl",
         "record"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🔬"
     },
     {
       "name": "browns-vs-bears-record",
@@ -779,7 +813,8 @@
         "nfl",
         "record"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📰"
     },
     {
       "name": "colts-vs-seahawks-record",
@@ -800,7 +835,8 @@
         "nfl",
         "record"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🎨"
     },
     {
       "name": "bayern-vs-mainz-fixture",
@@ -821,7 +857,8 @@
         "bundesliga",
         "fixture"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🧪"
     },
     {
       "name": "alaves-vs-real-madrid-fixture",
@@ -842,7 +879,8 @@
         "la-liga",
         "fixture"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🌟"
     },
     {
       "name": "army-navy-game-central",
@@ -862,7 +900,8 @@
         "college-football",
         "rivalry"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🔧"
     },
     {
       "name": "australia-shooting-updates",
@@ -882,7 +921,8 @@
         "shooting",
         "news"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📚"
     },
     {
       "name": "powerball-jackpot-tracker",
@@ -903,7 +943,8 @@
         "winning-numbers",
         "lottery"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "⭐"
     },
     {
       "name": "powerball-drawing-schedule",
@@ -924,7 +965,8 @@
         "schedule",
         "next-drawing"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "⭐"
     },
     {
       "name": "powerball-numbers-archive",
@@ -945,7 +987,8 @@
         "archive",
         "lottery"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🎵"
     },
     {
       "name": "christmas-tree-ideas",
@@ -966,7 +1009,8 @@
         "decorating",
         "holiday"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🌟"
     },
     {
       "name": "christmas-lights-guide",
@@ -986,7 +1030,8 @@
         "lights",
         "decor"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📡"
     },
     {
       "name": "elf-on-the-shelf-ideas",
@@ -1006,7 +1051,8 @@
         "christmas",
         "ideas"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🌊"
     },
     {
       "name": "reindeer-facts-guide",
@@ -1026,7 +1072,8 @@
         "wildlife",
         "christmas"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📚"
     },
     {
       "name": "hobby-lobby-weekly-ad",
@@ -1047,7 +1094,8 @@
         "weekly-ad",
         "coupons"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🎧"
     },
     {
       "name": "real-madrid-vs-man-city",
@@ -1068,7 +1116,8 @@
         "champions-league",
         "fixture"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "📡"
     },
     {
       "name": "brown-university-emergency",
@@ -1089,7 +1138,8 @@
         "active-shooter",
         "alerts"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🎬"
     },
     {
       "name": "michigan-football-coach-profile",
@@ -1110,7 +1160,8 @@
         "coach",
         "sherrone-moore"
       ],
-      "updateTime": "2025-12-15"
+      "updateTime": "2025-12-15",
+      "icon": "🏆"
     }
   ]
 }

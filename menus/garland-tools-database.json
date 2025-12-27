@@ -1,7 +1,7 @@
 {
   "name": "garland-tools-database",
   "nameShort": "garland",
-  "icon": "icon-chaoren",
+  "icon": "🎨",
   "seoTitle": "Garland Tools And Ffxiv Helper Sites | Guides, Tips &.",
   "seoDescription": "Garland Tools Database Links Plus Related Ffxiv Helpers And Community Resources. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -30,7 +30,8 @@
         "database",
         "ffxiv"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📦"
     },
     {
       "name": "garland-bell-timers",
@@ -50,7 +51,8 @@
         "bell",
         "ffxiv"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧩"
     },
     {
       "name": "garland-tools-github",
@@ -70,7 +72,8 @@
         "github",
         "open-source"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🚀"
     },
     {
       "name": "ffxiv-teamcraft",
@@ -90,7 +93,8 @@
         "teamcraft",
         "crafting"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🗺"
     },
     {
       "name": "universalis-market",
@@ -110,7 +114,8 @@
         "market",
         "universalis"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛠"
     }
   ]
 }

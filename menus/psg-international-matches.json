@@ -1,7 +1,7 @@
 {
   "name": "psg-international-matches",
   "nameShort": "psg",
-  "icon": "icon-hekafei",
+  "icon": "⚡",
   "seoTitle": "PSG Fixtures And Friendlies Including Flamengo Clash.",
   "seoDescription": "Trusted Pages For PSG Fixtures, Results, And Friendlies Such As Flamengo Vs PSG With Live Scores And Team News. Explore Features, Use Cases, Pricing Explore.",
   "seoKeywords": [
@@ -30,7 +30,8 @@
         "calendar",
         "fixtures"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⭐"
     },
     {
       "name": "psg-ligue1-profile",
@@ -50,7 +51,8 @@
         "ligue1",
         "fixtures"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛡"
     },
     {
       "name": "psg-fixtures-espn",
@@ -70,7 +72,8 @@
         "fixtures",
         "espn"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛰"
     },
     {
       "name": "psg-sofascore",
@@ -90,7 +93,8 @@
         "sofascore",
         "scores"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🔥"
     },
     {
       "name": "flamengo-team-page",
@@ -110,7 +114,8 @@
         "fixtures",
         "psg"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⭐"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "lane-kiffin",
   "nameShort": "kiffin",
-  "icon": "icon-haiyuan",
+  "icon": "🗺",
   "seoTitle": "Kiffin Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats.",
   "seoDescription": "Kiffin Directory Featuring Kiffin Wiki, Kiffin Olemiss, Kiffin Stats And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -42,7 +42,8 @@
         "college",
         "football"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🪐"
     },
     {
       "name": "olemiss-staff-lane-kiffin",
@@ -72,7 +73,8 @@
         "sec",
         "profile"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🔥"
     },
     {
       "name": "sports-reference-lane-kiffin",
@@ -102,7 +104,8 @@
         "records",
         "history"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🛫"
     },
     {
       "name": "espn-kiffin",
@@ -126,7 +129,8 @@
         "recruiting",
         "sec"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "📦"
     },
     {
       "name": "247sports-kiffin",
@@ -150,7 +154,8 @@
         "recruiting",
         "portal"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🔥"
     }
   ]
 }

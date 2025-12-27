@@ -1,7 +1,7 @@
 {
   "name": "dewalt-tools-brand",
   "nameShort": "dewalt",
-  "icon": "icon-yi",
+  "icon": "⭐",
   "seoTitle": "Dewalt Power And Hand Tools Resources | Guides, Tips &.",
   "seoDescription": "Dewalt Brand Links For Power Tools, Hand Tools, And Retailer Listings. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "official",
         "uk"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧪"
     },
     {
       "name": "dewalt-power-tools",
@@ -49,7 +50,8 @@
         "power-tools",
         "catalog"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📰"
     },
     {
       "name": "dewalt-hand-tools",
@@ -69,7 +71,8 @@
         "hand-tools",
         "catalog"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌟"
     },
     {
       "name": "dewalt-home-depot",
@@ -89,7 +92,8 @@
         "retail",
         "home-depot"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⚡"
     },
     {
       "name": "dewalt-acme-tools",
@@ -109,7 +113,8 @@
         "retail",
         "acme-tools"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📚"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "top-ev-new-energy-brands",
   "nameShort": "top-ev",
-  "icon": "icon-mofashi",
+  "icon": "🚀",
   "seoTitle": "Top Ev Featuring Zeekr, Neta, Voyah | Guides, Tips &.",
   "seoDescription": "Top Ev Directory Featuring Zeekr, Neta, Voyah, Gwm And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips To Compare.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "vehicles",
         "tool"
       ],
-      "updateTime": "2025-11-24"
+      "updateTime": "2025-11-24",
+      "icon": "🖼"
     },
     {
       "name": "neta-auto-new-energy-vehicles",
@@ -77,7 +78,8 @@
         "energy",
         "vehicles"
       ],
-      "updateTime": "2025-11-23"
+      "updateTime": "2025-11-23",
+      "icon": "🎲"
     },
     {
       "name": "voyah-luxury-electric-brand",
@@ -107,7 +109,8 @@
         "brand",
         "tool"
       ],
-      "updateTime": "2025-11-22"
+      "updateTime": "2025-11-22",
+      "icon": "🗺"
     },
     {
       "name": "gwm-electric-vehicle-lineup",
@@ -137,7 +140,8 @@
         "lineup",
         "tool"
       ],
-      "updateTime": "2025-11-21"
+      "updateTime": "2025-11-21",
+      "icon": "🌟"
     },
     {
       "name": "seres-auto-huawei-evs",
@@ -167,7 +171,8 @@
         "evs",
         "tool"
       ],
-      "updateTime": "2025-11-20"
+      "updateTime": "2025-11-20",
+      "icon": "🛒"
     }
   ]
 }

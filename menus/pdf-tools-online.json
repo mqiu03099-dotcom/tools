@@ -1,7 +1,7 @@
 {
   "name": "pdf-tools-online",
   "nameShort": "pdf",
-  "icon": "icon-nongmin1",
+  "icon": "🌊",
   "seoTitle": "PDF Tools For Merge, Convert, And Compress | Guides, Tips &.",
   "seoDescription": "Trusted PDF Web Apps For Merging, Compressing, And Editing Without Installs. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert.",
   "seoKeywords": [
@@ -30,7 +30,8 @@
         "ilovepdf",
         "converter"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎵"
     },
     {
       "name": "sejda-pdf-suite",
@@ -50,7 +51,8 @@
         "pdf",
         "converter"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧳"
     },
     {
       "name": "pdf24-tools",
@@ -70,7 +72,8 @@
         "pdf",
         "online-tools"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📈"
     },
     {
       "name": "smallpdf-online",
@@ -90,7 +93,8 @@
         "pdf",
         "converter"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌟"
     },
     {
       "name": "pdfcandy-toolkit",
@@ -110,7 +114,8 @@
         "pdf",
         "ocr"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⭐"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "pogoda-forecast",
   "nameShort": "pogoda",
-  "icon": "icon-qishi",
+  "icon": "🌊",
   "seoTitle": "Pogoda Weather Sources For Russian Forecasts | Guides, Tips.",
   "seoDescription": "Russian-Friendly Weather Dashboards With Hourly Forecasts, Radar Maps, And Air Quality Updates For Cities Worldwide. Explore Features, Use Cases, Pricing.",
   "seoKeywords": [
@@ -31,7 +31,8 @@
         "forecast",
         "weather"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📐"
     },
     {
       "name": "yandex-weather-global",
@@ -52,7 +53,8 @@
         "pogoda",
         "alerts"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎨"
     },
     {
       "name": "accuweather-russian",
@@ -73,7 +75,8 @@
         "forecast",
         "radar"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎯"
     },
     {
       "name": "foreca-forecast",
@@ -93,7 +96,8 @@
         "pogoda",
         "forecast"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎲"
     },
     {
       "name": "sinoptik-ua-weather",
@@ -113,7 +117,8 @@
         "pogoda",
         "forecast"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⭐"
     }
   ]
 }

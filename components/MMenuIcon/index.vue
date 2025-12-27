@@ -7,9 +7,11 @@
     <button
       class="btn btn-square btn-ghost"
       title="Browse Categories"
+      aria-hidden="true"
     >
-      <MIcon
-        icon="icon-fenlei"
+      <img
+        src="/class.png"
+        alt="class.png"
         class="size-5"
       />
     </button>
@@ -19,3 +21,4 @@
 <script lang="ts" setup></script>
 
 <style scoped></style>
+

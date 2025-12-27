@@ -1,7 +1,7 @@
 {
   "name": "footwear-and-sneakers",
   "nameShort": "footwear",
-  "icon": "icon-youdongxi",
+  "icon": "🗺",
   "seoTitle": "Shoes, Nike, Adidas, Jordan And Boots Deals | Guides, Tips.",
   "seoDescription": "Top Footwear Destinations Covering Nike, Adidas, Jordan Drops, And Durable Boots With Fast-Loading Shop Pages. Explore Features, Use Cases, Pricing, Alternativ.",
   "seoKeywords": [
@@ -30,7 +30,8 @@
         "sneakers",
         "footwear"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛡"
     },
     {
       "name": "adidas-official-store",
@@ -50,7 +51,8 @@
         "sneakers",
         "footwear"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🪄"
     },
     {
       "name": "jordan-brand-store",
@@ -70,7 +72,8 @@
         "sneakers",
         "retro"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📦"
     },
     {
       "name": "timberland-boots",
@@ -90,7 +93,8 @@
         "timberland",
         "footwear"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎮"
     },
     {
       "name": "stockx-sneakers",
@@ -110,7 +114,8 @@
         "stockx",
         "marketplace"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🔬"
     }
   ]
 }

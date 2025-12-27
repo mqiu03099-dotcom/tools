@@ -1,7 +1,7 @@
 {
   "name": "global-productivity-essentials",
   "nameShort": "productivity",
-  "icon": "icon-liuhao",
+  "icon": "🪄",
   "seoTitle": "Productivity Featuring Todoist, Trello, Asana | Guides.",
   "seoDescription": "Productivity Directory Featuring Todoist, Trello, Asana, Clickup And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "productivity",
         "webapp"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🪄"
     },
     {
       "name": "trello-kanban-boards",
@@ -77,7 +78,8 @@
         "collaboration",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎮"
     },
     {
       "name": "asana-work-manager",
@@ -107,7 +109,8 @@
         "automation",
         "platform"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎬"
     },
     {
       "name": "clickup-productivity-platform",
@@ -137,7 +140,8 @@
         "docs",
         "platform"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🏆"
     },
     {
       "name": "monday-work-operating-system",
@@ -162,7 +166,8 @@
         "automation",
         "boards"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧰"
     },
     {
       "name": "airtable-flexible-database",
@@ -192,7 +197,8 @@
         "automation",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎬"
     },
     {
       "name": "notion-connected-workspace",
@@ -222,7 +228,8 @@
         "wiki",
         "productivity"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🚀"
     },
     {
       "name": "linear-issue-tracker",
@@ -252,7 +259,8 @@
         "product",
         "agile"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🛫"
     },
     {
       "name": "jira-cloud-work-management",
@@ -282,7 +290,8 @@
         "planning",
         "software"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧭"
     },
     {
       "name": "slack-team-messaging",
@@ -312,7 +321,8 @@
         "messaging",
         "collaboration"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📚"
     },
     {
       "name": "discord-community-hubs",
@@ -342,7 +352,8 @@
         "voice",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎲"
     },
     {
       "name": "zoom-video-meetings",
@@ -372,7 +383,8 @@
         "collaboration",
         "platform"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🛰"
     },
     {
       "name": "loom-video-messaging",
@@ -402,7 +414,8 @@
         "messaging",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧳"
     },
     {
       "name": "figma-product-design-platform",
@@ -432,7 +445,8 @@
         "collaboration",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎬"
     },
     {
       "name": "miro-collaboration-whiteboard",
@@ -462,7 +476,8 @@
         "brainstorm",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧳"
     },
     {
       "name": "whimsical-flowchart-studio",
@@ -492,7 +507,8 @@
         "mindmap",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "⭐"
     },
     {
       "name": "drawio-diagram-maker",
@@ -518,7 +534,8 @@
         "charts",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📚"
     },
     {
       "name": "grammarly-writing-assistant",
@@ -548,7 +565,8 @@
         "ai",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🔧"
     },
     {
       "name": "quillbot-rephrase-suite",
@@ -578,7 +596,8 @@
         "writing",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎬"
     },
     {
       "name": "deepl-language-translation",
@@ -608,7 +627,8 @@
         "ai",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "💡"
     },
     {
       "name": "otter-ai-transcription-notes",
@@ -631,7 +651,8 @@
         "notes",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📦"
     },
     {
       "name": "typeform-interactive-forms",
@@ -661,7 +682,8 @@
         "interactive",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📚"
     },
     {
       "name": "jotform-form-builder",
@@ -691,7 +713,8 @@
         "automation",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎨"
     },
     {
       "name": "surveymonkey-research-platform",
@@ -721,7 +744,8 @@
         "insights",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🖼"
     },
     {
       "name": "mailchimp-email-marketing",
@@ -750,7 +774,8 @@
         "marketing",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🔬"
     },
     {
       "name": "convertkit-creator-email",
@@ -780,7 +805,8 @@
         "creator",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎵"
     },
     {
       "name": "beehiiv-newsletter-studio",
@@ -809,7 +835,8 @@
         "monetization",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🔧"
     },
     {
       "name": "buffer-social-scheduler",
@@ -839,7 +866,8 @@
         "analytics",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🌊"
     },
     {
       "name": "hootsuite-social-dashboard",
@@ -869,7 +897,8 @@
         "monitoring",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎬"
     },
     {
       "name": "later-social-calendar",
@@ -899,7 +928,8 @@
         "calendar",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📈"
     },
     {
       "name": "semrush-keyword-platform",
@@ -929,7 +959,8 @@
         "audit",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧩"
     },
     {
       "name": "ahrefs-site-auditor",
@@ -959,7 +990,8 @@
         "audit",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎧"
     },
     {
       "name": "moz-pro-seo-suite",
@@ -989,7 +1021,8 @@
         "links",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧭"
     },
     {
       "name": "ubersuggest-keyword-tool",
@@ -1019,7 +1052,8 @@
         "content",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🔥"
     },
     {
       "name": "answerthepublic-question-miner",
@@ -1049,7 +1083,8 @@
         "seo",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📈"
     },
     {
       "name": "canirank-seo-insights",
@@ -1079,7 +1114,8 @@
         "insights",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧳"
     },
     {
       "name": "hotjar-experience-analytics",
@@ -1109,7 +1145,8 @@
         "ux",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧰"
     },
     {
       "name": "crazyegg-heatmaps",
@@ -1139,7 +1176,8 @@
         "ux",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🍀"
     },
     {
       "name": "fullstory-digital-insights",
@@ -1169,7 +1207,8 @@
         "ux",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🔧"
     },
     {
       "name": "pingdom-website-monitoring",
@@ -1199,7 +1238,8 @@
         "performance",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "📡"
     },
     {
       "name": "uptimerobot-status-monitor",
@@ -1229,7 +1269,8 @@
         "alerts",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "⚡"
     },
     {
       "name": "statuscake-uptime-checks",
@@ -1259,7 +1300,8 @@
         "alerts",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🔥"
     },
     {
       "name": "gtmetrix-performance-tester",
@@ -1289,7 +1331,8 @@
         "vitals",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎯"
     },
     {
       "name": "webpagetest-lab-insights",
@@ -1319,7 +1362,8 @@
         "web",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧾"
     },
     {
       "name": "pagespeed-web-vitals",
@@ -1349,7 +1393,8 @@
         "web",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧭"
     },
     {
       "name": "ilovepdf-converter-suite",
@@ -1379,7 +1424,8 @@
         "compress",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎵"
     },
     {
       "name": "smallpdf-online-pdf",
@@ -1409,7 +1455,8 @@
         "esign",
         "utility"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🌟"
     },
     {
       "name": "pdfcandy-document-toolkit",
@@ -1439,7 +1486,8 @@
         "edit",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "⭐"
     },
     {
       "name": "removebg-background-editor",
@@ -1464,7 +1512,8 @@
         "ai",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🧩"
     },
     {
       "name": "kapwing-creative-studio",
@@ -1493,7 +1542,8 @@
         "creative",
         "tool"
       ],
-      "updateTime": "2025-12-07"
+      "updateTime": "2025-12-07",
+      "icon": "🎧"
     }
   ]
 }

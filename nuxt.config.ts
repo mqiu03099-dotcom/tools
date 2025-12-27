@@ -246,6 +246,6 @@ export default defineNuxtConfig({
       },
     },
   },
-  css: ["@/assets/daisyui.css"],
+  css: ["@/public/daisyui.css"],
 });
 

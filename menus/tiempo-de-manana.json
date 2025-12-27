@@ -1,7 +1,7 @@
 {
   "name": "tiempo-de-manana",
   "nameShort": "tiempo",
-  "icon": "icon-mengyou",
+  "icon": "🪄",
   "seoTitle": "Tiempo Featuring Accuweather Es, Eltiempo, Meteored.",
   "seoDescription": "Tiempo Directory Featuring Accuweather Es, Eltiempo, Meteored And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips.",
   "seoKeywords": [
@@ -42,7 +42,8 @@
         "pronostico",
         "clima"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🖼"
     },
     {
       "name": "eltiempo-es",
@@ -66,7 +67,8 @@
         "manana",
         "clima"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🛡"
     },
     {
       "name": "meteored-global",
@@ -90,7 +92,8 @@
         "clima",
         "alertas"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🛰"
     },
     {
       "name": "weathercom",
@@ -114,7 +117,8 @@
         "radar",
         "alertas"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🪐"
     },
     {
       "name": "windy",
@@ -138,7 +142,8 @@
         "viento",
         "radar"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🛫"
     }
   ]
 }

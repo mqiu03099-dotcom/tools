@@ -1,7 +1,7 @@
 {
   "name": "liverpool-brighton-fixture",
   "nameShort": "lfc-brighton",
-  "icon": "icon-a-niuzi2",
+  "icon": "🧩",
   "seoTitle": "Liverpool Vs Brighton Fixtures And Stats | Guides, Tips &.",
   "seoDescription": "Premier League Resources Showing Liverpool Vs Brighton Schedules, Live Scores, And Match Stats From Trusted Sites. Explore Features, Use Cases, Pricing.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "fixtures",
         "premier-league"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🔬"
     },
     {
       "name": "brighton-fixtures",
@@ -49,7 +50,8 @@
         "fixtures",
         "premier-league"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📐"
     },
     {
       "name": "premier-league-fixtures",
@@ -69,7 +71,8 @@
         "fixtures",
         "schedule"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🔬"
     },
     {
       "name": "bbc-liverpool-fixtures",
@@ -89,7 +92,8 @@
         "liverpool",
         "fixtures"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎨"
     },
     {
       "name": "sofascore-liverpool-team",
@@ -109,7 +113,8 @@
         "sofascore",
         "scores"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧾"
     }
   ]
 }

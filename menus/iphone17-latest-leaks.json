@@ -1,7 +1,7 @@
 {
   "name": "iphone17-latest-leaks",
   "nameShort": "iphone17",
-  "icon": "icon-feihangyuan",
+  "icon": "🏆",
   "seoTitle": "Iphone17 Featuring Macrumors, 9To5mac, Techradar | Guides.",
   "seoDescription": "Iphone17 Directory Featuring Macrumors, 9To5mac, Techradar, Gsmarena And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -46,7 +46,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🖼"
     },
     {
       "name": "9to5mac-iphone17-rumors",
@@ -76,7 +77,8 @@
         "platform",
         "service"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "💡"
     },
     {
       "name": "techradar-iphone17-preview",
@@ -106,7 +108,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🧭"
     },
     {
       "name": "gsmarena-iphone17-specs",
@@ -136,7 +139,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "📚"
     },
     {
       "name": "notebookcheck-iphone17-analysis",
@@ -166,7 +170,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🧩"
     }
   ]
 }

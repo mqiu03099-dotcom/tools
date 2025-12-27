@@ -1,7 +1,7 @@
 {
   "name": "spotify",
   "nameShort": "spotify",
-  "icon": "icon-lvshi",
+  "icon": "🧭",
   "seoTitle": "Spotify Featuring Spotify Premium, Spotify For, Spotify.",
   "seoDescription": "Spotify Directory Featuring Spotify Premium, Spotify For, Spotify Podcasts, Spotify Wrapped And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
   "seoKeywords": [
@@ -43,7 +43,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🌊"
     },
     {
       "name": "spotify-for-artists",
@@ -73,7 +74,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🌊"
     },
     {
       "name": "spotify-podcasts-studio",
@@ -103,7 +105,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🔧"
     },
     {
       "name": "spotify-wrapped-2025",
@@ -133,7 +136,8 @@
         "platform",
         "service"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🧭"
     },
     {
       "name": "spotify-car-thing",
@@ -163,7 +167,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🎵"
     }
   ]
 }

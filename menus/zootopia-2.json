@@ -1,7 +1,7 @@
 {
   "name": "zootopia-2",
   "nameShort": "zootopia2",
-  "icon": "icon-wanyouxi",
+  "icon": "🧩",
   "seoTitle": "Zootopia2 Featuring Zootopia2 Wiki, Zootopia2 Wodp.",
   "seoDescription": "Zootopia2 Directory Featuring Zootopia2 Wiki, Zootopia2 Wodp, Zootopia2 Screenrant And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
   "seoKeywords": [
@@ -40,7 +40,8 @@
         "film",
         "sequel"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "📈"
     },
     {
       "name": "whatsondisneyplus-zootopia-2",
@@ -70,7 +71,8 @@
         "streaming",
         "animation"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🧭"
     },
     {
       "name": "screenrant-zootopia-2",
@@ -100,7 +102,8 @@
         "movie",
         "news"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🎵"
     },
     {
       "name": "variety-zootopia2",
@@ -124,7 +127,8 @@
         "release",
         "news"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🔧"
     },
     {
       "name": "imdb-zootopia2",
@@ -148,7 +152,8 @@
         "cast",
         "release"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🔧"
     }
   ]
 }

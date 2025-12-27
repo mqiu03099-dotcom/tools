@@ -1,7 +1,7 @@
 {
   "name": "stranger-things-season5",
   "nameShort": "stranger-things",
-  "icon": "icon-chaokaixin1",
+  "icon": "🧰",
   "seoTitle": "Stranger Things Featuring St5 Wiki, St5 Tudum, St5.",
   "seoDescription": "Stranger Things Directory Featuring St5 Wiki, St5 Tudum, St5 Gamesradar And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -43,7 +43,8 @@
         "netflix",
         "tv"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🛠"
     },
     {
       "name": "netflix-tudum-stranger-things",
@@ -73,7 +74,8 @@
         "tudum",
         "insights"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🧰"
     },
     {
       "name": "gamesradar-stranger-things-season5",
@@ -103,7 +105,8 @@
         "news",
         "tv"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "📈"
     },
     {
       "name": "imdb-stranger5",
@@ -127,7 +130,8 @@
         "episodes",
         "cast"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🔧"
     },
     {
       "name": "rt-stranger5",
@@ -151,7 +155,8 @@
         "trailers",
         "scores"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "📡"
     }
   ]
 }

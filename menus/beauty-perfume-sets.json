@@ -1,7 +1,7 @@
 {
   "name": "beauty-perfume-sets",
   "nameShort": "beauty",
-  "icon": "icon-xuexi",
+  "icon": "⚡",
   "seoTitle": "Perfume And Sephora Favorites Gift Sets | Guides, Tips &.",
   "seoDescription": "Curated Perfume Shops And Sephora Favorites Sets With Fast-Loading Product Pages And Reviews. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "favorites",
         "gift-sets"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌊"
     },
     {
       "name": "fragrantica-perfume",
@@ -49,7 +50,8 @@
         "perfume",
         "reviews"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌊"
     },
     {
       "name": "basenotes-fragrance",
@@ -69,7 +71,8 @@
         "perfume",
         "community"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎯"
     },
     {
       "name": "ulta-fragrance",
@@ -89,7 +92,8 @@
         "fragrance",
         "perfume"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📦"
     },
     {
       "name": "perfume-dot-com",
@@ -109,7 +113,8 @@
         "fragrance",
         "discount"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎬"
     }
   ]
 }

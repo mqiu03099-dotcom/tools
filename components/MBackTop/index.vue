@@ -1,14 +1,11 @@
 <template>
-  <div
+  <img
+    src="/backTop.png"
+    alt="backTop.png"
     @click="handleBackTop"
     title="Back Top"
     class="fixed right-6 bottom-10 size-14 sm:size-16 md:size-18 lg:size-20 cursor-pointer active:scale-100 hover:scale-105 transition-all"
-  >
-    <MIcon
-      icon="icon-halou"
-      class="size-full"
-    />
-  </div>
+  />
 </template>
 
 <script lang="ts" setup>

@@ -1,7 +1,7 @@
 {
   "name": "tools-near-me-locators",
   "nameShort": "near-me",
-  "icon": "icon-tiaowu",
+  "icon": "📰",
   "seoTitle": "Tools Near Me Store Locator Pages | Guides, Tips & Updates.",
   "seoDescription": "Store Locator Pages To Quickly Find Nearby Hardware And Tool Retailers In Your Area. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "locator",
         "retail"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "⚡"
     },
     {
       "name": "lowes-store-locator",
@@ -49,7 +50,8 @@
         "locator",
         "retail"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌊"
     },
     {
       "name": "ace-hardware-locator",
@@ -69,7 +71,8 @@
         "locator",
         "tools"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎵"
     },
     {
       "name": "harbor-freight-locator",
@@ -89,7 +92,8 @@
         "locator",
         "tools"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🔬"
     },
     {
       "name": "true-value-locator",
@@ -109,7 +113,8 @@
         "locator",
         "hardware"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌊"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "google-tools-suite",
   "nameShort": "google",
-  "icon": "icon-zhaoshou",
+  "icon": "📰",
   "seoTitle": "Google Tools For Workspace, Docs, Drive, Calendar | Guides.",
   "seoDescription": "Google Productivity Tools Overview Covering Workspace, Docs, Drive, Keep, And Calendar Quick Links. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
   "seoKeywords": [
@@ -31,7 +31,8 @@
         "workspace",
         "productivity"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧩"
     },
     {
       "name": "google-docs-about",
@@ -51,7 +52,8 @@
         "docs",
         "collaboration"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🖼"
     },
     {
       "name": "google-drive-cloud",
@@ -71,7 +73,8 @@
         "drive",
         "storage"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎮"
     },
     {
       "name": "google-calendar-schedule",
@@ -91,7 +94,8 @@
         "calendar",
         "scheduling"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛒"
     },
     {
       "name": "google-keep-notes",
@@ -111,7 +115,8 @@
         "keep",
         "notes"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📐"
     }
   ]
 }

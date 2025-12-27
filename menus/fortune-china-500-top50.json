@@ -1,7 +1,7 @@
 {
   "name": "fortune-china-500-top50",
   "nameShort": "fortune-china",
-  "icon": "icon-dasao",
+  "icon": "🌟",
   "seoTitle": "Fortune China Featuring Sinopec, State, Petrochina.",
   "seoDescription": "Fortune China Directory Featuring Sinopec, State, Petrochina, Cscec And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "giant",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎧"
     },
     {
       "name": "state-grid-power-backbone",
@@ -77,7 +78,8 @@
         "backbone",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🖼"
     },
     {
       "name": "petrochina-upstream-downstream",
@@ -107,7 +109,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🧪"
     },
     {
       "name": "cscec-global-engineering",
@@ -137,7 +140,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎧"
     },
     {
       "name": "icbc-leading-commercial-bank",
@@ -167,7 +171,8 @@
         "bank",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "⭐"
     },
     {
       "name": "ccb-housing-finance-leader",
@@ -197,7 +202,8 @@
         "leader",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "📈"
     },
     {
       "name": "abc-rural-finance-anchor",
@@ -227,7 +233,8 @@
         "anchor",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🪄"
     },
     {
       "name": "boc-global-clearing-bank",
@@ -257,7 +264,8 @@
         "bank",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🔬"
     },
     {
       "name": "pingan-finance-ecosystem",
@@ -287,7 +295,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "📰"
     },
     {
       "name": "crec-railway-contractor",
@@ -317,7 +326,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🛰"
     },
     {
       "name": "crcc-infrastructure-builder",
@@ -347,7 +357,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🌟"
     },
     {
       "name": "cnooc-offshore-energy",
@@ -377,7 +388,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "⚡"
     },
     {
       "name": "china-mobile-5g-leader",
@@ -407,7 +419,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🛫"
     },
     {
       "name": "saicmotor-auto-innovation",
@@ -437,7 +450,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎵"
     },
     {
       "name": "baowu-steel-green-transition",
@@ -467,7 +481,8 @@
         "transition",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🧭"
     },
     {
       "name": "china-life-insurance-network",
@@ -496,7 +511,8 @@
         "network",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "📈"
     },
     {
       "name": "china-resources-diversified",
@@ -526,7 +542,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🏆"
     },
     {
       "name": "jd-supply-chain-technology",
@@ -549,7 +566,8 @@
         "technology",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "📚"
     },
     {
       "name": "cmb-wealth-management",
@@ -579,7 +597,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🛒"
     },
     {
       "name": "china-telecom-cloud-network",
@@ -609,7 +628,8 @@
         "network",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🖼"
     },
     {
       "name": "alibaba-digital-commerce",
@@ -639,7 +659,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🍀"
     },
     {
       "name": "china-minmetals-resource",
@@ -669,7 +690,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "⚡"
     },
     {
       "name": "cccc-transport-infrastructure",
@@ -699,7 +721,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎬"
     },
     {
       "name": "citic-diversified-holding",
@@ -729,7 +752,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎯"
     },
     {
       "name": "china-unicom-digital-infra",
@@ -759,7 +783,8 @@
         "infra",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🌟"
     },
     {
       "name": "china-post-group-services",
@@ -789,7 +814,8 @@
         "services",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🪄"
     },
     {
       "name": "cofco-global-grain",
@@ -819,7 +845,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "💡"
     },
     {
       "name": "everbright-financial-holding",
@@ -849,7 +876,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🌊"
     },
     {
       "name": "csg-power-grid",
@@ -879,7 +907,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "📰"
     },
     {
       "name": "cnbm-new-materials",
@@ -909,7 +938,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "📈"
     },
     {
       "name": "powerchina-engineering-group",
@@ -939,7 +969,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🪐"
     },
     {
       "name": "ceec-energy-engineering",
@@ -969,7 +1000,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🔥"
     },
     {
       "name": "cnnc-nuclear-industry",
@@ -999,7 +1031,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎮"
     },
     {
       "name": "cgn-clean-energy",
@@ -1029,7 +1062,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🪐"
     },
     {
       "name": "avic-aviation-manufacturer",
@@ -1059,7 +1093,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🧾"
     },
     {
       "name": "china-eastern-airlines",
@@ -1089,7 +1124,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🌊"
     },
     {
       "name": "china-southern-airlines",
@@ -1119,7 +1155,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🧰"
     },
     {
       "name": "air-china-flag-carrier",
@@ -1149,7 +1186,8 @@
         "carrier",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎬"
     },
     {
       "name": "industrial-bank-green-finance",
@@ -1178,7 +1216,8 @@
         "finance",
         "tool"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🧠"
     },
     {
       "name": "bank-of-communications",
@@ -1208,7 +1247,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🔧"
     },
     {
       "name": "psbc-inclusive-finance",
@@ -1238,7 +1278,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎲"
     },
     {
       "name": "cpic-insurance-services",
@@ -1268,7 +1309,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🧩"
     },
     {
       "name": "xiaomi-smart-ecosystem",
@@ -1298,7 +1340,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🧠"
     },
     {
       "name": "byd-new-energy",
@@ -1328,7 +1371,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🧳"
     },
     {
       "name": "tencent-digital-ecosystem",
@@ -1358,7 +1402,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🎧"
     },
     {
       "name": "midea-smart-manufacturing",
@@ -1388,7 +1433,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🪐"
     },
     {
       "name": "gree-intelligent-equipment",
@@ -1418,7 +1464,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🧾"
     },
     {
       "name": "haier-smart-home",
@@ -1448,7 +1495,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "⭐"
     },
     {
       "name": "shougang-urban-renewal",
@@ -1478,7 +1526,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🍀"
     },
     {
       "name": "yili-dairy-leader",
@@ -1508,7 +1557,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-05"
+      "updateTime": "2025-12-05",
+      "icon": "🧳"
     }
   ]
 }

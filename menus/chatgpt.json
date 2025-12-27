@@ -1,7 +1,7 @@
 {
   "name": "chatgpt",
   "nameShort": "chatgpt-hub",
-  "icon": "icon-changge",
+  "icon": "🗺",
   "seoTitle": "Chatgpt Hub Featuring Chatgpt Plus, Chatgpt Enterprise.",
   "seoDescription": "Chatgpt Hub Directory Featuring Chatgpt Plus, Chatgpt Enterprise, Chatgpt API, Chatgpt Plugins And More. Explore Features, Use Cases, Pricing, Alternatives.",
   "seoKeywords": [
@@ -45,7 +45,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🎯"
     },
     {
       "name": "chatgpt-enterprise-solution",
@@ -75,7 +76,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "⭐"
     },
     {
       "name": "chatgpt-api-integration",
@@ -103,7 +105,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🛒"
     },
     {
       "name": "chatgpt-plugins-marketplace",
@@ -133,7 +136,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "💡"
     },
     {
       "name": "chatgpt-mobile-app",
@@ -163,7 +167,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🎲"
     }
   ]
 }

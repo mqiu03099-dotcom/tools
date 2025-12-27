@@ -1,7 +1,7 @@
 {
   "name": "greg-biffle-nascar",
   "nameShort": "biffle",
-  "icon": "icon-pagui",
+  "icon": "📈",
   "seoTitle": "Greg Biffle Nascar Stats And Career Profiles | Guides, Tips.",
   "seoDescription": "Nascar Driver Greg Biffle Profiles, Stats, Race History, And News Across Official And Stats-Focused Racing Sites. Explore Features, Use Cases, Pricing.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "nascar",
         "driver"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🪐"
     },
     {
       "name": "wikipedia-greg-biffle",
@@ -49,7 +50,8 @@
         "wikipedia",
         "career"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🗺"
     },
     {
       "name": "racing-reference-biffle",
@@ -69,7 +71,8 @@
         "stats",
         "racing-reference"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📡"
     },
     {
       "name": "motorsportstats-greg-biffle",
@@ -89,7 +92,8 @@
         "motorsport-stats",
         "profile"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧰"
     },
     {
       "name": "driver-averages-biffle",
@@ -109,7 +113,8 @@
         "averages",
         "nascar"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📚"
     }
   ]
 }

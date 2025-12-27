@@ -1,7 +1,7 @@
 {
   "name": "top-ai-productivity-tools",
   "nameShort": "top",
-  "icon": "icon-chaoren3",
+  "icon": "🧾",
   "seoTitle": "Top Featuring Doubao, Github, Chatgpt | Guides, Tips &.",
   "seoDescription": "Top Directory Featuring Doubao, Github, Chatgpt, Deepseek And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And Expert Tips To.",
   "seoKeywords": [
@@ -47,7 +47,8 @@
         "assistant",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🌊"
     },
     {
       "name": "github-copilot-code-autocomplete",
@@ -77,7 +78,8 @@
         "autocomplete",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🚀"
     },
     {
       "name": "chatgpt-openai-writing-coding",
@@ -107,7 +109,8 @@
         "coding",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🏆"
     },
     {
       "name": "deepseek-open-source-reasoning",
@@ -137,7 +140,8 @@
         "reasoning",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "📦"
     },
     {
       "name": "baidu-wenxin-chinese-ai",
@@ -167,7 +171,8 @@
         "ai",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "📰"
     },
     {
       "name": "baidu-ernie-enterprise-assistant",
@@ -197,7 +202,8 @@
         "assistant",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🛰"
     },
     {
       "name": "claude-anthropic-safe-ai",
@@ -227,7 +233,8 @@
         "ai",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🧭"
     },
     {
       "name": "google-gemini-multimodal-ai",
@@ -257,7 +264,8 @@
         "ai",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "📰"
     },
     {
       "name": "dalle3-openai-image-generator",
@@ -287,7 +295,8 @@
         "generator",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🛠"
     },
     {
       "name": "midjourney-ai-art-generator",
@@ -317,7 +326,8 @@
         "generator",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🪄"
     },
     {
       "name": "zhihu-chart-data-assistant",
@@ -347,7 +357,8 @@
         "assistant",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🪐"
     },
     {
       "name": "iflytek-speech-nlp-platform",
@@ -377,7 +388,8 @@
         "platform",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🔥"
     },
     {
       "name": "tongyi-qianwen-enterprise-ai",
@@ -407,7 +419,8 @@
         "ai",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🛒"
     },
     {
       "name": "adobe-firefly-creative-suite",
@@ -437,7 +450,8 @@
         "suite",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🏆"
     },
     {
       "name": "bing-ai-search-copilot",
@@ -467,7 +481,8 @@
         "copilot",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "📈"
     },
     {
       "name": "cohere-enterprise-nlp-platform",
@@ -497,7 +512,8 @@
         "platform",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "📡"
     },
     {
       "name": "perplexity-ai-search-assistant",
@@ -527,7 +543,8 @@
         "assistant",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "📡"
     },
     {
       "name": "notion-ai-workspace-automation",
@@ -557,7 +574,8 @@
         "automation",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🛡"
     },
     {
       "name": "stable-diffusion-image-model",
@@ -587,7 +605,8 @@
         "model",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🛫"
     },
     {
       "name": "meta-llama-language-model",
@@ -617,7 +636,8 @@
         "model",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🛡"
     },
     {
       "name": "cursor-ide-ai-editor",
@@ -647,7 +667,8 @@
         "editor",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "📡"
     },
     {
       "name": "amazon-q-developer-copilot",
@@ -677,7 +698,8 @@
         "copilot",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "📚"
     },
     {
       "name": "sourcegraph-cody-code-assistant",
@@ -707,7 +729,8 @@
         "assistant",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🏆"
     },
     {
       "name": "codeium-free-coding-toolkit",
@@ -737,7 +760,8 @@
         "toolkit",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🧭"
     },
     {
       "name": "gitlab-duo-pair-programmer",
@@ -767,7 +791,8 @@
         "programmer",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🏆"
     },
     {
       "name": "replit-ghostwriter-ai-teammate",
@@ -797,7 +822,8 @@
         "teammate",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "📈"
     },
     {
       "name": "gemini-code-assist-copilot",
@@ -827,7 +853,8 @@
         "copilot",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🎧"
     },
     {
       "name": "tabnine-secure-code-completion",
@@ -857,7 +884,8 @@
         "completion",
         "tool"
       ],
-      "updateTime": "2025-11-30"
+      "updateTime": "2025-11-30",
+      "icon": "🎵"
     },
     {
       "name": "grok-ai-chatbot",
@@ -880,7 +908,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🛫"
     },
     {
       "name": "mistral-large-language-model",
@@ -910,7 +939,8 @@
         "model",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🎯"
     },
     {
       "name": "suno-ai-music-generator",
@@ -940,7 +970,8 @@
         "generator",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🛰"
     },
     {
       "name": "blackbox-ai-code-assistant",
@@ -970,7 +1001,8 @@
         "assistant",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "📦"
     },
     {
       "name": "phind-ai-coding-search",
@@ -1000,7 +1032,8 @@
         "search",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🌟"
     }
   ]
 }

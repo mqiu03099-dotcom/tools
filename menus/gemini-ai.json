@@ -1,7 +1,7 @@
 {
   "name": "gemini-ai",
   "nameShort": "gemini-ai",
-  "icon": "icon-yuqie",
+  "icon": "🔥",
   "seoTitle": "Gemini AI Featuring Gemini Advanced, Gemini API, Gemini App.",
   "seoDescription": "Gemini AI Directory Featuring Gemini Advanced, Gemini API, Gemini App, Gemini Workspace And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs.",
   "seoKeywords": [
@@ -42,7 +42,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🍀"
     },
     {
       "name": "gemini-api-developer-platform",
@@ -72,7 +73,8 @@
         "platform",
         "tool"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🪐"
     },
     {
       "name": "gemini-app-integrations",
@@ -102,7 +104,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🧳"
     },
     {
       "name": "gemini-workspace-integration",
@@ -132,7 +135,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🛰"
     },
     {
       "name": "gemini-education-tools",
@@ -162,7 +166,8 @@
         "tool",
         "platform"
       ],
-      "updateTime": "2025-12-03"
+      "updateTime": "2025-12-03",
+      "icon": "🌊"
     }
   ]
 }

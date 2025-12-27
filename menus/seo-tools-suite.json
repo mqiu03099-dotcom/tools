@@ -1,7 +1,7 @@
 {
   "name": "seo-tools-suite",
   "nameShort": "seo",
-  "icon": "icon-cibingqiling",
+  "icon": "🧠",
   "seoTitle": "SEO Tools For Audits, Checks, And Monitoring | Guides, Tips.",
   "seoDescription": "Fast SEO Checkers Covering Site Audits, On-Page Metrics, And Keyword Previews. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews, And.",
   "seoKeywords": [
@@ -30,7 +30,8 @@
         "checker",
         "seobility"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🍀"
     },
     {
       "name": "seoptimer-audit",
@@ -50,7 +51,8 @@
         "audit",
         "seoptimer"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎲"
     },
     {
       "name": "seoreviewtools-suite",
@@ -70,7 +72,8 @@
         "backlinks",
         "keywords"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🖼"
     },
     {
       "name": "siteliner-duplicate-check",
@@ -90,7 +93,8 @@
         "duplicate",
         "siteliner"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧩"
     },
     {
       "name": "woorank-audit",
@@ -110,7 +114,8 @@
         "woorank",
         "audit"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎨"
     }
   ]
 }

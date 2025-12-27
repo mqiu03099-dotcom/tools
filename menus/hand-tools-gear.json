@@ -1,7 +1,7 @@
 {
   "name": "hand-tools-gear",
   "nameShort": "hand-tools",
-  "icon": "icon-zipai",
+  "icon": "🎵",
   "seoTitle": "Hand Tools Brands And Catalogs | Guides, Tips & Updates.",
   "seoDescription": "Hand Tool Collections From Leading Brands Plus Specialty Grip Solutions Like Grip Edge. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
   "seoKeywords": [
@@ -30,7 +30,8 @@
         "hand-tools",
         "catalog"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧰"
     },
     {
       "name": "wiha-hand-tools",
@@ -50,7 +51,8 @@
         "hand-tools",
         "precision"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🖼"
     },
     {
       "name": "crescent-hand-tools",
@@ -70,7 +72,8 @@
         "hand-tools",
         "wrenches"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧩"
     },
     {
       "name": "gedore-hand-tools",
@@ -90,7 +93,8 @@
         "hand-tools",
         "professional"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📡"
     },
     {
       "name": "grip-edge-tools",
@@ -110,7 +114,8 @@
         "hand-tools",
         "sockets"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎯"
     }
   ]
 }

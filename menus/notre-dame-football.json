@@ -1,7 +1,7 @@
 {
   "name": "notre-dame-football",
   "nameShort": "notre-dame",
-  "icon": "icon-taikongyuan",
+  "icon": "🎯",
   "seoTitle": "Notre Dame Featuring Fightingirish, Notre Dame Espn, Notre.",
   "seoDescription": "Notre Dame Directory Featuring Fightingirish, Notre Dame Espn, Notre Dame 247 And More. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
   "seoKeywords": [
@@ -44,7 +44,8 @@
         "schedule",
         "news"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🗺"
     },
     {
       "name": "espn-notre-dame-team",
@@ -74,7 +75,8 @@
         "schedule",
         "cfb"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "🧠"
     },
     {
       "name": "247sports-notre-dame",
@@ -104,7 +106,8 @@
         "analysis",
         "cfb"
       ],
-      "updateTime": "2025-12-08"
+      "updateTime": "2025-12-08",
+      "icon": "📚"
     },
     {
       "name": "on3-notre-dame",
@@ -128,7 +131,8 @@
         "recruiting",
         "nil"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🪐"
     },
     {
       "name": "rivals-notre-dame",
@@ -152,7 +156,8 @@
         "recruiting",
         "insider"
       ],
-      "updateTime": "2025-12-21"
+      "updateTime": "2025-12-21",
+      "icon": "🎵"
     }
   ]
 }

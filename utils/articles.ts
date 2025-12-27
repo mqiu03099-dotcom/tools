@@ -7,7 +7,6 @@ export const articles: Menu[] = [
   {
     name: "Articles",
     children: [json, robot, ai],
-    icon: "icon-wanyouxi",
+    icon: "📚",
   },
 ];
-

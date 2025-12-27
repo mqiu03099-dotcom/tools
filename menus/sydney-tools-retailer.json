@@ -1,7 +1,7 @@
 {
   "name": "sydney-tools-retailer",
   "nameShort": "sydney",
-  "icon": "icon-dasao1",
+  "icon": "🔬",
   "seoTitle": "Sydney Tools Retailer Promotions And Stores | Guides, Tips.",
   "seoDescription": "Sydney Tools Official Shop Links For Power Tool Deals, Clearance, And Store Locations. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User Reviews.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "retail",
         "promotions"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🖼"
     },
     {
       "name": "sydney-tools-power",
@@ -49,7 +50,8 @@
         "power-tools",
         "deals"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📰"
     },
     {
       "name": "sydney-tools-clearance",
@@ -69,7 +71,8 @@
         "clearance",
         "deals"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📚"
     },
     {
       "name": "sydney-tools-reviews",
@@ -89,7 +92,8 @@
         "reviews",
         "ratings"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🛰"
     },
     {
       "name": "sydney-tools-store-locator",
@@ -109,7 +113,8 @@
         "locator",
         "stores"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🎬"
     }
   ]
 }

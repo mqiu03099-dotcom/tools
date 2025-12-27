@@ -1,7 +1,7 @@
 {
   "name": "platform-and-cd-tools",
   "nameShort": "platform",
-  "icon": "icon-kexuejia",
+  "icon": "🧪",
   "seoTitle": "Platform Engineering And Continuous Delivery Tools.",
   "seoDescription": "CI/CD Platforms And Deployment Engines Like Jenkins, Gitlab, Circleci, Argo CD, And Spinnaker. Explore Features, Use Cases, Pricing, Alternatives, Faqs, User.",
   "seoKeywords": [
@@ -29,7 +29,8 @@
         "automation",
         "devops"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌊"
     },
     {
       "name": "gitlab-ci-cd",
@@ -49,7 +50,8 @@
         "ci-cd",
         "devops"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🏆"
     },
     {
       "name": "circleci-cloud",
@@ -69,7 +71,8 @@
         "ci-cd",
         "automation"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "📡"
     },
     {
       "name": "argo-cd-docs",
@@ -89,7 +92,8 @@
         "gitops",
         "kubernetes"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🧪"
     },
     {
       "name": "spinnaker-platform",
@@ -109,7 +113,8 @@
         "delivery",
         "devops"
       ],
-      "updateTime": "2025-12-19"
+      "updateTime": "2025-12-19",
+      "icon": "🌟"
     }
   ]
 }

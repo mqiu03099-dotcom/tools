@@ -2,10 +2,12 @@
   <button
     class="btn btn-square btn-ghost"
     title="Toggle Fullscreen"
+    aria-hidden="true"
     @click="handleFullScreen"
   >
-    <MIcon
-      icon="icon-suofangC"
+    <img
+      src="/full.png"
+      alt="full.png"
       class="size-5"
     />
   </button>
