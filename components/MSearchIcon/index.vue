@@ -8,8 +8,8 @@
       title="Search Tools"
     >
       <img
-        src="/search.png"
-        alt="search.png"
+        src="/search.webp"
+        alt="search.webp"
         class="size-5"
       />
     </button>

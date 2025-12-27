@@ -1,7 +1,7 @@
 <template>
   <div
     :key="index"
-    v-for="({ name, seoDescription, updateTime, bgImg, path, logo }, index) in data || []"
+    v-for="({ name, seoDescription, updateTime, bgImg, path, logo, icon }, index) in data || []"
     class="w-full h-full hover:scale-98 transition-all overflow-hidden rounded-[var(--radius-box)]"
   >
     <div class="card bg-base-100 h-full image-full card-sm w-full shadow-sm">
@@ -28,7 +28,7 @@
             class="card-title line-clamp-1 break-all flex-1 font-bold"
             :title="name"
           >
-            {{ name }}
+            {{ icon }} {{ name }}
           </h2>
         </div>
         <div

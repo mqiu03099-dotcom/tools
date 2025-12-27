@@ -8,8 +8,8 @@
       title="Theme Switcher"
     >
       <img
-        src="/theme.png"
-        alt="theme.png"
+        src="/theme.webp"
+        alt="theme.webp"
         class="size-5"
       />
     </button>

@@ -8,14 +8,14 @@
         v-for="({ name = '', icon }, index) in menu"
         :key="index"
         :title="name"
+        @click="handleActiveMenu(name)"
       >
-        <a
+        <div
           :title="name"
-          @click="handleActiveMenu(name)"
           :class="[activeMenuName === name ? 'menu-active' : '', name]"
         >
           <div class="line-clamp-1 break-all">{{ icon }} {{ name }}</div>
-        </a>
+        </div>
       </li>
     </ul>
     <div
@@ -80,7 +80,7 @@ const handleActiveMenu = (name: string) => {
   const targetEl = document.getElementById(activeMenuName.value);
   targetEl?.scrollIntoView({
     behavior: "smooth",
-    block: "center",
+    block: "start",
   });
 };
 

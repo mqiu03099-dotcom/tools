@@ -8,7 +8,7 @@ export const usePageSeo = (values: UsePageSeoOptions) => {
     seoDescription = defaultDescription,
     type = "website",
     canonicalPath = siteBase,
-    image = `${siteBase}/logo.png`,
+    image = `${siteBase}/logo.webp`,
     publishedTime,
     modifiedTime,
     keywords = [],

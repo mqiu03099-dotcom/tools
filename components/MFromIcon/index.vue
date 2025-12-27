@@ -4,8 +4,8 @@
     title="More Options"
   >
     <img
-      src="/right.png"
-      alt="right.png"
+      src="/right.webp"
+      alt="right.webp"
       class="size-5"
     />
   </button>

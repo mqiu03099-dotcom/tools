@@ -2,12 +2,11 @@
   <button
     class="btn btn-square btn-ghost"
     title="Toggle Fullscreen"
-    aria-hidden="true"
     @click="handleFullScreen"
   >
     <img
-      src="/full.png"
-      alt="full.png"
+      src="/full.webp"
+      alt="full.webp"
       class="size-5"
     />
   </button>

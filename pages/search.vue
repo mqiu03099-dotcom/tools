@@ -2,12 +2,7 @@
   <div class="p-3 flex flex-col gap-3">
     <MSearchAlert :total="tools?.length" />
     <label class="input w-full">
-      <span
-        class="textarea-md"
-        aria-hidden="true"
-      >
-        🔍
-      </span>
+      <span class="textarea-md"> 🔍 </span>
       <input
         v-model="search"
         type="search"

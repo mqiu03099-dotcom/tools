@@ -43,8 +43,8 @@
         "background color fill",
         "jpg quality slider"
       ],
-      "bgImg": "/png-to-jpg-bg.png",
-      "logo": "/png-to-jpg.png",
+      "bgImg": "/png-to-jpg-bg.webp",
+      "logo": "/png-to-jpg.webp",
       "tags": [
         "png-to-jpg",
         "jpg-to-png",

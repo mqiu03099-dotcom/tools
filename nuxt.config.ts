@@ -150,7 +150,7 @@ export default defineNuxtConfig({
         {
           rel: "icon",
           type: "image/png",
-          href: `https://${h1Title}/logo.png`,
+          href: `https://${h1Title}/logo.webp`,
         },
       ],
       meta: [
@@ -233,12 +233,7 @@ export default defineNuxtConfig({
       cssCodeSplit: false, // 关闭 css 代码分割，生成单一样式表方便抓取
       chunkSizeWarningLimit: 100, // 构建时超过这个阈值的文件打包会标黄
       reportCompressedSize: true, // 构建时是否生成 gzip 压缩包
-      assetsInlineLimit: 10000, // 10000=10kb，当静态资源小于10kb时候，会被转换为base64打入js文件
-      rollupOptions: {
-        output: {
-          manualChunks: () => "app",
-        },
-      },
+      assetsInlineLimit: 0, // 10000=10kb，当静态资源小于10kb时候，会被转换为base64打入js文件
     },
     css: {
       modules: {

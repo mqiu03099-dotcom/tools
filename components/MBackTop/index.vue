@@ -1,7 +1,7 @@
 <template>
   <img
-    src="/backTop.png"
-    alt="backTop.png"
+    src="/backTop.webp"
+    alt="backTop.webp"
     @click="handleBackTop"
     title="Back Top"
     class="fixed right-6 bottom-10 size-14 sm:size-16 md:size-18 lg:size-20 cursor-pointer active:scale-100 hover:scale-105 transition-all"

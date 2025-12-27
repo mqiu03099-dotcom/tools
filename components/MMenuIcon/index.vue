@@ -7,11 +7,10 @@
     <button
       class="btn btn-square btn-ghost"
       title="Browse Categories"
-      aria-hidden="true"
     >
       <img
-        src="/class.png"
-        alt="class.png"
+        src="/class.webp"
+        alt="class.webp"
         class="size-5"
       />
     </button>
