@@ -9,8 +9,8 @@
       title="Browse Categories"
     >
       <img
-        src="/class.webp"
-        alt="class.webp"
+        src="/class.png"
+        alt="Browse Categories"
         class="size-5"
       />
     </button>
