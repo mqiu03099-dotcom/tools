@@ -30,10 +30,14 @@
         </div>
         <div class="card-actions justify-between items-center">
           <div class="text-[10px] font-bold">{{ updateTime }}</div>
-          <MA :href="path ?? `/detail/${name}`">
+          <MA
+            :href="path ?? `/detail/${name}`"
+            aria-label="Read Detail Tool Information"
+          >
             <button
               class="btn btn-sm btn-primary btn-soft"
               title="Look"
+              aria-label="Read Detail Tool Information"
             >
               Look
             </button>
