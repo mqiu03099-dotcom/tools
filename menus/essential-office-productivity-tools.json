@@ -39,7 +39,7 @@
         "insights"
       ],
       "iframeUrl": "https://www.microsoft.com/zh-cn/microsoft-365/excel",
-      "bgImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440623-Hero-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=770&qlt=100&fmt=png-alpha&fit=constrain",
+      "bgImg": "/440623-Hero-image.webp",
       "tags": [
         "microsoft",
         "excel",
@@ -70,7 +70,7 @@
         "checking"
       ],
       "iframeUrl": "https://www.microsoft.com/zh-cn/microsoft-365/word",
-      "bgImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440250_M365-hero-1680x628-opiton1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=725&qlt=100&fmt=png-alpha&fit=constrain",
+      "bgImg": "/440250_M365-hero-1680x628-opiton1.webp",
       "tags": [
         "microsoft",
         "word",
@@ -101,7 +101,7 @@
         "animations"
       ],
       "iframeUrl": "https://www.microsoft.com/zh-cn/microsoft-365/powerpoint",
-      "bgImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/440700-M365-Hero-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=750&qlt=100&fmt=png-alpha&fit=constrain",
+      "bgImg": "/440700-M365-Hero-image.webp",
       "tags": [
         "microsoft",
         "powerpoint",
@@ -132,7 +132,7 @@
         "meetings"
       ],
       "iframeUrl": "https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
-      "bgImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/M365_FY26_Evergreen_ProductPage_Outlook_Header_Pedestal_Desktop_1600x632?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=770&qlt=100&fit=constrain",
+      "bgImg": "/M365_FY26_Evergreen_ProductPage_Outlook_Header_Pedestal_Desktop_1600x632.webp",
       "tags": [
         "microsoft",
         "outlook",
@@ -163,7 +163,7 @@
         "devices"
       ],
       "iframeUrl": "https://www.microsoft.com/zh-cn/microsoft-365/onenote/digital-note-taking-app",
-      "bgImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/h1rz79f6-1-hero-photo-568x520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1360&hei=765&qlt=100&fit=constrain",
+      "bgImg": "/h1rz79f6-1-hero-photo-568x520.webp",
       "tags": [
         "microsoft",
         "onenote",
@@ -194,7 +194,7 @@
         "team"
       ],
       "iframeUrl": "https://www.microsoft.com/zh-cn/microsoft-365/project/project-management-software",
-      "bgImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-microsoft-planner-hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=4000&hei=1975&qlt=85&fmt=png-alpha&fit=constrain",
+      "bgImg": "/433969-microsoft-planner-hero.webp",
       "tags": [
         "microsoft",
         "project",
