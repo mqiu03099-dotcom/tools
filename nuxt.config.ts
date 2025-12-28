@@ -57,9 +57,6 @@ export default defineNuxtConfig({
         // console.log("qmbaiduRes", baiduRes);
         const uriObj = {
           "": 1.0,
-          json: 0.9,
-          detail: 0.9,
-          tool: 0.9,
           search: 0.8,
           category: 0.8,
           tag: 0.8,
@@ -71,7 +68,7 @@ export default defineNuxtConfig({
         };
         const sitemaps = [
           ...sitemapUrls.map((uri: string) => {
-            const priority = uriObj[uri.split("/")[1] as keyof typeof uriObj] || 0.5;
+            const priority = uriObj[uri.split("/")[1] as keyof typeof uriObj] || 0.9;
             return {
               loc: `${baseUrl}${normalizeInternalHref(uri)}`,
               lastmod: new Date().toISOString(),
