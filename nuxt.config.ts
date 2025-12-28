@@ -165,12 +165,16 @@ export default defineNuxtConfig({
           content: "d707b0bd76322cdc9de3738986705c8b_1766907868",
         },
         {
+          name: "yandex-verification",
+          content: "6ad758ab4005ce89",
+        },
+        {
           name: "google-adsense-account",
           content: "ca-pub-6584635184413581",
         },
         {
           name: "msvalidate.01",
-          content: "516F092768D2F5A3DEF50BE2BF27F432",
+          content: "5701598D6681B1E9BB4388B40E18D9D1",
         },
       ],
       script: [
