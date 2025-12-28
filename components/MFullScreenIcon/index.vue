@@ -1,14 +1,10 @@
 <template>
   <button
-    class="btn btn-square btn-ghost"
+    class="btn btn-square btn-ghost text-lg"
     title="Toggle Fullscreen"
     @click="handleFullScreen"
   >
-    <img
-      src="/full.webp"
-      alt="full.webp"
-      class="size-5"
-    />
+    ⛶
   </button>
 </template>
 

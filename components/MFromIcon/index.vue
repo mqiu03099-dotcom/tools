@@ -1,13 +1,9 @@
 <template>
   <button
-    class="btn btn-square btn-ghost"
+    class="btn btn-square btn-ghost text-lg"
     title="More Options"
   >
-    <img
-      src="/right.webp"
-      alt="right.webp"
-      class="size-5"
-    />
+    🔜
   </button>
 </template>
 

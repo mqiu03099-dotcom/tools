@@ -5,14 +5,10 @@
     title="Browse Categories"
   >
     <button
-      class="btn btn-square btn-ghost"
+      class="btn btn-square btn-ghost text-lg"
       title="Browse Categories"
     >
-      <img
-        src="/class.png"
-        alt="Browse Categories"
-        class="size-5"
-      />
+      🗂️
     </button>
   </MA>
 </template>

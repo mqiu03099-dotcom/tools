@@ -4,14 +4,10 @@
     title="Search Tools"
   >
     <button
-      class="btn btn-square btn-ghost"
+      class="btn btn-square btn-ghost text-lg"
       title="Search Tools"
     >
-      <img
-        src="/search.png"
-        alt="Search Tools"
-        class="size-5"
-      />
+      🔍
     </button>
   </MA>
 </template>

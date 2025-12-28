@@ -4,14 +4,10 @@
     title="Theme Switcher"
   >
     <button
-      class="btn btn-square btn-ghost"
+      class="btn btn-square btn-ghost text-lg"
       title="Theme Switcher"
     >
-      <img
-        src="/theme.png"
-        alt="Theme Switcher"
-        class="size-5"
-      />
+      🎨
     </button>
   </MA>
 </template>
