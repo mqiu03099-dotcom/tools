@@ -157,6 +157,10 @@ export default defineNuxtConfig({
           content: "codeva-rstPmwEU5w",
         },
         {
+          name: "yandex-verification",
+          content: "6ad758ab4005ce89",
+        },
+        {
           name: "shenma-site-verification",
           content: "d707b0bd76322cdc9de3738986705c8b_1766907868",
         },
