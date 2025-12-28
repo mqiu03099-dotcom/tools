@@ -3,7 +3,7 @@
     <div class="divider divider-primary m-0! text-[12px]!">All Tools</div>
     <div class="flex flex-wrap gap-3">
       <MA
-        v-for="({ nameShort, name, path }, index) in blockTools"
+        v-for="({ nameShort, name, path }, index) in tools"
         :key="index"
         :title="name"
         :href="path ?? `/detail/${name}`"
@@ -18,7 +18,6 @@
 
 <script lang="ts" setup>
 const tools = flattenMenu(menu);
-const blockTools = getRandomElements(tools.slice(0, tools.length - 3), 250);
 
 const changeTheme = (index: number) => {
   if (index % 7 == 0) {

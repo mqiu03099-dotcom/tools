@@ -158,7 +158,7 @@ export default defineNuxtConfig({
         },
         {
           name: "shenma-site-verification",
-          content: "7f90857c681cbe9fc7c16b5cd3895ab2_1766904469",
+          content: "d707b0bd76322cdc9de3738986705c8b_1766907868",
         },
         {
           name: "google-adsense-account",
