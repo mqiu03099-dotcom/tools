@@ -147,7 +147,7 @@ export default defineNuxtConfig({
         {
           rel: "icon",
           type: "image/png",
-          href: `https://${h1Title}/logo.webp`,
+          href: `https://${h1Title}/toolsbox.png`,
         },
       ],
       meta: [
