@@ -157,6 +157,10 @@ export default defineNuxtConfig({
           content: "codeva-rstPmwEU5w",
         },
         {
+          name: "shenma-site-verification",
+          content: "7f90857c681cbe9fc7c16b5cd3895ab2_1766904469",
+        },
+        {
           name: "google-adsense-account",
           content: "ca-pub-6584635184413581",
         },
