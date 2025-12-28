@@ -13,7 +13,6 @@ export default defineNuxtConfig({
       nitro.hooks.hook("prerender:done", async () => {
         console.log("开始生成sitemap.xml文件");
         const baseUrl = `https://${h1Title}`;
-        const wwwbaseUrl = `https://www.${h1Title}`;
         const sitemapUrls = await readPublicSubFolders();
         // /** bing搜索引擎推送 */
         // const bingRes = await fetch("https://api.indexnow.org/IndexNow", {
@@ -66,26 +65,15 @@ export default defineNuxtConfig({
           contact: 0.6,
           privacy: 0.6,
         };
-        const sitemaps = [
-          ...sitemapUrls.map((uri: string) => {
-            const priority = uriObj[uri.split("/")[1] as keyof typeof uriObj] || 0.9;
-            return {
-              loc: `${baseUrl}${normalizeInternalHref(uri)}`,
-              lastmod: new Date().toISOString(),
-              changefreq: "weekly",
-              priority,
-            };
-          }),
-          ...sitemapUrls.map((uri: string) => {
-            const priority = uriObj[uri.split("/")[1] as keyof typeof uriObj] || 0.5;
-            return {
-              loc: `${wwwbaseUrl}${normalizeInternalHref(uri)}`,
-              lastmod: new Date().toISOString(),
-              changefreq: "weekly",
-              priority,
-            };
-          }),
-        ];
+        const sitemaps = sitemapUrls.map((uri: string) => {
+          const priority = uriObj[uri.split("/")[1] as keyof typeof uriObj] || 0.9;
+          return {
+            loc: `${baseUrl}${normalizeInternalHref(uri)}`,
+            lastmod: new Date().toISOString(),
+            changefreq: "weekly",
+            priority,
+          };
+        });
         const xmlContent = `<?xml version="1.0" encoding="UTF-8"?>
           <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
           ${sitemaps
