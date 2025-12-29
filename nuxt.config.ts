@@ -134,6 +134,28 @@ export default defineNuxtConfig({
       link: [
         {
           rel: "icon",
+          href: `https://${h1Title}/toolsbox.ico`,
+        },
+        {
+          rel: "icon",
+          type: "image/png",
+          sizes: "16x16",
+          href: `https://${h1Title}/toolsbox-16.png`,
+        },
+        {
+          rel: "icon",
+          type: "image/png",
+          sizes: "32x32",
+          href: `https://${h1Title}/toolsbox-32.png`,
+        },
+        {
+          rel: "icon",
+          type: "image/png",
+          sizes: "48x48",
+          href: `https://${h1Title}/toolsbox-48.png`,
+        },
+        {
+          rel: "icon",
           type: "image/png",
           href: `https://${h1Title}/toolsbox.png`,
         },
