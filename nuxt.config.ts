@@ -134,6 +134,7 @@ export default defineNuxtConfig({
       link: [
         {
           rel: "icon",
+          type: "image/x-icon",
           href: `https://${h1Title}/toolsbox.ico`,
         },
         {
