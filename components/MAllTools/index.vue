@@ -4,6 +4,7 @@
     <div class="flex flex-wrap gap-3">
       <MA
         v-for="({ nameShort, name, path }, index) in tools"
+        target="_blank"
         :key="index"
         :title="name"
         :href="path ?? `/detail/${name}`"

@@ -15,6 +15,7 @@
       </div>
     </div>
     <MA
+      target="_blank"
       :href="`/detail/${tool?.name}/`"
       :title="tool?.name"
     >

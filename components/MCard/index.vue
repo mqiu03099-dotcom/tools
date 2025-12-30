@@ -31,6 +31,7 @@
         <div class="card-actions justify-between items-center">
           <div class="text-[10px] font-bold">{{ updateTime }}</div>
           <MA
+            target="_blank"
             :href="path ?? `/detail/${name}`"
             aria-label="Read Detail Tool Information"
           >

@@ -52,6 +52,7 @@
               </button>
             </MA>
             <MA
+              target="_blank"
               :href="`/category/${name}`"
               class="flex justify-between items-center"
             >

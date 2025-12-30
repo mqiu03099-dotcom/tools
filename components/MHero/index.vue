@@ -10,7 +10,10 @@
         <p class="mb-5">
           {{ tool?.seoDescription }}
         </p>
-        <MA :href="`/detail/${tool?.name}/`">
+        <MA
+          :href="`/detail/${tool?.name}/`"
+          target="_blank"
+        >
           <button class="btn btn-primary btn-soft">{{ getStarted }}</button>
         </MA>
       </div>

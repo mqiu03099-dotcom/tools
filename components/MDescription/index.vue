@@ -24,6 +24,7 @@
         class="leading-normal"
       >
         <MA
+          target="_blank"
           :href="`/detail/${name}`"
           class="font-bold text-primary underline underline-offset-2"
         >
@@ -35,6 +36,7 @@
     <h2 class="font-bold">🏷️ More Tags</h2>
     <div class="flex flex-wrap gap-3">
       <MA
+        target="_blank"
         :href="`/tag/${label}`"
         v-for="{ label, value } in tagsCount || []"
         :title="label"

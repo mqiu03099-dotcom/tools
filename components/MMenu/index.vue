@@ -21,6 +21,7 @@
       <MA
         v-if="!children1"
         :href="getHref({ path: path1, name: name1 })"
+        target="_blank"
       >
         {{ name1 }}
       </MA>
@@ -41,7 +42,10 @@
             v-for="({ name: name2, path: path2, icon: icon2 }, index2) in children1"
             :key="index2"
           >
-            <MA :href="getHref({ path: path2, name: name2 })">
+            <MA
+              :href="getHref({ path: path2, name: name2 })"
+              target="_blank"
+            >
               <div class="line-clamp-1 break-all">{{ icon2 }} {{ name2 }}</div>
             </MA>
           </li>
@@ -53,6 +57,7 @@
       :key="index"
     >
       <MA
+        target="_blank"
         :href="getHref({ path, name })"
         class="font-bold gap-3 flex items-center line-clamp-1 break-all"
       >
