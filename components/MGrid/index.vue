@@ -3,8 +3,8 @@
     :class="[
       'gap-3',
       type === 'grid'
-        ? 'grid grid-cols-[repeat(auto-fill,minmax(250px,1fr))]'
-        : 'flex items-center flex-nowrap overflow-x-auto *:shrink-0 *:w-[250px] hide-x-scrollbar',
+        ? 'grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))]'
+        : 'flex items-center flex-nowrap overflow-x-auto *:shrink-0 *:w-[200px] hide-x-scrollbar',
     ]"
   >
     <slot></slot>

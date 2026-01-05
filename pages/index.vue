@@ -59,7 +59,7 @@
               <MFromIcon />
             </MA>
           </div>
-          <MGrid :type="index > 5 ? 'flex' : 'grid'">
+          <MGrid>
             <MCard :data="children.slice(0, 8)" />
           </MGrid>
         </div>

@@ -1,7 +1,10 @@
 <template>
-  <MGrid class="p-3">
-    <MCard :data="children" />
-  </MGrid>
+  <div class="flex flex-col gap-3 p-3">
+    <MGrid>
+      <MCard :data="children" />
+    </MGrid>
+    <MAllTools />
+  </div>
 </template>
 
 <script setup lang="ts">

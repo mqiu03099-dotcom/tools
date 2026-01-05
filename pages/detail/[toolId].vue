@@ -5,7 +5,7 @@
     <MDetailCard :tool="toolDetail" />
     <MDescription
       :tool="toolDetail"
-      :moreTools="moreTools || []"
+      :moreTools="moreDescription || []"
     />
     <div class="divider divider-primary m-0! text-[12px]!">More Tools</div>
     <MGrid>
@@ -26,11 +26,18 @@ const {
   seoDescription = "",
   seoKeywords = [],
 } = toolDetail;
+const { data: moreDescription } = await useFetch<Menu[]>("/api/getRandomTools", {
+  method: "POST",
+  body: {
+    menu: flattenMenu(menu),
+    count: 6,
+  },
+});
 const { data: moreTools } = await useFetch<Menu[]>("/api/getRandomTools", {
   method: "POST",
   body: {
     menu: flattenMenu(menu),
-    count: 10,
+    count: 12,
   },
 });
 
