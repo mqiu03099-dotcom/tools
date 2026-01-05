@@ -1,8 +1,5 @@
 import type { Menu } from "./type";
 import topAiProductivityTools from "../menus/top-ai-productivity-tools.json";
-import promptDec16Trending from "../menus/prompt-dec16-trending.json";
-import promptDec17Followup from "../menus/prompt-dec17-followup.json";
-import promptDec15Topics from "../menus/prompt-dec15-topics.json";
 import essentialOfficeProductivityTools from "../menus/essential-office-productivity-tools.json";
 import kpopDemonHunters from "../menus/kpop-demon-hunters.json";
 import grolLicensePrep from "../menus/grol-license-prep.json";
@@ -25,7 +22,6 @@ import topEvNewEnergyBrands from "../menus/top-ev-new-energy-brands.json";
 import fortuneGlobal500Leaders from "../menus/fortune-global-500-leaders.json";
 import freeOnlineFileConverters from "../menus/free-online-file-converters.json";
 import onlineImageConversionTools from "../menus/online-image-conversion-tools.json";
-import fortuneChina500Top50 from "../menus/fortune-china-500-top50.json";
 import imageCompressionTools from "../menus/image-compression-tools.json";
 import youtubeGrowthTools from "../menus/youtube-growth-tools.json";
 import m2025TrendReports from "../menus/2025-trend-reports.json";
@@ -37,8 +33,6 @@ import mahjong333 from "../menus/mahjong333.json";
 import blackFriday2025 from "../menus/black-friday2025.json";
 import spotify from "../menus/spotify.json";
 import chatgpt from "../menus/chatgpt.json";
-import globalProductivityEssentials from "../menus/global-productivity-essentials.json";
-import aiCreationSuite from "../menus/ai-creation-suite.json";
 import pogodaForecast from "../menus/pogoda-forecast.json";
 import laligaCopaMatches from "../menus/laliga-copa-matches.json";
 import psgInternationalMatches from "../menus/psg-international-matches.json";
@@ -70,15 +64,11 @@ import johnCenaShowcase from "../menus/john-cena-showcase.json";
 import payalGamingTrending from "../menus/payal-gaming-trending.json";
 import avatar3Updates from "../menus/avatar-3-updates.json";
 import footwearAndSneakers from "../menus/footwear-and-sneakers.json";
-import beautyPerfumeSets from "../menus/beauty-perfume-sets.json";
 import tools from "../menus/tools.json";
 
 export const menu: Menu[] = [
   tools,
   topAiProductivityTools,
-  promptDec16Trending,
-  promptDec17Followup,
-  promptDec15Topics,
   essentialOfficeProductivityTools,
   kpopDemonHunters,
   grolLicensePrep,
@@ -101,7 +91,6 @@ export const menu: Menu[] = [
   fortuneGlobal500Leaders,
   freeOnlineFileConverters,
   onlineImageConversionTools,
-  fortuneChina500Top50,
   imageCompressionTools,
   youtubeGrowthTools,
   m2025TrendReports,
@@ -113,8 +102,6 @@ export const menu: Menu[] = [
   blackFriday2025,
   spotify,
   chatgpt,
-  globalProductivityEssentials,
-  aiCreationSuite,
   pogodaForecast,
   laligaCopaMatches,
   psgInternationalMatches,
@@ -146,7 +133,6 @@ export const menu: Menu[] = [
   payalGamingTrending,
   avatar3Updates,
   footwearAndSneakers,
-  beautyPerfumeSets,
 ];
 
 export const headerMenu: Menu[] = [
@@ -174,3 +160,4 @@ export const footerMenu: Menu[] = [
     icon: "ℹ️",
   },
 ];
+
