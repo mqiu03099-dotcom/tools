@@ -10,6 +10,7 @@
 
 <script lang="ts" setup>
 const handleFullScreen = () => {
+  showGameRewarded();
   /** 工具内容iframe全屏 */
   const fullScreen = document.getElementById(toolContainer);
   if (fullScreen) {
@@ -24,6 +25,11 @@ const handleFullScreen = () => {
   }
   document.documentElement.requestFullscreen();
 };
+
+const { showGameRewarded } = useRenderGameRewardedAd({
+  slot: "/6355419/Travel/Europe/France/Paris70",
+  open: true,
+});
 </script>
 
 <style scoped></style>

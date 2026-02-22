@@ -7,5 +7,6 @@ declare global {
     gtag: (...args: any[]) => void;
     _inter_close: any;
     ttq: any;
+    googletag: any;
   }
 }

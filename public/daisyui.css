@@ -12,6 +12,10 @@ img {
   box-shadow: none;
 }
 
+body {
+  padding: 0px !important;
+}
+
 .hide-x-scrollbar {
   -ms-overflow-style: none;
   scrollbar-width: none;

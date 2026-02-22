@@ -1,5 +1,9 @@
 <template>
   <MGrid class="gap-3 p-3">
+    <XMAd
+      :id="adList[3].id"
+      :open="adList[3].open"
+    />
     <div
       :key="index"
       class="card card-sm bg-base-100 image-full hover:scale-98 transition-all"

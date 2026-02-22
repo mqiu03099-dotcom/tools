@@ -1,4 +1,8 @@
 <template>
+  <XMAd
+    :id="adList[2].id"
+    :open="adList[2].open"
+  />
   <div
     v-html="content"
     class="container p-3"

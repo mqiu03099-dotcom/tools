@@ -1,7 +1,7 @@
 <template>
   <div
     v-html="richText"
-    class="container p-3 max-w-[800px] mx-auto container-rich"
+    class="container p-3 max-w-200 mx-auto container-rich"
   ></div>
 </template>
 
@@ -16,6 +16,16 @@ usePageSeo({
   seoDescription,
   keywords: [...seoKeywords, "Tools"],
   type: "article",
+});
+useRenderAnchorAd({
+  address: "LEFT_SIDE_RAIL",
+  slot: "/6355419/Travel/Europe/France/Paris6",
+  open: true,
+});
+useRenderAnchorAd({
+  address: "RIGHT_SIDE_RAIL",
+  slot: "/6355419/Travel/Europe/France/Paris6",
+  open: true,
 });
 </script>
 

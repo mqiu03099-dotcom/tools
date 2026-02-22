@@ -22,6 +22,10 @@
       class="flex flex-col gap-3 p-3 flex-1 overflow-auto scroll-smooth"
       id="home-top"
     >
+      <XMAd
+        :id="adList[0].id"
+        :open="adList[0].open"
+      />
       <div
         class="flex flex-col gap-3"
         v-for="({ name, icon, children = [] }, index) in menu"

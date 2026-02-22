@@ -1,4 +1,8 @@
 <template>
+  <XMAd
+    :id="adList[1].id"
+    :open="adList[1].open"
+  />
   <MMenu class="w-full flex-1" />
 </template>
 
