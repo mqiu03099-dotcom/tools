@@ -1,8 +1,19 @@
 [
   [
-    "https://toolsbox.vip/bqb1.gif",
-    "https://toolsbox.vip/bqb2.gif",
-    "https://toolsbox.vip/bqb2.gif",
-    "https://toolsbox.vip/bqb3.gif"
+    {
+      "url": "https://toolsbox.vip/bqb1.gif",
+      "width": 240,
+      "height": 320
+    },
+    {
+      "url": "https://toolsbox.vip/bqb2.gif",
+      "width": 266,
+      "height": 458
+    },
+    {
+      "url": "https://toolsbox.vip/bqb3.gif",
+      "width": 216,
+      "height": 216
+    }
   ]
 ]
