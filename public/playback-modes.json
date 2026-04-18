@@ -1,14 +1,18 @@
 [
   {
-    "label": "捧腹大笑",
-    "caption": "默认从头到尾播放",
+    "title": "捧腹大笑",
+    "subtitle": "默认从头到尾播放",
+    "playingTitle": "禁止喧哗",
+    "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa.mp4",
     "aspectRatio": "0.82 / 1",
     "playbackType": "full"
   },
   {
-    "label": "惊鸿一瞥",
-    "caption": "固定循环 0s - 1.6s",
+    "title": "惊鸿一瞥",
+    "subtitle": "固定循环 0s - 1.6s",
+    "playingTitle": "禁止东张西望",
+    "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa.mp4",
     "aspectRatio": "0.82 / 1",
     "playbackType": "clip",
@@ -16,8 +20,10 @@
     "endTime": 1.6
   },
   {
-    "label": "嘎嘎得了谁",
-    "caption": "完整播放",
+    "title": "嘎嘎得了谁",
+    "subtitle": "完整播放",
+    "playingTitle": "嘎嘎得了谁",
+    "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa5.mp4",
     "aspectRatio": "0.75 / 1",
     "playbackType": "full"
