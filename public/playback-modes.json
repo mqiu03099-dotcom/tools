@@ -1,0 +1,25 @@
+[
+  {
+    "label": "嘎嘎得了谁",
+    "caption": "完整播放",
+    "url": "https://toolsbox.vip/naiwa5.mp4",
+    "aspectRatio": "0.75 / 1",
+    "playbackType": "full"
+  },
+  {
+    "label": "惊鸿一瞥",
+    "caption": "固定循环 0s - 1.6s",
+    "url": "https://toolsbox.vip/naiwa.mp4",
+    "aspectRatio": "0.82 / 1",
+    "playbackType": "clip",
+    "startTime": 0,
+    "endTime": 1.6
+  },
+  {
+    "label": "捧腹大笑",
+    "caption": "默认从头到尾播放",
+    "url": "https://toolsbox.vip/naiwa.mp4",
+    "aspectRatio": "0.82 / 1",
+    "playbackType": "full"
+  }
+]
