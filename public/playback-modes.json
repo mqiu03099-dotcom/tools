@@ -9,24 +9,24 @@
     "playbackType": "full"
   },
   {
+    "title": "俺滴",
+    "subtitle": "完整播放",
+    "playingTitle": "禁止爬行",
+    "playingSubtitle": "再次点击即可暂停",
+    "url": "https://toolsbox.vip/naiwa13.mp4",
+    "aspectRatio": "4 / 3",
+    "playbackType": "full"
+  },
+  {
     "title": "惊鸿一瞥",
     "subtitle": "固定循环 0s - 1.6s",
     "playingTitle": "禁止东张西望",
     "playingSubtitle": "再次点击即可暂停",
-    "url": "https://toolsbox.vip/naiwa.mp4",
-    "aspectRatio": "0.82 / 1",
+    "url": "https://toolsbox.vip/naiwa12.mp4",
+    "aspectRatio": "3 / 4",
     "playbackType": "clip",
     "startTime": 0,
     "endTime": 1.6
-  },
-  {
-    "title": "敲木鱼",
-    "subtitle": "完整播放",
-    "playingTitle": "禁止抬头",
-    "playingSubtitle": "再次点击即可暂停",
-    "url": "https://toolsbox.vip/naiwa9.mp4",
-    "aspectRatio": "1 / 1",
-    "playbackType": "full"
   },
   {
     "title": "嘎嘎得了谁",
@@ -35,15 +35,6 @@
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa5.mp4",
     "aspectRatio": "3 / 4",
-    "playbackType": "full"
-  },
-  {
-    "title": "俺滴",
-    "subtitle": "完整播放",
-    "playingTitle": "禁止爬行",
-    "playingSubtitle": "再次点击即可暂停",
-    "url": "https://toolsbox.vip/naiwa7.mp4",
-    "aspectRatio": "4 / 3",
     "playbackType": "full"
   }
 ]
