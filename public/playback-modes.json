@@ -18,17 +18,6 @@
     "playbackType": "full"
   },
   {
-    "title": "惊鸿一瞥",
-    "subtitle": "固定循环 0s - 1.4s",
-    "playingTitle": "禁止东张西望",
-    "playingSubtitle": "再次点击即可暂停",
-    "url": "https://toolsbox.vip/naiwa12.mp4",
-    "aspectRatio": "3 / 4",
-    "playbackType": "clip",
-    "startTime": 0,
-    "endTime": 1.4
-  },
-  {
     "title": "嘎嘎得了谁",
     "subtitle": "完整播放",
     "playingTitle": "嘎嘎得了谁",
