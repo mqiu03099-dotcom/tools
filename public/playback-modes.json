@@ -1,20 +1,20 @@
 [
   {
-    "title": "捧腹大笑",
-    "subtitle": "默认从头到尾播放",
-    "playingTitle": "禁止喧哗",
-    "playingSubtitle": "再次点击即可暂停",
-    "url": "https://toolsbox.vip/naiwa12.mp4",
-    "aspectRatio": "3 / 3.8",
-    "playbackType": "full"
-  },
-  {
     "title": "俺滴",
     "subtitle": "完整播放",
     "playingTitle": "禁止爬行",
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa14.mp4",
     "aspectRatio": "4 / 3",
+    "playbackType": "full"
+  },
+  {
+    "title": "捧腹大笑",
+    "subtitle": "默认从头到尾播放",
+    "playingTitle": "禁止喧哗",
+    "playingSubtitle": "再次点击即可暂停",
+    "url": "https://toolsbox.vip/naiwa12.mp4",
+    "aspectRatio": "3 / 3.8",
     "playbackType": "full"
   },
   {
