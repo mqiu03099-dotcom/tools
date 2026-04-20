@@ -19,6 +19,8 @@ logs
 .DS_Store
 .fleet
 .idea
+.superpowers
 
 web-game-yiv.config.cjs
 web-game-yiv-amara047k.config.cjs
+docs

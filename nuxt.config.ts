@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   },
   compatibilityDate: "2025-05-15",
   devtools: {
-    enabled: true,
+    enabled: process.env.NODE_ENV === "development",
   },
   devServer: {
     host: "0.0.0.0",
@@ -19,4 +19,3 @@ export default defineNuxtConfig({
     },
   },
 });
-
