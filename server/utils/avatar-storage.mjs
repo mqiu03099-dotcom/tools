@@ -4,7 +4,12 @@ import path from "node:path";
 
 const REMOTE_BASE_URL = "https://toolsbox.vip";
 const PUBLIC_DIR = path.resolve(process.cwd(), "public");
-const AVATAR_JSON_PATH = path.join(PUBLIC_DIR, "avatar.json");
+const ASSET_JSON_FILE_MAP = {
+  avatar: "avatar.json",
+  audio: "audio.json",
+  emojis: "emojis.json",
+  wallpaper: "wallpaper.json",
+};
 
 const CONTENT_TYPE_EXTENSION_MAP = {
   "image/gif": ".gif",
@@ -12,14 +17,37 @@ const CONTENT_TYPE_EXTENSION_MAP = {
   "image/jpg": ".jpg",
   "image/png": ".png",
   "image/webp": ".webp",
+  "audio/aac": ".aac",
+  "audio/m4a": ".m4a",
+  "audio/mp3": ".mp3",
+  "audio/mpeg": ".mp3",
+  "audio/ogg": ".ogg",
+  "audio/wav": ".wav",
+  "audio/webm": ".webm",
+  "audio/x-m4a": ".m4a",
+  "audio/x-wav": ".wav",
 };
 
 export function getPublicDir() {
   return PUBLIC_DIR;
 }
 
+export function getAssetJsonFileName(kind) {
+  const fileName = ASSET_JSON_FILE_MAP[kind];
+
+  if (!fileName) {
+    throw new Error("不支持的素材类型");
+  }
+
+  return fileName;
+}
+
+export function getAssetJsonPath(kind) {
+  return path.join(PUBLIC_DIR, getAssetJsonFileName(kind));
+}
+
 export function getAvatarJsonPath() {
-  return AVATAR_JSON_PATH;
+  return getAssetJsonPath("avatar");
 }
 
 export function getRemoteUrl(fileName) {
@@ -40,6 +68,20 @@ export function validateImageContentType(contentType = "") {
   return Boolean(getExtensionFromContentType(contentType));
 }
 
+export function validateMediaContentType(contentType = "", mediaKind = "image") {
+  const normalizedType = contentType.split(";")[0].trim().toLowerCase();
+
+  if (!normalizedType) {
+    return false;
+  }
+
+  if (mediaKind === "audio") {
+    return normalizedType.startsWith("audio/") && Boolean(getExtensionFromContentType(normalizedType));
+  }
+
+  return normalizedType.startsWith("image/") && Boolean(getExtensionFromContentType(normalizedType));
+}
+
 export function createTimestampFileName(timestamp, extension) {
   return `${timestamp}${extension}`;
 }
@@ -48,13 +90,21 @@ export function validateJsonText(content) {
   JSON.parse(content);
 }
 
+export async function readAssetJsonText(kind) {
+  return readFile(getAssetJsonPath(kind), "utf8");
+}
+
 export async function readAvatarJsonText() {
-  return readFile(AVATAR_JSON_PATH, "utf8");
+  return readAssetJsonText("avatar");
+}
+
+export async function saveAssetJsonText(kind, content) {
+  validateJsonText(content);
+  await writeFile(getAssetJsonPath(kind), `${content.trim()}\n`, "utf8");
 }
 
 export async function saveAvatarJsonText(content) {
-  validateJsonText(content);
-  await writeFile(AVATAR_JSON_PATH, `${content.trim()}\n`, "utf8");
+  await saveAssetJsonText("avatar", content);
 }
 
 export function createRandomSuffix() {
@@ -88,7 +138,7 @@ export async function ensurePublicDir() {
   await mkdir(PUBLIC_DIR, { recursive: true });
 }
 
-export function resolveImageExtension({ fileName = "", contentType = "" }) {
+export function resolveMediaExtension({ fileName = "", contentType = "", mediaKind = "image" }) {
   const fileNameExtension = getExtensionFromFileName(fileName);
   if (fileNameExtension) {
     return fileNameExtension;
@@ -99,15 +149,24 @@ export function resolveImageExtension({ fileName = "", contentType = "" }) {
     return contentTypeExtension;
   }
 
-  throw new Error("无法识别图片扩展名");
+  throw new Error(mediaKind === "audio" ? "无法识别音频扩展名" : "无法识别图片扩展名");
 }
 
-export async function saveImageBuffer({ buffer, fileName = "", contentType = "" }) {
+export function resolveImageExtension({ fileName = "", contentType = "" }) {
+  return resolveMediaExtension({ fileName, contentType, mediaKind: "image" });
+}
+
+export async function saveMediaBuffer({
+  buffer,
+  fileName = "",
+  contentType = "",
+  mediaKind = "image",
+}) {
   if (!buffer || buffer.length === 0) {
-    throw new Error("图片内容为空");
+    throw new Error(mediaKind === "audio" ? "音频内容为空" : "图片内容为空");
   }
 
-  const extension = resolveImageExtension({ fileName, contentType });
+  const extension = resolveMediaExtension({ fileName, contentType, mediaKind });
   const timestampName = createTimestampFileName(Date.now(), extension);
   const uniqueName = await ensureUniqueFileName(timestampName);
   const targetPath = path.join(PUBLIC_DIR, uniqueName);
@@ -120,4 +179,8 @@ export async function saveImageBuffer({ buffer, fileName = "", contentType = "" 
     filePath: targetPath,
     url: getRemoteUrl(uniqueName),
   };
+}
+
+export async function saveImageBuffer({ buffer, fileName = "", contentType = "" }) {
+  return saveMediaBuffer({ buffer, fileName, contentType, mediaKind: "image" });
 }

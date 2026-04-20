@@ -6,6 +6,7 @@ import {
   ensureUniqueFileName,
   getExtensionFromContentType,
   getExtensionFromFileName,
+  validateMediaContentType,
   validateJsonText,
 } from "../server/utils/avatar-storage.mjs";
 
@@ -35,4 +36,21 @@ test("ensureUniqueFileName appends suffix when collision exists", async () => {
 test("validateJsonText accepts valid JSON and rejects invalid JSON", () => {
   assert.doesNotThrow(() => validateJsonText('[{"title":"test","items":[]}]'));
   assert.throws(() => validateJsonText('{"title": }'), /Unexpected token/);
+});
+
+test("getAssetJsonPath only allows known asset kinds", async () => {
+  const { getAssetJsonPath } = await import("../server/utils/avatar-storage.mjs");
+
+  assert.match(getAssetJsonPath("avatar"), /avatar\.json$/);
+  assert.match(getAssetJsonPath("audio"), /audio\.json$/);
+  assert.match(getAssetJsonPath("wallpaper"), /wallpaper\.json$/);
+  assert.match(getAssetJsonPath("emojis"), /emojis\.json$/);
+  assert.throws(() => getAssetJsonPath("video"), /不支持的素材类型/);
+});
+
+test("validateMediaContentType distinguishes image and audio", () => {
+  assert.equal(validateMediaContentType("image/png", "image"), true);
+  assert.equal(validateMediaContentType("audio/mpeg", "audio"), true);
+  assert.equal(validateMediaContentType("audio/mpeg", "image"), false);
+  assert.equal(validateMediaContentType("text/plain", "audio"), false);
 });

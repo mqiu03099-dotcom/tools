@@ -1,13 +1,14 @@
-import { saveImageBuffer, validateImageContentType } from "../../utils/avatar-storage.mjs";
+import { saveMediaBuffer, validateMediaContentType } from "../../utils/avatar-storage.mjs";
 
 export default defineEventHandler(async (event) => {
-  const body = await readBody<{ url?: string }>(event);
+  const body = await readBody<{ url?: string; mediaKind?: string }>(event);
   const sourceUrl = body?.url?.trim();
+  const mediaKind = body?.mediaKind || "image";
 
   if (!sourceUrl) {
     throw createError({
       statusCode: 400,
-      statusMessage: "图片链接不能为空",
+      statusMessage: mediaKind === "audio" ? "音频链接不能为空" : "图片链接不能为空",
     });
   }
 
@@ -18,37 +19,38 @@ export default defineEventHandler(async (event) => {
   } catch (error) {
     throw createError({
       statusCode: 400,
-      statusMessage: error instanceof Error ? error.message : "图片下载失败",
+      statusMessage: error instanceof Error ? error.message : "文件下载失败",
     });
   }
 
   if (!response.ok) {
     throw createError({
       statusCode: 400,
-      statusMessage: `图片下载失败：HTTP ${response.status}`,
+      statusMessage: `文件下载失败：HTTP ${response.status}`,
     });
   }
 
   const contentType = response.headers.get("content-type") || "";
-  if (!validateImageContentType(contentType)) {
+  if (!validateMediaContentType(contentType, mediaKind)) {
     throw createError({
       statusCode: 400,
-      statusMessage: "远程链接不是可识别的图片类型",
+      statusMessage: mediaKind === "audio" ? "远程链接不是可识别的音频类型" : "远程链接不是可识别的图片类型",
     });
   }
 
   try {
     const arrayBuffer = await response.arrayBuffer();
 
-    return await saveImageBuffer({
+    return await saveMediaBuffer({
       buffer: Buffer.from(arrayBuffer),
       fileName: new URL(sourceUrl).pathname,
       contentType,
+      mediaKind,
     });
   } catch (error) {
     throw createError({
       statusCode: 400,
-      statusMessage: error instanceof Error ? error.message : "远程图片保存失败",
+      statusMessage: error instanceof Error ? error.message : "远程文件保存失败",
     });
   }
 });

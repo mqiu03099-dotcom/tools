@@ -19,19 +19,35 @@
         <strong>进入页面</strong>
       </NuxtLink>
 
-      <div class="card pending">
-        <span class="tag muted">待开发</span>
+      <NuxtLink
+        class="card active"
+        to="/wallpaper"
+      >
+        <span class="tag">已完成</span>
         <h2>壁纸管理</h2>
-        <p>预留给壁纸页面，后续可以沿用相同的导入和 JSON 保存工作流。</p>
-        <strong>暂未开放</strong>
-      </div>
+        <p>上传本地壁纸、导入外链、生成远程 URL，并编辑整份 wallpaper.json。</p>
+        <strong>进入页面</strong>
+      </NuxtLink>
 
-      <div class="card pending">
-        <span class="tag muted">待开发</span>
+      <NuxtLink
+        class="card active"
+        to="/emojis"
+      >
+        <span class="tag">已完成</span>
+        <h2>表情包管理</h2>
+        <p>上传本地表情包、导入外链、生成远程 URL，并编辑整份 emojis.json。</p>
+        <strong>进入页面</strong>
+      </NuxtLink>
+
+      <NuxtLink
+        class="card active"
+        to="/audio"
+      >
+        <span class="tag">已完成</span>
         <h2>音频管理</h2>
-        <p>预留给音频页面，后续可以扩展音频上传、远程地址和 JSON 编辑。</p>
-        <strong>暂未开放</strong>
-      </div>
+        <p>上传本地音频、导入外链、生成远程 URL，并编辑整份 audio.json。</p>
+        <strong>进入页面</strong>
+      </NuxtLink>
     </div>
   </div>
 </template>
@@ -82,7 +98,7 @@ h1 {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 20px;
   max-width: 1080px;
   margin: 0 auto;
@@ -128,14 +144,6 @@ h1 {
   box-shadow: 0 24px 50px rgba(79, 70, 229, 0.16);
 }
 
-.pending {
-  opacity: 0.82;
-}
-
-.pending strong {
-  color: #667085;
-}
-
 .tag {
   display: inline-flex;
   align-items: center;
@@ -146,11 +154,6 @@ h1 {
   color: #15803d;
   font-size: 12px;
   font-weight: 700;
-}
-
-.tag.muted {
-  background: rgba(148, 163, 184, 0.18);
-  color: #475467;
 }
 
 @media (max-width: 980px) {
