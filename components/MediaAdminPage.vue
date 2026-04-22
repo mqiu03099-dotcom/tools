@@ -1,13 +1,28 @@
 <template>
   <div class="page">
+    <nav
+      class="top-nav"
+      aria-label="素材管理导航"
+    >
+      <NuxtLink
+        v-for="item in navItems"
+        :key="item.to"
+        class="nav-link"
+        :class="{ active: route.path === item.to }"
+        :to="item.to"
+      >
+        {{ item.label }}
+      </NuxtLink>
+    </nav>
+
     <div class="hero">
       <div>
         <p class="eyebrow">{{ eyebrow }}</p>
         <h1>{{ title }}</h1>
         <p class="subtitle">
           {{ description }}
-          <code>public/</code>，并直接编辑整份
-          <code>{{ jsonFileName }}</code>。
+          <code>public/</code>，并直接编辑整份 <code>{{ jsonFileName }}</code
+          >。
         </p>
       </div>
       <div class="hero-actions">
@@ -101,7 +116,41 @@
       <section class="panel editor-panel">
         <div class="panel-header">
           <h2>{{ jsonFileName }}</h2>
-          <span>{{ jsonLoading ? "读取中..." : "整份内容手动维护" }}</span>
+          <span>{{ jsonLoading ? "读取中..." : "选择 title 后可自动追加远程 URL" }}</span>
+        </div>
+
+        <div class="title-picker">
+          <div class="title-picker-header">
+            <strong>选择追加位置</strong>
+            <span>
+              {{
+                pendingRemoteUrl
+                  ? `待追加：${pendingRemoteUrl}`
+                  : "生成远程 URL 后，保存时会追加到选中的 title"
+              }}
+            </span>
+          </div>
+          <div
+            v-if="titleOptions.length"
+            class="title-buttons"
+          >
+            <button
+              v-for="option in titleOptions"
+              :key="option"
+              class="title-btn"
+              :class="{ active: selectedTitle === option }"
+              type="button"
+              @click="selectedTitle = option"
+            >
+              {{ option }}
+            </button>
+          </div>
+          <p
+            v-else
+            class="title-empty"
+          >
+            当前 JSON 未解析到 title，请先确认 JSON 顶层是数组且对象内包含 title 字段。
+          </p>
         </div>
 
         <textarea
@@ -116,6 +165,8 @@
 </template>
 
 <script setup lang="ts">
+import { appendRemoteUrlToTitle, getAssetTitleOptions } from "@/utils/asset-json.mjs";
+
 type ImageMeta = {
   fileName: string;
   url: string;
@@ -150,6 +201,7 @@ const props = withDefaults(
   },
 );
 
+const route = useRoute();
 const jsonText = ref("");
 const jsonEditorRef = ref<HTMLTextAreaElement | null>(null);
 const jsonLoading = ref(false);
@@ -166,6 +218,52 @@ const status = reactive<StatusState>({
 });
 const copyDisabled = computed(() => !imageMeta.url);
 const remoteInput = ref("");
+const selectedTitle = ref("");
+const pendingRemoteUrl = ref("");
+const navItems = [
+  {
+    label: "入口",
+    to: "/",
+  },
+  {
+    label: "头像",
+    to: "/avatar",
+  },
+  {
+    label: "壁纸",
+    to: "/wallpaper",
+  },
+  {
+    label: "表情包",
+    to: "/emojis",
+  },
+  {
+    label: "音频",
+    to: "/audio",
+  },
+];
+const titleOptions = computed(() => {
+  if (!jsonText.value.trim()) {
+    return [];
+  }
+
+  try {
+    return getAssetTitleOptions(jsonText.value);
+  } catch {
+    return [];
+  }
+});
+
+watch(titleOptions, (options) => {
+  if (!options.length) {
+    selectedTitle.value = "";
+    return;
+  }
+
+  if (!options.includes(selectedTitle.value)) {
+    selectedTitle.value = options[0] || "";
+  }
+});
 
 function setStatus(message: string, type: StatusState["type"]) {
   status.message = message;
@@ -212,6 +310,7 @@ async function loadJson() {
 function applyImageMeta(payload: ImageMeta) {
   imageMeta.fileName = payload.fileName;
   imageMeta.url = payload.url;
+  pendingRemoteUrl.value = payload.url;
 }
 
 async function uploadLocalFile(file: File) {
@@ -287,15 +386,39 @@ async function saveJson() {
     return;
   }
 
+  let content = jsonText.value;
+
+  if (pendingRemoteUrl.value) {
+    if (!selectedTitle.value) {
+      setStatus("请先选择要追加远程 URL 的 title", "error");
+      return;
+    }
+
+    try {
+      content = appendRemoteUrlToTitle({
+        jsonText: jsonText.value,
+        selectedTitle: selectedTitle.value,
+        remoteUrl: pendingRemoteUrl.value,
+      });
+      jsonText.value = content;
+      await nextTick();
+      syncJsonEditorHeightLater();
+    } catch (error: any) {
+      setStatus(error?.message || "自动追加远程 URL 失败", "error");
+      return;
+    }
+  }
+
   jsonSaving.value = true;
 
   try {
     await $fetch(`/api/asset-admin/${props.kind}/json`, {
       method: "POST",
       body: {
-        content: jsonText.value,
+        content,
       },
     });
+    pendingRemoteUrl.value = "";
     setStatus(`${props.jsonFileName} 已更新`, "success");
     window.alert(`${props.jsonFileName} 保存成功`);
   } catch (error: any) {
@@ -357,6 +480,47 @@ h1 {
   margin: 0;
   font-size: clamp(32px, 4vw, 46px);
   line-height: 1.05;
+}
+
+.top-nav {
+  display: flex;
+  gap: 10px;
+  max-width: 1120px;
+  margin: 0 auto 22px;
+  padding: 8px;
+  border: 1px solid rgba(18, 32, 51, 0.08);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  box-shadow: 0 14px 32px rgba(21, 34, 50, 0.08);
+  backdrop-filter: blur(16px);
+  overflow-x: auto;
+}
+
+.nav-link {
+  flex: 0 0 auto;
+  border-radius: 999px;
+  padding: 10px 16px;
+  color: #43526a;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 800;
+  transition:
+    color 0.18s ease,
+    background 0.18s ease,
+    transform 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.nav-link:hover {
+  transform: translateY(-1px);
+  color: #1d4ed8;
+  background: #eef4ff;
+}
+
+.nav-link.active {
+  color: #fff;
+  background: linear-gradient(135deg, #122033 0%, #315f9f 100%);
+  box-shadow: 0 10px 22px rgba(18, 32, 51, 0.2);
 }
 
 .subtitle {
@@ -504,6 +668,77 @@ textarea:focus {
   min-height: 0;
 }
 
+.title-picker {
+  display: grid;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid #d7def0;
+  border-radius: 18px;
+  background: #f8faff;
+}
+
+.title-picker-header {
+  display: flex;
+  gap: 10px;
+  min-width: 0;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.title-picker-header strong {
+  font-size: 15px;
+}
+
+.title-picker-header span,
+.title-empty {
+  color: #667085;
+  font-size: 13px;
+  line-height: 1.5;
+  word-break: break-all;
+}
+
+.title-empty {
+  margin: 0;
+}
+
+.title-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.title-btn {
+  border: 1px solid #ced8ea;
+  border-radius: 999px;
+  padding: 8px 14px;
+  color: #213147;
+  background: #fff;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  transition:
+    border-color 0.18s ease,
+    background 0.18s ease,
+    color 0.18s ease,
+    transform 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.title-btn:hover {
+  transform: translateY(-1px);
+  border-color: #4f46e5;
+  box-shadow: 0 8px 18px rgba(79, 70, 229, 0.12);
+}
+
+.title-btn.active {
+  border-color: transparent;
+  color: #fff;
+  background: linear-gradient(135deg, #4f46e5 0%, #0ea5e9 100%);
+  box-shadow: 0 10px 22px rgba(79, 70, 229, 0.24);
+}
+
 .output-panel {
   gap: 16px;
 }
@@ -600,6 +835,14 @@ textarea:focus {
 @media (max-width: 720px) {
   .page {
     padding: 18px;
+  }
+
+  .top-nav {
+    border-radius: 22px;
+  }
+
+  .nav-link {
+    padding: 9px 13px;
   }
 
   .hero {
