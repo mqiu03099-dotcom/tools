@@ -18,6 +18,15 @@
     "playbackType": "full"
   },
   {
+    "title": "我辣，干巴爹",
+    "subtitle": "默认从头到尾播放",
+    "playingTitle": "禁止我辣",
+    "playingSubtitle": "再次点击即可暂停",
+    "url": "https://toolsbox.vip/naiwa21.mp4",
+    "aspectRatio": "720 / 1048",
+    "playbackType": "full"
+  },
+  {
     "title": "敲木鱼",
     "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止喧哗",
