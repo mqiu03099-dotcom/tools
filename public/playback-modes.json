@@ -9,6 +9,15 @@
     "playbackType": "full"
   },
   {
+    "title": "噶韭菜",
+    "subtitle": "默认从头到尾播放",
+    "playingTitle": "禁止噶韭菜",
+    "playingSubtitle": "再次点击即可暂停",
+    "url": "https://toolsbox.vip/naiwa20.mp4",
+    "aspectRatio": "3 / 4",
+    "playbackType": "full"
+  },
+  {
     "title": "敲木鱼",
     "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止喧哗",
