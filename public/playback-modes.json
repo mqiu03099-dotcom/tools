@@ -7,7 +7,7 @@
     "url": "https://toolsbox.vip/naiwa15.mp4",
     "aspectRatio": "4 / 3",
     "playbackType": "full",
-    "bgColor": "#fffdff"
+    "bgColor": "linear-gradient(180deg, #fffdff 0%, #fdfdfd 62%, #f8f9fa 100%)"
   },
   {
     "title": "噶韭菜",
@@ -35,7 +35,7 @@
     "playingTitle": "禁止喧哗",
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/e744722a8cd96e8ba748356f7ccd915b.mp4",
-    "aspectRatio": "3 / 4",
+    "aspectRatio": "9 / 16",
     "playbackType": "full",
     "bgColor": "#fdfcff"
   },
