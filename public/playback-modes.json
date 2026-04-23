@@ -8,7 +8,8 @@
     "aspectRatio": "4 / 3",
     "playbackType": "full",
     "bgColor": "linear-gradient(180deg, #fffdff 0%, #fdfdfd 62%, #f8f9fa 100%)",
-    "logoImageUrl":"https://toolsbox.vip/1776870065134.jpg"
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/poster-naiwa15.jpg"
   },
   {
     "title": "噶韭菜",
@@ -19,7 +20,8 @@
     "aspectRatio": "3 / 4",
     "playbackType": "full",
     "bgColor": "linear-gradient(180deg, #f4f6f8 0%, #f1f3f5 58%, #e8ecef 100%)",
-    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg"
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/poster-naiwa23.jpg"
   },
   {
     "title": "我辣，干巴爹",
@@ -30,7 +32,8 @@
     "aspectRatio": "720 / 965",
     "playbackType": "full",
     "bgColor": "linear-gradient(180deg, #fdfcff 0%, #faf9f6 52%, #dedddd 100%)",
-    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg"
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/poster-naiwa22.jpg"
   },
   {
     "title": "敲木鱼",
@@ -41,7 +44,8 @@
     "aspectRatio": "9 / 16",
     "playbackType": "full",
     "bgColor": "linear-gradient(180deg, #fdfcff 0%, #fbfbfa 58%, #fcfbfd 100%)",
-    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg"
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/poster-e744722a8cd96e8ba748356f7ccd915b.jpg"
   },
   {
     "title": "捧腹大笑",
@@ -52,7 +56,8 @@
     "aspectRatio": "3 / 3.8",
     "playbackType": "full",
     "bgColor": "linear-gradient(180deg, #fffdff 0%, #fbfbfa 58%, #fffdff 100%)",
-    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg"
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/poster-naiwa12.jpg"
   },
   {
     "title": "嘎嘎得了谁",
@@ -63,6 +68,7 @@
     "aspectRatio": "3 / 4",
     "playbackType": "full",
     "bgColor": "linear-gradient(180deg, #ffffff 0%, #fbfbfa 58%, #fffdff 100%)",
-    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg"
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/poster-naiwa5.jpg"
   }
 ]
