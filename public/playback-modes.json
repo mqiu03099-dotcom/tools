@@ -27,7 +27,7 @@
     "url": "https://toolsbox.vip/naiwa22.mp4",
     "aspectRatio": "720 / 965",
     "playbackType": "full",
-    "bgColor": "#f6f6f1"
+    "bgColor": "linear-gradient(180deg, #fdfcff 0%, #faf9f6 52%, #dedddd 100%)"
   },
   {
     "title": "敲木鱼",
@@ -37,7 +37,7 @@
     "url": "https://toolsbox.vip/e744722a8cd96e8ba748356f7ccd915b.mp4",
     "aspectRatio": "9 / 16",
     "playbackType": "full",
-    "bgColor": "#fdfcff"
+    "bgColor": "linear-gradient(180deg, #fdfcff 0%, #fbfbfa 58%, #fcfbfd 100%)"
   },
   {
     "title": "捧腹大笑",
@@ -47,7 +47,7 @@
     "url": "https://toolsbox.vip/naiwa12.mp4",
     "aspectRatio": "3 / 3.8",
     "playbackType": "full",
-    "bgColor": "#fefefe"
+    "bgColor": "linear-gradient(180deg, #fffdff 0%, #fbfbfa 58%, #fffdff 100%)"
   },
   {
     "title": "嘎嘎得了谁",
@@ -57,6 +57,6 @@
     "url": "https://toolsbox.vip/naiwa5.mp4",
     "aspectRatio": "3 / 4",
     "playbackType": "full",
-    "bgColor": "#fcfbfe"
+    "bgColor": "linear-gradient(180deg, #ffffff 0%, #fbfbfa 58%, #fffdff 100%)"
   }
 ]
