@@ -6,25 +6,28 @@
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa15.mp4",
     "aspectRatio": "4 / 3",
-    "playbackType": "full"
+    "playbackType": "full",
+    "bgColor": "#fffdff"
   },
   {
     "title": "噶韭菜",
     "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止噶韭菜",
     "playingSubtitle": "再次点击即可暂停",
-    "url": "https://toolsbox.vip/naiwa20.mp4",
+    "url": "https://toolsbox.vip/naiwa23.mp4",
     "aspectRatio": "3 / 4",
-    "playbackType": "full"
+    "playbackType": "full",
+    "bgColor": "#f4f6f8"
   },
   {
     "title": "我辣，干巴爹",
     "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止我辣",
     "playingSubtitle": "再次点击即可暂停",
-    "url": "https://toolsbox.vip/naiwa21.mp4",
+    "url": "https://toolsbox.vip/naiwa22.mp4",
     "aspectRatio": "720 / 965",
-    "playbackType": "full"
+    "playbackType": "full",
+    "bgColor": "#f6f6f1"
   },
   {
     "title": "敲木鱼",
@@ -33,7 +36,8 @@
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/e744722a8cd96e8ba748356f7ccd915b.mp4",
     "aspectRatio": "3 / 4",
-    "playbackType": "full"
+    "playbackType": "full",
+    "bgColor": "#fdfcff"
   },
   {
     "title": "捧腹大笑",
@@ -42,7 +46,8 @@
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa12.mp4",
     "aspectRatio": "3 / 3.8",
-    "playbackType": "full"
+    "playbackType": "full",
+    "bgColor": "#fefefe"
   },
   {
     "title": "嘎嘎得了谁",
@@ -51,6 +56,7 @@
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa5.mp4",
     "aspectRatio": "3 / 4",
-    "playbackType": "full"
+    "playbackType": "full",
+    "bgColor": "#fcfbfe"
   }
 ]
