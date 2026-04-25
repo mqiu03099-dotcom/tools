@@ -1,5 +1,17 @@
 [
   {
+    "title": "龟速前行",
+    "subtitle": "完整播放",
+    "playingTitle": "禁止爬行",
+    "playingSubtitle": "再次点击即可暂停",
+    "url": "https://toolsbox.vip/naiwa15.mp4",
+    "aspectRatio": "4 / 3",
+    "playbackType": "full",
+    "bgColor": "linear-gradient(180deg, #fffdff 0%, #fdfdfd 62%, #f8f9fa 100%)",
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/poster-naiwa15.jpg"
+  },
+  {
     "title": "噶韭菜",
     "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止噶韭菜",
@@ -35,6 +47,18 @@
     "bgColor": "linear-gradient(180deg, #fdfcff 0%, #fbfbfa 58%, #fcfbfd 100%)",
     "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
     "poster": "https://toolsbox.vip/poster-e744722a8cd96e8ba748356f7ccd915b.jpg"
+  },
+  {
+    "title": "捧腹大笑",
+    "subtitle": "默认从头到尾播放",
+    "playingTitle": "禁止喧哗",
+    "playingSubtitle": "再次点击即可暂停",
+    "url": "https://toolsbox.vip/naiwa24.mp4",
+    "aspectRatio": "3 / 3.8",
+    "playbackType": "full",
+    "bgColor": "linear-gradient(180deg, #fffdff 0%, #fbfbfa 58%, #fffdff 100%)",
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/poster-naiwa12.jpg"
   },
   {
     "title": "嘎嘎得了谁",
