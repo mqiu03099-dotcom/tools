@@ -16,7 +16,7 @@
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa23.mp4",
     "aspectRatio": "720 / 960",
-    "bgColor": "linear-gradient(180deg, #f4f6f8 0%, #f1f3f5 58%, #e8ecef 100%)",
+    "bgColor": "linear-gradient(180deg, #f7f8f9 0%, #fbfbfb 46%, #f3f4f4 72%, #e9ecec 100%)",
     "poster": "https://toolsbox.vip/poster-naiwa23.jpg"
   },
   {
@@ -26,7 +26,7 @@
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa22.mp4",
     "aspectRatio": "720 / 1048",
-    "bgColor": "linear-gradient(180deg, #f8f6f8 0%, #faf9f6 52%, #dedddd 100%)",
+    "bgColor": "linear-gradient(180deg, #f9f7fd 0%, #f9f7fd 100%)",
     "poster": "https://toolsbox.vip/poster-naiwa22.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa25.mp4",
     "aspectRatio": "720 / 1280",
-    "bgColor": "linear-gradient(180deg, #fdfcff 0%, #fbfbfa 58%, #fcfbfd 100%)",
+    "bgColor": "#f9f7fd",
     "poster": "https://toolsbox.vip/poster-e744722a8cd96e8ba748356f7ccd915b.jpg"
   },
   {
