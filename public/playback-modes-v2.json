@@ -32,11 +32,19 @@
     "poster": "https://toolsbox.vip/kl.png"
   },
   {
-    "title": "嘎嘎得了谁",
+    "title": "嘎嘎得了谁-V2",
     "playingTitle": "嘎嘎得了谁",
     "url": "https://toolsbox.vip/gaga.mp4",
     "aspectRatio": "836 / 1112",
     "bgColor": "linear-gradient(180deg, #b89aee 0%, #c9b4f3 42%, #eee8fa 100%)",
     "poster": "https://toolsbox.vip/gaga.png"
+  },
+  {
+    "title": "嘎嘎得了谁-V1",
+    "playingTitle": "嘎嘎得了谁",
+    "url": "https://toolsbox.vip/naiwa5.mp4",
+    "aspectRatio": "836 / 1112",
+    "bgColor": "linear-gradient(180deg, #ffffff 0%, #fbfbfa 58%, #fffdff 100%)",
+    "poster": "https://toolsbox.vip/poster-naiwa5.jpg"
   }
 ]

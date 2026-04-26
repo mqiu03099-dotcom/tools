@@ -48,7 +48,18 @@
     "poster": "https://toolsbox.vip/poster-e744722a8cd96e8ba748356f7ccd915b.jpg"
   },
   {
-    "title": "嘎嘎得了谁",
+    "title": "嘎嘎得了谁-V2",
+    "subtitle": "完整播放",
+    "playingTitle": "嘎嘎得了谁",
+    "playingSubtitle": "再次点击即可暂停",
+    "url": "https://toolsbox.vip/gaga.mp4",
+    "aspectRatio": "836 / 1112",
+    "bgColor": "linear-gradient(180deg, #b89aee 0%, #c9b4f3 42%, #eee8fa 100%)",
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/gaga.png"
+  },
+  {
+    "title": "嘎嘎得了谁-V1",
     "subtitle": "完整播放",
     "playingTitle": "嘎嘎得了谁",
     "playingSubtitle": "再次点击即可暂停",
