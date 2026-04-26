@@ -1,9 +1,7 @@
 [
   {
     "title": "噶韭菜",
-    "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止噶韭菜",
-    "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa23.mp4",
     "aspectRatio": "720 / 960",
     "bgColor": "linear-gradient(180deg, #f7f8f9 0%, #fbfbfb 46%, #f3f4f4 72%, #e9ecec 100%)",
@@ -11,9 +9,7 @@
   },
   {
     "title": "我辣，干巴爹",
-    "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止我辣",
-    "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa22.mp4",
     "aspectRatio": "720 / 1048",
     "bgColor": "linear-gradient(180deg, #f9f7fd 0%, #f9f7fd 100%)",
@@ -21,9 +17,7 @@
   },
   {
     "title": "哎哟，卧槽",
-    "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止卧槽",
-    "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/aiyo.mp4",
     "aspectRatio": "720 / 958",
     "bgColor": "linear-gradient(180deg, #f7f5fb 0%, #fbfafd 48%, #f0eef6 100%)",
@@ -31,9 +25,7 @@
   },
   {
     "title": "敲木鱼",
-    "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止喧哗",
-    "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/naiwa25.mp4",
     "aspectRatio": "720 / 1280",
     "bgColor": "#f9f7fd",
@@ -41,9 +33,7 @@
   },
   {
     "title": "嘎嘎得了谁",
-    "subtitle": "完整播放",
     "playingTitle": "嘎嘎得了谁",
-    "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/gaga.mp4",
     "aspectRatio": "720 / 958",
     "bgColor": "linear-gradient(180deg, #b89aee 0%, #c9b4f3 42%, #eee8fa 100%)",
