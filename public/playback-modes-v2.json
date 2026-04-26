@@ -26,7 +26,7 @@
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/aiyo.mp4",
     "aspectRatio": "540 / 718",
-    "bgColor": "linear-gradient(180deg, #f9f7fd 0%, #f9f7fd 100%)",
+    "bgColor": "linear-gradient(180deg, #f7f5fb 0%, #fbfafd 48%, #f0eef6 100%)",
     "poster": "https://toolsbox.vip/aiyo.png"
   },
   {
@@ -46,7 +46,7 @@
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/gaga.mp4",
     "aspectRatio": "540 / 718",
-    "bgColor": "linear-gradient(180deg, #ffffff 0%, #fbfbfa 58%, #fffdff 100%)",
+    "bgColor": "linear-gradient(180deg, #b89aee 0%, #c9b4f3 42%, #eee8fa 100%)",
     "poster": "https://toolsbox.vip/gaga.png"
   }
 ]
