@@ -20,6 +20,16 @@
     "poster": "https://toolsbox.vip/123.png"
   },
   {
+    "title": "哎哟，卧槽",
+    "subtitle": "默认从头到尾播放",
+    "playingTitle": "禁止卧槽",
+    "playingSubtitle": "再次点击即可暂停",
+    "url": "https://toolsbox.vip/aiyo.mp4",
+    "aspectRatio": "540 / 718",
+    "bgColor": "linear-gradient(180deg, #f9f7fd 0%, #f9f7fd 100%)",
+    "poster": "https://toolsbox.vip/aiyo.png"
+  },
+  {
     "title": "敲木鱼",
     "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止喧哗",
@@ -35,8 +45,8 @@
     "playingTitle": "嘎嘎得了谁",
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/gaga.mp4",
-    "aspectRatio": "836 / 1112",
+    "aspectRatio": "540 / 718",
     "bgColor": "linear-gradient(180deg, #ffffff 0%, #fbfbfa 58%, #fffdff 100%)",
-    "poster": "https://toolsbox.vip/fdsaf.png"
+    "poster": "https://toolsbox.vip/gaga.png"
   }
 ]
