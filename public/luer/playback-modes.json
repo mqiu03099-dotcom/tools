@@ -11,9 +11,9 @@
     "title": "文案占位2",
     "playingTitle": "播放中占位2",
     "url": "https://toolsbox.vip/luer/2.mp4",
-    "aspectRatio": "670 / 512",
+    "aspectRatio": "670 / 440",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/2.jpg?v=crop-20260426"
+    "poster": "https://toolsbox.vip/luer/2.jpg?v=crop-text-20260426"
   },
   {
     "title": "文案占位3",
@@ -67,17 +67,17 @@
     "title": "文案占位9",
     "playingTitle": "播放中占位9",
     "url": "https://toolsbox.vip/luer/9.mp4",
-    "aspectRatio": "670 / 598",
+    "aspectRatio": "670 / 498",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/9.jpg?v=crop-20260426"
+    "poster": "https://toolsbox.vip/luer/9.jpg?v=crop-text-20260426"
   },
   {
     "title": "文案占位10",
     "playingTitle": "播放中占位10",
     "url": "https://toolsbox.vip/luer/10.mp4",
-    "aspectRatio": "672 / 1280",
+    "aspectRatio": "670 / 580",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/10.jpg?v=square-20260426"
+    "poster": "https://toolsbox.vip/luer/10.jpg?v=crop-20260426"
   },
   {
     "title": "文案占位11",
@@ -91,9 +91,9 @@
     "title": "文案占位12",
     "playingTitle": "播放中占位12",
     "url": "https://toolsbox.vip/luer/12.mp4",
-    "aspectRatio": "720 / 1216",
+    "aspectRatio": "720 / 908",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/12.jpg?v=square-20260426"
+    "poster": "https://toolsbox.vip/luer/12.jpg?v=crop-20260426"
   },
   {
     "title": "文案占位13",
@@ -107,8 +107,8 @@
     "title": "文案占位14",
     "playingTitle": "播放中占位14",
     "url": "https://toolsbox.vip/luer/14.mp4",
-    "aspectRatio": "672 / 1280",
+    "aspectRatio": "672 / 616",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/14.jpg?v=square-20260426"
+    "poster": "https://toolsbox.vip/luer/14.jpg?v=crop-20260426"
   }
 ]
