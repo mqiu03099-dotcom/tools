@@ -25,7 +25,7 @@
     "playingTitle": "禁止卧槽",
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/aiyo.mp4",
-    "aspectRatio": "540 / 718",
+    "aspectRatio": "720 / 958",
     "bgColor": "linear-gradient(180deg, #f7f5fb 0%, #fbfafd 48%, #f0eef6 100%)",
     "poster": "https://toolsbox.vip/aiyo.png"
   },
@@ -45,7 +45,7 @@
     "playingTitle": "嘎嘎得了谁",
     "playingSubtitle": "再次点击即可暂停",
     "url": "https://toolsbox.vip/gaga.mp4",
-    "aspectRatio": "540 / 718",
+    "aspectRatio": "720 / 958",
     "bgColor": "linear-gradient(180deg, #b89aee 0%, #c9b4f3 42%, #eee8fa 100%)",
     "poster": "https://toolsbox.vip/gaga.png"
   }
