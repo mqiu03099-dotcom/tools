@@ -12,6 +12,17 @@
     "poster": "https://toolsbox.vip/poster-naiwa23.jpg"
   },
   {
+    "title": "哈哈哈哈哈",
+    "subtitle": "默认从头到尾播放",
+    "playingTitle": "禁止喧哗吵闹",
+    "playingSubtitle": "再次点击即可暂停",
+    "url": "https://toolsbox.vip/aiyo.mp4",
+    "aspectRatio": "836 / 1112",
+    "bgColor": "linear-gradient(180deg, #f7f5fb 0%, #fbfafd 48%, #f0eef6 100%)",
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/aiyo.png"
+  },
+  {
     "title": "我辣，干巴爹",
     "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止我辣",
