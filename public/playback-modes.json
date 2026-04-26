@@ -1,5 +1,17 @@
 [
   {
+    "title": "放声大叫",
+    "subtitle": "默认从头到尾播放",
+    "playingTitle": "禁止大叫",
+    "playingSubtitle": "再次点击即可暂停",
+    "url": "https://toolsbox.vip/a2.mp4",
+    "aspectRatio": "720 / 960",
+    "playbackType": "full",
+    "bgColor": "linear-gradient(180deg, #ffffff 0%, #fbfbfa 58%, #fffdff 100%)",
+    "logoImageUrl": "https://toolsbox.vip/1776870065134.jpg",
+    "poster": "https://toolsbox.vip/a2.jpg?v=poster-20260426-1919"
+  },
+  {
     "title": "噶韭菜",
     "subtitle": "默认从头到尾播放",
     "playingTitle": "禁止噶韭菜",
