@@ -3,17 +3,17 @@
     "title": "文案占位1",
     "playingTitle": "播放中占位1",
     "url": "https://toolsbox.vip/luer/1.mp4",
-    "aspectRatio": "672 / 1280",
+    "aspectRatio": "670 / 430",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/1.jpg?v=square-20260426"
+    "poster": "https://toolsbox.vip/luer/1.jpg?v=crop-text-2-20260426"
   },
   {
     "title": "文案占位2",
     "playingTitle": "播放中占位2",
     "url": "https://toolsbox.vip/luer/2.mp4",
-    "aspectRatio": "672 / 1280",
+    "aspectRatio": "670 / 512",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/2.jpg?v=square-20260426"
+    "poster": "https://toolsbox.vip/luer/2.jpg?v=crop-20260426"
   },
   {
     "title": "文案占位3",
@@ -43,33 +43,33 @@
     "title": "文案占位6",
     "playingTitle": "播放中占位6",
     "url": "https://toolsbox.vip/luer/6.mp4",
-    "aspectRatio": "672 / 1280",
+    "aspectRatio": "670 / 592",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/6.jpg?v=square-20260426"
+    "poster": "https://toolsbox.vip/luer/6.jpg?v=crop-20260426"
   },
   {
     "title": "文案占位7",
     "playingTitle": "播放中占位7",
     "url": "https://toolsbox.vip/luer/7.mp4",
-    "aspectRatio": "670 / 1280",
+    "aspectRatio": "670 / 504",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/7.jpg?v=square-20260426"
+    "poster": "https://toolsbox.vip/luer/7.jpg?v=crop-20260426"
   },
   {
     "title": "文案占位8",
     "playingTitle": "播放中占位8",
     "url": "https://toolsbox.vip/luer/8.mp4",
-    "aspectRatio": "672 / 1280",
+    "aspectRatio": "670 / 512",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/8.jpg?v=square-20260426"
+    "poster": "https://toolsbox.vip/luer/8.jpg?v=crop-20260426"
   },
   {
     "title": "文案占位9",
     "playingTitle": "播放中占位9",
     "url": "https://toolsbox.vip/luer/9.mp4",
-    "aspectRatio": "670 / 1280",
+    "aspectRatio": "670 / 598",
     "bgColor": "#f9f7fd",
-    "poster": "https://toolsbox.vip/luer/9.jpg?v=square-20260426"
+    "poster": "https://toolsbox.vip/luer/9.jpg?v=crop-20260426"
   },
   {
     "title": "文案占位10",
