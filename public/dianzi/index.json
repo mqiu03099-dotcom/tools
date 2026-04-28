@@ -1,5 +1,17 @@
 [
   {
+    "title": "蚊子",
+    "playingTitle": "蚊子播放中",
+    "audioSrc": "https://toolsbox.vip/dianzi/wz.mp3",
+    "cover": "https://toolsbox.vip/dianzi/wz.jpg"
+  },
+  {
+    "title": "挖掘机",
+    "playingTitle": "挖掘机播放中",
+    "audioSrc": "https://toolsbox.vip/dianzi/wjj.mp3",
+    "cover": "https://toolsbox.vip/dianzi/wjj.jpg"
+  },
+  {
     "title": "电锯",
     "playingTitle": "电锯播放中",
     "audioSrc": "https://toolsbox.vip/dianzi/dj.mp3",
@@ -18,28 +30,16 @@
     "cover": "https://toolsbox.vip/dianzi/ji.jpg"
   },
   {
-    "title": "挖掘机",
-    "playingTitle": "挖掘机播放中",
-    "audioSrc": "https://toolsbox.vip/dianzi/wjj.mp3",
-    "cover": "https://toolsbox.vip/dianzi/wjj.jpg"
-  },
-  {
     "title": "温水瓶",
     "playingTitle": "温水瓶播放中",
     "audioSrc": "https://toolsbox.vip/dianzi/wsp.mp3",
     "cover": "https://toolsbox.vip/dianzi/wsp.jpg"
   },
   {
-    "title": "蚊子",
-    "playingTitle": "蚊子播放中",
-    "audioSrc": "https://toolsbox.vip/dianzi/wz.mp3",
-    "cover": "https://toolsbox.vip/dianzi/wz.png"
-  },
-  {
     "title": "油锯",
     "playingTitle": "油锯播放中",
     "audioSrc": "https://toolsbox.vip/dianzi/yj.mp3",
-    "cover": "https://toolsbox.vip/dianzi/yj.png"
+    "cover": "https://toolsbox.vip/dianzi/yj.jpg"
   },
   {
     "title": "游轮",
@@ -48,3 +48,4 @@
     "cover": "https://toolsbox.vip/dianzi/yl.jpg"
   }
 ]
+
