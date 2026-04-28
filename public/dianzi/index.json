@@ -2,49 +2,49 @@
   {
     "title": "电锯",
     "playingTitle": "电锯播放中",
-    "audioSrc": "https://toolsbox.vip/dianzi/%E7%94%B5%E9%94%AF.mp3",
-    "cover": "https://toolsbox.vip/dianzi/431afd0bfcfe1d66b2592ae00e545def.jpg"
+    "audioSrc": "https://toolsbox.vip/dianzi/dj.mp3",
+    "cover": "https://toolsbox.vip/dianzi/dj.jpg"
   },
   {
     "title": "电瓶车",
     "playingTitle": "电瓶车播放中",
-    "audioSrc": "https://toolsbox.vip/dianzi/%E7%94%B5%E7%93%B6%E8%BD%A6.mp3",
-    "cover": "https://toolsbox.vip/dianzi/32d1f1e02e91801b609633f8a2cc8ad1.jpg"
+    "audioSrc": "https://toolsbox.vip/dianzi/dpc.mp3",
+    "cover": "https://toolsbox.vip/dianzi/dpc.jpg"
   },
   {
     "title": "咯咯哒",
     "playingTitle": "咯咯哒播放中",
-    "audioSrc": "https://toolsbox.vip/dianzi/%E5%92%AF%E5%92%AF%E5%93%92.mp3",
-    "cover": "https://toolsbox.vip/dianzi/01db882714f8a95f31742e0075c26aad.jpg"
+    "audioSrc": "https://toolsbox.vip/dianzi/ji.mp3",
+    "cover": "https://toolsbox.vip/dianzi/ji.jpg"
   },
   {
     "title": "挖掘机",
     "playingTitle": "挖掘机播放中",
-    "audioSrc": "https://toolsbox.vip/dianzi/%E6%8C%96%E6%8E%98%E6%9C%BA.mp3",
-    "cover": "https://toolsbox.vip/dianzi/6dd901d7271e5dfd8986b7571a32a208.jpg"
+    "audioSrc": "https://toolsbox.vip/dianzi/wjj.mp3",
+    "cover": "https://toolsbox.vip/dianzi/wjj.jpg"
   },
   {
     "title": "温水瓶",
     "playingTitle": "温水瓶播放中",
-    "audioSrc": "https://toolsbox.vip/dianzi/%E6%B8%A9%E6%B0%B4%E7%93%B6.mp3",
-    "cover": "https://toolsbox.vip/dianzi/9dcc2db6130d307db606918a7a699c12.jpg"
+    "audioSrc": "https://toolsbox.vip/dianzi/wsp.mp3",
+    "cover": "https://toolsbox.vip/dianzi/wsp.jpg"
   },
   {
     "title": "蚊子",
     "playingTitle": "蚊子播放中",
-    "audioSrc": "https://toolsbox.vip/dianzi/%E8%9A%8A%E5%AD%90.mp3",
-    "cover": "https://toolsbox.vip/dianzi/ebda95503b8d79b80251c88473ed3842.jpg"
+    "audioSrc": "https://toolsbox.vip/dianzi/wz.mp3",
+    "cover": "https://toolsbox.vip/dianzi/wz.png"
   },
   {
     "title": "油锯",
     "playingTitle": "油锯播放中",
-    "audioSrc": "https://toolsbox.vip/dianzi/%E6%B2%B9%E9%94%AF.mp3",
-    "cover": "https://toolsbox.vip/dianzi/0c156dc3aa0ee8915506d473b40bd360.png"
+    "audioSrc": "https://toolsbox.vip/dianzi/yj.mp3",
+    "cover": "https://toolsbox.vip/dianzi/yj.png"
   },
   {
     "title": "游轮",
     "playingTitle": "游轮播放中",
-    "audioSrc": "https://toolsbox.vip/dianzi/%E6%B8%B8%E8%BD%AE.mp3",
-    "cover": "https://toolsbox.vip/dianzi/2124ef43a5a9a94e0a9ed30eace87e4c.png"
+    "audioSrc": "https://toolsbox.vip/dianzi/yl.mp3",
+    "cover": "https://toolsbox.vip/dianzi/yl.jpg"
   }
 ]
