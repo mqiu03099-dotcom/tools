@@ -1,5 +1,12 @@
 [
   {
+    "id": "audio-6",
+    "avatar": "https://toolsbox.vip/dianzi/wz.jpg",
+    "audioSrc": "https://toolsbox.vip/dianzi/wz.mp3",
+    "title": "蚊子",
+    "description": "蚊子"
+  },
+  {
     "id": "audio-1",
     "avatar": "https://toolsbox.vip/dianzi/dj.jpg",
     "audioSrc": "https://toolsbox.vip/dianzi/dj.mp3",
@@ -35,13 +42,6 @@
     "description": "温水瓶"
   },
   {
-    "id": "audio-6",
-    "avatar": "https://toolsbox.vip/dianzi/wz.jpg",
-    "audioSrc": "https://toolsbox.vip/dianzi/wz.mp3",
-    "title": "蚊子",
-    "description": "蚊子"
-  },
-  {
     "id": "audio-7",
     "avatar": "https://toolsbox.vip/dianzi/yj.jpg",
     "audioSrc": "https://toolsbox.vip/dianzi/yj.mp3",
@@ -56,4 +56,5 @@
     "description": "游轮"
   }
 ]
+
 
