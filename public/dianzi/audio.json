@@ -7,6 +7,13 @@
     "description": "蚊子"
   },
   {
+    "id": "audio-3",
+    "avatar": "https://toolsbox.vip/dianzi/ji.gif",
+    "audioSrc": "https://toolsbox.vip/dianzi/ji.mp3",
+    "title": "咯咯哒",
+    "description": "咯咯哒"
+  },
+  {
     "id": "audio-1",
     "avatar": "https://toolsbox.vip/dianzi/dj.jpg",
     "audioSrc": "https://toolsbox.vip/dianzi/dj.mp3",
@@ -19,13 +26,6 @@
     "audioSrc": "https://toolsbox.vip/dianzi/dpc.mp3",
     "title": "电瓶车",
     "description": "电瓶车"
-  },
-  {
-    "id": "audio-3",
-    "avatar": "https://toolsbox.vip/dianzi/ji.jpg",
-    "audioSrc": "https://toolsbox.vip/dianzi/ji.mp3",
-    "title": "咯咯哒",
-    "description": "咯咯哒"
   },
   {
     "id": "audio-4",
@@ -56,5 +56,6 @@
     "description": "游轮"
   }
 ]
+
 
 
