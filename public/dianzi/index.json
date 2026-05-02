@@ -6,6 +6,12 @@
     "cover": "https://toolsbox.vip/dianzi/xtq.gif"
   },
   {
+    "title": "嘿嘿，哈哈哈哈",
+    "playingTitle": "禁止哈哈哈哈",
+    "audioSrc": "https://toolsbox.vip/dianzi/hh.mp3",
+    "cover": "https://toolsbox.vip/dianzi/hh.jpg"
+  },
+  {
     "title": "咯咯哒",
     "playingTitle": "咯咯哒播放中",
     "audioSrc": "https://toolsbox.vip/dianzi/ji.mp3",
@@ -48,6 +54,4 @@
     "cover": "https://toolsbox.vip/dianzi/yl.jpg"
   }
 ]
-
-
 
