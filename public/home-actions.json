@@ -1,0 +1,65 @@
+[
+  {
+    "id": "cyberAc",
+    "label": "赛博空调",
+    "iconText": "18°",
+    "url": "/pages/cyber-ac/cyber-ac",
+    "tagText": "精神降温",
+    "categoryTag": "玩具",
+    "categoryTagType": "tool"
+  },
+  {
+    "id": "audio",
+    "label": "语音",
+    "icon": "/assets/directory.png",
+    "url": "/pages/audio/audio",
+    "tagText": "电子噪音",
+    "categoryTag": "娱乐",
+    "categoryTagType": "fun"
+  },
+  {
+    "id": "avatar",
+    "label": "头像",
+    "icon": "/assets/avatar.png",
+    "url": "/pages/avatar/avatar",
+    "tagText": "微信头像",
+    "categoryTag": "娱乐",
+    "categoryTagType": "fun"
+  },
+  {
+    "id": "emojis",
+    "label": "表情包",
+    "icon": "/assets/emojis.png",
+    "url": "/pages/emojis/emojis",
+    "tagText": "聊天斗图",
+    "categoryTag": "娱乐",
+    "categoryTagType": "fun"
+  },
+  {
+    "id": "wallpaper",
+    "label": "壁纸",
+    "icon": "/assets/wallpaper.png",
+    "url": "/pages/wallpaper/wallpaper",
+    "tagText": "锁屏桌面",
+    "categoryTag": "娱乐",
+    "categoryTagType": "fun"
+  },
+  {
+    "id": "gridCut",
+    "label": "九宫格",
+    "icon": "/assets/wechart.png",
+    "url": "/pages/grid-cut/grid-cut",
+    "tagText": "朋友圈拼图",
+    "categoryTag": "工具",
+    "categoryTagType": "tool"
+  },
+  {
+    "id": "shapeCut",
+    "label": "图片裁剪",
+    "icon": "/assets/shap.png",
+    "url": "/pages/shape-cut/shape-cut",
+    "tagText": "透明导出",
+    "categoryTag": "工具",
+    "categoryTagType": "tool"
+  }
+]
