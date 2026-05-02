@@ -2,7 +2,7 @@
   {
     "id": "cyberAc",
     "label": "赛博空调",
-    "iconText": "18°",
+    "icon": "/assets/kt.png",
     "url": "/pages/cyber-ac/cyber-ac",
     "tagText": "精神降温",
     "categoryTag": "玩具",
@@ -63,3 +63,5 @@
     "categoryTagType": "tool"
   }
 ]
+
+
