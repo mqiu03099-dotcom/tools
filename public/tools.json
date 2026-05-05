@@ -1,0 +1,1181 @@
+[
+  {
+    "title": "精选类",
+    "key": "featured",
+    "tools": [
+      {
+        "key": "exam-countdown",
+        "name": "高考倒计时",
+        "icon": "/assets/icons/tools/exam-countdown.svg",
+        "path": "/pages/student-tool/student-tool?tool=exam-countdown",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "bmi",
+        "name": "BMI计算器",
+        "icon": "/assets/icons/tools/bmi.svg",
+        "path": "/pages/bmi/bmi",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "qr-generator",
+        "name": "二维码生成",
+        "icon": "/assets/icons/tools/qr-generator.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=qr-generator",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "image-compress",
+        "name": "图片压缩",
+        "icon": "/assets/icons/tools/image-size.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-compress",
+        "open": true
+      },
+      {
+        "key": "image-join",
+        "name": "图片拼接",
+        "icon": "/assets/icons/tools/image-join.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-join",
+        "open": true
+      },
+      {
+        "key": "image-watermark",
+        "name": "图片加水印",
+        "icon": "/assets/icons/tools/image-watermark.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-watermark",
+        "open": true
+      },
+      {
+        "key": "constellation",
+        "name": "星座查询",
+        "icon": "/assets/icons/tools/constellation.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=constellation",
+        "open": true
+      },
+      {
+        "key": "text-extract",
+        "name": "文本提取数字",
+        "icon": "/assets/icons/tools/text-extract.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=text-extract",
+        "open": true
+      },
+      {
+        "key": "lucky-number",
+        "name": "幸运数字",
+        "icon": "/assets/icons/tools/lucky-number.svg",
+        "path": "/pages/random-tool/random-tool?type=lucky-number",
+        "open": true
+      },
+      {
+        "key": "lottery-draw",
+        "name": "抽签",
+        "icon": "/assets/icons/tools/lottery-draw.svg",
+        "path": "/pages/random-tool/random-tool?type=lottery-draw",
+        "open": true
+      },
+      {
+        "key": "uuid",
+        "name": "UUID生成",
+        "icon": "/assets/icons/tools/uuid.svg",
+        "path": "/pages/uuid/uuid",
+        "open": true
+      },
+      {
+        "key": "json-format",
+        "name": "JSON格式化",
+        "icon": "/assets/icons/tools/json-format.svg",
+        "path": "/pages/json-format/json-format",
+        "open": true
+      },
+      {
+        "key": "json-minify",
+        "name": "JSON压缩",
+        "icon": "/assets/icons/tools/json-minify.svg",
+        "path": "/pages/json-minify/json-minify",
+        "open": true
+      },
+      {
+        "key": "note-pad",
+        "name": "便签",
+        "icon": "/assets/icons/tools/note-pad.svg",
+        "path": "/pages/note-pad/note-pad",
+        "open": true
+      },
+      {
+        "key": "big-text-scroll",
+        "name": "全屏大字滚动",
+        "icon": "/assets/icons/tools/big-text-scroll.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=big-text-scroll",
+        "tag": "NEW",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "生活类",
+    "key": "life",
+    "tools": [
+      {
+        "key": "bmi",
+        "name": "BMI计算器",
+        "icon": "/assets/icons/tools/bmi.svg",
+        "path": "/pages/bmi/bmi",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "age-calculator",
+        "name": "年龄计算器",
+        "icon": "/assets/icons/tools/age-calculator.svg",
+        "path": "/pages/age-calculator/age-calculator",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "date-diff",
+        "name": "日期差计算",
+        "icon": "/assets/icons/tools/date-diff.svg",
+        "path": "/pages/date-diff/date-diff",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "countdown",
+        "name": "倒计时",
+        "icon": "/assets/icons/tools/countdown.svg",
+        "path": "/pages/countdown/countdown",
+        "open": true
+      },
+      {
+        "key": "mortgage",
+        "name": "房贷计算器",
+        "icon": "/assets/icons/tools/mortgage.svg",
+        "path": "/pages/mortgage/mortgage",
+        "open": true
+      },
+      {
+        "key": "tax",
+        "name": "个税计算器",
+        "icon": "/assets/icons/tools/tax.svg",
+        "path": "/pages/tax-calculator/tax-calculator",
+        "open": true
+      },
+      {
+        "key": "temperature-converter",
+        "name": "温度换算",
+        "icon": "/assets/icons/tools/temperature-converter.svg",
+        "path": "/pages/temperature-converter/temperature-converter",
+        "open": true
+      },
+      {
+        "key": "unit-converter",
+        "name": "单位换算",
+        "icon": "/assets/icons/tools/unit-converter.svg",
+        "path": "/pages/unit-converter/unit-converter",
+        "open": true
+      },
+      {
+        "key": "fuel-consumption",
+        "name": "油耗计算",
+        "icon": "/assets/icons/tools/unit-converter.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=fuel-consumption",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "electricity-bill",
+        "name": "电费计算",
+        "icon": "/assets/icons/tools/vat-calculator.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=electricity-bill",
+        "tag": "FAST",
+        "open": true
+      },
+      {
+        "key": "pace-calculator",
+        "name": "配速计算",
+        "icon": "/assets/icons/tools/study-timer.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=pace-calculator",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "sleep-cycle",
+        "name": "睡眠周期",
+        "icon": "/assets/icons/tools/countdown.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=sleep-cycle",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "random-decision",
+        "name": "随机决定",
+        "icon": "/assets/icons/tools/random-decision.svg",
+        "path": "/pages/random-decision/random-decision",
+        "open": true
+      },
+      {
+        "key": "tip-calculator",
+        "name": "AA计算器",
+        "icon": "/assets/icons/tools/tip-calculator.svg",
+        "path": "/pages/aa-calculator/aa-calculator",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "anniversary",
+        "name": "纪念日",
+        "icon": "/assets/icons/tools/anniversary.svg",
+        "path": "/pages/anniversary/anniversary",
+        "open": true
+      },
+      {
+        "key": "shopping-discount",
+        "name": "折扣计算",
+        "icon": "/assets/icons/tools/shopping-discount.svg",
+        "path": "/pages/shopping-discount/shopping-discount",
+        "tag": "HOT",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "图片类",
+    "key": "image",
+    "tools": [
+      {
+        "key": "qr-generator",
+        "name": "二维码生成",
+        "icon": "/assets/icons/tools/qr-generator.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=qr-generator",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "image-size",
+        "name": "图片尺寸",
+        "icon": "/assets/icons/tools/image-grid.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-size",
+        "open": true
+      },
+      {
+        "key": "image-crop",
+        "name": "图片任意裁剪",
+        "icon": "/assets/icons/tools/image-grid.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-crop",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "image-compress",
+        "name": "图片压缩",
+        "icon": "/assets/icons/tools/image-size.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-compress",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "image-base64",
+        "name": "图片转Base64",
+        "icon": "/assets/icons/tools/image-base64.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-base64",
+        "open": true
+      },
+      {
+        "key": "icon-preview",
+        "name": "图标预览",
+        "icon": "/assets/icons/tools/image-watermark.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=icon-preview",
+        "open": true
+      },
+      {
+        "key": "aspect-ratio",
+        "name": "比例计算",
+        "icon": "/assets/icons/tools/aspect-ratio.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=aspect-ratio",
+        "open": true
+      },
+      {
+        "key": "px-rpx",
+        "name": "PX/RPX换算",
+        "icon": "/assets/icons/tools/px-rpx.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=px-rpx",
+        "open": true
+      },
+      {
+        "key": "image-grid",
+        "name": "图片九宫格裁剪",
+        "icon": "/assets/icons/tools/image-grid.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-grid",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "image-watermark",
+        "name": "图片加水印",
+        "icon": "/assets/icons/tools/image-watermark.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-watermark",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "image-pick-color",
+        "name": "图片取色",
+        "icon": "/assets/icons/tools/image-pick-color.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-pick-color",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "image-join",
+        "name": "图片拼接",
+        "icon": "/assets/icons/tools/image-join.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=image-join",
+        "tag": "NEW",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "颜色类",
+    "key": "color",
+    "tools": [
+      {
+        "key": "color-picker",
+        "name": "颜色选择器",
+        "icon": "/assets/icons/tools/color-picker.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=color-picker",
+        "open": true
+      },
+      {
+        "key": "hex-rgb",
+        "name": "HEX/RGB转换",
+        "icon": "/assets/icons/tools/hex-rgb.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=hex-rgb",
+        "open": true
+      },
+      {
+        "key": "hsl-converter",
+        "name": "HSL转换",
+        "icon": "/assets/icons/tools/hsl-converter.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=hsl-converter",
+        "open": true
+      },
+      {
+        "key": "gradient-generator",
+        "name": "渐变生成",
+        "icon": "/assets/icons/tools/gradient-generator.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=gradient-generator",
+        "open": true
+      },
+      {
+        "key": "palette-generator",
+        "name": "配色生成",
+        "icon": "/assets/icons/tools/palette-generator.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=palette-generator",
+        "open": true
+      },
+      {
+        "key": "contrast-checker",
+        "name": "对比度检查",
+        "icon": "/assets/icons/tools/contrast-checker.svg",
+        "path": "/pages/visual-tool/visual-tool?tool=contrast-checker",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "学生类",
+    "key": "student",
+    "tools": [
+      {
+        "key": "exam-countdown",
+        "name": "高考倒计时",
+        "icon": "/assets/icons/tools/exam-countdown.svg",
+        "path": "/pages/student-tool/student-tool?tool=exam-countdown",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "score-average",
+        "name": "平均分计算",
+        "icon": "/assets/icons/tools/score-average.svg",
+        "path": "/pages/student-tool/student-tool?tool=score-average",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "gpa-calculator",
+        "name": "GPA计算",
+        "icon": "/assets/icons/tools/gpa-calculator.svg",
+        "path": "/pages/student-tool/student-tool?tool=gpa-calculator",
+        "open": true
+      },
+      {
+        "key": "percentage",
+        "name": "百分比计算",
+        "icon": "/assets/icons/tools/percentage.svg",
+        "path": "/pages/student-tool/student-tool?tool=percentage",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "fraction-converter",
+        "name": "分数换算",
+        "icon": "/assets/icons/tools/fraction-converter.svg",
+        "path": "/pages/student-tool/student-tool?tool=fraction-converter",
+        "open": true
+      },
+      {
+        "key": "word-case",
+        "name": "英文大小写",
+        "icon": "/assets/icons/tools/word-case.svg",
+        "path": "/pages/student-tool/student-tool?tool=word-case",
+        "open": true
+      },
+      {
+        "key": "word-count",
+        "name": "字数统计",
+        "icon": "/assets/icons/tools/word-count.svg",
+        "path": "/pages/student-tool/student-tool?tool=word-count",
+        "open": true
+      },
+      {
+        "key": "random-question",
+        "name": "随机抽题",
+        "icon": "/assets/icons/tools/random-question.svg",
+        "path": "/pages/student-tool/student-tool?tool=random-question",
+        "open": true
+      },
+      {
+        "key": "mistake-number",
+        "name": "错题编号",
+        "icon": "/assets/icons/tools/line-counter.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=mistake-number",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "study-timer",
+        "name": "学习计时",
+        "icon": "/assets/icons/tools/study-timer.svg",
+        "path": "/pages/student-tool/student-tool?tool=study-timer",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "常识类",
+    "key": "common",
+    "tools": [
+      {
+        "key": "solar-term",
+        "name": "节气查询",
+        "icon": "/assets/icons/tools/solar-term.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=solar-term",
+        "tag": "LOCAL",
+        "open": true
+      },
+      {
+        "key": "constellation",
+        "name": "星座查询",
+        "icon": "/assets/icons/tools/constellation.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=constellation",
+        "open": true
+      },
+      {
+        "key": "zodiac",
+        "name": "生肖查询",
+        "icon": "/assets/icons/tools/zodiac.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=zodiac",
+        "open": true
+      },
+      {
+        "key": "id-card-parser",
+        "name": "身份证解析",
+        "icon": "/assets/icons/tools/mask-text.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=id-card-parser",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "province-short",
+        "name": "省市简称",
+        "icon": "/assets/icons/tools/direction-helper.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=province-short",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "plate-region",
+        "name": "车牌归属地",
+        "icon": "/assets/icons/tools/direction-helper.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=plate-region",
+        "tag": "BETA",
+        "open": true
+      },
+      {
+        "key": "relative-title",
+        "name": "亲戚称呼",
+        "icon": "/assets/icons/tools/relative-title.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=relative-title",
+        "tag": "LOCAL",
+        "open": true
+      },
+      {
+        "key": "emergency-phone",
+        "name": "常用电话",
+        "icon": "/assets/icons/tools/emergency-phone.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=emergency-phone",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "garbage-sort",
+        "name": "垃圾分类",
+        "icon": "/assets/icons/tools/garbage-sort.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=garbage-sort",
+        "tag": "LOCAL",
+        "open": true
+      },
+      {
+        "key": "color-meaning",
+        "name": "颜色含义",
+        "icon": "/assets/icons/tools/color-meaning.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=color-meaning",
+        "tag": "LOCAL",
+        "open": true
+      },
+      {
+        "key": "unit-lookup",
+        "name": "单位速查",
+        "icon": "/assets/icons/tools/unit-lookup.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=unit-lookup",
+        "tag": "LOCAL",
+        "open": true
+      },
+      {
+        "key": "calendar-lookup",
+        "name": "日历查询",
+        "icon": "/assets/icons/tools/calendar-lookup.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=calendar-lookup",
+        "tag": "LOCAL",
+        "open": true
+      },
+      {
+        "key": "holiday-lookup",
+        "name": "节假日查询",
+        "icon": "/assets/icons/tools/holiday-lookup.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=holiday-lookup",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "direction-helper",
+        "name": "方位助手",
+        "icon": "/assets/icons/tools/direction-helper.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=direction-helper",
+        "tag": "LOCAL",
+        "open": true
+      },
+      {
+        "key": "weather-index",
+        "name": "天气指数",
+        "icon": "/assets/icons/tools/weather-index.svg",
+        "path": "/pages/common-knowledge/common-knowledge?tool=weather-index",
+        "tag": "LOCAL",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "文本工具类",
+    "key": "text",
+    "tools": [
+      {
+        "key": "text-trim",
+        "name": "文本去空格",
+        "icon": "/assets/icons/tools/text-trim.svg",
+        "path": "/pages/text-trim/text-trim",
+        "open": true
+      },
+      {
+        "key": "text-dedupe",
+        "name": "文本去重",
+        "icon": "/assets/icons/tools/text-dedupe.svg",
+        "path": "/pages/text-dedupe/text-dedupe",
+        "open": true
+      },
+      {
+        "key": "text-diff",
+        "name": "文本差异对比",
+        "icon": "/assets/icons/tools/json-diff.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=text-diff",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "text-sort",
+        "name": "文本排序",
+        "icon": "/assets/icons/tools/text-sort.svg",
+        "path": "/pages/text-sort/text-sort",
+        "open": true
+      },
+      {
+        "key": "text-reverse",
+        "name": "文本反转",
+        "icon": "/assets/icons/tools/text-reverse.svg",
+        "path": "/pages/text-reverse/text-reverse",
+        "open": true
+      },
+      {
+        "key": "case-converter",
+        "name": "大小写转换",
+        "icon": "/assets/icons/tools/case-converter.svg",
+        "path": "/pages/case-converter/case-converter",
+        "open": true
+      },
+      {
+        "key": "punctuation-converter",
+        "name": "标点转换",
+        "icon": "/assets/icons/tools/word-case.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=punctuation-converter",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "password-generator",
+        "name": "密码生成",
+        "icon": "/assets/icons/tools/password-generator.svg",
+        "path": "/pages/password-generator/password-generator",
+        "open": true
+      },
+      {
+        "key": "nickname-generator",
+        "name": "昵称生成",
+        "icon": "/assets/icons/tools/nickname-generator.svg",
+        "path": "/pages/nickname-generator/nickname-generator",
+        "open": true
+      },
+      {
+        "key": "mask-text",
+        "name": "信息脱敏",
+        "icon": "/assets/icons/tools/mask-text.svg",
+        "path": "/pages/mask-text/mask-text",
+        "open": true
+      },
+      {
+        "key": "sensitive-checker",
+        "name": "敏感词检查",
+        "icon": "/assets/icons/tools/mask-text.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=sensitive-checker",
+        "tag": "LOCAL",
+        "open": true
+      },
+      {
+        "key": "line-counter",
+        "name": "行数统计",
+        "icon": "/assets/icons/tools/line-counter.svg",
+        "path": "/pages/line-counter/line-counter",
+        "open": true
+      },
+      {
+        "key": "text-split",
+        "name": "文本分割",
+        "icon": "/assets/icons/tools/text-split.svg",
+        "path": "/pages/text-split/text-split",
+        "open": true
+      },
+      {
+        "key": "text-join",
+        "name": "文本合并",
+        "icon": "/assets/icons/tools/text-join.svg",
+        "path": "/pages/text-join/text-join",
+        "open": true
+      },
+      {
+        "key": "text-affix",
+        "name": "文本加前后缀",
+        "icon": "/assets/icons/tools/text-join.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=text-affix",
+        "tag": "FAST",
+        "open": true
+      },
+      {
+        "key": "placeholder-text",
+        "name": "占位文本",
+        "icon": "/assets/icons/tools/placeholder-text.svg",
+        "path": "/pages/placeholder-text/placeholder-text",
+        "open": true
+      },
+      {
+        "key": "text-extract",
+        "name": "文本提取数字",
+        "icon": "/assets/icons/tools/text-extract.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=text-extract",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "csv-to-json",
+        "name": "CSV转JSON",
+        "icon": "/assets/icons/tools/csv-to-json.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=csv-to-json",
+        "tag": "NEW",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "随机生成类",
+    "key": "random",
+    "tools": [
+      {
+        "key": "random-number",
+        "name": "随机数字",
+        "icon": "/assets/icons/tools/random-number.svg",
+        "path": "/pages/random-tool/random-tool?type=random-number",
+        "open": true
+      },
+      {
+        "key": "random-color",
+        "name": "随机颜色",
+        "icon": "/assets/icons/tools/random-color.svg",
+        "path": "/pages/random-tool/random-tool?type=random-color",
+        "open": true
+      },
+      {
+        "key": "random-date",
+        "name": "随机日期",
+        "icon": "/assets/icons/tools/random-date.svg",
+        "path": "/pages/random-tool/random-tool?type=random-date",
+        "open": true
+      },
+      {
+        "key": "random-password",
+        "name": "随机密码",
+        "icon": "/assets/icons/tools/random-password.svg",
+        "path": "/pages/random-tool/random-tool?type=random-password",
+        "open": true
+      },
+      {
+        "key": "random-nickname",
+        "name": "随机昵称",
+        "icon": "/assets/icons/tools/random-nickname.svg",
+        "path": "/pages/random-tool/random-tool?type=random-nickname",
+        "open": true
+      },
+      {
+        "key": "random-group",
+        "name": "随机分组",
+        "icon": "/assets/icons/tools/random-group.svg",
+        "path": "/pages/random-tool/random-tool?type=random-group",
+        "open": true
+      },
+      {
+        "key": "seat-randomizer",
+        "name": "随机座位表",
+        "icon": "/assets/icons/tools/course-table.svg",
+        "path": "/pages/random-tool/random-tool?type=seat-randomizer",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "random-sort",
+        "name": "随机排序",
+        "icon": "/assets/icons/tools/random-sort.svg",
+        "path": "/pages/random-tool/random-tool?type=random-sort",
+        "open": true
+      },
+      {
+        "key": "lottery-draw",
+        "name": "抽签",
+        "icon": "/assets/icons/tools/lottery-draw.svg",
+        "path": "/pages/random-tool/random-tool?type=lottery-draw",
+        "open": true
+      },
+      {
+        "key": "dice",
+        "name": "骰子",
+        "icon": "/assets/icons/tools/dice.svg",
+        "path": "/pages/random-tool/random-tool?type=dice",
+        "open": true
+      },
+      {
+        "key": "coin",
+        "name": "抛硬币",
+        "icon": "/assets/icons/tools/coin.svg",
+        "path": "/pages/random-tool/random-tool?type=coin",
+        "open": true
+      },
+      {
+        "key": "team-picker",
+        "name": "队伍抽选",
+        "icon": "/assets/icons/tools/team-picker.svg",
+        "path": "/pages/random-tool/random-tool?type=team-picker",
+        "open": true
+      },
+      {
+        "key": "lucky-number",
+        "name": "幸运数字",
+        "icon": "/assets/icons/tools/lucky-number.svg",
+        "path": "/pages/random-tool/random-tool?type=lucky-number",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "前端程序员类",
+    "key": "frontend",
+    "tools": [
+      {
+        "key": "json-format",
+        "name": "JSON格式化",
+        "icon": "/assets/icons/tools/json-format.svg",
+        "path": "/pages/json-format/json-format",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "json-minify",
+        "name": "JSON压缩",
+        "icon": "/assets/icons/tools/json-minify.svg",
+        "path": "/pages/json-minify/json-minify",
+        "open": true
+      },
+      {
+        "key": "url-codec",
+        "name": "URL编解码",
+        "icon": "/assets/icons/tools/url-codec.svg",
+        "path": "/pages/url-codec/url-codec",
+        "open": true
+      },
+      {
+        "key": "base64-codec",
+        "name": "Base64编解码",
+        "icon": "/assets/icons/tools/base64-codec.svg",
+        "path": "/pages/base64-codec/base64-codec",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "html-escape",
+        "name": "HTML转义",
+        "icon": "/assets/icons/tools/html-escape.svg",
+        "path": "/pages/html-escape/html-escape",
+        "open": true
+      },
+      {
+        "key": "color-converter",
+        "name": "颜色转换",
+        "icon": "/assets/icons/tools/color-converter.svg",
+        "path": "/pages/color-converter/color-converter",
+        "open": true
+      },
+      {
+        "key": "timestamp",
+        "name": "时间戳转换",
+        "icon": "/assets/icons/tools/timestamp.svg",
+        "path": "/pages/timestamp/timestamp",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "regex-tester",
+        "name": "正则测试",
+        "icon": "/assets/icons/tools/regex-tester.svg",
+        "path": "/pages/regex-tester/regex-tester",
+        "open": true
+      },
+      {
+        "key": "user-agent-parser",
+        "name": "UA解析",
+        "icon": "/assets/icons/tools/http-status.svg",
+        "path": "/pages/utility-tool/utility-tool?tool=user-agent-parser",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "uuid",
+        "name": "UUID生成",
+        "icon": "/assets/icons/tools/uuid.svg",
+        "path": "/pages/uuid/uuid",
+        "open": true
+      },
+      {
+        "key": "text-counter",
+        "name": "字符统计",
+        "icon": "/assets/icons/tools/text-counter.svg",
+        "path": "/pages/text-counter/text-counter",
+        "open": true
+      },
+      {
+        "key": "markdown-preview",
+        "name": "Markdown预览",
+        "icon": "/assets/icons/tools/markdown-preview.svg",
+        "path": "/pages/markdown-preview/markdown-preview",
+        "open": true
+      },
+      {
+        "key": "css-shadow",
+        "name": "阴影生成",
+        "icon": "/assets/icons/tools/css-shadow.svg",
+        "path": "/pages/css-shadow/css-shadow",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "小程序类",
+    "key": "miniprogram",
+    "tools": [
+      {
+        "key": "capsule-position",
+        "name": "胶囊定位",
+        "icon": "/assets/icons/tools/capsule-position.svg",
+        "path": "/pages/capsule-position/capsule-position",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "location-coordinates",
+        "name": "获取经纬度",
+        "icon": "/assets/icons/tools/direction-helper.svg",
+        "path": "/pages/location-coordinates/location-coordinates",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "phone-info",
+        "name": "获取手机信息",
+        "icon": "/assets/icons/tools/emergency-phone.svg",
+        "path": "/pages/phone-info/phone-info",
+        "tag": "NEW",
+        "open": true
+      },
+      {
+        "key": "vibration-api",
+        "name": "振动API",
+        "icon": "/assets/icons/tools/vibration-api.svg",
+        "path": "/pages/vibration-api/vibration-api",
+        "tag": "NEW",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "后端程序员类",
+    "key": "backend",
+    "tools": [
+      {
+        "key": "jwt-parser",
+        "name": "JWT解析",
+        "icon": "/assets/icons/tools/jwt-parser.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=jwt-parser",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "cron-parser",
+        "name": "Cron解析",
+        "icon": "/assets/icons/tools/cron-parser.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=cron-parser",
+        "open": true
+      },
+      {
+        "key": "sql-format",
+        "name": "SQL格式化",
+        "icon": "/assets/icons/tools/sql-format.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=sql-format",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "hash-generator",
+        "name": "哈希生成",
+        "icon": "/assets/icons/tools/hash-generator.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=hash-generator",
+        "tag": "HOT",
+        "open": true
+      },
+      {
+        "key": "query-to-json",
+        "name": "Query转JSON",
+        "icon": "/assets/icons/tools/query-to-json.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=query-to-json",
+        "open": true
+      },
+      {
+        "key": "json-to-query",
+        "name": "JSON转Query",
+        "icon": "/assets/icons/tools/json-to-query.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=json-to-query",
+        "open": true
+      },
+      {
+        "key": "http-status",
+        "name": "HTTP状态码",
+        "icon": "/assets/icons/tools/http-status.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=http-status",
+        "tag": "LOCAL",
+        "open": true
+      },
+      {
+        "key": "mime-search",
+        "name": "MIME查询",
+        "icon": "/assets/icons/tools/mime-search.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=mime-search",
+        "tag": "LOCAL",
+        "open": true
+      },
+      {
+        "key": "number-base",
+        "name": "进制转换",
+        "icon": "/assets/icons/tools/number-base.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=number-base",
+        "open": true
+      },
+      {
+        "key": "ip-subnet",
+        "name": "子网计算",
+        "icon": "/assets/icons/tools/ip-subnet.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=ip-subnet",
+        "open": true
+      },
+      {
+        "key": "json-diff",
+        "name": "JSON对比",
+        "icon": "/assets/icons/tools/json-diff.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=json-diff",
+        "open": true
+      },
+      {
+        "key": "ascii-table",
+        "name": "ASCII查询",
+        "icon": "/assets/icons/tools/ascii-table.svg",
+        "path": "/pages/backend-tool/backend-tool?tool=ascii-table",
+        "tag": "LOCAL",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "财务计算类",
+    "key": "finance",
+    "tools": [
+      {
+        "key": "compound-interest",
+        "name": "复利计算",
+        "icon": "/assets/icons/tools/compound-interest.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=compound-interest",
+        "open": true
+      },
+      {
+        "key": "loan-calculator",
+        "name": "贷款计算",
+        "icon": "/assets/icons/tools/loan-calculator.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=loan-calculator",
+        "open": true
+      },
+      {
+        "key": "saving-plan",
+        "name": "存钱计划",
+        "icon": "/assets/icons/tools/saving-plan.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=saving-plan",
+        "open": true
+      },
+      {
+        "key": "budget-split",
+        "name": "预算分配",
+        "icon": "/assets/icons/tools/budget-split.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=budget-split",
+        "open": true
+      },
+      {
+        "key": "profit-rate",
+        "name": "利润率计算",
+        "icon": "/assets/icons/tools/profit-rate.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=profit-rate",
+        "open": true
+      },
+      {
+        "key": "discount-rate",
+        "name": "折扣率计算",
+        "icon": "/assets/icons/tools/discount-rate.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=discount-rate",
+        "open": true
+      },
+      {
+        "key": "vat-calculator",
+        "name": "税率计算",
+        "icon": "/assets/icons/tools/vat-calculator.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=vat-calculator",
+        "open": true
+      },
+      {
+        "key": "salary-hour",
+        "name": "时薪换算",
+        "icon": "/assets/icons/tools/salary-hour.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=salary-hour",
+        "open": true
+      },
+      {
+        "key": "split-bill",
+        "name": "账单平摊",
+        "icon": "/assets/icons/tools/split-bill.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=split-bill",
+        "open": true
+      },
+      {
+        "key": "currency-manual",
+        "name": "汇率换算",
+        "icon": "/assets/icons/tools/currency-manual.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=currency-manual",
+        "open": true
+      },
+      {
+        "key": "cost-average",
+        "name": "成本均价",
+        "icon": "/assets/icons/tools/cost-average.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=cost-average",
+        "open": true
+      },
+      {
+        "key": "break-even",
+        "name": "盈亏平衡",
+        "icon": "/assets/icons/tools/break-even.svg",
+        "path": "/pages/finance-calculator/finance-calculator?tool=break-even",
+        "open": true
+      }
+    ]
+  },
+  {
+    "title": "效率办公类",
+    "key": "office",
+    "tools": [
+      {
+        "key": "note-pad",
+        "name": "便签",
+        "icon": "/assets/icons/tools/note-pad.svg",
+        "path": "/pages/note-pad/note-pad",
+        "open": true
+      },
+      {
+        "key": "email-template",
+        "name": "邮件模板",
+        "icon": "/assets/icons/tools/email-template.svg",
+        "path": "/pages/email-template/email-template",
+        "open": true
+      },
+      {
+        "key": "habit-check",
+        "name": "习惯打卡",
+        "icon": "/assets/icons/tools/habit-check.svg",
+        "path": "/pages/habit-check/habit-check",
+        "open": true
+      }
+    ]
+  }
+]
