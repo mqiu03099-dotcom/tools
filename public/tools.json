@@ -1174,7 +1174,7 @@
         "name": "习惯打卡",
         "icon": "/assets/icons/tools/habit-check.svg",
         "path": "/pages/habit-check/habit-check",
-        "open": true
+        "open": false
       }
     ]
   }
