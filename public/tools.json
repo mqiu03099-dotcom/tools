@@ -945,7 +945,7 @@
         "icon": "/assets/icons/tools/direction-helper.svg",
         "path": "/pages/location-coordinates/location-coordinates",
         "tag": "NEW",
-        "open": true
+        "open": false
       },
       {
         "key": "phone-info",
