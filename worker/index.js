@@ -30,25 +30,72 @@ function buildImageDataUri(imageBase64, mimeType) {
   return `data:${normalizedMimeType};base64,${normalizedBase64}`;
 }
 
-function extractCount(result) {
-  if (!result || typeof result !== "object") {
-    return -1;
+function normalizeCoordinate(value) {
+  if (typeof value !== "number" || Number.isNaN(value)) {
+    return null;
   }
 
-  if (typeof result.count === "number") {
-    return result.count;
+  return Math.max(0, Math.min(1000, Math.round(value)));
+}
+
+function normalizeSkewerItems(items) {
+  if (!Array.isArray(items)) {
+    return [];
+  }
+
+  return items
+    .map((item, index) => {
+      const x = normalizeCoordinate(item?.x);
+      const y = normalizeCoordinate(item?.y);
+
+      if (x === null || y === null) {
+        return null;
+      }
+
+      return {
+        id: index + 1,
+        x,
+        y,
+      };
+    })
+    .filter(Boolean);
+}
+
+function extractModelResponse(result) {
+  if (!result || typeof result !== "object") {
+    return null;
+  }
+
+  if (result.response && typeof result.response === "object") {
+    return result.response;
   }
 
   if (typeof result.response === "string") {
     try {
-      const parsed = JSON.parse(result.response);
-      if (typeof parsed?.count === "number") {
-        return parsed.count;
-      }
-    } catch {}
+      return JSON.parse(result.response);
+    } catch {
+      return null;
+    }
   }
 
-  return -1;
+  if (typeof result.count === "number" || Array.isArray(result.items)) {
+    return result;
+  }
+
+  return null;
+}
+
+export function extractSkewerPayload(result) {
+  const parsed = extractModelResponse(result);
+  const items = normalizeSkewerItems(parsed?.items);
+  const count =
+    typeof parsed?.count === "number" && parsed.count >= 0 ? Math.round(parsed.count) : items.length || -1;
+
+  return {
+    count,
+    items,
+    coordinateUnit: "normalized-1000",
+  };
 }
 
 async function ensureMetaLicenseAccepted(env) {
@@ -78,8 +125,26 @@ async function runSkewerModel(env, image, prompt) {
           count: {
             type: "integer",
           },
+          items: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: {
+                id: {
+                  type: "integer",
+                },
+                x: {
+                  type: "integer",
+                },
+                y: {
+                  type: "integer",
+                },
+              },
+              required: ["id", "x", "y"],
+            },
+          },
         },
-        required: ["count"],
+        required: ["count", "items"],
       },
     },
   });
@@ -109,7 +174,7 @@ async function handleSkewerCount(request, env) {
     const mimeType = body?.mimeType;
     const prompt =
       body?.prompt ||
-      "请统计图片里可见的竹签总数。只返回 JSON，格式必须是 {\"count\": 数字}。如果无法判断，返回 {\"count\": -1}。";
+      "请统计图片里可见的竹签总数，并给每个签子头返回编号和圆心坐标。要求：1. 只统计可见的签子头；2. 按从上到下、同一行从左到右编号；3. x 和 y 使用 0 到 1000 的整数归一化坐标；4. 只返回符合 schema 的 JSON；5. 无法判断时 count 返回 -1，items 返回空数组。";
     const image = buildImageDataUri(imageBase64, mimeType);
 
     if (!image) {
@@ -137,10 +202,14 @@ async function handleSkewerCount(request, env) {
       }
     }
 
+    const payload = extractSkewerPayload(result);
+
     return createJsonResponse({
       code: 0,
       data: {
-        count: extractCount(result),
+        count: payload.count,
+        items: payload.items,
+        coordinateUnit: payload.coordinateUnit,
         raw: result,
       },
     });
