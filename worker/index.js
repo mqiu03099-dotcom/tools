@@ -1,4 +1,5 @@
 const API_PATHNAME = "/api/skewer-count";
+export const SKEWER_MODEL = "@cf/moonshotai/kimi-k2.5";
 const CORS_HEADERS = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Methods": "POST,OPTIONS",
@@ -98,14 +99,8 @@ export function extractSkewerPayload(result) {
   };
 }
 
-async function ensureMetaLicenseAccepted(env) {
-  await env.AI.run("@cf/meta/llama-3.2-11b-vision-instruct", {
-    prompt: "agree",
-  });
-}
-
 async function runSkewerModel(env, image, prompt) {
-  return env.AI.run("@cf/meta/llama-3.2-11b-vision-instruct", {
+  return env.AI.run(SKEWER_MODEL, {
     messages: [
       {
         role: "system",
@@ -187,20 +182,7 @@ async function handleSkewerCount(request, env) {
       );
     }
 
-    let result;
-
-    try {
-      result = await runSkewerModel(env, image, prompt);
-    } catch (error) {
-      const errorMessage = error instanceof Error ? error.message : String(error || "");
-
-      if (errorMessage.includes("5016") || errorMessage.includes("submit the prompt 'agree'")) {
-        await ensureMetaLicenseAccepted(env);
-        result = await runSkewerModel(env, image, prompt);
-      } else {
-        throw error;
-      }
-    }
+    const result = await runSkewerModel(env, image, prompt);
 
     const payload = extractSkewerPayload(result);
 

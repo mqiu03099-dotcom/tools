@@ -1,7 +1,11 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 
-import { extractSkewerPayload } from "../worker/index.js";
+import { extractSkewerPayload, SKEWER_MODEL } from "../worker/index.js";
+
+test("worker uses kimi vision model", () => {
+  assert.equal(SKEWER_MODEL, "@cf/moonshotai/kimi-k2.5");
+});
 
 test("extractSkewerPayload reads structured response object with coordinates", () => {
   const payload = extractSkewerPayload({
