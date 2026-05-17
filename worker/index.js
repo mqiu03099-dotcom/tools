@@ -51,6 +51,40 @@ function extractCount(result) {
   return -1;
 }
 
+async function ensureMetaLicenseAccepted(env) {
+  await env.AI.run("@cf/meta/llama-3.2-11b-vision-instruct", {
+    prompt: "agree",
+  });
+}
+
+async function runSkewerModel(env, image, prompt) {
+  return env.AI.run("@cf/meta/llama-3.2-11b-vision-instruct", {
+    messages: [
+      {
+        role: "system",
+        content: "你是图片计数助手，只返回 JSON，不要返回额外解释。",
+      },
+      {
+        role: "user",
+        content: prompt,
+      },
+    ],
+    image,
+    response_format: {
+      type: "json_schema",
+      json_schema: {
+        type: "object",
+        properties: {
+          count: {
+            type: "integer",
+          },
+        },
+        required: ["count"],
+      },
+    },
+  });
+}
+
 async function handleSkewerCount(request, env) {
   if (request.method === "OPTIONS") {
     return new Response(null, {
@@ -88,31 +122,20 @@ async function handleSkewerCount(request, env) {
       );
     }
 
-    const result = await env.AI.run("@cf/meta/llama-3.2-11b-vision-instruct", {
-      messages: [
-        {
-          role: "system",
-          content: "你是图片计数助手，只返回 JSON，不要返回额外解释。",
-        },
-        {
-          role: "user",
-          content: prompt,
-        },
-      ],
-      image,
-      response_format: {
-        type: "json_schema",
-        json_schema: {
-          type: "object",
-          properties: {
-            count: {
-              type: "integer",
-            },
-          },
-          required: ["count"],
-        },
-      },
-    });
+    let result;
+
+    try {
+      result = await runSkewerModel(env, image, prompt);
+    } catch (error) {
+      const errorMessage = error instanceof Error ? error.message : String(error || "");
+
+      if (errorMessage.includes("5016") || errorMessage.includes("submit the prompt 'agree'")) {
+        await ensureMetaLicenseAccepted(env);
+        result = await runSkewerModel(env, image, prompt);
+      } else {
+        throw error;
+      }
+    }
 
     return createJsonResponse({
       code: 0,
