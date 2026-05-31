@@ -20,6 +20,7 @@ logs
 .fleet
 .idea
 .superpowers
+local
 
 web-game-yiv.config.cjs
 web-game-yiv-amara047k.config.cjs
