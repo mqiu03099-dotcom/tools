@@ -1,8 +1,5 @@
 import { loginByCode } from '../api/user.js'
-import {
-	USER_ID_STORAGE_KEY,
-	USER_INFO_STORAGE_KEY
-} from '../constants/storage.js'
+import { USER_ID_STORAGE_KEY } from '../constants/storage.js'
 
 function getLoginCode(uniApi) {
 	return new Promise((resolve, reject) => {
@@ -31,7 +28,6 @@ export async function ensureWeappLogin(options = {}) {
 	const userInfo = await loginApi(code)
 
 	uniApi.setStorageSync(USER_ID_STORAGE_KEY, userInfo.id)
-	uniApi.setStorageSync(USER_INFO_STORAGE_KEY, userInfo)
 
 	return userInfo.id
 }
