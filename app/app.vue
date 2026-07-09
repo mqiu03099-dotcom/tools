@@ -11,7 +11,7 @@ useSeoMeta({
 
 <template>
   <UApp>
-    <UHeader>
+    <UHeader :toggle="false">
       <template #left>
         <NuxtLink to="/">奶蛙大笑</NuxtLink>
       </template>
