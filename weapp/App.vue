@@ -1,17 +1,30 @@
 <script>
+	import { ensureWeappLogin } from './services/auth.js'
+
 	export default {
-		onLaunch: function() {
-			console.log('App Launch')
-		},
-		onShow: function() {
-			console.log('App Show')
-		},
-		onHide: function() {
-			console.log('App Hide')
+		onLaunch() {
+			ensureWeappLogin().catch((error) => {
+				uni.showToast({
+					title: error.message || '登录失败',
+					icon: 'none'
+				})
+			})
 		}
 	}
 </script>
 
 <style>
-	/*每个页面公共css */
+	page {
+		background-color: #f5f5f5;
+	}
+
+	.page {
+		min-height: 100vh;
+		display: flex;
+		flex-direction: column;
+		gap: 24rpx;
+		padding: 48rpx 32rpx;
+		background-color: #f5f5f5;
+		box-sizing: border-box;
+	}
 </style>

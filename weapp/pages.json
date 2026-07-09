@@ -3,15 +3,37 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "奶蛙大笑"
+			}
+		},
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationBarTitleText": "个人"
 			}
 		}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"navigationBarTitleText": "奶蛙大笑",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#f5f5f5"
+	},
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#111111",
+		"backgroundColor": "#ffffff",
+		"borderStyle": "white",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/profile/profile",
+				"text": "个人"
+			}
+		]
 	},
 	"uniIdRouter": {}
 }

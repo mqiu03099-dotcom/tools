@@ -1,7 +1,7 @@
 <template>
 	<view class="page">
-		<view class="title">奶蛙大笑</view>
-		<view class="desc">首页</view>
+		<view class="title">个人</view>
+		<view class="desc">个人页面</view>
 	</view>
 </template>
 
