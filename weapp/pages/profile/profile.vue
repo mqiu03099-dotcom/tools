@@ -18,28 +18,10 @@
 </template>
 
 <script>
-	import { getUserProfileById } from '../../api/user.js'
-	import { ensureWeappLogin } from '../../services/auth.js'
-	import { USER_ID_STORAGE_KEY } from '../../constants/storage.js'
-
 	export default {
 		data() {
 			return {
 				userInfo: null
-			}
-		},
-		onShow() {
-			this.loadUserInfo()
-		},
-		methods: {
-			async loadUserInfo() {
-				let userId = uni.getStorageSync(USER_ID_STORAGE_KEY)
-
-				if (!userId) {
-					userId = await ensureWeappLogin()
-				}
-
-				this.userInfo = await getUserProfileById(userId)
 			}
 		}
 	}
