@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "头像",
-  "enableShareAppMessage": true,
-  "usingComponents": {
-    "image-media-list-page": "/components/image-media-list-page/image-media-list-page"
-  }
-}

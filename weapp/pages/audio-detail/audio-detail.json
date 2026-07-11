@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "语音详情",
-  "usingComponents": {
-    "audio-detail-actions": "/components/audio-detail-actions/audio-detail-actions",
-    "page-header": "/components/page-header/page-header"
-  }
-}

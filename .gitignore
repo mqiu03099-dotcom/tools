@@ -20,6 +20,7 @@ local
 .idea
 3000
 docs/
+weapp/
 
 # Local env files
 .env
