@@ -3,7 +3,7 @@
     "id": "ad-1",
     "url": "",
     "cover": "",
-    "type": "adunit-07d67250772c2f4d",
+    "type": "adunit-2269993955751c15",
     "open": true
   },
   {
@@ -49,13 +49,6 @@
     "open": true
   },
   {
-    "id": "ad-2",
-    "url": "",
-    "cover": "",
-    "type": "adunit-07d67250772c2f4d",
-    "open": true
-  },
-  {
     "id": "mp4-7",
     "url": "/home-videos/7.mp4",
     "cover": "/home-videos/7.png",
@@ -73,7 +66,7 @@
     "id": "ad-3",
     "url": "",
     "cover": "",
-    "type": "adunit-07d67250772c2f4d",
+    "type": "adunit-ee54286a7e1bcfb2",
     "open": true
   }
 ]
