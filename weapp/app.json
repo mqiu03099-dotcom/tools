@@ -1,15 +1,19 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/home-detail/home-detail",
     "pages/audio/audio",
+    "pages/audio-detail/audio-detail",
     "pages/avatar/avatar",
+    "pages/avatar-detail/avatar-detail",
     "pages/emojis/emojis",
-    "pages/media-detail/media-detail",
+    "pages/emojis-detail/emojis-detail",
     "pages/feedback/feedback",
     "pages/notice/notice",
     "pages/grid-cut/grid-cut",
     "pages/shape-cut/shape-cut",
-    "pages/wallpaper/wallpaper"
+    "pages/wallpaper/wallpaper",
+    "pages/wallpaper-detail/wallpaper-detail"
   ],
   "window": {
     "navigationBarTextStyle": "white",

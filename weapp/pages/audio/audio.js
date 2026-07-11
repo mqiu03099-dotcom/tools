@@ -1,11 +1,11 @@
 const { RESOURCE_LINKS } = require("../../utils/resource-links.js");
+const { MEDIA_RESOURCE_TYPE } = require("../../utils/media-resource-types.js");
+const { buildStaticResourceUrl } = require("../../utils/static-resource-config.js");
 const {
-  cleanupRewardedVideoAd,
-  createRewardedVideoAd,
-  showRewardedVideoAd,
-} = require("../../utils/unlock-download.js");
-const SHARE_TITLE = "奶呱语音包合集搞笑抽象魔性语音";
-const SHARE_PATH = "/pages/audio/audio";
+  AUDIO_PAGE_HEADER,
+  AUDIO_PAGE_TEXT,
+} = require("../../utils/audio-page-config.js");
+const { buildTabMediaDetailPageUrl } = require("../../utils/tab-media-detail-config.js");
 
 function normalizeAudioItems(items) {
   if (!Array.isArray(items)) {
@@ -13,88 +13,58 @@ function normalizeAudioItems(items) {
   }
 
   return items
+    .filter((item) => item && item.open === true && item.id && item.type)
     .map((item, index) => {
-      const avatar = typeof item?.avatar === "string" ? item.avatar.trim() : "";
-      const audioSrc = typeof item?.audioSrc === "string" ? item.audioSrc.trim() : "";
-      const title = typeof item?.title === "string" ? item.title.trim() : "";
-      const description =
-        typeof item?.description === "string" && item.description.trim()
-          ? item.description.trim()
-          : title;
+      const key = `${item.id}-${index}`;
 
-      if (!avatar || !audioSrc || !title) {
+      if (item.type !== MEDIA_RESOURCE_TYPE) {
+        return {
+          key,
+          type: item.type,
+          isAd: true,
+        };
+      }
+
+      if (!item.url || !item.cover) {
         return null;
       }
 
       return {
-        id: item?.id || `audio-${index + 1}`,
-        avatar,
-        audioSrc,
-        title,
-        description,
+        key,
+        id: item.id,
+        url: buildStaticResourceUrl(item.url),
+        cover: buildStaticResourceUrl(item.cover),
+        type: item.type,
+        isAd: false,
       };
     })
     .filter(Boolean);
 }
 
 function getFirstAudioImage(items) {
-  return items?.[0]?.avatar || "";
-}
+  const firstMedia = (items || []).find((item) => !item.isAd);
 
-function buildAudioFileName(title) {
-  const safeTitle = (title || "奶呱语音").replace(/[\\/:*?"<>|]/g, "").trim();
-  return `${safeTitle || "奶呱语音"}.mp3`;
-}
-
-function buildAudioLocalFilePath() {
-  return `${wx.env.USER_DATA_PATH}/milk-frog-audio-${Date.now()}.mp3`;
+  return firstMedia?.cover || "";
 }
 
 Page({
   data: {
-    nativeTemplateAdUnitId: RESOURCE_LINKS.nativeTemplateAdUnitId,
-    downloadImageUrl: "/assets/dowlod.png",
     loadingImageUrl: RESOURCE_LINKS.loadingImageUrl,
-    playImageUrl: RESOURCE_LINKS.playImageUrl,
-    shareButtonImageUrl: RESOURCE_LINKS.shareImageUrl,
-    stopPlayImageUrl: RESOURCE_LINKS.stopPlayImageUrl,
+    pageHeader: AUDIO_PAGE_HEADER,
     audioItems: [],
+    audioText: AUDIO_PAGE_TEXT,
     isAudioLoading: true,
-    isRewardTipDialogVisible: false,
-    isAudioShareDialogVisible: false,
-    playingAudioId: "",
-    isAudioPaused: false,
-    isAudioStarting: false,
-    pageIntroTitle: "奶呱语音",
-    pageIntroText: "适合聊天整活和分享朋友使用，点一下就可以直接播放奶呱语音。",
-    pageIntroTags: ["语音专区", "奶呱语音", "聊天整活", "分享朋友"],
   },
 
   onLoad() {
     this.initializeAudioItems();
-    this.initAudioContext();
   },
 
-  onShow() {
-    this.initAudioContext();
-  },
-
-  onHide() {
-    this.destroyAudioContext();
-  },
-
-  onUnload() {
-    this.destroyAudioContext();
-    cleanupRewardedVideoAd(this);
-  },
-
-  onShareAppMessage(event) {
-    const shareTitle = event?.target?.dataset?.title || SHARE_TITLE;
-    const shareImageUrl = event?.target?.dataset?.image || getFirstAudioImage(this.data.audioItems);
-
+  onShareAppMessage() {
+    const shareImageUrl = this.pendingShareAudioCover || getFirstAudioImage(this.data.audioItems);
     const sharePayload = {
-      title: shareTitle,
-      path: SHARE_PATH,
+      title: AUDIO_PAGE_TEXT.shareTitle,
+      path: AUDIO_PAGE_TEXT.sharePath,
     };
 
     if (shareImageUrl) {
@@ -105,9 +75,9 @@ Page({
   },
 
   onShareTimeline() {
-    const shareImageUrl = getFirstAudioImage(this.data.audioItems);
+    const shareImageUrl = this.pendingShareAudioCover || getFirstAudioImage(this.data.audioItems);
     const sharePayload = {
-      title: SHARE_TITLE,
+      title: AUDIO_PAGE_TEXT.shareTitle,
       query: "",
     };
 
@@ -118,147 +88,15 @@ Page({
     return sharePayload;
   },
 
-  handleTogglePlay(event) {
-    const { id, src } = event.currentTarget.dataset;
+  handleWaterfallItemTap(event) {
+    const id = event.detail?.item?.id;
 
-    if (!id || !src || !this.audioContext) {
+    if (!id) {
       return;
     }
 
-    if (this.data.isAudioStarting && this.data.playingAudioId === id) {
-      return;
-    }
-
-    if (this.data.playingAudioId === id) {
-      if (this.data.isAudioPaused) {
-        this.setData({
-          isAudioStarting: true,
-          isAudioPaused: false,
-        });
-        this.audioContext.play();
-        return;
-      }
-
-      this.audioContext.pause();
-      this.setData({
-        isAudioPaused: true,
-      });
-      return;
-    }
-
-    this.pendingAudioId = id;
-    if (this.currentAudioSrc !== src) {
-      this.currentAudioSrc = src;
-      this.audioContext.src = src;
-    }
-
-    this.setData({
-      playingAudioId: id,
-      isAudioPaused: false,
-      isAudioStarting: true,
-    });
-    this.audioContext.play();
-  },
-
-  handleRewardShareAudioTap(event) {
-    const { src, title } = event.currentTarget.dataset;
-
-    if (!src) {
-      return;
-    }
-
-    if (!wx.shareFileMessage) {
-      wx.showToast({
-        title: "当前微信版本暂不支持发送文件",
-        icon: "none",
-      });
-      return;
-    }
-
-    this.pendingRewardAudioShare = {
-      src,
-      title,
-    };
-    this.setData({
-      isRewardTipDialogVisible: true,
-    });
-  },
-
-  closeRewardTipDialog() {
-    this.pendingRewardAudioShare = null;
-    this.setData({
-      isRewardTipDialogVisible: false,
-    });
-  },
-
-  confirmRewardShareAudioTap() {
-    const pendingAudioShare = this.pendingRewardAudioShare;
-
-    if (!pendingAudioShare?.src) {
-      this.closeRewardTipDialog();
-      return;
-    }
-
-    createRewardedVideoAd(this, () => {
-      const pendingAudioShare = this.pendingRewardAudioShare;
-      this.pendingRewardAudioShare = null;
-
-      if (!pendingAudioShare?.src) {
-        return;
-      }
-
-      this.prepareAudioFileForShare(pendingAudioShare);
-    });
-
-    if (!this.rewardedVideoAd) {
-      wx.showToast({
-        title: "激励视频加载中，请稍后再试",
-        icon: "none",
-      });
-      return;
-    }
-
-    this.setData({
-      isRewardTipDialogVisible: false,
-    });
-    showRewardedVideoAd(this, () => {
-      wx.showToast({
-        title: "激励视频加载失败，请稍后再试",
-        icon: "none",
-      });
-    });
-  },
-
-  noop() {},
-
-  closeAudioShareDialog() {
-    this.setData({
-      isAudioShareDialogVisible: false,
-    });
-  },
-
-  handleSharePreparedAudioTap() {
-    if (!this.readyAudioShareFilePath) {
-      wx.showToast({
-        title: "语音还未准备好",
-        icon: "none",
-      });
-      return;
-    }
-
-    wx.shareFileMessage({
-      filePath: this.readyAudioShareFilePath,
-      fileName: this.readyAudioShareFileName || "奶呱语音.mp3",
-      success: () => {
-        this.closeAudioShareDialog();
-      },
-      fail: (error) => {
-        console.error("语音文件发送失败", error);
-        wx.showToast({
-          title: "语音发送失败",
-          icon: "none",
-        });
-      },
+    wx.navigateTo({
+      url: buildTabMediaDetailPageUrl(id, "audio"),
     });
   },
 
@@ -273,10 +111,8 @@ Page({
     wx.request({
       url: RESOURCE_LINKS.audioItemsJsonUrl,
       success: (res) => {
-        const remoteAudioItems = normalizeAudioItems(res.data);
-
         this.setData({
-          audioItems: remoteAudioItems,
+          audioItems: normalizeAudioItems(res.data),
           isAudioLoading: false,
         });
       },
@@ -286,133 +122,6 @@ Page({
           isAudioLoading: false,
         });
       },
-    });
-  },
-
-  prepareAudioFileForShare(audio) {
-    const audioFileName = buildAudioFileName(audio.title);
-    const audioFilePath = buildAudioLocalFilePath();
-
-    wx.showLoading({
-      title: "语音准备中",
-      mask: true,
-    });
-
-    wx.downloadFile({
-      url: audio.src,
-      filePath: audioFilePath,
-      success: (downloadRes) => {
-        const downloadedFilePath = downloadRes.filePath || downloadRes.tempFilePath || audioFilePath;
-
-        if (downloadRes.statusCode !== 200 || !downloadedFilePath) {
-          console.error("语音文件下载失败", downloadRes);
-          wx.hideLoading();
-          wx.showToast({
-            title: "语音下载失败",
-            icon: "none",
-          });
-          return;
-        }
-
-        wx.hideLoading();
-        this.readyAudioShareFilePath = downloadedFilePath;
-        this.readyAudioShareFileName = audioFileName;
-        this.setData({
-          isAudioShareDialogVisible: true,
-        });
-      },
-      fail: (error) => {
-        console.error("语音文件下载失败", error);
-        wx.hideLoading();
-        wx.showToast({
-          title: "语音下载失败",
-          icon: "none",
-        });
-      },
-    });
-  },
-
-  initAudioContext() {
-    if (this.audioContext) {
-      return;
-    }
-
-    this.pendingAudioId = "";
-    this.currentAudioSrc = "";
-    this.audioContext = wx.createInnerAudioContext();
-    this.audioContext.obeyMuteSwitch = false;
-    this.audioContext.loop = true;
-    this.audioContext.onPlay(() => {
-      this.setData({
-        playingAudioId: this.pendingAudioId || this.data.playingAudioId,
-        isAudioPaused: false,
-        isAudioStarting: false,
-      });
-    });
-    this.audioContext.onPause(() => {
-      this.setData({
-        isAudioPaused: true,
-        isAudioStarting: false,
-      });
-    });
-    this.audioContext.onEnded(() => {
-      this.pendingAudioId = "";
-      this.setData({
-        playingAudioId: "",
-        isAudioPaused: false,
-        isAudioStarting: false,
-      });
-    });
-    this.audioContext.onWaiting(() => {
-      this.setData({
-        isAudioStarting: true,
-      });
-    });
-    this.audioContext.onCanplay(() => {
-      this.setData({
-        isAudioStarting: false,
-      });
-    });
-    this.audioContext.onStop(() => {
-      if (!this.isDestroyingAudioContext) {
-        return;
-      }
-
-      this.pendingAudioId = "";
-      this.currentAudioSrc = "";
-      this.setData({
-        playingAudioId: "",
-        isAudioPaused: false,
-        isAudioStarting: false,
-      });
-    });
-    this.audioContext.onError(() => {
-      this.pendingAudioId = "";
-      this.currentAudioSrc = "";
-      this.setData({
-        playingAudioId: "",
-        isAudioPaused: false,
-        isAudioStarting: false,
-      });
-    });
-  },
-
-  destroyAudioContext() {
-    if (!this.audioContext) {
-      return;
-    }
-
-    this.isDestroyingAudioContext = true;
-    this.audioContext.stop();
-    this.audioContext.destroy();
-    this.audioContext = null;
-    this.isDestroyingAudioContext = false;
-    this.pendingAudioId = "";
-    this.currentAudioSrc = "";
-    this.setData({
-      playingAudioId: "",
-      isAudioPaused: false,
-      isAudioStarting: false,
     });
   },
 });
