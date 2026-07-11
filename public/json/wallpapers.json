@@ -49,13 +49,6 @@
     "open": true
   },
   {
-    "id": "ad-2",
-    "url": "",
-    "cover": "",
-    "type": "adunit-07d67250772c2f4d",
-    "open": true
-  },
-  {
     "id": "jpg-7",
     "url": "/wallpapers/7.jpg",
     "cover": "/wallpapers/7.jpg",
@@ -98,7 +91,7 @@
     "open": true
   },
   {
-    "id": "ad-3",
+    "id": "ad-2",
     "url": "",
     "cover": "",
     "type": "adunit-07d67250772c2f4d",
@@ -147,13 +140,6 @@
     "open": true
   },
   {
-    "id": "ad-4",
-    "url": "",
-    "cover": "",
-    "type": "adunit-07d67250772c2f4d",
-    "open": true
-  },
-  {
     "id": "jpg-19",
     "url": "/wallpapers/19.jpg",
     "cover": "/wallpapers/19.jpg",
@@ -196,7 +182,7 @@
     "open": true
   },
   {
-    "id": "ad-5",
+    "id": "ad-3",
     "url": "",
     "cover": "",
     "type": "adunit-07d67250772c2f4d",
@@ -245,13 +231,6 @@
     "open": true
   },
   {
-    "id": "ad-6",
-    "url": "",
-    "cover": "",
-    "type": "adunit-07d67250772c2f4d",
-    "open": true
-  },
-  {
     "id": "jpg-31",
     "url": "/wallpapers/31.jpg",
     "cover": "/wallpapers/31.jpg",
@@ -294,7 +273,7 @@
     "open": true
   },
   {
-    "id": "ad-7",
+    "id": "ad-4",
     "url": "",
     "cover": "",
     "type": "adunit-07d67250772c2f4d",
@@ -329,7 +308,7 @@
     "open": true
   },
   {
-    "id": "ad-8",
+    "id": "ad-5",
     "url": "",
     "cover": "",
     "type": "adunit-07d67250772c2f4d",

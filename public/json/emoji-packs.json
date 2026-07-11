@@ -49,13 +49,6 @@
     "open": true
   },
   {
-    "id": "ad-2",
-    "url": "",
-    "cover": "",
-    "type": "adunit-07d67250772c2f4d",
-    "open": true
-  },
-  {
     "id": "gif-7",
     "url": "/emoji-packs/7.gif",
     "cover": "/emoji-packs/7.gif",
@@ -98,7 +91,7 @@
     "open": true
   },
   {
-    "id": "ad-3",
+    "id": "ad-2",
     "url": "",
     "cover": "",
     "type": "adunit-07d67250772c2f4d",
@@ -147,13 +140,6 @@
     "open": true
   },
   {
-    "id": "ad-4",
-    "url": "",
-    "cover": "",
-    "type": "adunit-07d67250772c2f4d",
-    "open": true
-  },
-  {
     "id": "gif-19",
     "url": "/emoji-packs/19.gif",
     "cover": "/emoji-packs/19.gif",
@@ -196,7 +182,7 @@
     "open": true
   },
   {
-    "id": "ad-5",
+    "id": "ad-3",
     "url": "",
     "cover": "",
     "type": "adunit-07d67250772c2f4d",
@@ -245,13 +231,6 @@
     "open": true
   },
   {
-    "id": "ad-6",
-    "url": "",
-    "cover": "",
-    "type": "adunit-07d67250772c2f4d",
-    "open": true
-  },
-  {
     "id": "webp-31",
     "url": "/emoji-packs/31.webp",
     "cover": "/emoji-packs/31.webp",
@@ -294,7 +273,7 @@
     "open": true
   },
   {
-    "id": "ad-7",
+    "id": "ad-4",
     "url": "",
     "cover": "",
     "type": "adunit-07d67250772c2f4d",
@@ -343,13 +322,6 @@
     "open": true
   },
   {
-    "id": "ad-8",
-    "url": "",
-    "cover": "",
-    "type": "adunit-07d67250772c2f4d",
-    "open": true
-  },
-  {
     "id": "gif-43",
     "url": "/emoji-packs/43.gif",
     "cover": "/emoji-packs/43.gif",
@@ -371,7 +343,7 @@
     "open": true
   },
   {
-    "id": "ad-9",
+    "id": "ad-5",
     "url": "",
     "cover": "",
     "type": "adunit-07d67250772c2f4d",
