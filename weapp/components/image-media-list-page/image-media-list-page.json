@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "media-waterfall": "/components/media-waterfall/media-waterfall",
+    "page-header": "/components/page-header/page-header"
+  }
+}

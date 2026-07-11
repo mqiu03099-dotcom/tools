@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "detail-save-actions": "/components/detail-save-actions/detail-save-actions",
+    "page-header": "/components/page-header/page-header"
+  }
+}
