@@ -1,21 +1,18 @@
-// 统一维护项目里会复用的远程资源链接。
+const {
+  buildStaticJsonUrl,
+  buildStaticResourceUrl,
+} = require("./static-resource-config.js");
+
+// 统一维护项目里会复用的资源链接。
 const RESOURCE_LINKS = {
   // 分享卡片 logo 链接。
-  logoImageUrl: "https://toolsbox.vip/logo.jpg",
-  // 头像图片链接。
-  avatarImageUrl: "/assets/avatar.png",
-  // 头像分页 JSON 链接。
-  avatarPagesJsonUrl: "https://toolsbox.vip/avatar.json",
+  logoImageUrl: buildStaticResourceUrl("/wallpapers/1.jpg"),
   // 语音列表 JSON 链接。
-  audioItemsJsonUrl: "https://toolsbox.vip/audio.json",
+  audioItemsJsonUrl: buildStaticJsonUrl("audio-clips.json"),
   // 分类图片链接。
   directoryImageUrl: "/assets/directory.png",
   // 禁止喧哗图片链接。
   disabledImageUrl: "/assets/disabled.png",
-  // 表情包图片链接。
-  emojisImageUrl: "/assets/emojis.png",
-  // 表情包分页 JSON 链接。
-  emojisPagesJsonUrl: "https://toolsbox.vip/emojis.json",
   // 循环播放图片链接。
   loopImageUrl: "/assets/loop.png",
   // 加载中图片链接。
@@ -23,7 +20,7 @@ const RESOURCE_LINKS = {
   // 公告按钮图片链接。
   noticeImageUrl: "/assets/notice.png",
   // 公告 JSON 链接。
-  noticeJsonUrl: "https://toolsbox.vip/notice.json",
+  noticeJsonUrl: buildStaticJsonUrl("announcements.json"),
   // 原生模板广告位 ID。
   nativeTemplateAdUnitId: "adunit-07d67250772c2f4d",
   // 反馈按钮图片链接。
@@ -31,7 +28,7 @@ const RESOURCE_LINKS = {
   // 九宫格切图图标链接。
   wechartImageUrl: "/assets/wechart.png",
   // 播放模式 JSON 链接。
-  playbackModesJsonUrl: "https://toolsbox.vip/playback-modes-v2.json",
+  playbackModesJsonUrl: buildStaticJsonUrl("home-videos.json"),
   // 播放按钮图片链接。
   playImageUrl: "/assets/play.png",
   // 分享按钮图片链接。
@@ -40,10 +37,6 @@ const RESOURCE_LINKS = {
   shapeCutImageUrl: "/assets/shap.png",
   // 停止播放按钮图片链接。
   stopPlayImageUrl: "/assets/stopPlay.png",
-  // 壁纸图片链接。
-  wallpaperImageUrl: "/assets/wallpaper.png",
-  // 壁纸分页 JSON 链接。
-  wallpaperPagesJsonUrl: "https://toolsbox.vip/wallpaper.json",
 };
 
 module.exports = {

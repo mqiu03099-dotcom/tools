@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "头像详情",
+  "usingComponents": {
+    "image-media-detail-page": "/components/image-media-detail-page/image-media-detail-page"
+  }
+}

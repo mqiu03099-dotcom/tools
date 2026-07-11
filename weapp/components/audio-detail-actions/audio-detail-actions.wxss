@@ -1,0 +1,59 @@
+.audio-detail-actions {
+  display: flex;
+  gap: 20rpx;
+}
+
+.audio-detail-action {
+  flex: 1;
+  min-width: 0;
+  height: 96rpx;
+  padding: 0 24rpx;
+  border-radius: 1998rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14rpx;
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.audio-detail-play-action {
+  background: #ffffff;
+  color: #111111;
+}
+
+.audio-detail-download-action {
+  background: rgba(114, 176, 160, 0.18);
+  color: #d3f3ea;
+  border: 2rpx solid rgba(114, 176, 160, 0.28);
+}
+
+.audio-detail-action-icon {
+  width: 32rpx;
+  height: 32rpx;
+  filter: brightness(0) saturate(100%);
+}
+
+.audio-detail-download-icon {
+  filter: brightness(0) invert(1);
+}
+
+.audio-detail-action-loading {
+  animation: audioDetailActionRotate 0.9s linear infinite;
+}
+
+.audio-detail-action-label {
+  font-size: 28rpx;
+  font-weight: 700;
+  line-height: 1;
+}
+
+@keyframes audioDetailActionRotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

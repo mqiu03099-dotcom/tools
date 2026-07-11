@@ -1,0 +1,34 @@
+<view class="image-media-detail-page">
+  <scroll-view
+    class="image-media-detail-scroll"
+    scroll-y="{{ true }}"
+    enhanced="{{ true }}"
+    show-scrollbar="{{ false }}"
+  >
+    <view class="image-media-detail-scroll-body">
+      <page-header
+        title="{{ title }}"
+        description="{{ description }}"
+        tags="{{ headerTags }}"
+      ></page-header>
+
+      <ad-custom unit-id="{{ adUnitId }}"></ad-custom>
+
+      <view class="image-media-detail-content">
+        <image
+          wx:if="{{ imageUrl }}"
+          class="image-media-detail-image"
+          src="{{ imageUrl }}"
+          mode="widthFix"
+          show-menu-by-longpress="{{ true }}"
+        ></image>
+      </view>
+    </view>
+  </scroll-view>
+
+  <detail-save-actions
+    image-url="{{ imageUrl }}"
+    denied-modal-content="{{ deniedModalContent }}"
+  ></detail-save-actions>
+  <view class="safe-area-spacer"></view>
+</view>

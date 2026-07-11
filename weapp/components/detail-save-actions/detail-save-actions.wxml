@@ -1,0 +1,19 @@
+<view class="detail-save-actions">
+  <view
+    wx:if="{{ isShareSaveVisible }}"
+    class="detail-save-action detail-save-action-share {{
+      !imageUrl ? 'detail-save-action-disabled' : ''
+    }}"
+    bindtap="handleShareSaveTap"
+  >
+    {{ shareSaveButtonText }}
+  </view>
+  <view
+    class="detail-save-action detail-save-action-video {{
+      !imageUrl ? 'detail-save-action-disabled' : ''
+    }}"
+    bindtap="handleRewardSaveTap"
+  >
+    {{ rewardSaveButtonText }}
+  </view>
+</view>

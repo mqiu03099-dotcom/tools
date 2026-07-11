@@ -1,4 +1,7 @@
 {
   "navigationBarTitleText": "壁纸",
-  "enableShareAppMessage": true
+  "enableShareAppMessage": true,
+  "usingComponents": {
+    "image-media-list-page": "/components/image-media-list-page/image-media-list-page"
+  }
 }

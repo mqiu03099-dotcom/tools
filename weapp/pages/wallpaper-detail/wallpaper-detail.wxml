@@ -1,0 +1,13 @@
+<image-media-detail-page
+  id="imageMediaDetailPage"
+  media-id="{{ id }}"
+  json-path="/json/wallpapers.json"
+  image-field="url"
+  page-path="/pages/wallpaper-detail/wallpaper-detail"
+  share-title="奶呱壁纸高清搞笑抽象可保存"
+  title="奶呱壁纸详情"
+  description="精选奶呱手机壁纸、搞笑壁纸、抽象壁纸，适合手机桌面和锁屏背景使用。"
+  tags="手机壁纸,高清壁纸,锁屏背景"
+  ad-unit-id="adunit-07d67250772c2f4d"
+  denied-modal-content="你已关闭保存到相册权限，请在设置中重新开启后再保存壁纸。"
+></image-media-detail-page>
