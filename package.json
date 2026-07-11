@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
+    "buildPro": "nuxt build",
     "dev": "nuxt dev --host",
     "deploy": "pnpm build && wrangler deploy",
     "preview": "nuxt preview",
