@@ -1,0 +1,190 @@
+<view class="page-shell">
+  <view class="home-main">
+    <view class="home-panel">
+      <view class="video-section">
+        <view
+          class="hero-video-stage"
+          style="background: {{ currentVideoBgColor }};"
+        >
+          <view
+            class="hero-video-clip"
+            style="aspect-ratio: 1 / 1; background: {{ currentVideoBgColor }};"
+          >
+            <view
+              class="hero-video-wrap"
+              style="aspect-ratio: {{ currentVideoAspectRatio }}; background: {{
+                currentVideoBgColor
+              }};"
+            >
+              <video
+                wx:if="{{ isVideoMounted }}"
+                id="homeVideo"
+                class="hero-video {{ isVideoSwitching ? 'hero-video-switching' : '' }}"
+                src="{{ currentVideoSrc }}"
+                controls="{{ false }}"
+                loop="{{ isPlaying }}"
+                object-fit="contain"
+                show-center-play-btn="{{ false }}"
+                show-fullscreen-btn="{{ false }}"
+                show-play-btn="{{ false }}"
+                enable-progress-gesture="{{ false }}"
+                bindtimeupdate="handleTimeUpdate"
+                bindloadedmetadata="handleVideoReady"
+                bindcanplay="handleVideoReady"
+                bindended="handleEnded"
+                binderror="handleVideoError"
+                bindplay="handleVideoPlay"
+                bindpause="handleVideoPause"
+              ></video>
+            </view>
+          </view>
+
+          <view
+            wx:if="{{ !isVideoReady || isVideoSwitching }}"
+            class="page-loading-mask"
+          >
+            <view class="loading-image-wrap">
+              <image
+                class="loading-image"
+                src="{{ loadingImageUrl }}"
+                mode="aspectFit"
+              ></image>
+            </view>
+          </view>
+        </view>
+      </view>
+
+      <ad-custom unit-id="{{ nativeTemplateAdUnitId }}"></ad-custom>
+
+      <view class="content-section">
+        <view class="mode-scroll">
+          <view class="mode-track">
+            <view
+              class="home-tool-row {{ isPlaying ? 'home-tool-row-active' : '' }}"
+              bindtap="toggleLoopPlay"
+            >
+              <view class="home-tool-icon-wrap">
+                <image
+                  class="home-tool-icon {{ isPlaying ? 'video-state-icon-spinning' : '' }}"
+                  src="{{ isPlaying ? disabledImageUrl : loopImageUrl }}"
+                  mode="aspectFit"
+                ></image>
+              </view>
+              <view class="home-tool-label">{{ isPlaying ? "暂停" : "播放" }}</view>
+            </view>
+            <view
+              class="home-tool-row"
+              catchtap="handleCurrentRewardDownloadTap"
+            >
+              <view class="home-tool-icon-wrap">
+                <image
+                  class="home-tool-icon"
+                  src="{{ downloadImageUrl }}"
+                  mode="aspectFit"
+                ></image>
+              </view>
+              <view class="home-tool-label">下载</view>
+            </view>
+            <button
+              class="home-tool-row video-share-btn"
+              size="mini"
+              open-type="share"
+              catchtap="handleShareButtonTap"
+            >
+              <view class="home-tool-icon-wrap">
+                <image
+                  class="home-tool-icon"
+                  src="{{ shareButtonImageUrl }}"
+                  mode="aspectFit"
+                ></image>
+              </view>
+              <view class="home-tool-label">分享</view>
+            </button>
+            <block
+              wx:for="{{ playbackModes }}"
+              wx:key="title"
+            >
+              <view
+                class="home-tool-row {{
+                  currentPlaybackIndex === index ? 'home-tool-row-active' : ''
+                }}"
+                bindtap="handlePlaybackModeTap"
+                data-index="{{ index }}"
+              >
+                <view class="home-tool-icon-wrap">
+                  <image
+                    class="home-tool-icon home-tool-cover"
+                    src="{{ item.poster }}"
+                    mode="aspectFill"
+                    bindload="handlePlaybackPosterReady"
+                    binderror="handlePlaybackPosterReady"
+                    data-index="{{ index }}"
+                  ></image>
+                  <view
+                    wx:if="{{ item.isPosterLoading }}"
+                    class="home-tool-icon-loading"
+                  ></view>
+                </view>
+                <view class="home-tool-label">{{ item.title }}</view>
+              </view>
+            </block>
+            <block
+              wx:for="{{ homeToolActions }}"
+              wx:key="id"
+            >
+              <view
+                class="home-tool-row"
+                bindtap="handleHomeToolTap"
+                data-id="{{ item.id }}"
+              >
+                <view class="home-tool-icon-wrap">
+                  <image
+                    class="home-tool-icon"
+                    src="{{ item.icon }}"
+                    mode="aspectFit"
+                  ></image>
+                </view>
+                <view class="home-tool-label">{{ item.label }}</view>
+              </view>
+            </block>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class="safe-area-spacer"></view>
+
+  <view
+    wx:if="{{ isRewardDownloadDialogVisible }}"
+    class="unlock-dialog-mask index-reward-mask unlock-dialog-mask-enter"
+    catchtouchmove="noop"
+    bindtap="closeRewardDownloadDialog"
+  >
+    <view
+      class="unlock-dialog index-reward-shell unlock-dialog-enter"
+      catchtap="noop"
+      catchtouchmove="noop"
+    >
+      <view class="unlock-dialog-panel index-reward-dialog">
+        <view class="unlock-dialog-title">看视频后下载</view>
+        <view class="unlock-dialog-text">
+          看完激励视频后，可以把「{{ rewardDownloadTitle }}」保存到本地相册。
+        </view>
+        <view
+          class="unlock-dialog-action unlock-dialog-action-share"
+          bindtap="confirmRewardDownloadModeTap"
+        >
+          看视频下载
+        </view>
+        <view
+          class="unlock-dialog-action unlock-dialog-action-video"
+          bindtap="closeRewardDownloadDialog"
+        >
+          暂不下载
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+

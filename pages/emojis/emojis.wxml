@@ -1,0 +1,160 @@
+<view class="emojis-page">
+  <view class="emojis-page-body">
+    <view class="emojis-page-intro">
+      <text class="emojis-page-intro-title">{{ pageIntroTitle }}</text>
+      <text class="emojis-page-intro-text">{{ pageIntroText }}</text>
+      <view class="emojis-page-intro-tags">
+        <block
+          wx:for="{{ pageIntroTags }}"
+          wx:key="*this"
+          wx:for-index="index"
+        >
+          <text
+            class="emojis-page-intro-tag {{ index === 0 ? 'emojis-page-intro-tag-primary' : '' }}"
+            >{{ item }}</text
+          >
+        </block>
+      </view>
+    </view>
+
+    <ad-custom unit-id="{{ nativeTemplateAdUnitId }}"></ad-custom>
+
+    <view
+      wx:if="{{ isMediaLoading }}"
+      class="emojis-loading"
+    >
+      <view class="emojis-loading-image-wrap">
+        <image
+          class="emojis-loading-image"
+          src="{{ loadingImageUrl }}"
+          mode="aspectFit"
+        ></image>
+      </view>
+      <text class="emojis-loading-text">表情包加载中...</text>
+    </view>
+
+    <block
+      wx:for="{{ mediaGroups }}"
+      wx:for-index="index"
+      wx:key="title"
+    >
+      <view class="emojis-group-card">
+        <view class="emojis-group-header">
+          <text class="emojis-group-title">{{ item.title }}</text>
+          <view
+            class="emojis-group-action"
+            bindtap="handleRewardSaveFeaturedTap"
+            data-image="{{ item.featuredImage }}"
+          >
+            <text class="emojis-group-action-text">看视频保存这组表情包</text>
+          </view>
+        </view>
+
+        <view class="emojis-group-scroll">
+          <view class="emojis-group-thumb-list">
+            <block
+              wx:for="{{ item.items }}"
+              wx:key="key"
+            >
+              <view
+                class="emojis-image-box"
+                bindtap="openDownloadDialog"
+                data-image="{{ item.image }}"
+              >
+                <image
+                  class="emojis-image-box-image"
+                  src="{{ item.image }}"
+                  mode="aspectFit"
+                  lazy-load="{{ true }}"
+                ></image>
+              </view>
+            </block>
+          </view>
+        </view>
+      </view>
+    </block>
+  </view>
+
+  <view class="safe-area-spacer"></view>
+
+  <view
+    wx:if="{{ isDownloadDialogVisible }}"
+    class="unlock-dialog-mask emojis-preview-mask {{
+      isDownloadDialogClosing ? 'unlock-dialog-mask-closing' : 'unlock-dialog-mask-enter'
+    }}"
+    bindtap="closeDownloadDialog"
+    catchtouchmove="noop"
+  >
+    <view
+      class="unlock-dialog emojis-preview-shell {{
+        isDownloadDialogClosing ? 'unlock-dialog-closing' : 'unlock-dialog-enter'
+      }}"
+      catchtap="noop"
+      catchtouchmove="noop"
+    >
+      <view
+        class="unlock-dialog-panel emojis-preview-dialog"
+        catchtap="noop"
+      >
+        <text class="unlock-dialog-title">{{
+          isShareUnlockVisible ? "预览表情包" : "预览这组表情包"
+        }}</text>
+        <scroll-view
+          wx:if="{{ !isShareUnlockVisible && selectedGroupImages.length }}"
+          class="emojis-preview-group-scroll"
+          scroll-y="{{ true }}"
+          enhanced="{{ true }}"
+          show-scrollbar="{{ false }}"
+        >
+          <view class="emojis-preview-group-grid">
+            <block
+              wx:for="{{ selectedGroupImages }}"
+              wx:key="*this"
+            >
+              <view class="emojis-preview-group-item">
+                <image
+                  class="emojis-preview-group-image"
+                  src="{{ item }}"
+                  mode="aspectFill"
+                  lazy-load="{{ true }}"
+                ></image>
+              </view>
+            </block>
+          </view>
+        </scroll-view>
+        <view
+          wx:else
+          class="emojis-preview-image-wrap"
+        >
+          <image
+            class="emojis-preview-image"
+            src="{{ selectedEmojisImage }}"
+            mode="aspectFit"
+          ></image>
+        </view>
+        <text class="unlock-dialog-text">{{ shareDownloadHintText }}</text>
+
+        <button
+          wx:if="{{ isShareUnlockVisible }}"
+          class="unlock-dialog-action unlock-dialog-action-share {{
+            isShareDownloadDisabled ? 'unlock-dialog-action-share-disabled' : ''
+          }}"
+          open-type="share"
+          disabled="{{ isShareDownloadDisabled }}"
+          bindtap="handleShareUnlockTap"
+          data-image="{{ selectedEmojisImage }}"
+        >
+          {{ shareDownloadButtonText }}
+        </button>
+
+        <button
+          class="unlock-dialog-action unlock-dialog-action-video"
+          bindtap="handleRewardSaveCurrentTap"
+        >
+          看视频保存这组表情包
+        </button>
+      </view>
+    </view>
+  </view>
+</view>
+

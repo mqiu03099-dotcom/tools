@@ -1,0 +1,63 @@
+<view class="media-detail-page">
+  <scroll-view
+    class="media-detail-scroll"
+    scroll-y="{{ true }}"
+    enhanced="{{ true }}"
+    show-scrollbar="{{ false }}"
+  >
+    <view class="media-detail-scroll-body">
+      <view class="media-detail-intro">
+        <view class="media-detail-intro-title">{{ introTitle }}</view>
+        <view class="media-detail-intro-text">{{ introText }}</view>
+        <view class="media-detail-intro-tags">
+          <block
+            wx:for="{{ introTags }}"
+            wx:key="*this"
+          >
+            <view
+              class="media-detail-intro-tag {{ index ? '' : 'media-detail-intro-tag-primary' }}"
+            >
+              {{ item }}
+            </view>
+          </block>
+        </view>
+      </view>
+
+      <ad-custom unit-id="{{ nativeTemplateAdUnitId }}"></ad-custom>
+
+      <view class="media-detail-content">
+        <image
+          wx:if="{{ imageUrl }}"
+          class="media-detail-image"
+          src="{{ imageUrl }}"
+          mode="widthFix"
+          show-menu-by-longpress="{{ true }}"
+        ></image>
+      </view>
+    </view>
+  </scroll-view>
+
+  <view class="media-detail-footer">
+    <button
+      wx:if="{{ isShareSaveVisible }}"
+      class="media-detail-action media-detail-action-share {{
+        isSaveActionDisabled ? 'media-detail-action-disabled' : ''
+      }}"
+      open-type="share"
+      disabled="{{ isSaveActionDisabled }}"
+      bindtap="handleShareSaveTap"
+    >
+      {{ shareSaveButtonText }}
+    </button>
+    <view
+      class="media-detail-action media-detail-action-video {{
+        isSaveActionDisabled ? 'media-detail-action-disabled' : ''
+      }}"
+      bindtap="handleRewardSaveTap"
+    >
+      {{ rewardSaveButtonText }}
+    </view>
+  </view>
+  <view class="safe-area-spacer"></view>
+</view>
+

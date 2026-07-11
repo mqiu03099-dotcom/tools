@@ -1,0 +1,41 @@
+<view class="notice-page">
+  <view class="notice-page-body">
+    <view class="notice-panel">
+      <view
+        wx:if="{{ isNoticeLoading }}"
+        class="notice-loading"
+      >
+        <view class="notice-loading-image-wrap">
+          <image
+            class="notice-loading-image"
+            src="{{ loadingImageUrl }}"
+            mode="aspectFit"
+          ></image>
+        </view>
+        <view class="notice-loading-text">公告加载中...</view>
+      </view>
+
+      <view
+        wx:elif="{{ noticeItems.length }}"
+        class="notice-list"
+      >
+        <block
+          wx:for="{{ noticeItems }}"
+          wx:key="*this"
+        >
+          <view class="notice-item {{ index ? '' : 'notice-item-first' }}">{{ item }}</view>
+        </block>
+      </view>
+
+      <view
+        wx:else
+        class="notice-empty"
+      >
+        暂无公告
+      </view>
+    </view>
+
+    <ad-custom unit-id="{{ nativeTemplateAdUnitId }}"></ad-custom>
+  </view>
+  <view class="safe-area-spacer"></view>
+</view>

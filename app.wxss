@@ -1,0 +1,29 @@
+page {
+  background: #000000;
+  color: #ffffff;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+.page-shell,
+.audio-page,
+.avatar-page,
+.emojis-page,
+.feedback-page,
+.media-detail-page,
+.notice-page,
+.wallpaper-page,
+.grid-cut-page,
+.shape-cut-page {
+  max-width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+.safe-area-spacer {
+  flex-shrink: 0;
+  height: env(safe-area-inset-bottom);
+  background: #000000;
+}

@@ -1,0 +1,160 @@
+<view class="avatar-page">
+  <view class="avatar-page-body">
+    <view class="avatar-page-intro">
+      <text class="avatar-page-intro-title">{{ pageIntroTitle }}</text>
+      <text class="avatar-page-intro-text">{{ pageIntroText }}</text>
+      <view class="avatar-page-intro-tags">
+        <block
+          wx:for="{{ pageIntroTags }}"
+          wx:key="*this"
+          wx:for-index="index"
+        >
+          <text
+            class="avatar-page-intro-tag {{ index === 0 ? 'avatar-page-intro-tag-primary' : '' }}"
+            >{{ item }}</text
+          >
+        </block>
+      </view>
+    </view>
+
+    <ad-custom unit-id="{{ nativeTemplateAdUnitId }}"></ad-custom>
+
+    <view
+      wx:if="{{ isMediaLoading }}"
+      class="avatar-loading"
+    >
+      <view class="avatar-loading-image-wrap">
+        <image
+          class="avatar-loading-image"
+          src="{{ loadingImageUrl }}"
+          mode="aspectFit"
+        ></image>
+      </view>
+      <text class="avatar-loading-text">头像加载中...</text>
+    </view>
+
+    <block
+      wx:for="{{ mediaGroups }}"
+      wx:for-index="index"
+      wx:key="title"
+    >
+      <view class="avatar-group-card">
+        <view class="avatar-group-header">
+          <text class="avatar-group-title">{{ item.title }}</text>
+          <view
+            class="avatar-group-action"
+            bindtap="handleRewardSaveFeaturedTap"
+            data-image="{{ item.featuredImage }}"
+          >
+            <text class="avatar-group-action-text">看视频保存这组头像</text>
+          </view>
+        </view>
+
+        <view class="avatar-group-scroll">
+          <view class="avatar-group-thumb-list">
+            <block
+              wx:for="{{ item.items }}"
+              wx:key="key"
+            >
+              <view
+                class="avatar-image-box"
+                bindtap="openDownloadDialog"
+                data-image="{{ item.image }}"
+              >
+                <image
+                  class="avatar-image-box-image"
+                  src="{{ item.image }}"
+                  mode="aspectFill"
+                  lazy-load="{{ true }}"
+                ></image>
+              </view>
+            </block>
+          </view>
+        </view>
+      </view>
+    </block>
+  </view>
+
+  <view class="safe-area-spacer"></view>
+
+  <view
+    wx:if="{{ isDownloadDialogVisible }}"
+    class="unlock-dialog-mask avatar-preview-mask {{
+      isDownloadDialogClosing ? 'unlock-dialog-mask-closing' : 'unlock-dialog-mask-enter'
+    }}"
+    bindtap="closeDownloadDialog"
+    catchtouchmove="noop"
+  >
+    <view
+      class="unlock-dialog avatar-preview-shell {{
+        isDownloadDialogClosing ? 'unlock-dialog-closing' : 'unlock-dialog-enter'
+      }}"
+      catchtap="noop"
+      catchtouchmove="noop"
+    >
+      <view
+        class="unlock-dialog-panel avatar-preview-dialog"
+        catchtap="noop"
+      >
+        <text class="unlock-dialog-title">{{
+          isShareUnlockVisible ? "预览头像" : "预览这组头像"
+        }}</text>
+        <scroll-view
+          wx:if="{{ !isShareUnlockVisible && selectedGroupImages.length }}"
+          class="avatar-preview-group-scroll"
+          scroll-y="{{ true }}"
+          enhanced="{{ true }}"
+          show-scrollbar="{{ false }}"
+        >
+          <view class="avatar-preview-group-grid">
+            <block
+              wx:for="{{ selectedGroupImages }}"
+              wx:key="*this"
+            >
+              <view class="avatar-preview-group-item">
+                <image
+                  class="avatar-preview-group-image"
+                  src="{{ item }}"
+                  mode="aspectFill"
+                  lazy-load="{{ true }}"
+                ></image>
+              </view>
+            </block>
+          </view>
+        </scroll-view>
+        <view
+          wx:else
+          class="avatar-preview-image-wrap"
+        >
+          <image
+            class="avatar-preview-image"
+            src="{{ selectedAvatarImage }}"
+            mode="heightFix"
+          ></image>
+        </view>
+        <text class="unlock-dialog-text">{{ shareDownloadHintText }}</text>
+
+        <button
+          wx:if="{{ isShareUnlockVisible }}"
+          class="unlock-dialog-action unlock-dialog-action-share {{
+            isShareDownloadDisabled ? 'unlock-dialog-action-share-disabled' : ''
+          }}"
+          open-type="share"
+          disabled="{{ isShareDownloadDisabled }}"
+          bindtap="handleShareUnlockTap"
+          data-image="{{ selectedAvatarImage }}"
+        >
+          {{ shareDownloadButtonText }}
+        </button>
+
+        <button
+          class="unlock-dialog-action unlock-dialog-action-video"
+          bindtap="handleRewardSaveCurrentTap"
+        >
+          看视频保存这组头像
+        </button>
+      </view>
+    </view>
+  </view>
+</view>
+

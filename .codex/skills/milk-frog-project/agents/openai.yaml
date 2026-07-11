@@ -1,0 +1,4 @@
+interface:
+  display_name: "奶呱项目"
+  short_description: "milk-frog 微信小程序项目约束与开发规范"
+  default_prompt: "在 milk-frog 仓库内工作时使用这个 skill，遵循当前项目的目录结构、首页视频页约束、微信开发者工具调试方式和本地开发规范。"

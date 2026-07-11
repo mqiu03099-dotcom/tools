@@ -18,6 +18,8 @@ local
 .DS_Store
 .fleet
 .idea
+3000
+docs/
 
 # Local env files
 .env
