@@ -1,0 +1,11 @@
+{
+  "name": "tools",
+  "main": "worker/index.js",
+  "compatibility_date": "2025-12-06",
+  "ai": {
+    "binding": "AI"
+  },
+  "assets": {
+    "directory": ".output/public"
+  }
+}

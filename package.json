@@ -5,6 +5,7 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev --host",
+    "deploy": "pnpm build && wrangler deploy",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "lint": "eslint .",
@@ -23,8 +24,8 @@
     "@types/pg": "^8.20.0",
     "eslint": "^10.6.0",
     "typescript": "^6.0.3",
-    "vue-tsc": "^3.3.5"
+    "vue-tsc": "^3.3.5",
+    "wrangler": "4.53.0"
   },
   "packageManager": "pnpm@8.15.0"
 }
-
