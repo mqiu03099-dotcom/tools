@@ -95,7 +95,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-1ab7a4640479d4fb",
-    "open": true
+    "open": false
   },
   {
     "id": "jpg-13",
@@ -186,7 +186,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-e9e6b0e2546fe52a",
-    "open": true
+    "open": false
   },
   {
     "id": "jpg-25",
@@ -277,7 +277,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-ea555e4645616348",
-    "open": true
+    "open": false
   },
   {
     "id": "jpg-37",
@@ -312,6 +312,6 @@
     "url": "",
     "cover": "",
     "type": "adunit-f9a3211a521114da",
-    "open": true
+    "open": false
   }
 ]
