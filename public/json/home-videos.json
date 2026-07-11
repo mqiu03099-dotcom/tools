@@ -11,49 +11,49 @@
     "url": "/home-videos/2.mp4",
     "cover": "/home-videos/2.png",
     "type": "media",
-    "open": false
+    "open": true
   },
   {
     "id": "mp4-3",
     "url": "/home-videos/3.mp4",
     "cover": "/home-videos/3.jpg",
     "type": "media",
-    "open": false
+    "open": true
   },
   {
     "id": "mp4-4",
     "url": "/home-videos/4.mp4",
     "cover": "/home-videos/4.jpg",
     "type": "media",
-    "open": false
+    "open": true
   },
   {
     "id": "mp4-5",
     "url": "/home-videos/5.mp4",
     "cover": "/home-videos/5.png",
     "type": "media",
-    "open": false
+    "open": true
   },
   {
     "id": "mp4-6",
     "url": "/home-videos/6.mp4",
     "cover": "/home-videos/6.png",
     "type": "media",
-    "open": false
+    "open": true
   },
   {
     "id": "mp4-7",
     "url": "/home-videos/7.mp4",
     "cover": "/home-videos/7.png",
     "type": "media",
-    "open": false
+    "open": true
   },
   {
     "id": "mp4-8",
     "url": "/home-videos/8.mp4",
     "cover": "/home-videos/8.png",
     "type": "media",
-    "open": false
+    "open": true
   },
   {
     "id": "ad-3",
