@@ -95,7 +95,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-fcc88b44cfd5caca",
-    "open": false
+    "open": true
   },
   {
     "id": "png-13",
@@ -186,7 +186,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-62bc7933f41f4a25",
-    "open": false
+    "open": true
   },
   {
     "id": "jpg-25",
@@ -277,7 +277,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-e178e92eaa59b364",
-    "open": false
+    "open": true
   },
   {
     "id": "webp-37",
@@ -368,7 +368,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-372a1ba64a6c337a",
-    "open": false
+    "open": true
   },
   {
     "id": "jpg-49",
@@ -459,7 +459,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-6deb40945a7e9986",
-    "open": false
+    "open": true
   },
   {
     "id": "jpg-61",
@@ -550,7 +550,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-7d7a56bb2c8287ed",
-    "open": false
+    "open": true
   },
   {
     "id": "jpg-73",
@@ -641,7 +641,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-6931a8f9584a6a13",
-    "open": false
+    "open": true
   },
   {
     "id": "jpg-85",
@@ -732,7 +732,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-3ec0a1402a2edf05",
-    "open": false
+    "open": true
   },
   {
     "id": "webp-97",
@@ -816,6 +816,7 @@
     "url": "",
     "cover": "",
     "type": "adunit-5398fb6c9468f496",
-    "open": false
+    "open": true
   }
 ]
+
