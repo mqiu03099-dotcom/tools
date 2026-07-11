@@ -32,10 +32,10 @@ useSeoMeta({
       <template #right>
         <UPopover mode="hover">
           <UButton
-            to="/wallpapers/1.jpg"
+            to="https://toolsbox.vip/44ec075511f9f2b3c6f4579295c6baf9.jpg"
             target="_blank"
             :avatar="{
-              src: '/wallpapers/1.jpg',
+              src: 'https://toolsbox.vip/44ec075511f9f2b3c6f4579295c6baf9.jpg',
               alt: '资源图片',
               loading: 'lazy'
             }"
@@ -46,7 +46,7 @@ useSeoMeta({
 
           <template #content>
             <UAvatar
-              src="/wallpapers/1.jpg"
+              src="https://toolsbox.vip/44ec075511f9f2b3c6f4579295c6baf9.jpg"
               alt="资源图片预览"
               size="3xl"
               loading="lazy"

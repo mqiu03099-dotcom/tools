@@ -1,10 +1,23 @@
 <view class="audio-page">
   <view class="audio-page-body">
-    <page-header
-      title="{{ pageHeader.title }}"
-      description="{{ pageHeader.description }}"
-      tags="{{ pageHeader.tags }}"
-    ></page-header>
+    <view class="audio-page-intro">
+      <text class="audio-page-intro-title">{{ pageIntroTitle }}</text>
+      <text class="audio-page-intro-text">{{ pageIntroText }}</text>
+      <view class="audio-page-intro-tags">
+        <block
+          wx:for="{{ pageIntroTags }}"
+          wx:key="*this"
+          wx:for-index="index"
+        >
+          <text
+            class="audio-page-intro-tag {{ index === 0 ? 'audio-page-intro-tag-primary' : '' }}"
+            >{{ item }}</text
+          >
+        </block>
+      </view>
+    </view>
+
+    <ad-custom unit-id="{{ nativeTemplateAdUnitId }}"></ad-custom>
 
     <view
       wx:if="{{ isAudioLoading }}"
@@ -17,15 +30,140 @@
           mode="aspectFit"
         ></image>
       </view>
-      <view class="audio-loading-text">{{ audioText.loadingText }}</view>
+      <text class="audio-loading-text">语音加载中...</text>
     </view>
 
-    <media-waterfall
-      wx:else
-      items="{{ audioItems }}"
-      bind:itemtap="handleWaterfallItemTap"
-    ></media-waterfall>
+    <view class="audio-grid">
+      <block
+        wx:for="{{ audioItems }}"
+        wx:for-item="item"
+        wx:for-index="index"
+        wx:key="id"
+      >
+        <view class="audio-grid-card">
+          <image
+            class="audio-card-avatar"
+            src="{{ item.avatar }}"
+            mode="aspectFill"
+          ></image>
+
+          <view class="audio-card-copy">
+            <text class="audio-card-title">{{ item.title }}</text>
+            <text class="audio-card-text">{{ item.description }}</text>
+          </view>
+
+          <view
+            class="audio-card-btn audio-card-play-btn"
+            bindtap="handleTogglePlay"
+            data-id="{{ item.id }}"
+            data-src="{{ item.audioSrc }}"
+            data-title="{{ item.title }}"
+          >
+            <view
+              wx:if="{{ isAudioStarting && playingAudioId === item.id }}"
+              class="audio-card-btn-loading"
+            >
+              <image
+                class="audio-card-btn-loading-image"
+                src="{{ loadingImageUrl }}"
+                mode="aspectFit"
+              ></image>
+            </view>
+            <image
+              wx:else
+              class="audio-card-btn-icon audio-card-play-btn-icon"
+              src="{{
+                playingAudioId === item.id && !isAudioPaused ? stopPlayImageUrl : playImageUrl
+              }}"
+              mode="aspectFit"
+            ></image>
+          </view>
+
+          <button
+            class="audio-card-btn audio-card-share-btn"
+            open-type="share"
+            data-title="{{ item.title }}"
+            data-image="{{ item.avatar }}"
+          >
+            <image
+              class="audio-card-btn-icon"
+              src="{{ shareButtonImageUrl }}"
+              mode="aspectFit"
+            ></image>
+          </button>
+
+          <button
+            class="audio-card-btn audio-card-send-btn"
+            bindtap="handleRewardShareAudioTap"
+            data-src="{{ item.audioSrc }}"
+            data-title="{{ item.title }}"
+          >
+            <image
+              class="audio-card-btn-icon audio-card-send-icon"
+              src="{{ downloadImageUrl }}"
+              mode="aspectFit"
+            ></image>
+          </button>
+        </view>
+      </block>
+    </view>
   </view>
 
   <view class="safe-area-spacer"></view>
+
+  <view
+    wx:if="{{ isAudioShareDialogVisible }}"
+    class="unlock-dialog-mask audio-share-mask unlock-dialog-mask-enter"
+    catchtouchmove="noop"
+  >
+    <view
+      class="unlock-dialog audio-share-shell unlock-dialog-enter"
+      catchtap="noop"
+      catchtouchmove="noop"
+    >
+      <view class="unlock-dialog-panel audio-share-dialog">
+        <text class="unlock-dialog-title">语音已准备好</text>
+        <text class="unlock-dialog-text">点击下方按钮，把这条奶呱语音文件发送给微信好友。</text>
+        <button
+          class="unlock-dialog-action unlock-dialog-action-share"
+          bindtap="handleSharePreparedAudioTap"
+        >
+          发送给好友
+        </button>
+      </view>
+    </view>
+  </view>
+
+  <view
+    wx:if="{{ isRewardTipDialogVisible }}"
+    class="unlock-dialog-mask audio-share-mask unlock-dialog-mask-enter"
+    catchtouchmove="noop"
+    bindtap="closeRewardTipDialog"
+  >
+    <view
+      class="unlock-dialog audio-share-shell unlock-dialog-enter"
+      catchtap="noop"
+      catchtouchmove="noop"
+    >
+      <view class="unlock-dialog-panel audio-share-dialog">
+        <text class="unlock-dialog-title">看视频后发送语音</text>
+        <text class="unlock-dialog-text"
+          >这条语音需要看完激励视频后，才可以准备文件并发送给微信好友。</text
+        >
+        <button
+          class="unlock-dialog-action unlock-dialog-action-share"
+          bindtap="confirmRewardShareAudioTap"
+        >
+          看视频发送
+        </button>
+        <button
+          class="unlock-dialog-action unlock-dialog-action-video"
+          bindtap="closeRewardTipDialog"
+        >
+          先不发送
+        </button>
+      </view>
+    </view>
+  </view>
 </view>
+

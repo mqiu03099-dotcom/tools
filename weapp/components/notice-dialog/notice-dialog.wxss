@@ -1,0 +1,55 @@
+@import "../../utils/unlock-dialog.wxss";
+
+.notice-dialog-shell {
+  max-width: 664rpx;
+}
+
+.notice-dialog-list {
+  margin-top: 20rpx;
+  max-height: 52vh;
+}
+
+.notice-dialog-loading {
+  min-height: 152rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16rpx;
+}
+
+.notice-dialog-loading-image-wrap {
+  width: 36rpx;
+  height: 36rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.notice-dialog-loading-image {
+  width: 100%;
+  height: 100%;
+  display: block;
+  filter: brightness(0) invert(1);
+  animation: noticeLoadingRotate 0.9s linear infinite;
+}
+
+.notice-dialog-loading-text {
+  margin-top: 0;
+}
+
+.notice-dialog-item {
+  margin-top: 0;
+  padding: 20rpx 0;
+  border-top: 2rpx solid rgba(255, 255, 255, 0.08);
+  word-break: break-all;
+}
+
+@keyframes noticeLoadingRotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
