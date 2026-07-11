@@ -7,13 +7,6 @@
     "open": true
   },
   {
-    "id": "mp4-1",
-    "url": "/home-videos/1.mp4",
-    "cover": "/home-videos/1.jpg",
-    "type": "media",
-    "open": true
-  },
-  {
     "id": "mp4-2",
     "url": "/home-videos/2.mp4",
     "cover": "/home-videos/2.png",
