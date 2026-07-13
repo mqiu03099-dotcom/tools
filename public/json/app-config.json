@@ -1,35 +1,36 @@
 {
   "wx394b878feb6c7786": {
-    "freeDownloadCount": 5,
+    "freeDownloadCount": 10,
     "nativeTemplateAdUnitId": "adunit-07d67250772c2f4d",
     "rewardedVideoAdUnitId": "adunit-bb03e86452bb5f5a",
-    "homeResourcesPerAd": 7,
-    "audioResourcesPerAd": 6,
-    "avatarResourcesPerAd": 12,
-    "emojiResourcesPerAd": 12,
-    "wallpaperResourcesPerAd": 12,
+    "homeResourcesPerAd": 10,
+    "audioResourcesPerAd": 10,
+    "avatarResourcesPerAd": 10,
+    "emojiResourcesPerAd": 10,
+    "wallpaperResourcesPerAd": 10,
     "isUnderReview": false
   },
   "wxbe2c2af9a1d495b2": {
-    "freeDownloadCount": 5,
+    "freeDownloadCount": 10,
     "nativeTemplateAdUnitId": "adunit-fb7ea863f389178f",
     "rewardedVideoAdUnitId": "adunit-d3046577d03caba0",
-    "homeResourcesPerAd": 7,
-    "audioResourcesPerAd": 6,
-    "avatarResourcesPerAd": 12,
-    "emojiResourcesPerAd": 12,
-    "wallpaperResourcesPerAd": 12,
+    "homeResourcesPerAd": 10,
+    "audioResourcesPerAd": 10,
+    "avatarResourcesPerAd": 10,
+    "emojiResourcesPerAd": 10,
+    "wallpaperResourcesPerAd": 10,
     "isUnderReview": false
   },
   "wxc9d52685e4990f9b": {
-    "freeDownloadCount": 5,
+    "freeDownloadCount": 10,
     "nativeTemplateAdUnitId": "adunit-035549225b1de285",
     "rewardedVideoAdUnitId": "adunit-b68f49486d37c7d8",
-    "homeResourcesPerAd": 7,
-    "audioResourcesPerAd": 6,
-    "avatarResourcesPerAd": 12,
-    "emojiResourcesPerAd": 12,
-    "wallpaperResourcesPerAd": 12,
+    "homeResourcesPerAd": 10,
+    "audioResourcesPerAd": 10,
+    "avatarResourcesPerAd": 10,
+    "emojiResourcesPerAd": 10,
+    "wallpaperResourcesPerAd": 10,
     "isUnderReview": false
   }
 }
+
