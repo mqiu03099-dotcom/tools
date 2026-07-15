@@ -25,11 +25,11 @@
     "freeDownloadCount": 20,
     "nativeTemplateAdUnitId": "adunit-f453a72877ff22a9",
     "rewardedVideoAdUnitId": "adunit-97bd3199540b1573",
-    "homeResourcesPerAd": 20,
-    "audioResourcesPerAd": 20,
-    "avatarResourcesPerAd": 20,
-    "emojiResourcesPerAd": 20,
-    "wallpaperResourcesPerAd": 20,
+    "homeResourcesPerAd": 40,
+    "audioResourcesPerAd": 40,
+    "avatarResourcesPerAd": 40,
+    "emojiResourcesPerAd": 40,
+    "wallpaperResourcesPerAd": 40,
     "isUnderReview": true
   },
   "wxc9d52685e4990f9b": {
