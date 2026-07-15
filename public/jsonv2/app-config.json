@@ -30,7 +30,7 @@
     "avatarResourcesPerAd": 40,
     "emojiResourcesPerAd": 40,
     "wallpaperResourcesPerAd": 40,
-    "isUnderReview": true
+    "isUnderReview": false
   },
   "wxc9d52685e4990f9b": {
     "freeDownloadCount": 20,
