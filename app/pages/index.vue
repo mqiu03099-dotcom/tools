@@ -9,9 +9,11 @@
         trailingIcon: 'i-lucide-arrow-right',
         size: 'xl'
       }, {
-        label: '头像专区',
-        to: '/avatar',
-        icon: 'i-lucide-user-round',
+        label: '赞助广告',
+        to: 'https://omg10.com/4/11342781',
+        target: '_blank',
+        rel: 'sponsored nofollow noopener',
+        icon: 'i-lucide-badge-dollar-sign',
         size: 'xl',
         color: 'neutral',
         variant: 'subtle'
