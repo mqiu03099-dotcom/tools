@@ -18,10 +18,13 @@ export default defineNuxtConfig({
       ],
       script: [
         {
-          src: "https://quge5.com/88/tag.min.js",
-          "data-zone": "261038",
-          async: true,
+          src: "https://5gvci.com/act/files/tag.min.js?z=11342775",
           "data-cfasync": "false",
+          async: true,
+        },
+        {
+          innerHTML:
+            "(function(s){s.dataset.zone='11342663',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))",
         },
       ],
     },

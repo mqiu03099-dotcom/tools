@@ -30,29 +30,40 @@ useSeoMeta({
         </p>
       </template>
       <template #right>
-        <UPopover mode="hover">
+        <div class="flex items-center gap-2 px-2">
           <UButton
-            to="/wallpapers/1.jpg"
+            label="赞助广告"
+            to="https://omg10.com/4/11342781"
             target="_blank"
-            :avatar="{
-              src: '/wallpapers/1.jpg',
-              alt: '资源图片',
-              loading: 'lazy'
-            }"
-            aria-label="资源图片"
+            rel="sponsored nofollow noopener"
             color="neutral"
             variant="ghost"
           />
 
-          <template #content>
-            <UAvatar
-              src="/wallpapers/1.jpg"
-              alt="资源图片预览"
-              size="3xl"
-              loading="lazy"
+          <UPopover mode="hover">
+            <UButton
+              to="/wallpapers/1.jpg"
+              target="_blank"
+              :avatar="{
+                src: '/wallpapers/1.jpg',
+                alt: '资源图片',
+                loading: 'lazy'
+              }"
+              aria-label="资源图片"
+              color="neutral"
+              variant="ghost"
             />
-          </template>
-        </UPopover>
+
+            <template #content>
+              <UAvatar
+                src="/wallpapers/1.jpg"
+                alt="资源图片预览"
+                size="3xl"
+                loading="lazy"
+              />
+            </template>
+          </UPopover>
+        </div>
       </template>
     </UFooter>
   </UApp>
