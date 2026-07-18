@@ -16,6 +16,12 @@ export default defineNuxtConfig({
           content: "4a951198454410f52d108eab417cf58a",
         },
       ],
+      script: [
+        {
+          innerHTML:
+            "(function(s){s.dataset.zone='11342663',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))",
+        },
+      ],
     },
   },
   routeRules: {
