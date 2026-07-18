@@ -8,6 +8,16 @@ export default defineNuxtConfig({
     port: 3004,
   },
   css: ["~/assets/css/main.css"],
+  app: {
+    head: {
+      meta: [
+        {
+          name: "monetag",
+          content: "4a951198454410f52d108eab417cf58a",
+        },
+      ],
+    },
+  },
   routeRules: {
     "/": { prerender: true },
   },
