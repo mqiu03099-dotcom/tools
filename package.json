@@ -27,6 +27,11 @@
     "wrangler": "4.53.0",
     "daisyui": "5.5.14"
   },
-  "packageManager": "pnpm@8.15.0"
+  "packageManager": "pnpm@8.15.0",
+  "pnpm": {
+    "overrides": {
+      "h3": "1.15.6"
+    }
+  }
 }
 
