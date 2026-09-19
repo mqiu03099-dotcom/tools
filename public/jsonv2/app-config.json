@@ -8,14 +8,27 @@
     ],
     "homeDetailNativeTemplateAdUnitId": "adunit-fd846003a04ebe7d",
     "audioListNativeTemplateAdUnitIds": [
-      "adunit-e9e6b0e2546fe52a"
+      "adunit-e9e6b0e2546fe52a",
+      "adunit-1ab7a4640479d4fb"
     ],
     "audioDetailNativeTemplateAdUnitId": "adunit-5398fb6c9468f496",
-    "avatarListNativeTemplateAdUnitIds": [],
+    "avatarListNativeTemplateAdUnitIds": [
+      "adunit-9f58e6560cbf848b",
+      "adunit-ee54286a7e1bcfb2",
+      "adunit-2269993955751c15"
+    ],
     "avatarDetailNativeTemplateAdUnitId": "adunit-841a26c0efee48e6",
-    "emojiListNativeTemplateAdUnitIds": [],
+    "emojiListNativeTemplateAdUnitIds": [
+      "adunit-96ab3f68ca8140e1",
+      "adunit-9c9a705dff4e3268",
+      "adunit-a2061cb2d2b91813"
+    ],
     "emojiDetailNativeTemplateAdUnitId": "adunit-2f45b614ed748a54",
-    "wallpaperListNativeTemplateAdUnitIds": [],
+    "wallpaperListNativeTemplateAdUnitIds": [
+      "adunit-07009397b40a9a57",
+      "adunit-07857cfa59db4e53",
+      "adunit-f9a3211a521114da"
+    ],
     "wallpaperDetailNativeTemplateAdUnitId": "adunit-ea555e4645616348",
     "feedbackNativeTemplateAdUnitId": "adunit-7d7a56bb2c8287ed",
     "noticeNativeTemplateAdUnitId": "adunit-6931a8f9584a6a13",
